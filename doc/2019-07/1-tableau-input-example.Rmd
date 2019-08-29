@@ -1,0 +1,60 @@
+---
+title: "Prepare a Tabeau Input example for states processing their own data"
+date: '`r strftime(Sys.time(), format = "%B %d, %Y")`'
+output: 
+    html_document:
+        toc: true
+        toc_float: true
+        code_folding: show
+---
+
+## Overview
+
+We are coordinating with "state-processed" agencies, where the agency (e.g., TX) will produce a set of summary statistics that can be imported into the Tableau National/Regional dashboard. The input data needed is different of the input for individual state dashboards:
+
+**More Limited Scope**:
+
+- Filtered to exclude youths (< 18) and seniors (> 64)
+- hunting, fishing, and overall (i.e., 3 permissions)
+- full-year and mid-year views (no churn for mid-year)
+- No monthly breakouts
+- No county breakouts
+
+**Changes**:
+
+- calendar year of purchase for defining license year
+- additional fields for enabling nat/reg functionality (region, aggregation, value type)
+
+```{r setup, message=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(comment = NA)
+```
+
+## Pull In OR Data
+
+```{r}
+dir <- "../../2018-q4/data"
+f <- list.files(dir, full.names = T)
+f <- f[str_detect(f, "OR")]
+dat <- lapply(f, "readRDS") %>% 
+    bind_rows() %>%
+    select(-state) %>%
+    mutate(
+        group = ifelse(group == "sports", "all_sports", group), 
+        metric = ifelse(metric == "participants - recruited", "recruits", metric)
+    ) %>%
+    filter(metric != "participation rate") # not needed for example
+glimpse(dat)
+```
+
+## Output to CSV
+
+```{r}
+filter(dat, timeframe == "full-year") %>% write_csv("data-example4.csv")
+filter(dat, timeframe == "mid-year") %>% write_csv("data-example2.csv")
+count(dat, timeframe)
+```
+
+```{r}
+sessionInfo()
+```

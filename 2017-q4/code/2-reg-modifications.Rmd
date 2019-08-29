@@ -1,0 +1,54 @@
+---
+title: "Assemble Data for Tableau Input"
+date: '`r strftime(Sys.time(), format = "%B %d, %Y")`'
+output: 
+    html_document:
+        toc: true
+        toc_float: true
+        code_folding: show
+---
+
+```{r setup, message=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(comment = NA)
+```
+
+## Overview & Params
+
+This code should require minimum changes between time periods. The exception is the state-processed data, which needs a certain amount of manual updates (e.g., file paths)
+
+```{r}
+yr <- 2017
+qtr <- 4
+sa_states <- tibble::tribble(
+    ~state, ~region,
+    "VA", "Southeast"
+)
+
+ma_path <- "../xlsx-from-states/MA/2019-02-26/Dashboard_State_Prepared_Data_MA_SA_KM.xlsx"
+```
+
+## SA Processed
+
+### Load & Stack
+
+```{r}
+get_dash_csv <- function(sa_state, dir = "E:/SA/Projects/Data-Dashboards") {
+    f <- file.path(dir, sa_state, paste0(yr, "-q", qtr), "out", "dash-out.csv")
+    read_csv(f) %>%
+        mutate(state = sa_state) %>%
+        filter(year >= 2008, group %in% c("fish", "hunt"),
+               segment != "month")
+}
+
+dash <- lapply(sa_states$state, get_dash_csv) %>% bind_rows()
+```
+
+
+## State Processed
+
+## Save
+
+```{r}
+sessionInfo()
+```
