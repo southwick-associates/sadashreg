@@ -14,8 +14,9 @@ library(tidyverse)
 
 # Visualize ---------------------------------------------------------------
 
-source("E:/SA/Projects/R-Software/Templates/dashboard-template/visualize/app-functions.R")
-run_visual()
+source("../dashboard-template/visualize/app-functions.R")
+# source("E:/SA/Projects/R-Software/Templates/dashboard-template/visualize/app-functions.R")
+run_visual("2018-q4/out")
 
 
 # Test Segment Sum --------------------------------------------------------

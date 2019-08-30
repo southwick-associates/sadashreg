@@ -1,14 +1,13 @@
 
-- run mid-year for sa states (before noon Friday)
-- some additional tweaking on state-shared data (e.g., FL)
 - get setup to share with Ben
     + calc participation rate
-    + get averages (nat/reg) with imputed values (keep this simple for now)
+    + get averages (nat/reg)
     + compare to previous iteration (try to be consistent)
 
 #### Later
 
-7. Document the known issues with NE/MA and follow-up
+- come up with a method for imputing missing values for trends
+- Document the known issues with NE/MA and follow-up
     + hopefully an easy fix, analysts from both states used R, so that is a big plus
 
 ### Mid-Year

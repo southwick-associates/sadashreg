@@ -66,6 +66,27 @@ count(x, year)
 x <- arrange(x, group, metric)
 x <- mutate(x, value = ifelse(metric == "churn", value / 100, value))
 
+# move churn forward by 1 year
+drop <- filter(x, metric == "churn", year == 2018)
+x <- anti_join(x, drop)
+x <- x %>% mutate(
+    year = ifelse(metric == "churn", year + 1, year)
+)
+
+# scale segments to total
+tot <- filter(x, segment == "All", metric != "churn") %>%
+    select(-category, -segment) %>%
+    rename(value_tot = value)
+
+x1 <- filter(x, segment != "All", metric != "churn") %>%
+    group_by(group, segment, year, metric) %>%
+    mutate(value_sum = sum(value)) %>%
+    ungroup() %>%
+    left_join(tot) %>%
+    mutate(value = value * value_tot / value_sum)
+x <- filter(x, segment == "All" | metric == "churn") %>%
+    bind_rows(x1)
+
 count(x, group)
 count(x, segment)
 count(x, category)
