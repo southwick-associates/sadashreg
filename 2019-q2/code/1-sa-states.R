@@ -3,12 +3,12 @@
 source("R/sa-states.R")
 
 # parameters
-timeframe <- "full-year" # full-year or mid-year
-base_yrs <- 2008:2018
-outdir <- "2018-q4/out"
+timeframe <- "mid-year" # full-year or mid-year
+base_yrs <- 2008:2019
+outdir <- "2019-q2/out"
 
 # these will be updated (if possible) prior to Sep 16th
-run_state("IA", 2009:2018, timeframe, outdir) # run with existing data, we just know it's wrong for hunting
+run_state("IA", 2008:2018, timeframe, outdir) # run with existing data, we just know it's wrong for hunting
 run_state("GA", 2010:2016, timeframe, outdir) # old data
 run_state("WI", 2008:2015, timeframe, outdir) # old data
 

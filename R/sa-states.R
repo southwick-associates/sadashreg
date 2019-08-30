@@ -60,6 +60,9 @@ run_state <- function(
         run_group2("all_sports", c("hunt", "trap", "fish", "combo"))
     ) %>%
         mutate(year = as.integer(year))
-    if (output_csv) write_csv(out, file.path(outdir, paste0(st, ".csv")))
+    if (output_csv) {
+        dir.create(outdir, showWarnings = FALSE)
+        write_csv(out, file.path(outdir, paste0(st, ".csv")))
+    }
     out
 }
