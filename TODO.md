@@ -1,8 +1,12 @@
 
-- get setup to share with Ben
-    + calc participation rate
-    + get averages (nat/reg)
-    + compare to previous iteration (try to be consistent)
+- pull census data: state (total, by age, by sex)
+    + not exactly sure how to get this since package acs seems to be having issues pre-2016
+    + alternatively continue with by-county work (unlikely to be worthwhile)
+    + could benefit from the higher aggregation level data here anyway
+- calc participation rate (quick & dirty is fine)
+- get averages (nat/reg)
+- compare to previous iteration (try to be consistent)
+- send to Ben
 
 #### Later
 
