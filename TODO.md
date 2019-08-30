@@ -1,7 +1,7 @@
 
-1. get the repo onto github (by end-of-day Thursday)
-2. run mid-year for sa states (before noon Friday)
-3. get setup to share with Ben
+- run mid-year for sa states (before noon Friday)
+- some additional tweaking on state-shared data (e.g., FL)
+- get setup to share with Ben
     + calc participation rate
     + get averages (nat/reg) with imputed values (keep this simple for now)
     + compare to previous iteration (try to be consistent)

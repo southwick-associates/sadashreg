@@ -1,6 +1,7 @@
 # stack together all states
 
 library(tidyverse)
+outfile <- "full-year2018.csv"
 
 get_state <- function(f) {
     st <- str_sub(f, end = 2)
@@ -14,6 +15,7 @@ count(x, state, year) %>%
 
 x <- x %>% 
     mutate_at(vars(group, segment, category, metric), "tolower") %>%
+    # try to correct this earlier
     mutate(category = ifelse(category == "non-resident", "nonresident", category))
 
 count(x, group)
@@ -23,4 +25,4 @@ count(x, metric)
 count(x, year)
 
 # write to output
-write_csv(x, file.path("../out", "full-year2018.csv"))
+write_csv(x, file.path("out", outfile))

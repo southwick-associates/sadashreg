@@ -20,6 +20,10 @@ run_visual()
 
 # Test Segment Sum --------------------------------------------------------
 
+# this can probably be wrapped into a function
+# & then probably put it at the end of 3-combine
+# (probably also calculate part. rate first so it can be easily checked as well)
+
 dat <- read_csv("../out/full-year2018.csv")
 
 x <- filter(dat, metric != "churn")

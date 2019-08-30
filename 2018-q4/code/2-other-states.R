@@ -1,7 +1,9 @@
 # for summary data provided to us by states
+# hopefully the oddities will decrease with the available dashboard-template
 
 library(tidyverse)
 library(readxl)
+outdir <- "2018-q4/out"
 
 # TX ----------------------------------------------------------------------
 
@@ -42,10 +44,13 @@ count(x, category)
 count(x, year)
 count(x, metric)
 
-write_csv(x, paste0("2018-q4/out/", st, ".csv"))
+write_csv(x, file.path(outdir, paste0(st, ".csv")))
 
 # FL ----------------------------------------------------------------------
-# looks kosher, assuming no problems here
+
+# can do some corrections
+# - scale up segments to peg to total (probably can use salic funcs)
+# - maybe smooth out the 2015 artifact in hunting (at least temporarily)
 
 st <- "FL"
 f <- "data/FL/FL_dashboard_2018FullYear_Summary.csv.xlsx"
@@ -67,7 +72,7 @@ count(x, category)
 count(x, year)
 count(x, metric)
 
-write_csv(x, paste0("2018-q4/out/", st, ".csv"))
+write_csv(x, file.path(outdir, paste0(st, ".csv")))
 
 # MA ----------------------------------------------------------------------
 # no all_sports group created for MA...will need to follow-up with Jody S.
@@ -89,4 +94,4 @@ count(x, category)
 count(x, year)
 count(x, metric)
 
-write_csv(x, paste0("2018-q4/out/", st, ".csv"))
+write_csv(x, file.path(outdir, paste0(st, ".csv")))
