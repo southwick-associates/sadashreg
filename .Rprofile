@@ -7,7 +7,7 @@ local({
     
 # Project-specific Parameters
 r_version <- '3.5.1'
-proj_libname <- 'data-dashboards2'
+proj_libname <- 'regional-dashboard'
 
 
 # Project-agnostic Setup Code ---------------------------------------------
