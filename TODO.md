@@ -1,20 +1,38 @@
 
-- pull census data: state (total, by age, by sex)
-    + not exactly sure how to get this since package acs seems to be having issues pre-2016
-    + alternatively continue with by-county work (unlikely to be worthwhile)
-    + could benefit from the higher aggregation level data here anyway
-- calc participation rate (quick & dirty is fine)
-- get averages (nat/reg)
-- compare to previous iteration (try to be consistent)
-- send to Ben
+# TODO
 
-#### Later
-
-- come up with a method for imputing missing values for trends
-- Document the known issues with NE/MA and follow-up
+- Get updated dataset to Ben (combine.R)
+    + exclude 2009 from national results (and reginal when not present for 1 or more states). Probably can code this into the aggregation function actually
+    + stack in mid-year results (probably use timeframe instead of quarter column)
+- Follow-up with FL, MA, etc. (maybe give the southeast states a bit of extra time)
     + hopefully an easy fix, analysts from both states used R, so that is a big plus
+- determine how missing values will be dealt with (probably just exclude 2009)
 
-### Mid-Year
+## Data Status Notes: 14 states
+
+Missing data is particularly relevant for national/regional averages.
+
+### Awaiting data pulls
+
+- AK: just waiting
+- GA: missing 2009 (2014 for recruits) & 2017/2018
+- IA: hunting numbers are a bit underestimated
+- MA: probably will exclude for now
+- PA: i doubt we'll get data from them
+- TX: summary data expected in the next 2 weeks
+- WI: missing 2016, 2017, 2018
+
+### States with (mostly) finalized data
+
+- FL: data artifact for 2015, I can smooth it out, but will discuss with FL folks
+- MO: no missings
+- NE: missing 2009 (2014 for recruits)
+- OR: no missings
+- SC: no missings
+- TN: only includes all_sports group
+- VA: no missings
+
+## Mid-Year
 
 Need to get more data for this, we'll see
 

@@ -1,0 +1,1021 @@
+region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type,"segment == ""residency"""
+Midwest,IA,4,all_sports,churn,age,2010,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2011,18-24,-0.037350086201349775,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2012,18-24,-0.08532062079438124,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2013,18-24,0.1412639387118253,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2014,18-24,-0.06265969681641088,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2015,18-24,-0.01959677484052535,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2016,18-24,0.02261501657087285,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2017,18-24,0.027943034774128815,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2018,18-24,0.05427731713607801,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2010,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2011,25-34,-0.04821414986322834,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2012,25-34,-0.06888446055517802,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2013,25-34,0.1371405679891154,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2014,25-34,-0.09165074673400767,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2015,25-34,-0.02185591698137885,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2016,25-34,0.018231075702785572,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2017,25-34,0.03896739130715627,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2018,25-34,0.04841876691049707,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2010,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2011,35-44,-0.06182043198167738,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2012,35-44,-0.059182355443272376,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2013,35-44,0.13932327637648925,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2014,35-44,-0.09407498700764924,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2015,35-44,-0.03105138456424934,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2016,35-44,0.019110024871471586,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2017,35-44,0.027687314756987772,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2018,35-44,0.08251115872940858,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2010,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2011,45-54,-0.046056670917906196,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2012,45-54,-0.08595737510810245,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2013,45-54,0.19042385306211823,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2014,45-54,-0.12754039970338632,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2015,45-54,-0.02984120386153807,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2016,45-54,0.033898973960028354,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2017,45-54,0.03860676976323381,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2018,45-54,0.06925442994507275,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2010,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2011,55-64,-0.04737309231515858,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2012,55-64,-0.0901652251416793,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2013,55-64,0.1857432493028936,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2014,55-64,-0.13279288430880878,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2015,55-64,-0.061085093522090864,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2016,55-64,0.04885857207404326,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2017,55-64,0.04080129777135816,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,age,2018,55-64,0.06066548765993044,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2010,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2011,all,-0.05026985590131538,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2012,all,-0.07627726597724682,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2013,all,0.15920608058798788,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2014,all,-0.09996662933064426,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2015,all,-0.031103304106746003,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2016,all,0.025436391458562083,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2017,all,0.03347745192626894,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,all,2018,all,0.060796775042907106,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2010,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2011,female,-0.03513495129106934,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2012,female,-0.08134028199100274,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2013,female,0.14480529344811405,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2014,female,-0.09781702164425728,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2015,female,-0.03530621225455976,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2016,female,2.845324719781443e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2017,female,0.021527945358851806,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2018,female,0.0842779882680426,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2010,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2011,male,-0.04979996706425692,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2012,male,-0.07621401342103401,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2013,male,0.1505985018065652,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2014,male,-0.0940482971725682,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2015,male,-0.03634358767298075,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2016,male,0.03137610454922278,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2017,male,0.03163909605074585,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,gender,2018,male,0.046819998516110205,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2010,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2011,nonresident,0.012117429207637663,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2012,nonresident,-0.03832882532200861,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2013,nonresident,0.02166014464855662,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2014,nonresident,0.01547290930844068,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2015,nonresident,-0.050437958098087154,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2016,nonresident,0.01659340532692382,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2017,nonresident,-0.002441692474401342,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2018,nonresident,-0.03579480679930988,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2010,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2011,resident,-0.053915881688552617,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2012,resident,-0.07710601229924868,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2013,resident,0.16880845641337014,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2014,resident,-0.10635859716134759,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2015,resident,-0.029397245311694773,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2016,resident,0.025057502130244158,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2017,resident,0.03540869006244353,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,churn,residency,2018,resident,0.06554773032518355,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2009,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2010,18-24,-0.0721886295307908,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2011,18-24,0.004514672686230248,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2012,18-24,0.09374773468648061,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2013,18-24,-0.04281477308501649,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2014,18-24,0.009745711367688552,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2015,18-24,0.0036857985325378867,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2016,18-24,-0.012690658786957488,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2017,18-24,-0.03892464189329458,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2018,18-24,-0.10537495049861396,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2009,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2010,25-34,-0.054577485060277035,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2011,25-34,-0.006126003239596146,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2012,25-34,0.058647648457221285,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2013,25-34,-0.04953004907861839,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2014,25-34,0.01940009499104892,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2015,25-34,0.023021049865003702,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2016,25-34,0.011455863977672159,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2017,25-34,-0.03417461380377306,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2018,25-34,-0.08643938126090803,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2009,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2010,35-44,-0.08506005239699228,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2011,35-44,-0.028472971130365798,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2012,35-44,0.03880014290088803,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2013,35-44,-0.05886976921281796,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2014,35-44,0.008208916266443935,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2015,35-44,0.02065939186827696,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2016,35-44,0.019898793897195906,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2017,35-44,0.005757417493595961,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2018,35-44,-0.059742090231327503,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2009,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2010,45-54,-0.06414018525673827,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2011,45-54,-0.02776258968722452,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2012,45-54,0.018593120545398203,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2013,45-54,-0.08075583950241692,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2014,45-54,-0.013936897845112893,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2015,45-54,8.701597364659083e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2016,45-54,-0.009091473638452462,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2017,45-54,-0.034994923730619305,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2018,45-54,-0.08962086477640244,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2009,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2010,55-64,-0.00443705759271076,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2011,55-64,0.007691390412592416,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2012,55-64,0.05842849535530442,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2013,55-64,-0.03552561701651899,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2014,55-64,0.0352982090071292,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2015,55-64,0.05524297391109618,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2016,55-64,0.025969891902646064,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2017,55-64,0.0014608353909997026,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,age,2018,55-64,-0.048021067306947565,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2009,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2010,all,-0.05776896440650668,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2011,all,-0.012082687890604134,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2012,all,0.050203300387135844,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2013,all,-0.05499837823644798,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2014,all,0.01112772779153421,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2015,all,0.020889796490169348,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2016,all,0.00799862775109516,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2017,all,-0.019441266483581215,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,all,2018,all,-0.07618577207011173,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2009,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2010,female,-0.09193429147819114,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2011,female,-4.4156202566579273e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2012,female,0.11738314144509787,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2013,female,-0.08803943613249157,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2014,female,0.04686039422881528,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2015,female,0.05081916297849212,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2016,female,0.04379256413098361,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2017,female,-0.010842762249725687,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2018,female,-0.1358333929721606,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2009,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2010,male,-0.049183012195774777,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2011,male,-0.014876635204504057,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2012,male,0.03384343335865904,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2013,male,-0.046301926672628245,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2014,male,0.0021344353293372338,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2015,male,0.013020904216227987,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2016,male,-0.001763289323870907,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2017,male,-0.021893315927244344,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,gender,2018,male,-0.058983787800087374,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2009,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2010,nonresident,-0.058428986308947585,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2011,nonresident,-0.0721891752955864,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2012,nonresident,-0.007756846604400823,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2013,nonresident,-0.030312699425654115,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2014,nonresident,-0.014067127344521224,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2015,nonresident,0.059908218606591575,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2016,nonresident,0.01487837518696371,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2017,nonresident,0.01970214086255042,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2018,nonresident,0.034459151072569603,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2009,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2010,resident,-0.05774403651994965,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2011,resident,-0.009814219948282027,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2012,resident,0.05225296840973851,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2013,resident,-0.055821562524938154,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2014,resident,0.011990590091422615,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2015,resident,0.019587918741874325,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2016,resident,0.007760002402815663,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2017,resident,-0.020808553182381007,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants,residency,2018,resident,-0.08021051524769023,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2015,18-24,-0.010613678078365654,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2016,18-24,-0.04766897886755928,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2017,18-24,-0.07724231388159566,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2018,18-24,-0.20743460302891234,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2015,25-34,0.06535413773384527,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2016,25-34,0.006747948776934284,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2017,25-34,-0.10160712925584583,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2018,25-34,-0.19347181008902078,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2015,35-44,0.05855606077409338,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2016,35-44,0.08360398114195915,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2017,35-44,-0.03673982403557962,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2018,35-44,-0.1763525042657834,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2015,45-54,0.058628904182106936,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2016,45-54,0.06738342292786598,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2017,45-54,-0.0628952916373858,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2018,45-54,-0.19585051868516434,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2015,55-64,0.13522117962466487,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2016,55-64,0.08944649446494465,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2017,55-64,-0.028044980354965453,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,age,2018,55-64,-0.17814329523278505,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,all,2014,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,all,2015,all,0.05165490129771315,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,all,2016,all,0.028960167209292977,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,all,2017,all,-0.06582159807808746,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,all,2018,all,-0.19120199042421962,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2014,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2015,female,0.05753978815138128,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2016,female,0.047211596537145156,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2017,female,-0.07372873209651062,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2018,female,-0.23936280614362807,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2014,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2015,male,0.04777929680653416,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2016,male,0.01682837069253931,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2017,male,-0.060408646727864966,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,gender,2018,male,-0.15870014357250412,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2015,nonresident,0.1059190031152648,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2016,nonresident,-0.003943661971830986,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2017,nonresident,0.03959276018099547,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2018,nonresident,-0.011969532100108813,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2015,resident,0.04770542354434972,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2016,resident,0.0314880540166205,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2017,resident,-0.07364202840777961,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participants - recruited,residency,2018,resident,-0.20612415917378207,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2009,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2010,18-24,-0.0776315362153353,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2011,18-24,0.0032471784469648643,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2012,18-24,0.09246521822291,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2013,18-24,-0.05005213014311918,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2014,18-24,-3.939713283910813e-5,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2015,18-24,-0.007104564337314663,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2016,18-24,-0.020048144807913216,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2017,18-24,-0.04273332384221293,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2018,18-24,-0.10892040551388196,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2009,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2010,25-34,-0.06012370565000948,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2011,25-34,-0.023949776172274416,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2012,25-34,0.04327532847270197,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2013,25-34,-0.059538436779170284,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2014,25-34,0.011642000843146004,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2015,25-34,0.022696766848380727,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2016,25-34,0.008825778482739221,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2017,25-34,-0.03370429676521179,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2018,25-34,-0.09005987912117369,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2009,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2010,35-44,-0.09042745024882792,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2011,35-44,-0.00997380949418144,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2012,35-44,0.0561647560357684,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2013,35-44,-0.05139771085298141,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2014,35-44,0.007965521698416309,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2015,35-44,0.020275628516677607,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2016,35-44,0.01849673660766545,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2017,35-44,-0.0014768686887057898,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2018,35-44,-0.06346839112542016,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2009,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2010,45-54,-0.06963030728325167,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2011,45-54,-0.022884919663035717,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2012,45-54,0.028617600283197913,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2013,45-54,-0.07042535045548923,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2014,45-54,0.003477178705874605,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2015,45-54,0.020238609975181326,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2016,45-54,0.013282198599358636,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2017,45-54,-0.015229333180534165,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2018,45-54,-0.09322875421854664,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2009,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2010,55-64,-0.010277421665176019,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2011,55-64,-0.028988613750716354,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2012,55-64,0.02798742644908398,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2013,55-64,-0.06414409091264336,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2014,55-64,0.0123390167748978,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2015,55-64,0.03796106410442646,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2016,55-64,0.014084673636274015,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2017,55-64,-0.009883972435026584,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,age,2018,55-64,-0.051793819347847096,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2009,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2010,all,-0.06329646252223194,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2011,all,-0.017965394434507547,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2012,all,0.046675942168938805,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2013,all,-0.060104118088380704,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2014,all,0.007171805961467604,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2015,all,0.019693759080867512,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2016,all,0.008298592899327419,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2017,all,-0.019558380325362598,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2018,all,-0.07984690562479534,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2009,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2010,female,-0.09726136233788467,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2011,female,-0.005505299896476055,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2012,female,0.1139379583482045,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2013,female,-0.09246196841191906,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2014,female,0.04381091718491371,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2015,female,0.04952470818009371,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2016,female,0.04490675251120929,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2017,female,-0.011956551566498583,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2018,female,-0.13925813927523095,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2009,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2010,male,-0.05476087888658803,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2011,male,-0.021602467919788104,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2012,male,0.030091481773110444,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2013,male,-0.05197212377444001,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2014,male,-0.002766320924788759,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2015,male,0.01189385462403178,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2016,male,-0.0022171586625979213,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2017,male,-0.02104620247157617,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,gender,2018,male,-0.0627130938941344,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2010,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2011,18-24,-0.03204380663718417,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2012,18-24,-0.07732821407324149,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2013,18-24,0.106979738970281,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2014,18-24,-0.048600901660673934,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2015,18-24,-0.02899637704188642,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2016,18-24,0.01239092711729001,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2017,18-24,0.0228982283024848,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2018,18-24,0.0638896784493646,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2010,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2011,25-34,-0.04335014544742477,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2012,25-34,-0.060561949892829134,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2013,25-34,0.10893584897854813,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2014,25-34,-0.0814987918526015,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2015,25-34,-0.04014304723133318,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2016,25-34,0.015155986020234703,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2017,25-34,0.03496479623086433,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2018,25-34,0.06394119061831491,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2010,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2011,35-44,-0.0618783512428254,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2012,35-44,-0.05048784124372028,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2013,35-44,0.10859007286115235,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2014,35-44,-0.08014035746123459,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2015,35-44,-0.05468240598754181,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2016,35-44,0.019258003461324825,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2017,35-44,0.02196483851335604,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2018,35-44,0.08971429660648705,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2010,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2011,45-54,-0.041097995094435374,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2012,45-54,-0.07816565379330534,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2013,45-54,0.1519602948666077,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2014,45-54,-0.10718591437676668,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2015,45-54,-0.05796117416525977,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2016,45-54,0.03232650321578269,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2017,45-54,0.04132762905309748,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2018,45-54,0.08246984429656568,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2010,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2011,55-64,-0.050505557070294825,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2012,55-64,-0.08954710657129997,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2013,55-64,0.16155862451361816,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2014,55-64,-0.11222697660695188,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2015,55-64,-0.07054332199127036,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2016,55-64,0.041480716238377895,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2017,55-64,0.04131753065506302,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,age,2018,55-64,0.07911277856207505,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2010,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2011,all,-0.04776285416978489,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2012,all,-0.06887109793088851,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2013,all,0.12788892134078694,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2014,all,-0.08423820197254435,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2015,all,-0.048913754367516625,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2016,all,0.020917821485974875,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2017,all,0.030203150927719902,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,all,2018,all,0.07278877990380306,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2010,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2011,female,-0.029335468761230783,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2012,female,-0.07720403040176255,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2013,female,0.1413932905987385,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2014,female,-0.09013328374640912,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2015,female,-0.036941847411927985,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2016,female,-2.2899665049078988e-5,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2017,female,0.023604039536225106,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2018,female,0.08551107112964908,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2010,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2011,male,-0.052178421336425154,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2012,male,-0.06537412870708807,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2013,male,0.11297552005235593,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2014,male,-0.07538070731690726,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2015,male,-0.05969715617774746,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2016,male,0.028479765778175,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2017,male,0.028695702528158628,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,gender,2018,male,0.06454779840040949,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2010,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2011,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2012,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2013,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2014,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2015,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2016,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2017,nonresident,0.4423076923076924,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2018,nonresident,-0.5272727272727273,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2010,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2011,resident,-0.04776261184358017,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2012,resident,-0.06887107883866163,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2013,resident,0.12788866557642467,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2014,resident,-0.08422522985667337,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2015,resident,-0.04888762008122427,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2016,resident,0.0208819067865849,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2017,resident,0.03018751258878225,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,churn,residency,2018,resident,0.07281451881614079,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2009,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2010,18-24,-0.08175820445915272,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2011,18-24,0.011343421508605752,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2012,18-24,0.12659904970760233,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2013,18-24,-0.04959649620828095,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2014,18-24,0.0069764464925755245,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2015,18-24,0.016229157397402487,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2016,18-24,-0.006817471072657146,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2017,18-24,-0.04406146353751207,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2018,18-24,-0.1369814883945629,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2009,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2010,25-34,-0.07059916395726892,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2011,25-34,-0.0010151174412793603,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2012,25-34,0.07750871543139431,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2013,25-34,-0.059078708741385565,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2014,25-34,0.017763249194331795,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2015,25-34,0.04042118021362018,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2016,25-34,0.016920769443595007,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2017,25-34,-0.03910646523949309,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2018,25-34,-0.11544766332856461,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2009,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2010,35-44,-0.10501147946126961,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2011,35-44,-0.013676023659357538,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2012,35-44,0.05468400563240288,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2013,35-44,-0.05932522853642447,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2014,35-44,0.01135433886022475,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2015,35-44,0.04190262345424227,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2016,35-44,0.031105899504016987,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2017,35-44,0.005332718610726909,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2018,35-44,-0.08127856673341792,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2009,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2010,45-54,-0.08172099520101789,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2011,45-54,-0.025317027621313895,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2012,45-54,0.03498308017986001,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2013,45-54,-0.08242635971394874,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2014,45-54,-0.01765375854214123,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2015,45-54,0.014592132505175983,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2016,45-54,0.005142353402115711,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2017,45-54,-0.034642932549414494,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2018,45-54,-0.10937447424206737,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2009,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2010,55-64,-0.013509888088302929,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2011,55-64,0.008158666640766138,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2012,55-64,0.0691150118499393,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2013,55-64,-0.036693940813899,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2014,55-64,0.03283442469597755,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2015,55-64,0.06287473960691967,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2016,55-64,0.0351250937350876,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2017,55-64,-1.6464428602005368e-5,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,age,2018,55-64,-0.06949749736564804,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2009,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2010,all,-0.07288206921109708,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2011,all,-0.005838070364111231,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2012,all,0.06902122757477416,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2013,all,-0.05865114200856835,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2014,all,0.009877008557747344,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2015,all,0.0356760231412042,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2016,all,0.01726859251794432,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2017,all,-0.0217023342474381,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,all,2018,all,-0.10068201022009415,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2009,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2010,female,-0.09842859842859843,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2011,female,-0.003578755072398664,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2012,female,0.123166626592931,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2013,female,-0.09668183034519669,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2014,female,0.044909204016944634,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2015,female,0.05334108241431123,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2016,female,0.047100620382457034,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2017,female,-0.012170828567389377,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2018,female,-0.14978793161770446,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2009,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2010,male,-0.06482396225450952,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2011,male,-0.006525114633468875,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2012,male,0.05250710422586855,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2013,male,-0.046273232420003835,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2014,male,-9.223323135929866e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2015,male,0.029980622280720997,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2016,male,0.007432288523659082,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2017,male,-0.024968838501957778,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,gender,2018,male,-0.08363222419977052,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2009,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2010,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2011,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2012,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2013,nonresident,4,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2014,nonresident,1.6,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2015,nonresident,0.15384615384615385,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2016,nonresident,-0.13333333333333333,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2017,nonresident,-0.15384615384615385,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2018,nonresident,-0.09090909090909091,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2009,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2010,resident,-0.07288230514488085,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2011,resident,-0.0058380907487910055,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2012,resident,0.06902146999013076,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2013,resident,-0.05866447638603696,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2014,resident,0.009849259560447998,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2015,resident,0.035670713794450144,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2016,resident,0.01727613110771469,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2017,resident,-0.021696698913196803,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants,residency,2018,resident,-0.1006823706932685,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2015,18-24,-0.004538341158059468,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2016,18-24,-0.04024524445841849,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2017,18-24,-0.09565929565929567,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2018,18-24,-0.2262271327658033,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2015,25-34,0.07313773568952397,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2016,25-34,0.0035455404979514655,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2017,25-34,-0.10277145324644736,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2018,25-34,-0.2163983199159958,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2015,35-44,0.09070402469428944,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2016,35-44,0.08686187003374334,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2017,35-44,-0.04606910365548322,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2018,35-44,-0.19979002624671915,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2015,45-54,0.06280122681466335,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2016,45-54,0.11666895698776969,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2017,45-54,-0.08306669948314054,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2018,45-54,-0.24479935579116896,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2015,55-64,0.14110207768744354,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2016,55-64,0.09848005066497784,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2017,55-64,-0.02853848371288556,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,age,2018,55-64,-0.21112759643916915,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,all,2014,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,all,2015,all,0.061237971505956446,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,all,2016,all,0.03741129601195169,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,all,2017,all,-0.07620457227433645,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,all,2018,all,-0.2191092731721047,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2014,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2015,female,0.06299557062394051,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2016,female,0.05416945316117084,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2017,female,-0.0704177239898497,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2018,female,-0.25429156386162005,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2014,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2015,male,0.06005308560053085,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2016,male,0.02608242044861763,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2017,male,-0.08022369089984749,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,gender,2018,male,-0.194413737195077,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2015,nonresident,-0.8571428571428571,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2016,nonresident,1,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2017,nonresident,0.5,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2018,nonresident,-0.6666666666666666,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2015,resident,0.061379553362991675,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2016,resident,0.03739132239121864,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2017,resident,-0.07622762276227622,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participants - recruited,residency,2018,resident,-0.21908020093538888,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2009,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2010,18-24,-0.0871449722505949,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2011,18-24,0.010067310770219842,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2012,18-24,0.12527801215637296,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2013,18-24,-0.05678257609417916,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2014,18-24,-0.002781825986798794,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2015,18-24,0.005303944165059422,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2016,18-24,-0.014218724426405583,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2017,18-24,-0.04784978858131775,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2018,18-24,-0.14040168472367986,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2009,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2010,25-34,-0.07605139507247907,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2011,25-34,-0.01893054713150539,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2012,25-34,0.06186251928307398,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2013,25-34,-0.0689865496673309,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2014,25-34,0.010017612180638359,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2015,25-34,0.04009138160495752,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2016,25-34,0.014276473572204653,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2017,25-34,-0.03863854980871201,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2018,25-34,-0.11895319955300485,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2009,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2010,35-44,-0.11026183438908985,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2011,35-44,0.00510489145856643,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2012,35-44,0.07231413387459747,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2013,35-44,-0.0518567862740579,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2014,35-44,0.011110184946826165,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2015,35-44,0.041510872742885896,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2016,35-44,0.02968843577984354,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2017,35-44,-0.0018985127661051353,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2018,35-44,-0.08491951722438021,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2009,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2010,45-54,-0.08710798127661373,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2011,45-54,-0.020427088325592535,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2012,45-54,0.04516886163366881,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2013,45-54,-0.07211464401526692,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2014,45-54,-3.053225131100327e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2015,45-54,0.0342261250264365,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2016,45-54,0.02783741048264764,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2017,45-54,-0.014870132385891967,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2018,45-54,-0.11290407889463558,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2009,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2010,55-64,-0.019297027366026686,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2011,55-64,-0.028538346394661667,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2012,55-64,0.03836659201126762,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2013,55-64,-0.06527774749160122,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2014,55-64,0.009929870342114292,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2015,55-64,0.04546784295865836,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2016,55-64,0.02313381819265903,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2017,55-64,-0.011344537019497392,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,age,2018,55-64,-0.07318513697122696,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2009,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2010,all,-0.07832090790553976,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2011,all,-0.011757961449612405,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2012,all,0.06543066486075202,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2013,all,-0.06373714637949084,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2014,all,0.005925980023932269,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2015,all,0.034462662725758285,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2016,all,0.01757131626750681,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2017,all,-0.02181917803672458,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,all,2018,all,-0.1042460636511523,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2009,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2010,female,-0.1037175711275699,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2011,female,-0.00862660000225081,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2012,female,0.11970361150579768,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2013,female,-0.10106245152792596,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2014,female,0.041865410739276104,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2015,female,0.052043520981745875,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2016,female,0.04821833992199833,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2017,female,-0.013283122483815126,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2018,female,-0.15315737521149533,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2009,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2010,male,-0.07031007297602035,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2011,male,-0.01330796653263025,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2012,male,0.04868741976390679,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2013,male,-0.05194360012304952,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2014,male,-0.00580814000132363,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2015,male,0.028834703933448856,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2016,male,0.0069742382218476425,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2017,male,-0.024124388678589338,NONE,pct_change_yr,NA
+Midwest,IA,4,fish,participation rate,gender,2018,male,-0.08726384699901103,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2010,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2011,18-24,-0.05731390899987986,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2012,18-24,-0.08103059904470954,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2013,18-24,0.07394578970006686,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2014,18-24,-0.04244803037083851,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2015,18-24,0.00820793253385512,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2016,18-24,0.025742171628840353,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2017,18-24,0.040755531322247865,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2018,18-24,-0.006859673679813893,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2010,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2011,25-34,-0.0718087353864368,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2012,25-34,-0.08050587893382419,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2013,25-34,0.05551366985209769,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2014,25-34,-0.022042089813883618,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2015,25-34,-0.0010875376484058045,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2016,25-34,0.035141400996937855,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2017,25-34,0.03794138404158877,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2018,25-34,-0.02054710352511616,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2010,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2011,35-44,-0.0351926033738661,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2012,35-44,-0.07696165335876548,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2013,35-44,0.05524740493581605,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2014,35-44,-0.057219991763757985,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2015,35-44,-0.0053457059143500905,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2016,35-44,-0.0011199919369538707,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2017,35-44,0.008815087063196428,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2018,35-44,0.017742415380892676,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2010,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2011,45-54,-0.0370664343794227,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2012,45-54,-0.05646461922157189,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2013,45-54,0.09215113425122322,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2014,45-54,-0.09710527843911498,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2015,45-54,-0.0032016065409165764,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2016,45-54,0.03316945498151098,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2017,45-54,-0.0013957881493355526,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2018,45-54,0.01791185710203297,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2010,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2011,55-64,-0.038612616941563,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2012,55-64,-0.07285176204750178,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2013,55-64,0.08519527332257955,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2014,55-64,-0.10874469192158767,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2015,55-64,-0.01741039418009098,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2016,55-64,0.036643863716521695,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2017,55-64,0.05264947340817436,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,age,2018,55-64,-0.032358697747912425,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2010,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2011,all,-0.04925099037827814,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2012,all,-0.07281730276444126,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2013,all,0.07276723219094529,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2014,all,-0.06527268362478476,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2015,all,-0.0035741025378828186,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2016,all,0.025034890799737655,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2017,all,0.026467390401831346,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,all,2018,all,-0.005973898464657335,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2010,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2011,female,-0.04124143304470642,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2012,female,-0.08695133066478287,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2013,female,0.07362891853936632,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2014,female,-0.0646936272624316,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2015,female,-0.01744873497871958,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2016,female,0.008774224652810799,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2017,female,0.007821152708444613,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2018,female,0.0023909755485566294,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2010,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2011,male,-0.05023856595544466,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2012,male,-0.07355358171795268,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2013,male,0.06757266358158731,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2014,male,-0.06865024588078145,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2015,male,-0.005245844006185613,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2016,male,0.02352664285680967,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2017,male,0.026437450693727965,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,gender,2018,male,-0.008313797901912093,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2010,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2011,nonresident,0.011531064166933704,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2012,nonresident,-0.03758205502867238,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2013,nonresident,0.021643513608182494,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2014,nonresident,0.015466553773626731,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2015,nonresident,-0.04927584118363803,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2016,nonresident,0.014985926422199099,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2017,nonresident,-0.002086830533304355,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2018,nonresident,-0.03646184174227994,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2010,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2011,resident,-0.05911606099245143,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2012,resident,-0.07348254470733676,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2013,resident,0.08560300840854052,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2014,resident,-0.07835314145133258,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2015,resident,0.0088299623978769,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2016,resident,0.020185167669050562,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2017,resident,0.029211033883521035,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,churn,residency,2018,resident,-0.004601583967383384,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2009,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2010,18-24,-0.06857518157935404,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2011,18-24,-0.011116180679414327,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2012,18-24,0.025544230527242986,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2013,18-24,0.0179959100204499,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2014,18-24,0.014825231016472479,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2015,18-24,-0.009066075458252503,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2016,18-24,-0.020775069916100678,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2017,18-24,-0.033822929416564666,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2018,18-24,-0.035598158861534564,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2009,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2010,25-34,-0.039579844725224536,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2011,25-34,-0.014688011834944788,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2012,25-34,0.018499651455842137,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2013,25-34,0.009713593766452564,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2014,25-34,0.023203065933206455,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2015,25-34,0.008331847020154408,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2016,25-34,-0.0016424925456107544,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2017,25-34,-0.02900604925460022,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2018,25-34,-0.02124442822511274,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2009,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2010,35-44,-0.06512042818911686,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2011,35-44,-0.04713238248292487,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2012,35-44,-0.0037157087516799746,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2013,35-44,-0.02629212294344813,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2014,35-44,-0.004237748560252092,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2015,35-44,-0.007938673068529026,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2016,35-44,-0.006022274164718823,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2017,35-44,1.6599347092347702e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2018,35-44,-0.0017703031644169065,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2009,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2010,45-54,-0.04147617282425141,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2011,45-54,-0.03201271914747336,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2012,45-54,-0.013961024548319795,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2013,45-54,-0.04229600450196961,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2014,45-54,-0.016852348046819912,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2015,45-54,-0.013292213536063496,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2016,45-54,-0.034332372253046785,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2017,45-54,-0.03951726214371738,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2018,45-54,-0.05185339985893785,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2009,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2010,55-64,0.020117455954017243,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2011,55-64,0.014086232239098481,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2012,55-64,0.03013648991424085,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2013,55-64,0.004397021750600926,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2014,55-64,0.03297922017277609,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2015,55-64,0.04099564898005312,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2016,55-64,0.015008820735513639,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2017,55-64,-0.0017113214610406974,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,age,2018,55-64,2.1428188782343172e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2009,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2010,all,-0.039683339788928566,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2011,all,-0.020614626384069662,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2012,all,0.008614610424412012,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2013,all,-0.010705655987112941,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2014,all,0.008571267032283598,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2015,all,0.003935286401399213,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2016,all,-0.009308273027785223,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2017,all,-0.02034144774293911,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,all,2018,all,-0.02129312130347732,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2009,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2010,female,-0.037107996369869924,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2011,female,0.02848465807938004,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2012,female,0.1017208023622849,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2013,female,0.05055452865064695,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2014,female,0.0672121052168558,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2015,female,0.06388591212595829,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2016,female,0.03176816984348365,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2017,female,-0.003529588465004506,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2018,female,-0.02170472529957043,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2009,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2010,male,-0.03982637916549986,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2011,male,-0.023349412910714597,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2012,male,0.0031534437038629685,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2013,male,-0.014651949227215355,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2014,male,0.004543724282943511,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2015,male,-4.3908453881086286e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2016,male,-0.01249834518780614,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2017,male,-0.02170561530727278,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,gender,2018,male,-0.02125910192284933,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2009,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2010,nonresident,-0.05843302676163474,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2011,nonresident,-0.07219447708578143,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2012,nonresident,-0.007757460619013694,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2013,nonresident,-0.030634224172317513,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2014,nonresident,-0.014649000082297753,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2015,nonresident,0.05996826192265932,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2016,nonresident,0.015050035458198724,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2017,nonresident,0.019872690575997515,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2018,nonresident,0.03455624904856142,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2009,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2010,resident,-0.03812512212222567,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2011,resident,-0.016418516836746888,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2012,resident,0.009870978715132666,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2013,resident,-0.00920306287556617,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2014,resident,0.010284180938446689,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2015,resident,-9.614633472144605e-5,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2016,resident,-0.011166066695913988,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2017,resident,-0.023489871702149643,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants,residency,2018,resident,-0.025859815527092125,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2015,18-24,-0.045652806048269844,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2016,18-24,-0.07464960390006094,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2017,18-24,-0.0421468554494567,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2018,18-24,-0.0800962530079065,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2015,25-34,0.016619850187265917,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2016,25-34,-0.040294727147133315,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2017,25-34,-0.11132437619961612,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2018,25-34,-0.04130669546436285,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2015,35-44,-0.028019323671497585,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2016,35-44,-0.024188204108681246,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2017,35-44,-0.016638370118845502,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2018,35-44,-0.02382596685082873,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2015,45-54,0.04259634888438134,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2016,45-54,-0.05674448767833982,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2017,45-54,-0.050189068408387764,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2018,45-54,-0.05428881650380022,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2015,55-64,0.08735213830755233,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2016,55-64,0.024267782426778243,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2017,55-64,-0.03880718954248366,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,age,2018,55-64,-0.045898852528686786,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,all,2014,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,all,2015,all,0.009078387177560732,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,all,2016,all,-0.03778618849661848,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,all,2017,all,-0.056938354397730206,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,all,2018,all,-0.048683760683760686,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2014,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2015,female,0.008710801393728223,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2016,female,-0.023488773747841106,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2017,female,-0.10894941634241245,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2018,female,-0.04287415641127432,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2014,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2015,male,0.009158907037093574,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2016,male,-0.040916654061412795,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2017,male,-0.04534342717451305,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,gender,2018,male,-0.04989261523211631,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2015,nonresident,0.10565568676196395,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2016,nonresident,-0.0039347948285553686,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2017,nonresident,0.04034988713318285,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2018,nonresident,-0.011662598318416057,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2015,resident,-0.01528932099733417,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2016,resident,-0.0473763834700215,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2017,resident,-0.08575727181544635,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participants - recruited,residency,2018,resident,-0.06116291826659353,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2009,18-24,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2010,18-24,-0.07403928617183012,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2011,18-24,-0.012363951944855105,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2012,18-24,0.024341688736243844,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2013,18-24,0.010298758333046647,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2014,18-24,0.004990898587252368,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2015,18-24,-0.019719346274164988,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2016,18-24,-0.028072310440141246,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2017,18-24,-0.03765182913514578,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2018,18-24,-0.03942014366545195,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2009,25-34,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2010,25-34,-0.0452140473762143,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2011,25-34,-0.03235823683544206,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2012,25-34,0.0037103090631042785,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2013,25-34,-9.186256983877698e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2014,25-34,0.015416029462504121,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2015,25-34,0.00801222027039017,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2016,25-34,-0.004238518425363,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2017,25-34,-0.02853321533875748,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2018,25-34,-0.025123297761132007,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2009,35-44,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2010,35-44,-0.07060479972476656,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2011,35-44,-0.028988520757488957,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2012,35-44,0.012938208181344658,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2013,35-44,-0.018561415922472294,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2014,35-44,-0.004478138343695854,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2015,35-44,-0.008311683676032801,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2016,35-44,-0.0073886977005415185,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2017,35-44,-0.00702807430399392,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2018,35-44,-0.00572634987583826,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2009,45-54,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2010,45-54,-0.047099250868220206,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2011,45-54,-0.02715637182579241,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2012,45-54,-0.004256926286981052,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2013,45-54,-0.03153330285985542,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2014,45-54,5.102410558672284e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2015,45-54,0.0058021719607643865,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2016,45-54,-0.012528612956306268,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2017,45-54,-0.019844299800053523,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2018,45-54,-0.05561096412628422,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2009,55-64,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2010,55-64,0.014133045440461622,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2011,55-64,-0.02282654440500326,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2012,55-64,5.091168702407974e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2013,55-64,-0.02540606110515909,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2014,55-64,0.010071454775797573,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2015,55-64,0.023947070254975018,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2016,55-64,0.003250579609779779,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2017,55-64,-0.01302019427232791,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,age,2018,55-64,-0.003749629858263323,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2009,all,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2010,all,-0.04531693529713921,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2011,all,-0.026446528179648113,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2012,all,0.0052269377387875356,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2013,all,-0.01605070454702116,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2014,all,0.00462534706315625,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2015,all,0.0027591122803703005,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2016,all,-0.009013458151502526,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2017,all,-0.020458454070828518,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,all,2018,all,-0.025171797865782275,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2009,female,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2010,female,-0.04275669985622871,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2011,female,0.023274380706084983,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2012,female,0.09832391033392883,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2013,female,0.04545988805067111,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2014,female,0.06410334416927597,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2015,female,0.06257536101267587,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2016,female,0.0328695228760983,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2017,female,-0.004651612402646705,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2018,female,-0.02558177064949978,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2009,male,0,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2010,male,-0.04545913554842757,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2011,male,-0.03001739857097777,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2012,male,-4.87129938342969e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2013,male,-0.02051032077899454,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2014,male,-3.6881416076811017e-4,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2015,male,-0.0015511590453260629,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2016,male,-0.012947333607354266,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2017,male,-0.020858339288846072,NONE,pct_change_yr,NA
+Midwest,IA,4,hunt,participation rate,gender,2018,male,-0.02513791330608703,NONE,pct_change_yr,NA
+Midwest,IA,4,all_sports,participation rate,all,2009,resident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2010,resident,-0.06329646252223194,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2011,resident,-0.017965394434507547,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2012,resident,0.046675942168938805,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2013,resident,-0.060104118088380704,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2014,resident,0.007171805961467604,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2015,resident,0.019693759080867512,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2016,resident,0.008298592899327419,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2017,resident,-0.019558380325362598,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2018,resident,-0.07984690562479534,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2009,resident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2010,resident,-0.07832090790553976,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2011,resident,-0.011757961449612405,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2012,resident,0.06543066486075202,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2013,resident,-0.06373714637949084,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2014,resident,0.005925980023932269,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2015,resident,0.034462662725758285,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2016,resident,0.01757131626750681,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2017,resident,-0.02181917803672458,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2018,resident,-0.1042460636511523,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2009,resident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2010,resident,-0.04531693529713921,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2011,resident,-0.026446528179648113,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2012,resident,0.0052269377387875356,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2013,resident,-0.01605070454702116,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2014,resident,0.00462534706315625,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2015,resident,0.0027591122803703005,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2016,resident,-0.009013458151502526,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2017,resident,-0.020458454070828518,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2018,resident,-0.025171797865782275,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2009,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2010,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2011,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2012,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2013,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2014,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2015,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2016,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2017,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,all_sports,participation rate,all,2018,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2009,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2010,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2011,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2012,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2013,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2014,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2015,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2016,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2017,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,fish,participation rate,all,2018,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2009,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2010,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2011,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2012,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2013,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2014,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2015,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2016,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2017,nonresident,0,NONE,pct_change_yr,FALSE
+Midwest,IA,4,hunt,participation rate,all,2018,nonresident,0,NONE,pct_change_yr,FALSE

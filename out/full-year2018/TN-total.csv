@@ -1,0 +1,341 @@
+region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type,"segment == ""residency"""
+Southeast,TN,4,all_sports,participants,all,2009,all,655576,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2010,all,631374,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2011,all,614739,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2012,all,642900,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2013,all,638473,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2014,all,656177,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2015,all,641062,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2016,all,620001,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2017,all,588229,NONE,total,NA
+Southeast,TN,4,all_sports,participants,all,2018,all,565715,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2009,resident,514279,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2010,resident,493742,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2011,resident,479431,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2012,resident,502286,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2013,resident,497902,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2014,resident,508773,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2015,resident,495747,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2016,resident,476e3,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2017,resident,447830,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2018,resident,424773,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2009,nonresident,141297,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2010,nonresident,137632,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2011,nonresident,135308,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2012,nonresident,140614,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2013,nonresident,140571,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2014,nonresident,147404,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2015,nonresident,145315,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2016,nonresident,144001,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2017,nonresident,140399,NONE,total,NA
+Southeast,TN,4,all_sports,participants,residency,2018,nonresident,140942,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2009,male,528993,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2010,male,510649,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2011,male,496156,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2012,male,512144,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2013,male,506657,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2014,male,515935,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2015,male,504246,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2016,male,488448,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2017,male,466456,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2018,male,452804,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2009,female,126583,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2010,female,120725,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2011,female,118583,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2012,female,130756,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2013,female,131816,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2014,female,140242,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2015,female,136816,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2016,female,131553,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2017,female,121773,NONE,total,NA
+Southeast,TN,4,all_sports,participants,gender,2018,female,112911,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2009,18-24,80777,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2010,18-24,78021,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2011,18-24,78068,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2012,18-24,86774,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2013,18-24,88910,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2014,18-24,92693,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2015,18-24,89347,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2016,18-24,84475,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2017,18-24,77662,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2018,18-24,73352,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2009,25-34,131141,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2010,25-34,124655,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2011,25-34,122745,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2012,25-34,128478,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2013,25-34,128711,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2014,25-34,133130,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2015,25-34,129693,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2016,25-34,126017,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2017,25-34,118321,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2018,25-34,112774,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2009,35-44,158432,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2010,35-44,150065,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2011,35-44,143842,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2012,35-44,147754,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2013,35-44,144150,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2014,35-44,146055,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2015,35-44,139336,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2016,35-44,133369,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2017,35-44,125892,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2018,35-44,119736,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2009,45-54,161958,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2010,45-54,156714,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2011,45-54,151458,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2012,45-54,156006,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2013,45-54,153760,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2014,45-54,156763,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2015,45-54,153690,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2016,45-54,149272,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2017,45-54,142054,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2018,45-54,136178,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2009,55-64,123268,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2010,55-64,121918,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2011,55-64,118627,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2012,55-64,123889,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2013,55-64,122943,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2014,55-64,127537,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2015,55-64,128994,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2016,55-64,126868,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2017,55-64,124301,NONE,total,NA
+Southeast,TN,4,all_sports,participants,age,2018,55-64,123674,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,all,2014,all,162935,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,all,2015,all,155536,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,all,2016,all,150869,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,all,2017,all,142305,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,all,2018,all,136135,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2014,resident,89517,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2015,resident,83857,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2016,resident,79328,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2017,resident,72299,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2018,resident,65086,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2014,nonresident,73418,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2015,nonresident,71679,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2016,nonresident,71541,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2017,nonresident,70006,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,residency,2018,nonresident,71049,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2014,male,110598,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2015,male,106402,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2016,male,104402,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2017,male,101763,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2018,male,99130,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2014,female,52337,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2015,female,49134,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2016,female,46467,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2017,female,40542,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,gender,2018,female,37005,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2014,18-24,29502,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2015,18-24,27371,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2016,18-24,25440,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2017,18-24,22956,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2018,18-24,21510,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2014,25-34,39692,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2015,25-34,37484,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2016,25-34,36159,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2017,25-34,33676,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2018,25-34,32065,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2014,35-44,35493,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2015,35-44,33111,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2016,35-44,32754,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2017,35-44,31111,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2018,35-44,29615,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2014,45-54,33283,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2015,45-54,32358,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2016,45-54,31571,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2017,45-54,30388,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2018,45-54,28886,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2014,55-64,24966,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2015,55-64,25210,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2016,55-64,24945,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2017,55-64,24175,NONE,total,NA
+Southeast,TN,4,all_sports,participants - recruited,age,2018,55-64,24059,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2010,all,0.41766934726103455,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2011,all,0.4199602771099222,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2012,all,0.4018030416160354,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2013,all,0.4203499766682221,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2014,all,0.4100110732951902,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2015,all,0.4252617815010279,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2016,all,0.43441040024209826,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2017,all,0.44777185843248646,NONE,total,NA
+Southeast,TN,4,all_sports,churn,all,2018,all,0.4386114931429765,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2010,resident,0.36302207599524744,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2011,resident,0.3637613852021234,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2012,resident,0.34249992699542364,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2013,resident,0.36281483870582404,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2014,resident,0.35117987198052597,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2015,resident,0.36549808752943397,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2016,resident,0.3755237067443948,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2017,resident,0.389825986298233,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2018,resident,0.37655806891007737,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2010,nonresident,0.6165300720483531,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2011,nonresident,0.62152873646734,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2012,nonresident,0.6118768707734378,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2013,nonresident,0.6258569681108298,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2014,nonresident,0.6183413010073416,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2015,nonresident,0.6315043215153119,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2016,nonresident,0.6352932270806667,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2017,nonresident,0.6392986111111111,NONE,total,NA
+Southeast,TN,4,all_sports,churn,residency,2018,nonresident,0.6365429953204794,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2010,male,0.38087698490379224,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2011,male,0.3823068139471392,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2012,male,0.3653670798728344,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2013,male,0.3798618285381507,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2014,male,0.36892734655579645,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2015,male,0.38073757660239343,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2016,male,0.3894052654011344,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2017,male,0.40027225215391377,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2018,male,0.40318205019602715,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2010,female,0.5537278239389177,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2011,female,0.5565642516963797,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2012,female,0.5294774740713372,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2013,female,0.5508963793305472,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2014,female,0.5338033204825271,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2015,female,0.5486919137822253,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2016,female,0.5528804035887986,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2017,female,0.5665533854269336,NONE,total,NA
+Southeast,TN,4,all_sports,churn,gender,2018,female,0.5690858716542835,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2010,18-24,0.5114019015549173,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2011,18-24,0.5109649966034786,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2012,18-24,0.48810637016921365,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2013,18-24,0.5056642043031819,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2014,18-24,0.4935158420407383,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2015,18-24,0.5067049291748028,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2016,18-24,0.5207561529765968,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2017,18-24,0.5355375618533513,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2018,18-24,0.5219798614509027,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2010,25-34,0.45915402740603495,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2011,25-34,0.4571336889815892,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2012,25-34,0.4457407286710552,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2013,25-34,0.46219527382546155,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2014,25-34,0.45417958340131614,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2015,25-34,0.4716553117652803,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2016,25-34,0.4792625662140594,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2017,25-34,0.49595289487049266,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2018,25-34,0.4909144692359703,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2010,35-44,0.40291611437227787,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2011,35-44,0.4081964482057775,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2012,35-44,0.39134182882488305,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2013,35-44,0.4094496182792788,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2014,35-44,0.39951993784166273,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2015,35-44,0.4193722869623564,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2016,35-44,0.42652293736005054,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2017,35-44,0.44541753207315155,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2018,35-44,0.44121501934212926,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2010,45-54,0.3869075551384328,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2011,45-54,0.3897545847850224,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2012,45-54,0.3683949899971609,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2013,45-54,0.3844196302658906,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2014,45-54,0.37277409955904733,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2015,45-54,0.3880021944093594,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2016,45-54,0.39682477714880604,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2017,45-54,0.4087492463321498,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2018,45-54,0.4002027412303859,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2010,55-64,0.3714487368779713,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2011,55-64,0.3770156990764284,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2012,55-64,0.3548716133056834,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2013,55-64,0.37542276429326726,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2014,55-64,0.3622143955230558,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2015,55-64,0.37016999121816585,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2016,55-64,0.3828007504225003,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2017,55-64,0.38983344762625427,NONE,total,NA
+Southeast,TN,4,all_sports,churn,age,2018,55-64,0.3779806918744971,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2009,18-24,0.13514859254568623,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2010,18-24,0.1295252593035411,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2011,18-24,0.12797655375201591,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2012,18-24,0.14043565380542286,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2013,18-24,0.1420993859983054,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2014,18-24,0.1468328939559279,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2015,18-24,0.14059636843844373,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2016,18-24,0.13302861510427044,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2017,18-24,0.12292649817812329,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2018,18-24,0.11505461555737337,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2009,25-34,0.15842634921726942,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2010,25-34,0.14942311194656116,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2011,25-34,0.14691772772501477,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2012,25-34,0.1528573472207981,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2013,25-34,0.15251570013185106,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2014,25-34,0.15632282140462847,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2015,25-34,0.15064288021342892,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2016,25-34,0.14419117430088932,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2017,25-34,0.13255657670831383,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2018,25-34,0.12519978399586493,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2009,35-44,0.1795991522885045,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2010,35-44,0.16879514106211813,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2011,35-44,0.16365694010174947,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2012,35-44,0.1697764230706782,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2013,35-44,0.1669086131947045,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2014,35-44,0.17000506078618977,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2015,35-44,0.1629003717199586,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2016,35-44,0.15634006554890287,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2017,35-44,0.14761747026735297,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2018,35-44,0.13912959392200583,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2009,45-54,0.17619804844212528,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2010,45-54,0.1691708903726765,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2011,45-54,0.16294622138385706,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2012,45-54,0.16745559718107986,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2013,45-54,0.16559182403933798,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2014,45-54,0.1700772201078168,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2015,45-54,0.16780350854216297,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2016,45-54,0.16383748834841946,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2017,45-54,0.15608317289774606,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2018,45-54,0.14827390167254298,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2009,55-64,0.16427794046667374,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2010,55-64,0.16121887266835924,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2011,55-64,0.15227436758248278,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2012,55-64,0.154984703077762,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2013,55-64,0.15046529485362875,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2014,55-64,0.15311492088728434,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2015,55-64,0.1525357701849193,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2016,55-64,0.1482504146323189,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2017,55-64,0.14319403898767377,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,age,2018,55-64,0.14118347609288953,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2009,all,0.16483565566402478,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2010,all,0.157519367035416,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2011,all,0.1524294572067815,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2012,all,0.158362420731858,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2013,all,0.15653112492826593,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2014,all,0.1601718956746738,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2015,all,0.15585035789623916,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2016,all,0.15016102450403446,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2017,all,0.14155819062941818,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2018,all,0.13490915186499589,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2009,female,0.06256468212508527,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2010,female,0.059206613736866906,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2011,female,0.057781574644070896,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2012,female,0.06327717069458093,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2013,female,0.06347075514168349,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2014,female,0.06718811352056922,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2015,female,0.06531999669638865,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2016,female,0.0625689008205835,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2017,female,0.0575708536663233,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2018,female,0.05289846428397881,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2009,male,0.2707348956683154,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2010,male,0.25931996105324456,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2011,male,0.25049809493135033,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2012,male,0.2569360258507684,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2013,male,0.2530641139914807,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2014,male,0.25676056706706923,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2015,male,0.24977914036852542,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2016,male,0.2410449202370878,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2017,male,0.2286323025102653,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,gender,2018,male,0.21993396684386024,NONE,total,NA
+Southeast,TN,4,all_sports,participation rate,all,2009,resident,0.16483565566402478,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2010,resident,0.157519367035416,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2011,resident,0.1524294572067815,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2012,resident,0.158362420731858,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2013,resident,0.15653112492826593,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2014,resident,0.1601718956746738,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2015,resident,0.15585035789623916,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2016,resident,0.15016102450403446,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2017,resident,0.14155819062941818,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2018,resident,0.13490915186499589,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2009,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2010,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2011,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2012,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2013,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2014,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2015,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2016,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2017,nonresident,0,NONE,total,FALSE
+Southeast,TN,4,all_sports,participation rate,all,2018,nonresident,0,NONE,total,FALSE

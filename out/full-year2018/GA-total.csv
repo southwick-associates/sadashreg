@@ -1,0 +1,1021 @@
+region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type,"segment == ""residency"""
+Southeast,GA,4,hunt,participants,all,2010,all,281677,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2011,all,285630,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2012,all,285256,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2013,all,294531,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2014,all,297797,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2015,all,303935,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2016,all,309279,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2010,resident,226592,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2011,resident,233302,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2012,resident,234050,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2013,resident,243498,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2014,resident,245241,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2015,resident,249031,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2016,resident,253279,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2010,nonresident,55085,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2011,nonresident,52328,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2012,nonresident,51206,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2013,nonresident,51033,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2014,nonresident,52556,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2015,nonresident,54904,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2016,nonresident,56e3,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2010,male,260164,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2011,male,263041,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2012,male,261607,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2013,male,268868,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2014,male,270919,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2015,male,274585,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2016,male,278009,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2010,female,21513,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2011,female,22589,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2012,female,23649,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2013,female,25663,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2014,female,26878,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2015,female,29350,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2016,female,31270,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2010,18-24,34061,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2011,18-24,34862,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2012,18-24,35688,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2013,18-24,38002,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2014,18-24,38282,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2015,18-24,38813,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2016,18-24,40296,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2010,25-34,57194,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2011,25-34,57756,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2012,25-34,58267,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2013,25-34,60968,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2014,25-34,61391,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2015,25-34,62513,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2016,25-34,64232,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2010,35-44,70926,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2011,35-44,70319,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2012,35-44,69095,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2013,35-44,69255,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2014,35-44,68576,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2015,35-44,68322,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2016,35-44,67646,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2010,45-54,71019,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2011,45-54,72292,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2012,45-54,71576,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2013,45-54,72289,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2014,45-54,73159,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2015,45-54,74534,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2016,45-54,75244,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2010,55-64,48477,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2011,55-64,50401,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2012,55-64,50631,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2013,55-64,54015,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2014,55-64,56389,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2015,55-64,59754,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2016,55-64,61861,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,all,2015,all,68677,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,all,2016,all,68426,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2015,resident,41105,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2016,resident,40621,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2015,nonresident,27572,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2016,nonresident,27805,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2015,male,55617,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2016,male,55155,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2015,female,13060,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2016,female,13271,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2015,18-24,12227,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2016,18-24,12476,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2015,25-34,17354,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2016,25-34,17574,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2015,35-44,14765,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2016,35-44,14469,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2015,45-54,13663,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2016,45-54,13428,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2015,55-64,10667,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2016,55-64,10478,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2011,all,0.38610891198074393,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2012,all,0.3882085215138466,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2013,all,0.3797781641753372,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2014,all,0.37589252065147644,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2015,all,0.36430185663388154,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2016,all,0.3586029907710531,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2011,resident,0.32797274396271714,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2012,resident,0.3362465816838261,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2013,resident,0.32786584063234353,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2014,resident,0.32658584464759466,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2015,resident,0.3112856333157995,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2016,resident,0.30278961253819797,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2011,nonresident,0.6252518834528457,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2012,nonresident,0.6198784589512307,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2013,nonresident,0.6170565949302816,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2014,nonresident,0.6111535672995905,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2015,nonresident,0.6116903873963011,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2016,nonresident,0.6117587061052018,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2011,male,0.368884483286029,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2012,male,0.37104564207367946,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2013,male,0.36211669178482453,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2014,male,0.3581424055959751,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2015,male,0.3465426727549015,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2016,male,0.3395818894548282,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2011,female,0.5922734722547413,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2012,female,0.5867462899416195,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2013,female,0.5780206694169183,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2014,female,0.5647215581769017,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2015,female,0.5440587199940081,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2016,female,0.5355929877525816,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2011,18-24,0.4796981885440827,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2012,18-24,0.47904535153896904,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2013,18-24,0.47232885924846585,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2014,18-24,0.4682385137624336,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2015,18-24,0.4587774294670846,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2016,18-24,0.444037926414511,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2011,25-34,0.4310592020141973,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2012,25-34,0.43577179464981386,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2013,25-34,0.42544537122850373,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2014,25-34,0.43224314394436425,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2015,25-34,0.4247340728795061,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2016,25-34,0.4128167391860763,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2011,35-44,0.3619265149592533,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2012,35-44,0.366924072414921,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2013,35-44,0.36312849162011174,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2014,35-44,0.3590354487040647,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2015,35-44,0.35060446531433653,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2016,35-44,0.34961432063348025,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2011,45-54,0.339627423647193,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2012,45-54,0.3395905381103887,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2013,45-54,0.3313028292001397,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2014,45-54,0.3289850461342666,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2015,45-54,0.3184154409754497,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2016,45-54,0.31649068197979424,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2011,55-64,0.3707943973430699,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2012,55-64,0.3702579365079365,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2013,55-64,0.3532293106853644,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2014,55-64,0.3317226696288068,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2015,55-64,0.31047936581126856,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2016,55-64,0.30922296788445774,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2010,all,527114,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2011,all,530911,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2012,all,529959,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2013,all,550371,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2014,all,572568,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2015,all,577500,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2016,all,609329,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2010,resident,460201,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2011,resident,464088,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2012,resident,462749,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2013,resident,482215,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2014,resident,502706,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2015,resident,504677,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2016,resident,534407,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2010,nonresident,66913,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2011,nonresident,66823,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2012,nonresident,67210,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2013,nonresident,68156,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2014,nonresident,69862,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2015,nonresident,72823,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2016,nonresident,74922,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2010,male,424780,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2011,male,428578,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2012,male,426046,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2013,male,441119,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2014,male,455307,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2015,male,459770,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2016,male,482993,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2010,female,102334,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2011,female,102333,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2012,female,103913,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2013,female,109252,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2014,female,117261,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2015,female,117730,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2016,female,126336,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2010,18-24,61345,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2011,18-24,62847,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2012,18-24,65052,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2013,18-24,69691,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2014,18-24,73711,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2015,18-24,72372,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2016,18-24,77264,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2010,25-34,105576,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2011,25-34,106558,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2012,25-34,106747,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2013,25-34,111429,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2014,25-34,116877,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2015,25-34,117944,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2016,25-34,125376,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2010,35-44,127570,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2011,35-44,125703,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2012,35-44,123810,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2013,35-44,124628,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2014,35-44,128087,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2015,35-44,126966,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2016,35-44,132610,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2010,45-54,133554,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2011,45-54,134523,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2012,45-54,132799,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2013,45-54,136138,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2014,45-54,140449,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2015,45-54,142156,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2016,45-54,148534,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2010,55-64,99069,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2011,55-64,101280,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2012,55-64,101551,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2013,55-64,108486,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2014,55-64,113443,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2015,55-64,118061,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2016,55-64,125544,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,all,2015,all,160129,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,all,2016,all,168114,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2015,resident,122540,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2016,resident,129830,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2015,nonresident,37589,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2016,nonresident,38284,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2015,male,113128,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2016,male,118312,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2015,female,47001,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2016,female,49802,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2015,18-24,29839,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2016,18-24,31181,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2015,25-34,39779,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2016,25-34,41930,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2015,35-44,34623,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2016,35-44,36441,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2015,45-54,32364,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2016,45-54,33486,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2015,55-64,23522,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2016,55-64,25074,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2011,all,0.5288438554088868,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2012,all,0.5271618030140645,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2013,all,0.5081128917520035,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2014,all,0.49525138497486243,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2015,all,0.48822323287365005,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2016,all,0.45945108225108244,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2011,resident,0.5113157077016349,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2012,resident,0.5122756890934478,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2013,resident,0.48989625045110846,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2014,resident,0.4755451406530282,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2015,resident,0.46764112622487103,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2016,resident,0.43427974724427687,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2011,nonresident,0.6493954836877737,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2012,nonresident,0.6305463687652455,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2013,nonresident,0.6335366760898676,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2014,nonresident,0.6346763307705852,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2015,nonresident,0.6363258996307005,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2016,nonresident,0.633893138156901,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2011,male,0.4974703406956562,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2012,male,0.496718707719096,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2013,male,0.4778354462690377,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2014,male,0.4643619690679319,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2015,male,0.4554127028353832,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2016,male,0.4277600268420466,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2011,female,0.660008487205045,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2012,female,0.6545454545454545,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2013,female,0.6337939455017636,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2014,female,0.6219629008786633,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2015,female,0.6173238082154142,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2016,female,0.583539588061491,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2011,18-24,0.6488385361480153,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2012,18-24,0.6386665605855677,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2013,18-24,0.6248020783692795,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2014,18-24,0.6068732960252547,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2015,18-24,0.6054620195634183,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2016,18-24,0.5695513396249879,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2011,25-34,0.5880124270667576,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2012,25-34,0.5896391534888086,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2013,25-34,0.5698948906750604,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2014,25-34,0.5615285206590803,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2015,25-34,0.556419734072591,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2016,25-34,0.5275260083260558,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2011,35-44,0.5202633848083404,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2012,35-44,0.5209307875894988,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2013,35-44,0.5067927759110882,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2014,35-44,0.4932237797588003,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2015,35-44,0.4875432336844078,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2016,35-44,0.4599062733824282,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2011,45-54,0.4779489944142445,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2012,45-54,0.47733422539399345,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2013,45-54,0.45971671046785695,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2014,45-54,0.4461167794207306,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2015,45-54,0.4386913026451636,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2016,45-54,0.41218388378882215,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2011,55-64,0.47114637273011734,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2012,55-64,0.46614269634076505,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2013,55-64,0.43331363860167404,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2014,55-64,0.4194589113702355,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2015,55-64,0.4038346262341326,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2016,55-64,0.3803828561748264,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2010,all,597708,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2011,all,597469,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2012,all,595600,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2013,all,613897,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2014,all,631076,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2015,all,632099,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2016,all,654029,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2010,resident,525080,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2011,resident,530013,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2012,resident,528313,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2013,resident,545701,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2014,resident,561025,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2015,resident,558730,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2016,resident,578918,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2010,nonresident,72628,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2011,nonresident,67456,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2012,nonresident,67287,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2013,nonresident,68196,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2014,nonresident,70051,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2015,nonresident,73369,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2016,nonresident,75111,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2010,male,490227,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2011,male,489611,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2012,male,485983,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2013,male,498666,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2014,male,508178,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2015,male,508675,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2016,male,522794,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2010,female,107481,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2011,female,107858,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2012,female,109617,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2013,female,115231,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2014,female,122898,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2015,female,123424,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2016,female,131235,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2010,18-24,71970,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2011,18-24,73204,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2012,18-24,75352,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2013,18-24,79797,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2014,18-24,82683,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2015,18-24,80845,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2016,18-24,84127,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2010,25-34,120957,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2011,25-34,121415,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2012,25-34,121689,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2013,25-34,126222,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2014,25-34,130437,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2015,25-34,130415,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2016,25-34,135321,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2010,35-44,145351,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2011,35-44,142121,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2012,35-44,139634,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2013,35-44,139732,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2014,35-44,141672,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2015,35-44,139239,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2016,35-44,142041,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2010,45-54,149911,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2011,45-54,149749,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2012,45-54,147762,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2013,45-54,150421,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2014,45-54,153807,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2015,45-54,154710,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2016,45-54,159024,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2010,55-64,109519,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2011,55-64,110981,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2012,55-64,111163,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2013,55-64,117726,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2014,55-64,122477,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2015,55-64,126889,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2016,55-64,133515,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,all,2015,all,158198,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,all,2016,all,163118,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2015,resident,120697,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2016,resident,125034,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2015,nonresident,37501,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2016,nonresident,38084,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2015,male,110815,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2016,male,113502,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2015,female,47383,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2016,female,49616,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2015,18-24,29836,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2016,18-24,30658,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2015,25-34,39359,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2016,25-34,40690,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2015,35-44,34018,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2016,35-44,35098,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2015,45-54,31737,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2016,45-54,32303,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2015,55-64,23246,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2016,55-64,24367,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2011,all,0.47612713900432996,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2012,all,0.4763510742816782,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2013,all,0.46130624580255203,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2014,all,0.45513498192693563,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2015,all,0.4511437608148624,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2016,all,0.42885687210389506,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2011,resident,0.4539270206444734,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2012,resident,0.45709256188055764,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2013,resident,0.43970335766865476,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2014,resident,0.43330321916214193,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2015,resident,0.42886502384029224,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2016,resident,0.4024877847976664,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2011,nonresident,0.6366277468744836,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2012,nonresident,0.6276684060721063,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2013,nonresident,0.6309242498550983,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2014,nonresident,0.629831661681037,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2015,nonresident,0.6295698847982184,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2016,nonresident,0.6296664803936266,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2011,male,0.4404377548078904,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2012,male,0.44137896956120704,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2013,male,0.4272167630536729,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2014,male,0.4212411054913441,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2015,male,0.4157391741916057,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2016,male,0.3952010368423867,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2011,female,0.6379413974455297,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2012,female,0.6334314687602225,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2013,female,0.6127885833930244,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2014,female,0.6029911209282428,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2015,female,0.5985271108271281,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2016,female,0.5670951828680638,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2011,18-24,0.5683618174239267,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2012,18-24,0.5616786426600366,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2013,18-24,0.5527995647038526,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2014,18-24,0.5479723294400722,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2015,18-24,0.550622271138472,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2016,18-24,0.5237618128741774,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2011,25-34,0.5225658705159685,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2012,25-34,0.5251622574374856,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2013,25-34,0.510288606929196,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2014,25-34,0.5085762274106528,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2015,25-34,0.5090276233775195,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2016,25-34,0.48763936387197687,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2011,35-44,0.4617787287325165,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2012,35-44,0.46491647785642914,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2013,35-44,0.4548241090867423,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2014,35-44,0.4477030866450537,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2015,35-44,0.44658638506931697,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2016,35-44,0.4265214955687383,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2011,45-54,0.434070882056687,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2012,45-54,0.4341513906975191,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2013,45-54,0.4199851109907959,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2014,45-54,0.4123520808403138,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2015,45-54,0.406663068990852,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2016,45-54,0.38540097861145756,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2011,55-64,0.44083674978770804,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2012,55-64,0.43823100073888516,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2013,55-64,0.4087278026663788,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2014,55-64,0.3983945636016139,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2015,55-64,0.3834283194800529,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2016,55-64,0.3635253136624425,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2010,all,0.38610891198074393,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2010,resident,0.32797274396271714,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2010,nonresident,0.6252518834528457,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2010,male,0.368884483286029,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2010,female,0.5922734722547413,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2010,18-24,0.4796981885440827,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2010,25-34,0.4310592020141973,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2010,35-44,0.3619265149592533,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2010,45-54,0.339627423647193,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2010,55-64,0.3707943973430699,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2010,all,0.5288438554088868,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2010,resident,0.5113157077016349,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2010,nonresident,0.6493954836877737,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2010,male,0.4974703406956562,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2010,female,0.660008487205045,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2010,18-24,0.6488385361480153,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2010,25-34,0.5880124270667576,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2010,35-44,0.5202633848083404,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2010,45-54,0.4779489944142445,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2010,55-64,0.47114637273011734,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2010,all,0.47612713900432996,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2010,resident,0.4539270206444734,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2010,nonresident,0.6366277468744836,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2010,male,0.4404377548078904,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2010,female,0.6379413974455297,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2010,18-24,0.5683618174239267,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2010,25-34,0.5225658705159685,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2010,35-44,0.4617787287325165,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2010,45-54,0.434070882056687,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2010,55-64,0.44083674978770804,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2009,all,281677,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2009,resident,226592,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2009,nonresident,55085,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2009,male,260164,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2009,female,21513,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2009,18-24,34061,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2009,25-34,57194,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2009,35-44,70926,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2009,45-54,71019,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2009,55-64,48477,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2009,all,527114,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2009,resident,460201,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2009,nonresident,66913,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2009,male,424780,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2009,female,102334,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2009,18-24,61345,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2009,25-34,105576,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2009,35-44,127570,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2009,45-54,133554,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2009,55-64,99069,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2009,all,597708,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2009,resident,525080,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2009,nonresident,72628,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2009,male,490227,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2009,female,107481,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2009,18-24,71970,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2009,25-34,120957,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2009,35-44,145351,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2009,45-54,149911,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2009,55-64,109519,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2017,all,309279,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2017,resident,253279,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2017,nonresident,56e3,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2017,male,278009,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2017,female,31270,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2017,18-24,40296,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2017,25-34,64232,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2017,35-44,67646,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2017,45-54,75244,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2017,55-64,61861,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,all,2017,all,68426,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2017,resident,40621,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2017,nonresident,27805,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2017,male,55155,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2017,female,13271,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2017,18-24,12476,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2017,25-34,17574,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2017,35-44,14469,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2017,45-54,13428,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2017,55-64,10478,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2017,all,0.3586029907710531,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2017,resident,0.30278961253819797,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2017,nonresident,0.6117587061052018,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2017,male,0.3395818894548282,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2017,female,0.5355929877525816,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2017,18-24,0.444037926414511,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2017,25-34,0.4128167391860763,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2017,35-44,0.34961432063348025,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2017,45-54,0.31649068197979424,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2017,55-64,0.30922296788445774,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2017,all,609329,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2017,resident,534407,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2017,nonresident,74922,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2017,male,482993,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2017,female,126336,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2017,18-24,77264,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2017,25-34,125376,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2017,35-44,132610,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2017,45-54,148534,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2017,55-64,125544,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,all,2017,all,168114,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2017,resident,129830,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2017,nonresident,38284,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2017,male,118312,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2017,female,49802,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2017,18-24,31181,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2017,25-34,41930,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2017,35-44,36441,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2017,45-54,33486,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2017,55-64,25074,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2017,all,0.45945108225108244,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2017,resident,0.43427974724427687,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2017,nonresident,0.633893138156901,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2017,male,0.4277600268420466,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2017,female,0.583539588061491,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2017,18-24,0.5695513396249879,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2017,25-34,0.5275260083260558,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2017,35-44,0.4599062733824282,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2017,45-54,0.41218388378882215,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2017,55-64,0.3803828561748264,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2017,all,654029,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2017,resident,578918,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2017,nonresident,75111,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2017,male,522794,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2017,female,131235,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2017,18-24,84127,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2017,25-34,135321,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2017,35-44,142041,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2017,45-54,159024,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2017,55-64,133515,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,all,2017,all,163118,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2017,resident,125034,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2017,nonresident,38084,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2017,male,113502,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2017,female,49616,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2017,18-24,30658,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2017,25-34,40690,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2017,35-44,35098,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2017,45-54,32303,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2017,55-64,24367,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2017,all,0.42885687210389506,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2017,resident,0.4024877847976664,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2017,nonresident,0.6296664803936266,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2017,male,0.3952010368423867,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2017,female,0.5670951828680638,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2017,18-24,0.5237618128741774,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2017,25-34,0.48763936387197687,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2017,35-44,0.4265214955687383,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2017,45-54,0.38540097861145756,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2017,55-64,0.3635253136624425,NONE,total,NA
+Southeast,GA,4,hunt,participants,all,2018,all,309279,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2018,resident,253279,NONE,total,NA
+Southeast,GA,4,hunt,participants,residency,2018,nonresident,56e3,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2018,male,278009,NONE,total,NA
+Southeast,GA,4,hunt,participants,gender,2018,female,31270,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2018,18-24,40296,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2018,25-34,64232,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2018,35-44,67646,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2018,45-54,75244,NONE,total,NA
+Southeast,GA,4,hunt,participants,age,2018,55-64,61861,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,all,2018,all,68426,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2018,resident,40621,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2018,nonresident,27805,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2018,male,55155,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2018,female,13271,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2018,18-24,12476,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2018,25-34,17574,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2018,35-44,14469,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2018,45-54,13428,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2018,55-64,10478,NONE,total,NA
+Southeast,GA,4,hunt,churn,all,2018,all,0.3586029907710531,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2018,resident,0.30278961253819797,NONE,total,NA
+Southeast,GA,4,hunt,churn,residency,2018,nonresident,0.6117587061052018,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2018,male,0.3395818894548282,NONE,total,NA
+Southeast,GA,4,hunt,churn,gender,2018,female,0.5355929877525816,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2018,18-24,0.444037926414511,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2018,25-34,0.4128167391860763,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2018,35-44,0.34961432063348025,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2018,45-54,0.31649068197979424,NONE,total,NA
+Southeast,GA,4,hunt,churn,age,2018,55-64,0.30922296788445774,NONE,total,NA
+Southeast,GA,4,fish,participants,all,2018,all,609329,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2018,resident,534407,NONE,total,NA
+Southeast,GA,4,fish,participants,residency,2018,nonresident,74922,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2018,male,482993,NONE,total,NA
+Southeast,GA,4,fish,participants,gender,2018,female,126336,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2018,18-24,77264,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2018,25-34,125376,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2018,35-44,132610,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2018,45-54,148534,NONE,total,NA
+Southeast,GA,4,fish,participants,age,2018,55-64,125544,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,all,2018,all,168114,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2018,resident,129830,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2018,nonresident,38284,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2018,male,118312,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2018,female,49802,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2018,18-24,31181,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2018,25-34,41930,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2018,35-44,36441,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2018,45-54,33486,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2018,55-64,25074,NONE,total,NA
+Southeast,GA,4,fish,churn,all,2018,all,0.45945108225108244,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2018,resident,0.43427974724427687,NONE,total,NA
+Southeast,GA,4,fish,churn,residency,2018,nonresident,0.633893138156901,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2018,male,0.4277600268420466,NONE,total,NA
+Southeast,GA,4,fish,churn,gender,2018,female,0.583539588061491,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2018,18-24,0.5695513396249879,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2018,25-34,0.5275260083260558,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2018,35-44,0.4599062733824282,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2018,45-54,0.41218388378882215,NONE,total,NA
+Southeast,GA,4,fish,churn,age,2018,55-64,0.3803828561748264,NONE,total,NA
+Southeast,GA,4,all_sports,participants,all,2018,all,654029,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2018,resident,578918,NONE,total,NA
+Southeast,GA,4,all_sports,participants,residency,2018,nonresident,75111,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2018,male,522794,NONE,total,NA
+Southeast,GA,4,all_sports,participants,gender,2018,female,131235,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2018,18-24,84127,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2018,25-34,135321,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2018,35-44,142041,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2018,45-54,159024,NONE,total,NA
+Southeast,GA,4,all_sports,participants,age,2018,55-64,133515,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,all,2018,all,163118,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2018,resident,125034,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2018,nonresident,38084,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2018,male,113502,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2018,female,49616,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2018,18-24,30658,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2018,25-34,40690,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2018,35-44,35098,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2018,45-54,32303,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2018,55-64,24367,NONE,total,NA
+Southeast,GA,4,all_sports,churn,all,2018,all,0.42885687210389506,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2018,resident,0.4024877847976664,NONE,total,NA
+Southeast,GA,4,all_sports,churn,residency,2018,nonresident,0.6296664803936266,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2018,male,0.3952010368423867,NONE,total,NA
+Southeast,GA,4,all_sports,churn,gender,2018,female,0.5670951828680638,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2018,18-24,0.5237618128741774,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2018,25-34,0.48763936387197687,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2018,35-44,0.4265214955687383,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2018,45-54,0.38540097861145756,NONE,total,NA
+Southeast,GA,4,all_sports,churn,age,2018,55-64,0.3635253136624425,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,all,2014,all,68677,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2014,resident,41105,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,residency,2014,nonresident,27572,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2014,male,55617,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,gender,2014,female,13060,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2014,18-24,12227,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2014,25-34,17354,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2014,35-44,14765,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2014,45-54,13663,NONE,total,NA
+Southeast,GA,4,hunt,participants - recruited,age,2014,55-64,10667,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,all,2014,all,160129,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2014,resident,122540,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,residency,2014,nonresident,37589,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2014,male,113128,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,gender,2014,female,47001,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2014,18-24,29839,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2014,25-34,39779,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2014,35-44,34623,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2014,45-54,32364,NONE,total,NA
+Southeast,GA,4,fish,participants - recruited,age,2014,55-64,23522,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,all,2014,all,158198,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2014,resident,120697,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,residency,2014,nonresident,37501,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2014,male,110815,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,gender,2014,female,47383,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2014,18-24,29836,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2014,25-34,39359,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2014,35-44,34018,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2014,45-54,31737,NONE,total,NA
+Southeast,GA,4,all_sports,participants - recruited,age,2014,55-64,23246,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2009,18-24,0.07425380785952261,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2010,18-24,0.07355832232406284,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2011,18-24,0.07396247227749916,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2012,18-24,0.07489484964457219,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2013,18-24,0.07857126523349779,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2014,18-24,0.0806594356642253,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2015,18-24,0.07825425988852036,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2016,18-24,0.08125669295923402,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2017,18-24,0.08171569400592817,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2018,18-24,0.08088901927585743,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2009,25-34,0.09024376754457826,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2010,25-34,0.08939851479859942,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2011,25-34,0.08958058760608908,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2012,25-34,0.0893921913801223,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2013,25-34,0.09239611072042835,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2014,25-34,0.09471030239026342,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2015,25-34,0.09374847626704685,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2016,25-34,0.09617481428713476,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2017,25-34,0.09458667080345659,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2018,25-34,0.09362978716554653,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2009,35-44,0.10078663255351747,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2010,35-44,0.09984263187356204,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2011,35-44,0.09845857279551491,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2012,35-44,0.09749428500921097,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2013,35-44,0.09869066729954407,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2014,35-44,0.10053262606772662,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2015,35-44,0.09901180586746858,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2016,35-44,0.10119916804143984,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2017,35-44,0.10124764392168843,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2018,35-44,0.10022337471945675,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2009,45-54,0.10983683950212798,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2010,45-54,0.10880807161349842,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2011,45-54,0.10734653786498947,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2012,45-54,0.10489219814791531,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2013,45-54,0.10629846296849917,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2014,45-54,0.10839043205882642,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2015,45-54,0.10860630649926717,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2016,45-54,0.11101742312522822,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2017,45-54,0.1107253930913345,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2018,45-54,0.10960524248184307,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2009,55-64,0.1078700111366744,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2010,55-64,0.10685966520805384,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2011,55-64,0.10467318343215559,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2012,55-64,0.1016453007523942,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2013,55-64,0.10483486956007082,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2014,55-64,0.10626714214952929,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2015,55-64,0.10749827385544992,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2016,55-64,0.11045023198750203,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2017,55-64,0.10807388194675877,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,age,2018,55-64,0.10698055528199896,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2009,all,0.09747543235532749,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2010,all,0.09656244546320646,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2011,all,0.09568928639147757,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2012,all,0.09451020940815279,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2013,all,0.09689638500233778,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2014,all,0.09886715175086518,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2015,all,0.09822226673472967,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2016,all,0.10081864435879613,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2017,all,0.1000858815784042,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2018,all,0.09907336531522815,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2009,female,0.03442486787387523,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2010,female,0.034102433262687484,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2011,female,0.03392325249374317,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2012,female,0.03415283273764684,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2013,female,0.03569675492079493,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2014,female,0.03776404440892199,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2015,female,0.03761539019394299,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2016,female,0.03961852411678642,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2017,female,0.03932078957062891,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2018,female,0.03892300180782645,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2009,male,0.16288273048087554,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2010,male,0.16135711736700054,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2011,male,0.15977525344677884,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2012,male,0.15715588749923415,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2013,male,0.1604691702407889,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2014,male,0.16242438502939144,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2015,male,0.16126991982428665,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2016,male,0.16467418495910857,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2017,male,0.16351975674467664,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,gender,2018,male,0.1618655133045079,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2009,18-24,0.06329164711883305,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2010,18-24,0.06269883677879165,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2011,18-24,0.06349816260346416,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2012,18-24,0.06465733834641031,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2013,18-24,0.0686205000863152,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2014,18-24,0.0719070142864399,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2015,18-24,0.07005278368052441,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2016,18-24,0.07462784985560234,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2017,18-24,0.07504940603699209,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2018,18-24,0.0742901706387943,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2009,25-34,0.07876828957634857,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2010,25-34,0.0780305199234185,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2011,25-34,0.07861901951266022,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2012,25-34,0.07841586547061703,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2013,25-34,0.08156744641557423,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2014,25-34,0.08486438673433779,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2015,25-34,0.08478373104965359,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2016,25-34,0.08910674260509313,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2017,25-34,0.08763531483401817,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2018,25-34,0.08674875441112288,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2009,35-44,0.08845725667420398,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2010,35-44,0.08762873697539274,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2011,35-44,0.08708451232481204,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2012,35-44,0.08644576125435359,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2013,35-44,0.088022933073366,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2014,35-44,0.09089250151855624,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2015,35-44,0.09028456785648428,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2016,35-44,0.09447991547493567,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2017,35-44,0.0945251727350209,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2018,35-44,0.09356891124074851,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2009,45-54,0.09785238750236608,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2010,45-54,0.09693586992461639,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2011,45-54,0.09643188477527048,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2012,45-54,0.09427037412761742,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2013,45-54,0.09620505216429581,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2014,45-54,0.09897682025024943,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2015,45-54,0.09979340770932599,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2016,45-54,0.10369417148658472,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2017,45-54,0.10342140518052796,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2018,45-54,0.10237514517807425,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2009,55-64,0.09757735309215018,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2010,55-64,0.09666341157695638,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2011,55-64,0.09552355824878779,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2012,55-64,0.09285627355060931,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2013,55-64,0.09660666003341524,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2014,55-64,0.09842879403372919,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2015,55-64,0.10001933744964712,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2016,55-64,0.10385622532778306,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2017,55-64,0.10162174613432111,NONE,total,NA
+Southeast,GA,4,fish,participation rate,age,2018,55-64,0.10059369233661594,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2009,all,0.08596281972224915,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2010,all,0.08515766373863592,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2011,all,0.08502950735081778,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2012,all,0.08409425128901149,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2013,all,0.08686955679881421,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2014,all,0.08970103021456903,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2015,all,0.08973809330390711,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2016,all,0.09392813430062105,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2017,all,0.0932454526271579,NONE,total,NA
+Southeast,GA,4,fish,participation rate,all,2018,all,0.09230213738865195,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2009,female,0.03277634585652485,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2010,female,0.03246935184361758,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2011,female,0.03218554207793784,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2012,female,0.03237566534631578,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2013,female,0.03384455457825314,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2014,female,0.03603190948131459,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2015,female,0.03588005483157983,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2016,female,0.038139565381326096,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2017,female,0.037852945259991416,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2018,female,0.037470006906645044,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2009,male,0.1411373226151687,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2010,male,0.13981538412848432,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2011,male,0.13985829275019063,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2012,male,0.1377736201585214,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2013,male,0.14195072434745212,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2014,male,0.14552570059029932,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2015,male,0.14576511729023892,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2016,male,0.1521373210403232,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2017,male,0.15107078097564547,NONE,total,NA
+Southeast,GA,4,fish,participation rate,gender,2018,male,0.14954247728069603,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2009,18-24,0.03514185006951785,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2010,18-24,0.03481269996776302,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2011,18-24,0.035223207864845854,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2012,18-24,0.035471485748427276,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2013,18-24,0.03741826411272833,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2014,18-24,0.037345095317028565,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2015,18-24,0.0375692076078068,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2016,18-24,0.03892115134838155,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2017,18-24,0.0391410083048591,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2018,18-24,0.03874503929463728,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2009,25-34,0.04267137942363492,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2010,25-34,0.042271705278661795,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2011,25-34,0.042612662502798514,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2012,25-34,0.04280267579769401,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2013,25-34,0.04462935208127803,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2014,25-34,0.04457600354225152,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2015,25-34,0.04493730396719625,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2016,25-34,0.045650716971432664,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2017,25-34,0.04489688251673889,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2018,25-34,0.044442684352150694,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2009,35-44,0.049180209977852093,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2010,35-44,0.04871957198962691,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2011,35-44,0.048715590098632945,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2012,35-44,0.04824303266189776,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2013,35-44,0.04891379328879515,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2014,35-44,0.04866258233963253,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2015,35-44,0.04858326044051729,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2016,35-44,0.04819537261305708,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2017,35-44,0.04821845890078594,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2018,35-44,0.04773065809359531,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2009,45-54,0.052034223670055085,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2010,45-54,0.05154685405286499,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2011,45-54,0.05182202161841361,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2012,45-54,0.05080984268374268,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2013,45-54,0.05108468624414036,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2014,45-54,0.05155640262791474,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2015,45-54,0.05232281331921905,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2016,45-54,0.052529146453583565,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2017,45-54,0.05239096914782909,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2018,45-54,0.051860957247357634,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2009,55-64,0.04774709894970338,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2010,55-64,0.04729988394973316,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2011,55-64,0.04753636314471913,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2012,55-64,0.04629600876545677,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2013,55-64,0.04810029627514079,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2014,55-64,0.04892590346489387,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2015,55-64,0.05062260602541241,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2016,55-64,0.05117448826707758,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2017,55-64,0.05007346298998947,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,age,2018,55-64,0.049566896081337214,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2009,all,0.04593645619525183,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2010,all,0.04550620026959586,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2011,all,0.04574585605612632,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2012,all,0.04526461432997319,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2013,all,0.04648823690476342,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2014,all,0.04665419250605695,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2015,all,0.04722865348627361,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2016,all,0.0476753928474794,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2017,all,0.047328882004754026,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,all,2018,all,0.04685008057949792,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2009,female,0.00689035441213496,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2010,female,0.006825817091208641,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2011,female,0.007104640829434668,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2012,female,0.007368203302522512,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2013,female,0.00794999454601939,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2014,female,0.008259060242013744,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2015,female,0.008944870545373889,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2016,female,0.009440097909337536,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2017,female,0.009369155254875345,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2018,female,0.00927437243517913,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2009,male,0.0864420415293864,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2010,male,0.08563239699704081,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2011,male,0.08583843590502287,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2012,male,0.08459777453329057,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2013,male,0.08652088745633436,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2014,male,0.08659141475580938,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2015,male,0.08705421130378287,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2016,male,0.08756968420887924,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2017,male,0.08695578765791269,NONE,total,NA
+Southeast,GA,4,hunt,participation rate,gender,2018,male,0.08607610165432836,NONE,total,NA
+Southeast,GA,4,all_sports,participation rate,all,2009,resident,0.09747543235532749,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2010,resident,0.09656244546320646,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2011,resident,0.09568928639147757,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2012,resident,0.09451020940815279,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2013,resident,0.09689638500233778,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2014,resident,0.09886715175086518,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2015,resident,0.09822226673472967,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2016,resident,0.10081864435879613,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2017,resident,0.1000858815784042,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2018,resident,0.09907336531522815,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2009,resident,0.08596281972224915,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2010,resident,0.08515766373863592,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2011,resident,0.08502950735081778,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2012,resident,0.08409425128901149,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2013,resident,0.08686955679881421,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2014,resident,0.08970103021456903,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2015,resident,0.08973809330390711,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2016,resident,0.09392813430062105,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2017,resident,0.0932454526271579,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2018,resident,0.09230213738865195,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2009,resident,0.04593645619525183,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2010,resident,0.04550620026959586,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2011,resident,0.04574585605612632,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2012,resident,0.04526461432997319,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2013,resident,0.04648823690476342,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2014,resident,0.04665419250605695,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2015,resident,0.04722865348627361,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2016,resident,0.0476753928474794,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2017,resident,0.047328882004754026,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2018,resident,0.04685008057949792,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2009,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2010,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2011,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2012,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2013,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2014,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2015,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2016,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2017,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,all_sports,participation rate,all,2018,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2009,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2010,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2011,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2012,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2013,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2014,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2015,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2016,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2017,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,fish,participation rate,all,2018,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2009,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2010,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2011,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2012,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2013,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2014,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2015,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2016,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2017,nonresident,0,NONE,total,FALSE
+Southeast,GA,4,hunt,participation rate,all,2018,nonresident,0,NONE,total,FALSE
