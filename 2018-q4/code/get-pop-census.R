@@ -46,7 +46,7 @@ pop_seg <- bind_rows(extrapolate_yr(pop_seg, pop, 2008, "back"), pop_seg)
 # convert sex/age to dashboard categories
 pop_seg <- pop_seg %>% mutate(
     sex_acs = sex, age_acs = age,
-    sex = ifelse(sex == "Male", 1L, 2L),
+    sex = ifelse(sex == "Male", 1L, 2L) %>% factor_sex(),
     agecat = plyr::mapvalues(age, age_map$acs_age, age_map$lic_age) %>% 
         as.integer() %>%
         factor_age()
@@ -55,7 +55,7 @@ count(pop_seg, agecat, age_acs) %>% data.frame()
 count(pop_seg, sex, sex_acs)
 
 # collapse to 7 age categories
-pop_seg <- group_by(pop_seg, state, year, sex, age) %>%
+pop_seg <- group_by(pop_seg, state, year, sex, agecat) %>%
     summarise(pop = sum(pop))
 
 # visualize
