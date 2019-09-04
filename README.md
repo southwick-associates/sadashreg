@@ -27,20 +27,22 @@ source("2019-q2/code/run.R")
 
 ## File Organization
 
-- analysis: code, data, output, etc.
-- R: functions shared between different time periods
-- doc: Part of preparing documentation for state-processed dashboards. Only should need to be updated infrequently (if ever).
-
 ### Analysis
 
-- pop: Preparation of population data
+Includes code, data, output, etc.
+
+- pop: Preparation of population data (to be updated each year)
 - Dashboard production:
     + _old (prototype work, not delivered)
     + 2018-q4 (production)
     + 2019-q2 (production)
     + etc.
+    
+### Doc
 
-### Example Data
+Part of preparing documentation for state-processed dashboards. Only should need to be updated infrequently (if ever).
+
+#### Example Data
 
 For state-processed data documentation stored on O365 (Data Dashboards > _Analyst Docs > Docs to Share with States)
 
