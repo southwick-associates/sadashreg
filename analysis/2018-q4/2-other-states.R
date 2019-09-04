@@ -3,7 +3,7 @@
 
 library(tidyverse)
 library(readxl)
-outdir <- "2018-q4/out"
+outdir <- file.path(dir, "out")
 
 # TX ----------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ outdir <- "2018-q4/out"
 # participants is missing for all_sports
 # could be incomplete in other ways....the data look strange...will need to take a closer look
 st <- "NE"
-f <- "data/NE/southwick.csv"
+f <- "analysis/2018-q4/data/NE/southwick.csv"
 x1 <- read_csv(f, n_max = 576)
 
 cols <- c("timeframe", "group", "category", "segment", "year", "metric", "value")
@@ -57,7 +57,7 @@ write_csv(x, file.path(outdir, paste0(st, ".csv")))
 # - maybe smooth out the 2015 artifact in hunting (at least temporarily)
 
 st <- "FL"
-f <- "data/FL/FL_dashboard_2018FullYear_Summary.csv.xlsx"
+f <- "analysis/2018-q4/data/FL/FL_dashboard_2018FullYear_Summary.csv.xlsx"
 x <- read_excel(f)
 names(x) <- tolower(names(x))
 
@@ -103,7 +103,7 @@ write_csv(x, file.path(outdir, paste0(st, ".csv")))
 # no all_sports group created for MA...will need to follow-up with Jody S.
 
 st <- "MA"
-x <- read_excel("data/MA/2019-02-26/Dashboard_State_Prepared_Data_MA_SA_KM.xlsx")
+x <- read_excel("analysis/2018-q4/data/MA/2019-02-26/Dashboard_State_Prepared_Data_MA_SA_KM.xlsx")
 
 # churn isn't coded consistently
 x <- mutate(x, value = case_when(

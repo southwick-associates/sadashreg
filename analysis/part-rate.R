@@ -14,6 +14,10 @@ get_pop <- function(filename, col_names) {
 
 # extrapolate segments for missing years
 # using most recent year distributions & reference population totals
+# - pop_seg: census sex-by-age table (by state)
+# - pop: census by state population
+# - yr: year to be extrapolated to
+# - direction: either "forward" (future) or "backward"
 extrapolate_yr <- function(pop_seg, pop, yr, direction) {
     if (direction == "forward") {
         yr_compare = yr - 1
@@ -36,6 +40,8 @@ extrapolate_yr <- function(pop_seg, pop, yr, direction) {
 }
 
 # relation table for acs to dashboard age categories
+# - lic_age: numeric code for dashboard age cat
+# - acs_age: category from census
 age_map <- tribble(
     ~lic_age, ~acs_age,
     1,"Under 5 years",
@@ -63,18 +69,32 @@ age_map <- tribble(
     7,"85 years and over"
 )
 
-# Estimate part. rate based on participant and population counts
-est_rate <- function(
-    part_estimate, pop_estimate, flag_rate = 50
-) {
-    joincols <- intersect(names(part_estimate), names(pop_estimate))
-    
-    out <- left_join(part_estimate, pop_estimate, by = joincols) %>%
-        mutate(rate = part / pop)
-    
-    # warn if the rate is above the threshold in any year
-    # reasonable thresholds will vary depending on priv and segment
-    filter(out, rate > (flag_rate / 100)) %>%
-        warn(paste0("Rate above ", flag_rate, "% in at least one year"))
-    select(out, -pop, -part)
+# aggregate population by segment (for joining with participant summary)
+# - pop_seg: input population data frame 
+# - seg: name of segment to be stored in output data frame
+# - var: name of input variable to summarize
+aggregate_pop <- function(pop_seg, seg = "gender", var = "sex") {
+    # identify category value (consistent with tableau input)
+    if (seg == "all") {
+        pop_seg$category <- "all"
+    } else {
+        pop_seg$category <- pop_seg[[var]]
+    }
+    # aggregate
+    group_by(pop_seg, state, year, category) %>% 
+        summarise(pop = sum(pop)) %>%
+        mutate(segment = seg) %>%
+        ungroup()
+}
+
+# add participation rate to summary table for each state
+# - dashboard: tableau formatted dashboard data
+# - pop: poulation data prepared with aggregate_pop()
+est_rate <- function(dashboard, pop) {
+    rate <- filter(dashboard, metric == "participants", segment != "residency") %>%
+        left_join(pop, by = c("state", "segment", "category", "year")) %>%
+        mutate(metric = "rate", value = value / pop) %>%
+        arrange(group, segment, category, year) %>%
+        select(-pop)
+    bind_rows(dashboard, rate)
 }
