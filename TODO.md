@@ -1,13 +1,34 @@
 
-# TODO
+# TODO - Coding
 
-- Get updated dataset to Ben (combine.R)
-    + exclude 2009 from national results (and regional when not present for 1 or more states). Probably can code this into the aggregation function actually
-    + stack in mid-year results (probably use timeframe instead of quarter column)
+- reorganize to be more hierarchical (code/2018-q4, etc.)
+    + pull population data separate from timeperiod (code/pop)
+    + look over all existing code & tidy things up
     
-- Follow-up with FL, MA, etc. (maybe give the southeast states a bit of extra time)
-    + hopefully an easy fix, analysts from both states used R, so that is a big plus
-- determine how missing values will be dealt with (probably just exclude 2009)
+- functions that are specific to metrics include in nat/reg: 
+    + probably will want 2 functions: get_region(), get_pct_change()
+    + maybe place in R/tableau_format.R
+    
+- get mid-year results together for Ben (that include real data)
+
+# TODO - Other (wed afternoon)
+
+- touch base with MA, FL, GA, IA about data requests/questions
+    + FL: data artifact in 2015, suggest an approach and see what they think
+    + MA: see about getting updated data (full-year, mid-year)
+    + GA: put a bit more pressure on about getting data
+    + IA: put a bit more pressure on about getting data
+    
+- begin writing up methodology doc, this can serve as a reference for communication
+    + can use metric defs, etc. from existing state-supplied data documentation
+    + include specifics that relate to the nat/reg dashboard
+    + also reference individual state methods docs
+
+## Methods Planning
+
+- how will regions be defined? Are some states to be included in multiple regions? Does it even really make sense to attempt to scale up?
+- will mid-year will lack participants/recruits for nat/reg?
+- will exclude 2009 (2014 recruits) from nat/regs with incomplete early years (everything except Northwest)
 
 ## Data Status Notes: 14 states
 

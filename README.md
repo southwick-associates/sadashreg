@@ -27,12 +27,15 @@ source("2019-q2/code/run.R")
 
 ## File Organization
 
+- analysis: code, data, output, etc.
 - R: functions shared between different time periods
 - doc: Part of preparing documentation for state-processed dashboards. Only should need to be updated infrequently (if ever).
-- 20xx-qx: One folder is included for each iteration of the national/regional dashboard. Includes code and output (i.e., input for Tableau)
-    + 2017-initial: initial sample data used in design (not delivered to clients)
-    + 2017-q4: first run of real data (not delivered to clients)
-    + 2018-q4-prototype: full-year through 2018, first cut (not delivered)
+
+### Analysis
+
+- pop: Preparation of population data
+- Dashboard production:
+    + _old (prototype work, not delivered)
     + 2018-q4 (production)
     + 2019-q2 (production)
     + etc.

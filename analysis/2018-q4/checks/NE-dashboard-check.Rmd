@@ -1,0 +1,136 @@
+---
+title: "Checking the dashboard data supplied by NE"
+date: '`r strftime(Sys.time(), format = "%B %d, %Y")`'
+output: 
+    html_document:
+        toc: true
+        toc_float: true
+        code_folding: hide
+---
+
+```{r setup, message=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(comment = NA)
+```
+
+## Overview
+
+Discovered some problems with the NE summary data:
+
+- participants missing for "all_sports" group
+- churn definition needs to be slightly adjusted (e.g., churn in 2018 reflects the % of 2017 license holders who don't hold a license in 2018)
+- age breakouts which sum to a greater number than overall participants & recruits
+- are hunter participant counts on the high side?
+    + I ask based on a comparison to certified hunter numbers (which admittedly might not be that reliable) https://wsfrprograms.fws.gov/Subpages/LicenseInfo/HuntingLicCertHistory20042015.pdf
+
+## Load
+
+```{r, message=FALSE}
+f <- "../../data/NE/southwick.csv"
+x1 <- read_csv(f, n_max = 576)
+
+# there is a segment-category mixup at observation 577
+cols <- c("timeframe", "group", "category", "segment", "year", "metric", "value")
+x2 <- read_csv(f, cols, skip = 577)
+x <- bind_rows(x1, x2)
+
+# some small formatting adjustments
+x <- x %>% mutate(
+    group = ifelse(group == "all", "all_sports", group),
+    segment = ifelse(segment == "ageGroup", "age", segment),
+    segment = ifelse(segment == "resident", "residency", segment)
+)
+
+# Southwick will estimate part. rate for consistency across states
+x <- filter(x, metric != "participation rate") 
+
+# dropping the gender-gender rows
+drop <- filter(x, category == "gender", segment == "gender")
+x <- anti_join(x, drop)
+
+glimpse(x)
+```
+
+## Check Completeness
+
+No participant measures included for "all_sports"
+
+```{r}
+count(x, group, metric) %>% spread(metric, n)
+```
+
+Churn is missing for 2018: This actually does make sense, but we define churn slightly differently (churn in 2018 should reflect the % of 2017 license holders who didn't hold a license in 2018).
+
+```{r}
+count(x, metric, year) %>% spread(year, n)
+```
+
+All good here
+
+```{r}
+count(x, segment, category)
+```
+
+## Check Total Values
+
+The hunting participant totals diverge from USFWS certified numbers. From https://wsfrprograms.fws.gov/Subpages/LicenseInfo/LicenseIndex.htm:
+
+- Licensed Hunters in 2015: 176K (numbers here seem high)
+- Licensed Anglers in 2015: 224K (probably jives once youths/seniors are excluded)
+
+```{r, fig.height = 6}
+filter(x, segment == "all") %>%
+    select(group, year, metric, value) %>%
+    ggplot(aes(year, value)) +
+    geom_col() +
+    facet_wrap(group ~ metric, scales = "free")
+```
+
+## Check Segment Sums
+
+The by-age recruits/participants sum to a greater number than the overall recruits/participants in some cases.
+
+```{r, message = FALSE}
+tot <- filter(x, segment == "all", metric != "churn") %>%
+    select(group, year, metric, value)
+
+seg <- filter(x, segment != "all", metric != "churn") %>%
+    group_by(group, year, metric, segment) %>%
+    summarise(value.seg = sum(value))
+
+full_join(tot, seg) %>%
+    mutate(pct_diff = (value.seg - value) / value * 100) %>%
+    filter(abs(pct_diff) > 0.01) %>%
+    knitr::kable()
+```
+
+## Check By-Segment Values
+
+I also looked at some segment-specific graphical summaries (not run here); I didn't see anything unusual.
+
+```{r, eval=FALSE}
+filter(x, segment == "gender") %>%
+    ggplot(aes(year, value, fill = category)) +
+    geom_col(position = position_dodge()) +
+    facet_wrap(group ~ metric, scales = "free")
+
+filter(x, segment == "residency") %>%
+    ggplot(aes(year, value, fill = category)) +
+    geom_col(position = position_dodge()) +
+    facet_wrap(group ~ metric, scales = "free")
+
+filter(x, segment == "age", metric == "participants") %>%
+    ggplot(aes(year, value)) +
+    geom_col() +
+    facet_grid(group ~ category, scales = "free")
+
+filter(x, segment == "age", metric == "recruits") %>%
+    ggplot(aes(year, value)) +
+    geom_col() +
+    facet_grid(group ~ category, scales = "free")
+
+filter(x, segment == "age", metric == "churn") %>%
+    ggplot(aes(year, value)) +
+    geom_col() +
+    facet_grid(group ~ category, scales = "free")
+```

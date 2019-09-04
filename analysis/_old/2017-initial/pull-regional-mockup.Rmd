@@ -1,0 +1,225 @@
+---
+title: "Pull Regional Dashboard Mockup"
+date: '`r strftime(Sys.time(), format = "%B %d, %Y")`'
+output: 
+    html_document:
+        toc: true
+        toc_float: true
+        code_folding: hide
+---
+
+Stack dashoard csv from IA, WI, aggregate to regional, and add 4 columns:
+
+- region
+- state
+- value_type (total, pct_change_yr, pct_change_all). This makes it easy to track percent changes in a metric (per year or overall)
+- aggregation: only relevant for regional
+    + SUM: for participants, recruits
+    + AVG: for churn, rate
+    
+Also adds 8 rows for comparing states (i.e., regional map) where,
+
+- segment = "state"
+- category = "IA" or "WI"
+
+Adds an additional nat/reg dashboard-specific filter:
+
+- Excludes youths and seniors
+
+```{r setup, message=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(comment = NA)
+```
+
+## Load
+
+### Wisconsin
+
+```{r}
+dash_wi <- read_csv("D:/SA/Project/WI_dashboard_2016/Analysis-WI/out/dash-out.csv")
+glimpse(dash_wi)
+```
+
+```{r}
+dash_wi %>% count(group)
+```
+
+### Iowa
+
+```{r}
+dashout <- list()
+dashout[[1]] <- read_csv("../out/dash-out.csv") %>% 
+    mutate(state = "IA") %>%
+    filter(year <= 2015)
+dashout[[2]] <- read_csv("D:/SA/Project/WI_dashboard_2016/Analysis-WI/out/dash-out.csv") %>%
+    mutate(state = "WI")
+dashout <- bind_rows(dashout) %>%
+    mutate(region = "Midwest") %>%
+    select(region, state, quarter:value)
+glimpse(dashout)
+```
+
+
+### Convert Churn & Part. Rate to point values
+
+To display these as whole points instead of fractions in Tableau
+
+```{r}
+dashout <- dashout %>%
+    mutate(value = ifelse(metric %in% c("churn", "participation rate"), value * 100, value))
+
+dashout %>%
+    group_by(metric) %>%
+    summarise(mean(value), max(value), min(value))
+```
+
+
+
+## Filter
+
+### Drop Non-hunt
+
+Exclude all permissions other than overall hunting. This keeps the testing table smaller
+
+```{r}
+dashout <- dashout %>%
+    filter(group == "hunt")
+count(dashout, state, year) %>%
+    spread(state, n)
+```
+
+### Drop youths and seniors
+
+```{r}
+dashout <- dashout %>%
+    filter(!category %in% c("0-17", "65+"))
+dashout %>% filter(segment == "age") %>% count(category)
+```
+
+### Drop monthly breakouts
+
+```{r}
+dashout <- dashout %>%
+    filter(segment != "month")
+count(dashout, segment)
+```
+
+
+```{r}
+dashout %>%
+    filter(segment != "county") %>%
+    count(metric, segment, state) %>%
+    spread(state, n)
+```
+
+
+## Build Regional Average
+
+Note that county results are excluded
+
+### Sum-based (participants, recruits)
+
+#### Not monthtly
+
+- Missing values are dropped (Iowa in 2010 for recruits)
+
+```{r}
+reg_year <- dashout %>%
+    filter(!(segment %in% c("county", "month")), 
+             metric %in% c("participants", "participants - recruited")) %>%
+    spread(state, value) %>%
+    mutate(value = IA + WI) %>%
+    filter(!is.na(value)) %>%
+    select(-IA, -WI) %>%
+    mutate(aggregation = "SUM", state = "ALL")
+reg_year %>%
+    count(metric, segment)
+```
+
+#### State Comparison
+
+Only for 2015 
+
+```{r}
+reg_compare <- dashout %>% 
+    filter(segment == "All", year == "2015") %>%
+    mutate(segment = "state", category = state, state = "ALL", aggregation = "NONE")
+reg_compare %>%
+    select(metric, segment, category, value) %>%
+    spread(category, value)
+```
+
+### Avg-based (churn, rate)
+
+```{r}
+reg_avg <- dashout %>%
+    filter(!(segment %in% c("county", "month")),  
+           !(metric %in% c("participants", "participants - recruited"))) %>%
+    group_by(region, quarter, group, metric, segment, year, category) %>%
+    summarise(value = sum(value)) %>%
+    ungroup() %>%
+    mutate(aggregation = "AVG", state = "ALL")
+reg_avg %>%
+    count(metric, segment)
+```
+
+### Stack
+
+```{r}
+reg <- bind_rows(reg_year, reg_avg, reg_compare)
+reg %>% glimpse()
+```
+
+```{r}
+dashout <- dashout %>%
+    mutate(aggregation = "NONE") %>%
+    bind_rows(reg)
+glimpse(dashout)
+```
+
+
+## Add % change metric
+
+- Will add a new column flag (type = "total" vs "pct_change")
+- It isn't needed for counties
+
+### Estimate
+
+```{r}
+pct_change <- dashout %>%
+    arrange(region, state, metric, segment, category, year) %>%
+    group_by(region, state, metric, segment, category) %>%
+    mutate(
+        pct_change_yr = (value - lag(value)) / value,
+        pct_change_yr = ifelse(is.na(pct_change_yr), 0, pct_change_yr),
+        pct_change_all = cumsum(pct_change_yr)
+    ) %>%
+    ungroup()
+pct_change %>%
+    filter(metric == "participants", category == "55-64") %>%
+    select(state, metric:pct_change_all) %>%
+    tail(10)
+```
+
+### Combine
+
+```{r}
+pct_change <- pct_change %>%
+    select(-value) %>%
+    gather(value_type, value, pct_change_yr, pct_change_all)
+dashout <- dashout %>%
+    mutate(value_type = "total") %>%
+    bind_rows(pct_change) 
+glimpse(dashout)
+```
+
+
+## Output to CSV
+
+```{r}
+write.csv(dashout, "../out/dash-out-reg_2018-09-10.csv")
+```
+
+```{r}
+sessionInfo()
+```
