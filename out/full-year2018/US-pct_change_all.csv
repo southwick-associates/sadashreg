@@ -1,1021 +1,1021 @@
-region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type,"segment == ""residency"""
-US,US,4,all_sports,churn,age,2010,18-24,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2011,18-24,-7.910847695333117e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2012,18-24,-0.04622139808952264,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2013,18-24,0.004338786336362725,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2014,18-24,-0.011885453294379887,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2015,18-24,-0.004655397747677519,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2016,18-24,-0.0034862391860605675,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2017,18-24,0.03207808512602403,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2018,18-24,0.04659029385439247,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2010,25-34,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2011,25-34,-7.424138503630838e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2012,25-34,-0.04527077783431518,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2013,25-34,0.030949129909751023,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2014,25-34,0.007135626260821543,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2015,25-34,0.005393497191927927,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2016,25-34,0.018376743061622736,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2017,25-34,0.058089574525382104,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2018,25-34,0.08330729674613271,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2010,35-44,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2011,35-44,-4.667224622761613e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2012,35-44,-0.04548080526701981,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2013,35-44,0.014601822774858952,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2014,35-44,-0.0014999564921174548,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2015,35-44,-0.012528147907824479,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2016,35-44,-0.010751104624766472,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2017,35-44,0.020060123817000505,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2018,35-44,0.05130544175411451,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2010,45-54,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2011,45-54,-3.102818802129028e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2012,45-54,-0.04048408886375076,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2013,45-54,0.03302851437601564,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2014,45-54,0.024534532582580943,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2015,45-54,0.011690048123343141,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2016,45-54,0.02294340005732243,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2017,45-54,0.06248139048407763,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2018,45-54,0.09410137370183919,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2010,55-64,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2011,55-64,-3.6983187434795606e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2012,55-64,-0.011841189492892059,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2013,55-64,0.04236488135064685,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2014,55-64,0.027348249222547628,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2015,55-64,0.0028383598179081843,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2016,55-64,0.001415468927666981,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2017,55-64,0.05009324182997487,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,age,2018,55-64,0.0858513921464087,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2010,all,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2011,all,-6.299117912469782e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2012,all,-0.04508811873746554,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2013,all,0.02857684895316211,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2014,all,0.014367817407158834,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2015,all,-6.205212786113848e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2016,all,0.006355058702973099,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2017,all,0.05111206640767956,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,all,2018,all,0.0879081898529659,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2010,female,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2011,female,-4.200392739027577e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2012,female,-0.07181488650090002,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2013,female,-0.006549623652652755,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2014,female,-0.027974588193693133,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2015,female,-0.03120192711182246,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2016,female,-0.03828905106677254,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2017,female,-0.005391294163162437,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2018,female,0.02710394111093969,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2010,male,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2011,male,-6.497143507565435e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2012,male,-0.03754895568142663,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2013,male,0.030337884016849545,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2014,male,0.01734730604781295,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2015,male,-0.004515234225123282,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2016,male,0.0063573770065710146,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2017,male,0.05429949049190953,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,gender,2018,male,0.09342314425477027,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2010,nonresident,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2011,nonresident,-2.3217918268820435e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2012,nonresident,-0.005898752494754984,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2013,nonresident,0.028815582539954993,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2014,nonresident,0.014975483737871264,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2015,nonresident,0.0018547918381495274,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2016,nonresident,0.009068880497073351,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2017,nonresident,0.02654187238742923,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2018,nonresident,0.045608793959149754,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2010,resident,0,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2011,resident,-4.184807680777994e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2012,resident,-0.06401866272977916,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2013,resident,0.03536752366967998,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2014,resident,0.022254606809444275,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2015,resident,0.0031593990222637714,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2016,resident,0.0017791293530317908,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2017,resident,0.0539170021840802,AVG,pct_change_all,NA
-US,US,4,all_sports,churn,residency,2018,resident,0.09146406741958518,AVG,pct_change_all,NA
-US,US,4,all_sports,participants,age,2009,18-24,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2010,18-24,0.04071631369502262,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2011,18-24,0.053094842303835973,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2012,18-24,0.10136233133723929,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2013,18-24,0.13346307642997832,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2014,18-24,0.1559262990078553,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2015,18-24,0.14032669313585674,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2016,18-24,0.131126230291247,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2017,18-24,0.10268510539545776,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2018,18-24,0.06861391284690034,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2009,25-34,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2010,25-34,0.047420835343115496,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2011,25-34,0.0572720496761972,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2012,25-34,0.08726226559896696,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2013,25-34,0.10715836234435883,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2014,25-34,0.13456451711446757,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2015,25-34,0.13424346492220077,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2016,25-34,0.13375629949467155,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2017,25-34,0.11125056373491139,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2018,25-34,0.08408197233485923,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2009,35-44,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2010,35-44,0.017012170517026134,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2011,35-44,-0.00268886223009758,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2012,35-44,0.006193839899496864,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2013,35-44,0.0030015609892044904,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2014,35-44,0.009982499813843634,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2015,35-44,-0.0018663267754658623,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2016,35-44,-0.005543671737160678,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2017,35-44,-0.01629898871520815,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2018,35-44,-0.0336846079314721,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2009,45-54,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2010,45-54,0.03556252957866426,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2011,45-54,0.024505220738422023,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2012,45-54,0.027504321080967214,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2013,45-54,0.020557114337067934,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2014,45-54,0.019259634084786637,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2015,45-54,0.006523980763668159,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2016,45-54,-0.0017520763270447224,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2017,45-54,-0.020203431922445697,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2018,45-54,-0.04740373818942648,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2009,55-64,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2010,55-64,0.07041447619654533,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2011,55-64,0.09064309926841521,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2012,55-64,0.12220291087684854,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2013,55-64,0.14657825175566785,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2014,55-64,0.1772535743538311,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2015,55-64,0.1946860382783118,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2016,55-64,0.20440171761054715,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2017,55-64,0.20172946969032565,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,age,2018,55-64,0.19406267845633007,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2009,all,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2010,all,0.04042076414285464,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2011,all,0.0407303261614765,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2012,all,0.06194850009150975,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2013,all,0.07273264941464798,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2014,all,0.08880763313501082,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2015,all,0.0846872110630969,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2016,all,0.0826959080738721,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2017,all,0.06712640305794332,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,all,2018,all,0.04534849575582185,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2009,female,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2010,female,0.02219859710653222,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2011,female,0.03937719957614293,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2012,female,0.08916709292058163,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2013,female,0.10815814802966159,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2014,female,0.14859549272604156,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2015,female,0.1476655911598087,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2016,female,0.15076634939517233,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2017,female,0.13144655290286378,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2018,female,0.10373157801001578,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2009,male,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2010,male,0.04544698552434035,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2011,male,0.041207031136793235,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2012,male,0.054553773000600415,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2013,male,0.06299562978584079,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2014,male,0.07204473607401657,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2015,male,0.06697557584984458,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2016,male,0.06346379006577257,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2017,male,0.04902154819519301,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,gender,2018,male,0.02901937365056146,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2009,nonresident,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2010,nonresident,0.14137997793610818,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2011,nonresident,0.14231873980863105,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2012,nonresident,0.17219070146359733,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2013,nonresident,0.21011521450990642,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2014,nonresident,0.23062057177387255,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2015,nonresident,0.246606384185401,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2016,nonresident,0.2511600576225751,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2017,nonresident,0.2450624356393816,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2018,nonresident,0.23501066182558084,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2009,resident,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2010,resident,0.019043899665379282,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2011,resident,0.01920424272236236,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2012,resident,0.038368515608411875,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2013,resident,0.04264345939680917,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2014,resident,0.05762028264342289,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2015,resident,0.04848896479565405,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2016,resident,0.0448251690153117,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2017,resident,0.026815271235238025,SUM,pct_change_all,NA
-US,US,4,all_sports,participants,residency,2018,resident,0.0019795232435706575,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2014,18-24,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2015,18-24,-0.02528072866677426,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2016,18-24,-0.036297003349950785,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2017,18-24,-0.07602279119956157,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2018,18-24,-0.12283894990469149,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2014,25-34,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2015,25-34,-4.987382863271367e-4,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2016,25-34,2.439402629913946e-4,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2017,25-34,-0.034501536347750945,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2018,25-34,-0.07640578105405067,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2014,35-44,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2015,35-44,-0.007263424471515475,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2016,35-44,0.002063068579505379,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2017,35-44,-0.011451434499703258,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2018,35-44,-0.04311167494799954,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2014,45-54,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2015,45-54,0.0015745582874011727,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2016,45-54,0.006748502177301223,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2017,45-54,-0.01700266598896858,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2018,45-54,-0.05822698376322173,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2014,55-64,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2015,55-64,0.01942279799782633,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2016,55-64,0.03960636017161909,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2017,55-64,0.031927639177206826,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,age,2018,55-64,0.005636991347564915,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,all,2014,all,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,all,2015,all,-0.0030636850961955485,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,all,2016,all,0.0012687015970141648,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,all,2017,all,-0.023285128954179307,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,all,2018,all,-0.060788378020017374,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2014,female,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2015,female,-0.012453508295373814,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2016,female,-0.02463168986600782,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2017,female,-0.06304336889389786,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2018,female,-0.10475208389047913,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2014,male,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2015,male,0.0013198487093728768,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2016,male,0.01325398730904301,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2017,male,-0.00507148124985741,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,gender,2018,male,-0.04072327253747649,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2014,nonresident,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2015,nonresident,0.014297055478869109,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2016,nonresident,0.020214498962771013,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2017,nonresident,0.009720811998495811,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2018,nonresident,-0.009329883594171242,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2014,resident,0,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2015,resident,-0.014844762399351579,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2016,resident,-0.011619820483777464,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2017,resident,-0.04602353300863812,SUM,pct_change_all,NA
-US,US,4,all_sports,participants - recruited,residency,2018,resident,-0.09677387934580473,SUM,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2009,18-24,0,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2010,18-24,0.006701147022938779,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2011,18-24,-0.0021085582299506366,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2012,18-24,0.04939626879450831,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2013,18-24,0.05762876302094257,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2014,18-24,0.07018790079470848,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2015,18-24,0.052015588977859566,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2016,18-24,0.040408729948139765,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2017,18-24,0.006725648543737904,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2018,18-24,-0.047513128712034426,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2009,25-34,0,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2010,25-34,0.02066272435639209,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2011,25-34,0.004929468382344433,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2012,25-34,0.02947848019587914,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2013,25-34,0.019625945053435144,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2014,25-34,0.03198856113486947,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2015,25-34,0.028667887488305177,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2016,25-34,0.020837151545669955,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2017,25-34,-0.01745550723692325,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2018,25-34,-0.0620995719618557,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2009,35-44,0,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2010,35-44,-0.009659002484903903,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2011,35-44,-0.02485491915861672,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2012,35-44,0.005535024539022182,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2013,35-44,-0.0023519323993007567,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2014,35-44,0.005475771086360489,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2015,35-44,-8.572630027556634e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2016,35-44,-0.0018991578898910316,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2017,35-44,-0.019755102601012632,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2018,35-44,-0.049390955515855636,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2009,45-54,0,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2010,45-54,-0.0012606590650838336,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2011,45-54,-0.02816545731689126,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2012,45-54,-0.02081923617157511,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2013,45-54,-0.041601756288787824,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2014,45-54,-0.03897946379511607,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2015,45-54,-0.04031474433718406,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2016,45-54,-0.03860694933643704,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2017,45-54,-0.05369416549057264,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2018,45-54,-0.09886391711227627,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2009,55-64,0,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2010,55-64,0.038818810672951384,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2011,55-64,0.014139023587169678,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2012,55-64,0.01755781526421896,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2013,55-64,-0.003444044872120824,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2014,55-64,-0.0019731357461588734,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2015,55-64,-7.555172361606841e-5,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2016,55-64,-0.0033665641925915875,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2017,55-64,-0.02273280356270989,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,age,2018,55-64,-0.04227611819948012,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2009,all,0,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2010,all,0.008028681472333312,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2011,all,-0.01108830848715169,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2012,all,0.009812039233966263,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2013,all,-0.0022306539600749804,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2014,all,0.004459164002406384,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2015,all,-3.241187036539207e-4,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2016,all,-0.004178468993026712,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2017,all,-0.028140982445637716,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2018,all,-0.06567796299300742,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2009,female,0,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2010,female,-0.030726625327692058,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2011,female,-0.039116377832023236,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2012,female,0.019649001830731223,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2013,female,0.014542449542461105,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2014,female,0.04690207761432663,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2015,female,0.04769129282850782,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2016,female,0.05277333132531899,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2017,female,0.025316287950862906,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2018,female,-0.022296330791585082,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2009,male,0,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2010,male,0.01739339670462314,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2011,male,-0.00466667457339736,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2012,male,0.006175498258574502,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2013,male,-0.007608982572594635,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2014,male,-0.008061440560877297,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2015,male,-0.01464985917659882,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2016,male,-0.021481813361346795,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2017,male,-0.04463985624532965,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,gender,2018,male,-0.07919695985640984,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2010,18-24,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2011,18-24,-3.387801552466871e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2012,18-24,-0.0718741570063535,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2013,18-24,-0.02810751158888792,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2014,18-24,-0.036405614663129526,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2015,18-24,-0.027323635768462532,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2016,18-24,-0.02685805277888355,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2017,18-24,0.005180641159712109,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2018,18-24,0.02633510744554833,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2010,25-34,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2011,25-34,-2.5082906764984037e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2012,25-34,-0.08318932612671807,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2013,25-34,0.0028435277813327726,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2014,25-34,-0.014197677962521539,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2015,25-34,-0.011498540616142194,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2016,25-34,-0.011499165811085992,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2017,25-34,0.03568518236946832,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2018,25-34,0.0685775857311184,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2010,35-44,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2011,35-44,-2.4041828829300213e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2012,35-44,-0.09126804748579874,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2013,35-44,-0.008464175694714146,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2014,35-44,-0.016182959660775015,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2015,35-44,-0.023167046266379165,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2016,35-44,-0.023507461888938937,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2017,35-44,0.002111339985110107,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2018,35-44,0.05244647924166193,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2010,45-54,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2011,45-54,-6.156222907175013e-5,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2012,45-54,-0.08471796520706291,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2013,45-54,-0.0028960351194033548,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2014,45-54,0.0073100447602718315,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2015,45-54,0.0037109931815609213,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2016,45-54,0.007779273509479849,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2017,45-54,0.04927456544241207,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2018,45-54,0.1031914717438572,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2010,55-64,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2011,55-64,-4.3415378343872015e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2012,55-64,-0.07295566963268346,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2013,55-64,0.010905457532599822,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2014,55-64,0.01850857657041955,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2015,55-64,0.012485190666973497,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2016,55-64,-0.0015558100404802501,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2017,55-64,0.05068466356564019,AVG,pct_change_all,NA
-US,US,4,fish,churn,age,2018,55-64,0.10989065391200652,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2010,all,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2011,all,-3.3265751916470345e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2012,all,-0.09504926362816361,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2013,all,-0.00468584982376461,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2014,all,-0.0043563617176028266,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2015,all,-0.0073767293945227385,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2016,all,-0.011749266037749844,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2017,all,0.033522621094382324,AVG,pct_change_all,NA
-US,US,4,fish,churn,all,2018,all,0.08487653845745906,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2010,female,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2011,female,-2.3046634735317134e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2012,female,-0.0862015966592712,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2013,female,-0.012055024848648453,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2014,female,-0.030273281664232425,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2015,female,-0.029907492169554222,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2016,female,-0.033788352625133015,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2017,female,-0.003477036273264587,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2018,female,0.03856757786788189,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2010,male,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2011,male,-3.251269585048562e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2012,male,-0.09945514579492884,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2013,male,-0.007858406996896538,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2014,male,-6.183533903889548e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2015,male,-0.007431795775871275,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2016,male,-0.013453448955345426,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2017,male,0.037752780862838245,AVG,pct_change_all,NA
-US,US,4,fish,churn,gender,2018,male,0.09261984944040873,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2010,nonresident,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2011,nonresident,-2.1916287653869827e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2012,nonresident,-0.04404885959722915,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2013,nonresident,-0.01626398244852888,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2014,nonresident,-0.03174388572795708,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2015,nonresident,-0.019885722317943225,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2016,nonresident,-0.006346745125880027,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2017,nonresident,0.013219021858228059,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2018,nonresident,0.042454444966632934,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2010,resident,0,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2011,resident,-1.8230813181263205e-4,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2012,resident,-0.10526807911127238,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2013,resident,0.0033114124250975584,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2014,resident,0.005711412933983869,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2015,resident,-0.00604547662090509,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2016,resident,-0.017562158572477046,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2017,resident,0.03406413166449167,AVG,pct_change_all,NA
-US,US,4,fish,churn,residency,2018,resident,0.08665486993584996,AVG,pct_change_all,NA
-US,US,4,fish,participants,age,2009,18-24,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2010,18-24,-0.00909111474359155,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2011,18-24,0.008080344430747184,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2012,18-24,0.06018967403894076,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2013,18-24,0.09764566136075961,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2014,18-24,0.12641535159396003,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2015,18-24,0.11192719122353181,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2016,18-24,0.11162830806277543,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2017,18-24,0.08511204542330296,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2018,18-24,0.04981906559064194,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2009,25-34,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2010,25-34,6.941180082027397e-4,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2011,25-34,0.0129738330120607,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2012,25-34,0.04605954969325699,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2013,25-34,0.06745172517800593,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2014,25-34,0.09957739638393966,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2015,25-34,0.10108400511115308,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2016,25-34,0.10689268397509281,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2017,25-34,0.08488805747342004,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2018,25-34,0.05606141170787061,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2009,35-44,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2010,35-44,-0.021813911559678555,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2011,35-44,-0.03666686062733315,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2012,35-44,-0.024314490929487252,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2013,35-44,-0.023288806627413988,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2014,35-44,-0.01185903945610476,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2015,35-44,-0.02005296093251638,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2016,35-44,-0.014450607669288032,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2017,35-44,-0.02172805191292916,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2018,35-44,-0.03879581319299281,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2009,45-54,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2010,45-54,-0.003571193912526313,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2011,45-54,-0.011017279008194972,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2012,45-54,-0.005739645652708611,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2013,45-54,-0.00808675450003267,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2014,45-54,-0.0069471389077745745,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2015,45-54,-0.018305391719734533,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2016,45-54,-0.019719336130127545,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2017,45-54,-0.03484613778765201,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2018,45-54,-0.060814716207125814,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2009,55-64,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2010,55-64,0.03324948950632138,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2011,55-64,0.05901564855174876,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2012,55-64,0.09438143131509921,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2013,55-64,0.12469746162423287,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2014,55-64,0.1580732106939757,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2015,55-64,0.1746671304611639,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2016,55-64,0.18867361985454464,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2017,55-64,0.18633702385229625,SUM,pct_change_all,NA
-US,US,4,fish,participants,age,2018,55-64,0.17730266402107914,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2009,all,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2010,all,-4.750652631669594e-4,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2011,all,0.00401848142224331,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2012,all,0.028403447501968732,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2013,all,0.043419081155533945,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2014,all,0.06343641430761904,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2015,all,0.06090161707623425,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2016,all,0.06592278055313533,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2017,all,0.05229520520441663,SUM,pct_change_all,NA
-US,US,4,fish,participants,all,2018,all,0.030129865826197266,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2009,female,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2010,female,-0.011061381809814187,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2011,female,0.008400281226987064,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2012,female,0.05442674509328002,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2013,female,0.07327839391249723,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2014,female,0.11357073863827057,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2015,female,0.11220996007804702,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2016,female,0.12023183366722731,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2017,female,0.10415011281198053,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2018,female,0.07857288089243758,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2009,male,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2010,male,0.002756984023871224,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2011,male,0.002743672546271522,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2012,male,0.020485539475496955,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2013,male,0.03429094075298362,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2014,male,0.04787982917661416,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2015,male,0.0449629879579989,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2016,male,0.04900614965535191,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2017,male,0.03618160747794567,SUM,pct_change_all,NA
-US,US,4,fish,participants,gender,2018,male,0.015129006819372617,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2009,nonresident,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2010,nonresident,0.12470455371322084,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2011,nonresident,0.1339046354749795,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2012,nonresident,0.16773271643164506,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2013,nonresident,0.21490275771795792,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2014,nonresident,0.23360213817003994,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2015,nonresident,0.24888861790415576,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2016,nonresident,0.25415191180585367,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2017,nonresident,0.24794017543025385,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2018,nonresident,0.23335552790160857,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2009,resident,0,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2010,resident,-0.02599491151302575,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2011,resident,-0.022609321955223482,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2012,resident,-4.602248341375949e-4,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2013,resident,0.006855143991472747,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2014,resident,0.02720058506943127,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2015,resident,0.02023628962612558,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2016,resident,0.025195922833997613,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2017,resident,0.009683262438244971,SUM,pct_change_all,NA
-US,US,4,fish,participants,residency,2018,resident,-0.0144272723167968,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2014,18-24,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2015,18-24,-0.020703341853072474,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2016,18-24,-0.023314235272032767,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2017,18-24,-0.06142092527521344,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2018,18-24,-0.10925162702624301,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2014,25-34,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2015,25-34,0.006207982673415277,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2016,25-34,0.013536277407515236,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2017,25-34,-0.019115459802385083,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2018,25-34,-0.06421454526267936,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2014,35-44,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2015,35-44,6.105049974967111e-4,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2016,35-44,0.01840707413722462,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2017,35-44,0.00838745982459568,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2018,35-44,-0.026371890129508063,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2014,45-54,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2015,45-54,0.005769240425223301,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2016,45-54,0.019056852940178476,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2017,45-54,-0.003593219260446834,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2018,45-54,-0.04672969119479423,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2014,55-64,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2015,55-64,0.02098881870029943,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2016,55-64,0.046463976002393506,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2017,55-64,0.041224509956734885,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,age,2018,55-64,0.009697152241134294,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,all,2014,all,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,all,2015,all,0.0021335842716911687,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,all,2016,all,0.013392014438275358,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,all,2017,all,-0.009143600772123499,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,all,2018,all,-0.049325858054619,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2014,female,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2015,female,-0.006290622710771372,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2016,female,-0.013004978730922608,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2017,female,-0.04289546184287161,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2018,female,-0.08313747765231065,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2014,male,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2015,male,0.006118785458524925,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2016,male,0.025774652736338534,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2017,male,0.0065865851579594995,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,gender,2018,male,-0.03356876998653395,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2014,nonresident,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2015,nonresident,0.017189817612481458,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2016,nonresident,0.02534496799838277,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2017,nonresident,0.014676020110995162,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2018,nonresident,-0.010848204550915466,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2014,resident,0,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2015,resident,-0.007078699720906586,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2016,resident,0.006124907283214979,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2017,resident,-0.023811830059294,SUM,pct_change_all,NA
-US,US,4,fish,participants - recruited,residency,2018,resident,-0.07331773966243947,SUM,pct_change_all,NA
-US,US,4,fish,participation rate,age,2009,18-24,0,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2010,18-24,-0.04312483245327429,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2011,18-24,-0.052150480488609444,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2012,18-24,0.011074080094828836,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2013,18-24,0.020943908854877662,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2014,18-24,0.03891492062544262,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2015,18-24,0.019521348190053123,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2016,18-24,0.015294803162191667,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2017,18-24,-0.019353316321897476,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2018,18-24,-0.08004910595441142,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2009,25-34,0,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2010,25-34,-0.030837838257148954,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2011,25-34,-0.04914270220638502,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2012,25-34,-0.016473083992064885,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2013,25-34,-0.029858112360295664,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2014,25-34,-0.014479814848249346,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2015,25-34,-0.017696446633738334,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2016,25-34,-0.020478002696787692,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2017,25-34,-0.06076921888543701,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2018,25-34,-0.11300671624316484,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2009,35-44,0,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2010,35-44,-0.052778138182436526,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2011,35-44,-0.06738512915179024,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2012,35-44,-0.0273810043049868,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2013,35-44,-0.03463630396233837,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2014,35-44,-0.02352715150576557,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2015,35-44,-0.028286134414288303,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2016,35-44,-0.02115564208580873,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2017,35-44,-0.037262100322682394,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2018,35-44,-0.07234919224334996,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2009,45-54,0,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2010,45-54,-0.036029618093266276,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2011,45-54,-0.06351951165714981,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2012,45-54,-0.04929895041903982,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2013,45-54,-0.06865051034606211,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2014,45-54,-0.06567210962700652,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2015,45-54,-0.06825970204589693,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2016,45-54,-0.06018815962237675,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2017,45-54,-0.07387097430127908,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2018,45-54,-0.12327657320297401,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2009,55-64,0,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2010,55-64,0.004491215636976234,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2011,55-64,-0.019324120420171093,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2012,55-64,-0.007989433494273376,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2013,55-64,-0.026250359143791726,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2014,55-64,-0.0231992044075828,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2015,55-64,-0.02416459614982287,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2016,55-64,-0.02415238771483016,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2017,55-64,-0.04481370170297059,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,age,2018,55-64,-0.07000365181287307,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2009,all,0,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2010,all,-0.03191230558802242,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2011,all,-0.0514839294682409,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2012,all,-0.022080075871448564,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2013,all,-0.03368494181510205,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2014,all,-0.024413640353977764,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2015,all,-0.029663108448914788,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2016,all,-0.027491646221410915,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2017,all,-0.0517030514613395,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,all,2018,all,-0.09493483548873556,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2009,female,0,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2010,female,-0.04243394365814687,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2011,female,-0.0523099851944987,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2012,female,0.005651888153341823,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2013,female,-0.003319096896814514,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2014,female,0.028219452606063046,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2015,female,0.02727396068607272,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2016,female,0.03658018762160896,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2017,female,0.010782291039259387,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2018,female,-0.03999974173048356,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2009,male,0,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2010,male,-0.0284943071020347,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2011,male,-0.05110709236979881,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2012,male,-0.03048354986883348,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2013,male,-0.042744843465764674,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2014,male,-0.040459642464107284,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2015,male,-0.0472130172728168,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2016,male,-0.04768526262785107,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2017,male,-0.07148014554481288,AVG,pct_change_all,NA
-US,US,4,fish,participation rate,gender,2018,male,-0.11215397645657844,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2010,18-24,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2011,18-24,-4.882344866745056e-4,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2012,18-24,-0.04491879437594452,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2013,18-24,0.004893559120708072,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2014,18-24,-0.009252119654849596,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2015,18-24,-0.003970956980291196,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2016,18-24,-0.002350942136927663,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2017,18-24,0.03324587455980632,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2018,18-24,0.04804452056081018,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2010,25-34,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2011,25-34,-8.333596695438664e-4,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2012,25-34,-0.0446940104225632,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2013,25-34,0.03143941526123957,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2014,25-34,0.009394131208661591,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2015,25-34,0.005568960196678538,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2016,25-34,0.019478618214528183,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2017,25-34,0.05911906220909692,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2018,25-34,0.084857097757062655,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2010,35-44,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2011,35-44,-9.5924973519628e-4,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2012,35-44,-0.0455788251411133,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2013,35-44,0.013536446357289908,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2014,35-44,-7.819361197434089e-4,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2015,35-44,-0.014457118904228706,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2016,35-44,-0.011884394461329405,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2017,35-44,0.01830136093829201,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2018,35-44,0.04989102627140667,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2010,45-54,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2011,45-54,-7.690925942346268e-4,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2012,45-54,-0.039983285469882064,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2013,45-54,0.03278905902924369,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2014,45-54,0.02624386629885025,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2015,45-54,0.010954604869691216,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2016,45-54,0.02299637259876485,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2017,45-54,0.06248120873715247,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2018,45-54,0.0947487091075625,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2010,55-64,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2011,55-64,-0.0014067388254686178,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2012,55-64,-0.010595625117269952,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2013,55-64,0.042273216946695266,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2014,55-64,0.028255868776403223,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2015,55-64,0.001163438990789785,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2016,55-64,1.0697690525818216e-4,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2017,55-64,0.049190397584263475,AVG,pct_change_all,NA
-US,US,4,hunt,churn,age,2018,55-64,0.08584938347411426,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2010,all,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2011,all,-0.0010511502097406335,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2012,all,-0.044631770956238666,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2013,all,0.028374105953612845,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2014,all,0.01611021141436262,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2015,all,-0.0017327845944299057,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2016,all,0.00608393285588627,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2017,all,0.0509316011255108,AVG,pct_change_all,NA
-US,US,4,hunt,churn,all,2018,all,0.08872157648052591,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2010,female,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2011,female,-0.0011475501897086882,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2012,female,-0.07231170658118279,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2013,female,-0.007792011298303271,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2014,female,-0.02773595890965598,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2015,female,-0.03408511227742732,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2016,female,-0.03984000562547897,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2017,female,-0.0077169123334620785,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2018,female,0.025110722042333517,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2010,male,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2011,male,-0.0011164214899480648,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2012,male,-0.03703871686443877,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2013,male,0.029915750464536348,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2014,male,0.018958775981212997,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2015,male,-0.005648783866817916,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2016,male,0.005857204049480755,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2017,male,0.05315270527053044,AVG,pct_change_all,NA
-US,US,4,hunt,churn,gender,2018,male,0.09280494121354031,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2010,nonresident,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2011,nonresident,-0.001951677257566992,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2012,nonresident,-0.0069121133193545846,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2013,nonresident,0.026859703239733707,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2014,nonresident,0.014290911635092003,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2015,nonresident,-2.623986528683946e-4,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2016,nonresident,0.007196512497684936,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2017,nonresident,0.02463614739103003,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2018,nonresident,0.04367203253615551,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2010,resident,0,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2011,resident,-7.252725603019879e-4,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2012,resident,-0.06343227987442036,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2013,resident,0.03551799335642697,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2014,resident,0.024279209764884298,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2015,resident,0.0019415652342123415,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2016,resident,0.001416375438978607,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2017,resident,0.053626004407116144,AVG,pct_change_all,NA
-US,US,4,hunt,churn,residency,2018,resident,0.09246805960699506,AVG,pct_change_all,NA
-US,US,4,hunt,participants,age,2009,18-24,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2010,18-24,-0.015416185193368384,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2011,18-24,-0.02244743880035024,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2012,18-24,0.0059537480902513325,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2013,18-24,0.034581563175524466,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2014,18-24,0.030111353143672658,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2015,18-24,0.02376392377798623,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2016,18-24,0.017604619519531867,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2017,18-24,-3.4535190875840255e-4,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2018,18-24,-0.024066972067959682,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2009,25-34,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2010,25-34,-0.012938660729632807,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2011,25-34,-0.012783171507889334,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2012,25-34,0.0096114964519226909,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2013,25-34,0.03473489898889283,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2014,25-34,0.036394920342468676,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2015,25-34,0.046407039257195526,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2016,25-34,0.04310837514975351,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2017,25-34,0.02878441695124739,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2018,25-34,0.011263033891859243,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2009,35-44,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2010,35-44,-0.0386017999825234,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2011,35-44,-0.07002636491280939,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2012,35-44,-0.07912856192702927,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2013,35-44,-0.08324646103246601,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2014,35-44,-0.10383475525751819,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2015,35-44,-0.11165218924653149,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2016,35-44,-0.12463162320350177,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2017,35-44,-0.1328961581125384,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2018,35-44,-0.14083200421367476,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2009,45-54,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2010,45-54,-0.01786290822515907,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2011,45-54,-0.03106026699865897,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2012,45-54,-0.042279699506719,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2013,45-54,-0.05736944761642969,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2014,45-54,-0.08239529497818132,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2015,45-54,-0.09350976302448036,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2016,45-54,-0.10908363809634178,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2017,45-54,-0.12834744312332041,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2018,45-54,-0.15416318281334343,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2009,55-64,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2010,55-64,0.016307150178008545,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2011,55-64,0.04152883866903344,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2012,55-64,0.05916026240525432,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2013,55-64,0.08080740281478453,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2014,55-64,0.0952607837062276,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2015,55-64,0.12308174853020498,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2016,55-64,0.13250241515904812,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2017,55-64,0.13358770387751137,SUM,pct_change_all,NA
-US,US,4,hunt,participants,age,2018,55-64,0.12900093399243523,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2009,all,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2010,all,-0.01507818309971282,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2011,all,-0.021546475651851478,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2012,all,-0.014831294803113891,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2013,all,-0.006321139619322449,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2014,all,-0.014267754627128346,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2015,all,-0.011730315580827176,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2016,all,-0.01768056302308541,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2017,all,-0.028973446565199172,SUM,pct_change_all,NA
-US,US,4,hunt,participants,all,2018,all,-0.04445453228060456,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2009,female,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2010,female,0.001797574070391728,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2011,female,0.028105423948518934,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2012,female,0.09933921203418825,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2013,female,0.13897163002331966,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2014,female,0.16852487553163617,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2015,female,0.20661818592532102,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2016,female,0.2181740707824323,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2017,female,0.2095354904780099,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2018,female,0.18434664706492648,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2009,male,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2010,male,-0.016904408900862672,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2011,male,-0.026987076973055836,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2012,male,-0.027648205783059356,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2013,male,-0.0229521921286872,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2014,male,-0.03565435355303471,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2015,male,-0.037818915586117,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2016,male,-0.04617762100613121,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2017,male,-0.05784301175659536,SUM,pct_change_all,NA
-US,US,4,hunt,participants,gender,2018,male,-0.07195752998991987,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2009,nonresident,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2010,nonresident,-0.03837800839854228,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2011,nonresident,-0.06145504985872881,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2012,nonresident,-0.058934511408702414,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2013,nonresident,-0.05290435670675313,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2014,nonresident,-0.03840939597044661,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2015,nonresident,0.003576585607761331,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2016,nonresident,0.01829718965121759,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2017,nonresident,0.023248153268915828,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2018,nonresident,0.025428886024101406,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2009,resident,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2010,resident,-0.012345754004755375,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2011,resident,-0.016917634938162396,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2012,resident,-0.009732407352996419,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2013,resident,-9.456333036225745e-4,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2014,resident,-0.011388538083460237,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2015,resident,-0.013349743267748999,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2016,resident,-0.0217610581024936,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2017,resident,-0.035033047166619445,SUM,pct_change_all,NA
-US,US,4,hunt,participants,residency,2018,resident,-0.05270574093087715,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2014,18-24,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2015,18-24,-0.028575704425987614,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2016,18-24,-0.03274147275340321,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2017,18-24,-0.08134077049125726,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2018,18-24,-0.13618922010012696,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2014,25-34,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2015,25-34,-0.0028389038097312294,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2016,25-34,-0.016412210920096388,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2017,25-34,-0.05180833182218761,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2018,25-34,-0.08678603395479251,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2014,35-44,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2015,35-44,-0.011710229202707496,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2016,35-44,-0.021605257719873972,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2017,35-44,-0.041896707691612946,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2018,35-44,-0.05978058134105306,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2014,45-54,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2015,45-54,1.7694191648942841e-4,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2016,45-54,-0.007593516572575332,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2017,45-54,-0.038726750911572044,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2018,45-54,-0.0797785620674882,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2014,55-64,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2015,55-64,0.011626978135366985,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2016,55-64,0.025214591848083633,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2017,55-64,0.018123414698734932,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,age,2018,55-64,-0.007530539299724785,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,all,2014,all,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,all,2015,all,-0.007178697401758656,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,all,2016,all,-0.013803275894535002,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,all,2017,all,-0.04336352417487463,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,all,2018,all,-0.07590912290604036,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2014,female,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2015,female,-0.006095732986909163,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2016,female,-0.009740414265815256,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2017,female,-0.051946322588426824,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2018,female,-0.11277706588506066,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2014,male,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2015,male,-0.007485846683624666,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2016,male,-0.014956764360751093,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2017,male,-0.04091159425357998,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,gender,2018,male,-0.06552733104574371,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2014,nonresident,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2015,nonresident,0.0219942930545886,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2016,nonresident,0.031416307178015065,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2017,nonresident,0.032110183953103937,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2018,nonresident,0.029137131397513553,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2014,resident,0,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2015,resident,-0.018606366265782187,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2016,resident,-0.031776775311680966,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2017,resident,-0.07396102800471477,SUM,pct_change_all,NA
-US,US,4,hunt,participants - recruited,residency,2018,resident,-0.11939863359652582,SUM,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2009,18-24,0,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2010,18-24,-0.02586770605067899,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2011,18-24,-0.03957150618493814,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2012,18-24,-0.0037848349048119363,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2013,18-24,0.01040027216295095,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2014,18-24,-8.555925277182533e-4,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2015,18-24,-0.008709297618485505,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2016,18-24,-0.016161655511875355,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2017,18-24,-0.04076501738068056,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2018,18-24,-0.08484270758236637,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2009,25-34,0,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2010,25-34,-0.021322293234106792,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2011,25-34,-0.03772299904041212,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2012,25-34,-0.020297200214236897,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2013,25-34,-0.02040648111140581,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2014,25-34,-0.026590769213688404,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2015,25-34,-0.01820219303641433,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2016,25-34,-0.02554372141923726,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2017,25-34,-0.05337154728746474,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2018,25-34,-0.08718727840673444,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2009,35-44,0,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2010,35-44,-0.04334922665911478,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2011,35-44,-0.05958998859853349,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2012,35-44,-0.04342994132947795,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2013,35-44,-0.04525619575872136,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2014,35-44,-0.05894669576845784,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2015,35-44,-0.059851327560995427,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2016,35-44,-0.06701872134670563,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2017,35-44,-0.08252033381909121,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2018,35-44,-0.10078911615069476,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2009,45-54,0,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2010,45-54,-0.026718405588117076,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2011,45-54,-0.04674629125403358,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2012,45-54,-0.05133974034535518,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2013,45-54,-0.07051624119793963,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2014,45-54,-0.0850482167737472,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2015,45-54,-0.08037237649470284,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2016,45-54,-0.08190821205688789,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2017,45-54,-0.09358652440428121,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2018,45-54,-0.1347713175954249,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2009,55-64,0,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2010,55-64,0.005693813014931474,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2011,55-64,-0.0067192943824849706,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2012,55-64,-0.015998725007413412,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2013,55-64,-0.03356054825095383,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2014,55-64,-0.04677436532930412,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2015,55-64,-0.0374914120882134,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2016,55-64,-0.04105980865896777,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2017,55-64,-0.05568750898327097,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,age,2018,55-64,-0.07040696761673568,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2009,all,0,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2010,all,-0.023309259005486613,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2011,all,-0.03926389502622853,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2012,all,-0.03052288942691086,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2013,all,-0.037397883233618395,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2014,all,-0.04970514928435266,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2015,all,-0.04663531681836707,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2016,all,-0.05204134101340511,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2017,all,-0.0701642712446014,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,all,2018,all,-0.09975230118353495,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2009,female,0,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2010,female,-0.010049744481599862,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2011,female,-3.2886932445517353e-4,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2012,female,0.08343260900008403,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2013,female,0.09960343202872245,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2014,female,0.1223623353238894,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2015,female,0.1576584126880991,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2016,female,0.1738538958585835,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2017,female,0.1583588309960765,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2018,female,0.1126275923889221,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2009,male,0,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2010,male,-0.02488036400454501,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2011,male,-0.044228582143576986,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2012,male,-0.04529317815455109,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2013,male,-0.05511716378091619,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2014,male,-0.07255078585007868,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2015,male,-0.07454786756164955,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2016,male,-0.08384531366369435,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2017,male,-0.10270480194194705,AVG,pct_change_all,NA
-US,US,4,hunt,participation rate,gender,2018,male,-0.12967416791542183,AVG,pct_change_all,NA
-US,US,4,all_sports,participation rate,all,2009,resident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2010,resident,0.008028681472333312,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2011,resident,-0.01108830848715169,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2012,resident,0.009812039233966263,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2013,resident,-0.0022306539600749804,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2014,resident,0.004459164002406384,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2015,resident,-3.241187036539207e-4,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2016,resident,-0.004178468993026712,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2017,resident,-0.028140982445637716,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2018,resident,-0.06567796299300742,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2009,resident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2010,resident,-0.03191230558802242,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2011,resident,-0.0514839294682409,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2012,resident,-0.022080075871448564,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2013,resident,-0.03368494181510205,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2014,resident,-0.024413640353977764,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2015,resident,-0.029663108448914788,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2016,resident,-0.027491646221410915,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2017,resident,-0.0517030514613395,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2018,resident,-0.09493483548873556,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2009,resident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2010,resident,-0.023309259005486613,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2011,resident,-0.03926389502622853,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2012,resident,-0.03052288942691086,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2013,resident,-0.037397883233618395,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2014,resident,-0.04970514928435266,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2015,resident,-0.04663531681836707,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2016,resident,-0.05204134101340511,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2017,resident,-0.0701642712446014,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2018,resident,-0.09975230118353495,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2009,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2010,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2011,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2012,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2013,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2014,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2015,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2016,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2017,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,all_sports,participation rate,all,2018,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2009,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2010,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2011,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2012,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2013,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2014,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2015,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2016,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2017,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,fish,participation rate,all,2018,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2009,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2010,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2011,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2012,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2013,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2014,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2015,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2016,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2017,nonresident,0,AVG,pct_change_all,FALSE
-US,US,4,hunt,participation rate,all,2018,nonresident,0,AVG,pct_change_all,FALSE
+region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type
+US,US,4,all_sports,churn,age,2010,18-24,0,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2011,18-24,-0.009493262170949961,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2012,18-24,-0.04082305842807128,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2013,18-24,-0.015922131403513468,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2014,18-24,-0.030269645212080233,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2015,18-24,-0.012162243218906977,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2016,18-24,-0.008155272261845972,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2017,18-24,0.009153390414255754,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2018,18-24,0.008527271448607099,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2010,25-34,0,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2011,25-34,-0.008416110316030118,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2012,25-34,-0.032695909573309416,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2013,25-34,-0.0037228948948141733,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2014,25-34,-0.02187672854839027,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2015,25-34,-0.0029413534602282885,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2016,25-34,0.002988933674784532,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2017,25-34,0.022256310959105404,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2018,25-34,0.022078610561341767,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2010,35-44,0,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2011,35-44,-0.00550339339204905,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2012,35-44,-0.03136313782203495,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2013,35-44,-0.0014092390028623194,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2014,35-44,-0.02034879106835645,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2015,35-44,-0.0015022319987292952,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2016,35-44,0.0034046988194142416,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2017,35-44,0.02325749251577026,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2018,35-44,0.030328902104902924,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2010,45-54,0,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2011,45-54,-0.003643838477360717,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2012,45-54,-0.03852882212819732,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2013,45-54,-0.004165070880293421,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2014,45-54,-0.026672874255531952,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2015,45-54,-0.011207764996369446,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2016,45-54,-0.001674205821277178,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2017,45-54,0.01376854310547161,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2018,45-54,0.01912602196307659,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2010,55-64,0,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2011,55-64,-0.004157500776356105,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2012,55-64,-0.041226828375209176,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2013,55-64,-0.009561280941440584,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2014,55-64,-0.03616263957365548,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2015,55-64,-0.02743139376694168,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2016,55-64,-0.02181026682192183,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2017,55-64,-0.003991125705106661,AVG,pct_change_all
+US,US,4,all_sports,churn,age,2018,55-64,-0.0031473211151052966,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2010,all,0,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2011,all,-0.0066652369521623235,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2012,all,-0.037798319837296986,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2013,all,-0.005476026114783741,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2014,all,-0.024650130168931892,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2015,all,-0.008403658238250383,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2016,all,-0.00278983415170566,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2017,all,0.014800345270822298,AVG,pct_change_all
+US,US,4,all_sports,churn,all,2018,all,0.016382145657531443,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2010,female,0,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2011,female,-0.004733960128969182,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2012,female,-0.04169217549028757,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2013,female,-0.012370361669946074,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2014,female,-0.03633725344171433,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2015,female,-0.022252099968070864,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2016,female,-0.02690564247757215,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2017,female,-0.00876249286487302,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2018,female,-0.0048660709160933645,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2010,male,0,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2011,male,-0.006873456206851748,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2012,male,-0.0356438769077107,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2013,male,-0.006320548395418194,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2014,male,-0.0255539692350786,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2015,male,-0.012047022543350754,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2016,male,-0.004048956279402966,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2017,male,0.022455610396435205,AVG,pct_change_all
+US,US,4,all_sports,churn,gender,2018,male,0.02887594118355844,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2010,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2011,nonresident,-0.002512417230872982,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2012,nonresident,-0.017743664215489702,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2013,nonresident,1.4630042949796305e-4,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2014,nonresident,-0.013700809632451977,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2015,nonresident,-0.008601547923428427,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2016,nonresident,-0.002638411695019074,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2017,nonresident,0.0027293022453529305,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2018,nonresident,6.189926958393437e-4,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2010,resident,0,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2011,resident,-0.004290751558515587,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2012,resident,-0.03968656264348697,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2013,resident,-0.0017908034840118763,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2014,resident,-0.016899982734584325,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2015,resident,-0.0022139453185272898,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2016,resident,-5.941878711083169e-5,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2017,resident,0.01940884333425908,AVG,pct_change_all
+US,US,4,all_sports,churn,residency,2018,resident,0.018164696144449006,AVG,pct_change_all
+US,US,4,all_sports,participants,age,2009,18-24,0,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2010,18-24,0.04071631369502262,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2011,18-24,0.053094842303835973,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2012,18-24,0.10136233133723929,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2013,18-24,0.13346307642997832,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2014,18-24,0.1559262990078553,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2015,18-24,0.14032669313585674,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2016,18-24,0.131126230291247,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2017,18-24,0.10268510539545776,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2018,18-24,0.06861391284690034,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2009,25-34,0,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2010,25-34,0.047420835343115496,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2011,25-34,0.0572720496761972,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2012,25-34,0.08726226559896696,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2013,25-34,0.10715836234435883,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2014,25-34,0.13456451711446757,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2015,25-34,0.13424346492220077,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2016,25-34,0.13375629949467155,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2017,25-34,0.11125056373491139,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2018,25-34,0.08408197233485923,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2009,35-44,0,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2010,35-44,0.017012170517026134,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2011,35-44,-0.00268886223009758,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2012,35-44,0.006193839899496864,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2013,35-44,0.0030015609892044904,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2014,35-44,0.009982499813843634,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2015,35-44,-0.0018663267754658623,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2016,35-44,-0.005543671737160678,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2017,35-44,-0.01629898871520815,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2018,35-44,-0.0336846079314721,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2009,45-54,0,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2010,45-54,0.03556252957866426,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2011,45-54,0.024505220738422023,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2012,45-54,0.027504321080967214,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2013,45-54,0.020557114337067934,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2014,45-54,0.019259634084786637,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2015,45-54,0.006523980763668159,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2016,45-54,-0.0017520763270447224,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2017,45-54,-0.020203431922445697,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2018,45-54,-0.04740373818942648,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2009,55-64,0,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2010,55-64,0.07041447619654533,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2011,55-64,0.09064309926841521,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2012,55-64,0.12220291087684854,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2013,55-64,0.14657825175566785,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2014,55-64,0.1772535743538311,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2015,55-64,0.1946860382783118,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2016,55-64,0.20440171761054715,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2017,55-64,0.20172946969032565,SUM,pct_change_all
+US,US,4,all_sports,participants,age,2018,55-64,0.19406267845633007,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2009,all,0,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2010,all,0.04042076414285464,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2011,all,0.0407303261614765,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2012,all,0.06194850009150975,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2013,all,0.07273264941464798,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2014,all,0.08880763313501082,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2015,all,0.0846872110630969,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2016,all,0.0826959080738721,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2017,all,0.06712640305794332,SUM,pct_change_all
+US,US,4,all_sports,participants,all,2018,all,0.04534849575582185,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2009,female,0,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2010,female,0.02219859710653222,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2011,female,0.03937719957614293,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2012,female,0.08916709292058163,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2013,female,0.10815814802966159,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2014,female,0.14859549272604156,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2015,female,0.1476655911598087,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2016,female,0.15076634939517233,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2017,female,0.13144655290286378,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2018,female,0.10373157801001578,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2009,male,0,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2010,male,0.04544698552434035,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2011,male,0.041207031136793235,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2012,male,0.054553773000600415,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2013,male,0.06299562978584079,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2014,male,0.07204473607401657,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2015,male,0.06697557584984458,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2016,male,0.06346379006577257,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2017,male,0.04902154819519301,SUM,pct_change_all
+US,US,4,all_sports,participants,gender,2018,male,0.02901937365056146,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2009,nonresident,0,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2010,nonresident,0.14137997793610818,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2011,nonresident,0.14231873980863105,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2012,nonresident,0.17219070146359733,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2013,nonresident,0.21011521450990642,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2014,nonresident,0.23062057177387255,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2015,nonresident,0.246606384185401,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2016,nonresident,0.2511600576225751,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2017,nonresident,0.2450624356393816,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2018,nonresident,0.23501066182558084,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2009,resident,0,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2010,resident,0.019043899665379282,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2011,resident,0.01920424272236236,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2012,resident,0.038368515608411875,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2013,resident,0.04264345939680917,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2014,resident,0.05762028264342289,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2015,resident,0.04848896479565405,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2016,resident,0.0448251690153117,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2017,resident,0.026815271235238025,SUM,pct_change_all
+US,US,4,all_sports,participants,residency,2018,resident,0.0019795232435706575,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2014,18-24,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2015,18-24,-0.02528072866677426,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2016,18-24,-0.036297003349950785,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2017,18-24,-0.07602279119956157,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2018,18-24,-0.12283894990469149,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2014,25-34,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2015,25-34,-4.987382863271367e-4,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2016,25-34,2.439402629913946e-4,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2017,25-34,-0.034501536347750945,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2018,25-34,-0.07640578105405067,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2014,35-44,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2015,35-44,-0.007263424471515475,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2016,35-44,0.002063068579505379,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2017,35-44,-0.011451434499703258,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2018,35-44,-0.04311167494799954,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2014,45-54,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2015,45-54,0.0015745582874011727,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2016,45-54,0.006748502177301223,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2017,45-54,-0.01700266598896858,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2018,45-54,-0.05822698376322173,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2014,55-64,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2015,55-64,0.01942279799782633,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2016,55-64,0.03960636017161909,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2017,55-64,0.031927639177206826,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,age,2018,55-64,0.005636991347564915,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,all,2014,all,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,all,2015,all,-0.0030636850961955485,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,all,2016,all,0.0012687015970141648,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,all,2017,all,-0.023285128954179307,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,all,2018,all,-0.060788378020017374,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2014,female,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2015,female,-0.012453508295373814,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2016,female,-0.02463168986600782,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2017,female,-0.06304336889389786,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2018,female,-0.10475208389047913,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2014,male,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2015,male,0.0013198487093728768,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2016,male,0.01325398730904301,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2017,male,-0.00507148124985741,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,gender,2018,male,-0.04072327253747649,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2014,nonresident,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2015,nonresident,0.014297055478869109,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2016,nonresident,0.020214498962771013,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2017,nonresident,0.009720811998495811,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2018,nonresident,-0.009329883594171242,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2014,resident,0,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2015,resident,-0.014844762399351579,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2016,resident,-0.011619820483777464,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2017,resident,-0.04602353300863812,SUM,pct_change_all
+US,US,4,all_sports,participants - recruited,residency,2018,resident,-0.09677387934580473,SUM,pct_change_all
+US,US,4,all_sports,participation rate,age,2009,18-24,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2010,18-24,0.006701147022938779,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2011,18-24,-0.0021085582299506366,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2012,18-24,0.04939626879450831,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2013,18-24,0.05762876302094257,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2014,18-24,0.07018790079470848,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2015,18-24,0.052015588977859566,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2016,18-24,0.040408729948139765,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2017,18-24,0.006725648543737904,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2018,18-24,-0.047513128712034426,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2009,25-34,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2010,25-34,0.02066272435639209,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2011,25-34,0.004929468382344433,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2012,25-34,0.02947848019587914,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2013,25-34,0.019625945053435144,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2014,25-34,0.03198856113486947,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2015,25-34,0.028667887488305177,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2016,25-34,0.020837151545669955,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2017,25-34,-0.01745550723692325,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2018,25-34,-0.0620995719618557,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2009,35-44,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2010,35-44,-0.009659002484903903,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2011,35-44,-0.02485491915861672,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2012,35-44,0.005535024539022182,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2013,35-44,-0.0023519323993007567,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2014,35-44,0.005475771086360489,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2015,35-44,-8.572630027556634e-4,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2016,35-44,-0.0018991578898910316,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2017,35-44,-0.019755102601012632,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2018,35-44,-0.049390955515855636,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2009,45-54,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2010,45-54,-0.0012606590650838336,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2011,45-54,-0.02816545731689126,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2012,45-54,-0.02081923617157511,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2013,45-54,-0.041601756288787824,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2014,45-54,-0.03897946379511607,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2015,45-54,-0.04031474433718406,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2016,45-54,-0.03860694933643704,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2017,45-54,-0.05369416549057264,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2018,45-54,-0.09886391711227627,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2009,55-64,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2010,55-64,0.038818810672951384,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2011,55-64,0.014139023587169678,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2012,55-64,0.01755781526421896,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2013,55-64,-0.003444044872120824,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2014,55-64,-0.0019731357461588734,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2015,55-64,-7.555172361606841e-5,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2016,55-64,-0.0033665641925915875,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2017,55-64,-0.02273280356270989,AVG,pct_change_all
+US,US,4,all_sports,participation rate,age,2018,55-64,-0.04227611819948012,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2009,all,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2010,all,0.008028681472333312,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2011,all,-0.01108830848715169,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2012,all,0.009812039233966263,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2013,all,-0.0022306539600749804,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2014,all,0.004459164002406384,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2015,all,-3.241187036539207e-4,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2016,all,-0.004178468993026712,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2017,all,-0.028140982445637716,AVG,pct_change_all
+US,US,4,all_sports,participation rate,all,2018,all,-0.06567796299300742,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2009,female,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2010,female,-0.030726625327692058,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2011,female,-0.039116377832023236,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2012,female,0.019649001830731223,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2013,female,0.014542449542461105,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2014,female,0.04690207761432663,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2015,female,0.04769129282850782,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2016,female,0.05277333132531899,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2017,female,0.025316287950862906,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2018,female,-0.022296330791585082,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2009,male,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2010,male,0.01739339670462314,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2011,male,-0.00466667457339736,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2012,male,0.006175498258574502,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2013,male,-0.007608982572594635,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2014,male,-0.008061440560877297,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2015,male,-0.01464985917659882,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2016,male,-0.021481813361346795,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2017,male,-0.04463985624532965,AVG,pct_change_all
+US,US,4,all_sports,participation rate,gender,2018,male,-0.07919695985640984,AVG,pct_change_all
+US,US,4,fish,churn,age,2010,18-24,0,AVG,pct_change_all
+US,US,4,fish,churn,age,2011,18-24,-0.004718284758193423,AVG,pct_change_all
+US,US,4,fish,churn,age,2012,18-24,-0.03782046486192419,AVG,pct_change_all
+US,US,4,fish,churn,age,2013,18-24,-0.018125511236126622,AVG,pct_change_all
+US,US,4,fish,churn,age,2014,18-24,-0.036029201495252586,AVG,pct_change_all
+US,US,4,fish,churn,age,2015,18-24,-0.021863004414508565,AVG,pct_change_all
+US,US,4,fish,churn,age,2016,18-24,-0.023950898154808525,AVG,pct_change_all
+US,US,4,fish,churn,age,2017,18-24,-0.0064580922833885265,AVG,pct_change_all
+US,US,4,fish,churn,age,2018,18-24,8.602678305250164e-5,AVG,pct_change_all
+US,US,4,fish,churn,age,2010,25-34,0,AVG,pct_change_all
+US,US,4,fish,churn,age,2011,25-34,-0.0032963960802020404,AVG,pct_change_all
+US,US,4,fish,churn,age,2012,25-34,-0.03182029925688704,AVG,pct_change_all
+US,US,4,fish,churn,age,2013,25-34,-0.0035817935279761045,AVG,pct_change_all
+US,US,4,fish,churn,age,2014,25-34,-0.023162317351615107,AVG,pct_change_all
+US,US,4,fish,churn,age,2015,25-34,-0.010009184985760082,AVG,pct_change_all
+US,US,4,fish,churn,age,2016,25-34,-0.009374236328884187,AVG,pct_change_all
+US,US,4,fish,churn,age,2017,25-34,0.011412977439358358,AVG,pct_change_all
+US,US,4,fish,churn,age,2018,25-34,0.015298859565349286,AVG,pct_change_all
+US,US,4,fish,churn,age,2010,35-44,0,AVG,pct_change_all
+US,US,4,fish,churn,age,2011,35-44,-0.003234227335413128,AVG,pct_change_all
+US,US,4,fish,churn,age,2012,35-44,-0.03283099315020752,AVG,pct_change_all
+US,US,4,fish,churn,age,2013,35-44,-0.0030139791199217053,AVG,pct_change_all
+US,US,4,fish,churn,age,2014,35-44,-0.023008359292087954,AVG,pct_change_all
+US,US,4,fish,churn,age,2015,35-44,-0.010438656112301724,AVG,pct_change_all
+US,US,4,fish,churn,age,2016,35-44,-0.011477134878456781,AVG,pct_change_all
+US,US,4,fish,churn,age,2017,35-44,0.0060336299678523785,AVG,pct_change_all
+US,US,4,fish,churn,age,2018,35-44,0.017728679393919925,AVG,pct_change_all
+US,US,4,fish,churn,age,2010,45-54,0,AVG,pct_change_all
+US,US,4,fish,churn,age,2011,45-54,-8.186687845538166e-4,AVG,pct_change_all
+US,US,4,fish,churn,age,2012,45-54,-0.03749797946737219,AVG,pct_change_all
+US,US,4,fish,churn,age,2013,45-54,-0.00478608768355433,AVG,pct_change_all
+US,US,4,fish,churn,age,2014,45-54,-0.026690895822178897,AVG,pct_change_all
+US,US,4,fish,churn,age,2015,45-54,-0.014667421908268665,AVG,pct_change_all
+US,US,4,fish,churn,age,2016,45-54,-0.010660686830289666,AVG,pct_change_all
+US,US,4,fish,churn,age,2017,45-54,0.00597898143785781,AVG,pct_change_all
+US,US,4,fish,churn,age,2018,45-54,0.017106811064844706,AVG,pct_change_all
+US,US,4,fish,churn,age,2010,55-64,0,AVG,pct_change_all
+US,US,4,fish,churn,age,2011,55-64,-0.005523486156003769,AVG,pct_change_all
+US,US,4,fish,churn,age,2012,55-64,-0.04772307723793536,AVG,pct_change_all
+US,US,4,fish,churn,age,2013,55-64,-0.01570263457916263,AVG,pct_change_all
+US,US,4,fish,churn,age,2014,55-64,-0.04046191191152038,AVG,pct_change_all
+US,US,4,fish,churn,age,2015,55-64,-0.03025829793767985,AVG,pct_change_all
+US,US,4,fish,churn,age,2016,55-64,-0.03167175660240657,AVG,pct_change_all
+US,US,4,fish,churn,age,2017,55-64,-0.012205138656185239,AVG,pct_change_all
+US,US,4,fish,churn,age,2018,55-64,-0.00456803603281741,AVG,pct_change_all
+US,US,4,fish,churn,all,2010,all,0,AVG,pct_change_all
+US,US,4,fish,churn,all,2011,all,-0.004122855323158149,AVG,pct_change_all
+US,US,4,fish,churn,all,2012,all,-0.03950293543965094,AVG,pct_change_all
+US,US,4,fish,churn,all,2013,all,-0.008198523833445,AVG,pct_change_all
+US,US,4,fish,churn,all,2014,all,-0.028012494912019976,AVG,pct_change_all
+US,US,4,fish,churn,all,2015,all,-0.015219106295743912,AVG,pct_change_all
+US,US,4,fish,churn,all,2016,all,-0.016086642294413526,AVG,pct_change_all
+US,US,4,fish,churn,all,2017,all,0.0020489880555578524,AVG,pct_change_all
+US,US,4,fish,churn,all,2018,all,0.008966508563576402,AVG,pct_change_all
+US,US,4,fish,churn,gender,2010,female,0,AVG,pct_change_all
+US,US,4,fish,churn,gender,2011,female,-0.0029324337145533843,AVG,pct_change_all
+US,US,4,fish,churn,gender,2012,female,-0.038736331488420914,AVG,pct_change_all
+US,US,4,fish,churn,gender,2013,female,-0.00855036123503835,AVG,pct_change_all
+US,US,4,fish,churn,gender,2014,female,-0.03117144231790848,AVG,pct_change_all
+US,US,4,fish,churn,gender,2015,female,-0.016560588892812058,AVG,pct_change_all
+US,US,4,fish,churn,gender,2016,female,-0.023484512130538635,AVG,pct_change_all
+US,US,4,fish,churn,gender,2017,female,-0.004512762493943936,AVG,pct_change_all
+US,US,4,fish,churn,gender,2018,female,0.0011718659311470035,AVG,pct_change_all
+US,US,4,fish,churn,gender,2010,male,0,AVG,pct_change_all
+US,US,4,fish,churn,gender,2011,male,-0.004019411416494203,AVG,pct_change_all
+US,US,4,fish,churn,gender,2012,male,-0.038493903302681196,AVG,pct_change_all
+US,US,4,fish,churn,gender,2013,male,-0.008608182183164788,AVG,pct_change_all
+US,US,4,fish,churn,gender,2014,male,-0.028245183032939367,AVG,pct_change_all
+US,US,4,fish,churn,gender,2015,male,-0.01798616422659602,AVG,pct_change_all
+US,US,4,fish,churn,gender,2016,male,-0.01757482031549189,AVG,pct_change_all
+US,US,4,fish,churn,gender,2017,male,0.011820217450368847,AVG,pct_change_all
+US,US,4,fish,churn,gender,2018,male,0.020406334389057226,AVG,pct_change_all
+US,US,4,fish,churn,residency,2010,nonresident,0,AVG,pct_change_all
+US,US,4,fish,churn,residency,2011,nonresident,-0.003189156679714356,AVG,pct_change_all
+US,US,4,fish,churn,residency,2012,nonresident,-0.023001440761703556,AVG,pct_change_all
+US,US,4,fish,churn,residency,2013,nonresident,-0.005708579027612994,AVG,pct_change_all
+US,US,4,fish,churn,residency,2014,nonresident,-0.021927076733233724,AVG,pct_change_all
+US,US,4,fish,churn,residency,2015,nonresident,-0.009457535396424258,AVG,pct_change_all
+US,US,4,fish,churn,residency,2016,nonresident,0.048943184086551364,AVG,pct_change_all
+US,US,4,fish,churn,residency,2017,nonresident,0.07866020343723346,AVG,pct_change_all
+US,US,4,fish,churn,residency,2018,nonresident,0.04503807619276219,AVG,pct_change_all
+US,US,4,fish,churn,residency,2010,resident,0,AVG,pct_change_all
+US,US,4,fish,churn,residency,2011,resident,-0.0022511686442902054,AVG,pct_change_all
+US,US,4,fish,churn,residency,2012,resident,-0.03988327813692208,AVG,pct_change_all
+US,US,4,fish,churn,residency,2013,resident,-0.005290671793062331,AVG,pct_change_all
+US,US,4,fish,churn,residency,2014,resident,-0.020813442571159194,AVG,pct_change_all
+US,US,4,fish,churn,residency,2015,resident,-0.010547181405841408,AVG,pct_change_all
+US,US,4,fish,churn,residency,2016,resident,-0.015821870254100718,AVG,pct_change_all
+US,US,4,fish,churn,residency,2017,resident,0.0040898891145123625,AVG,pct_change_all
+US,US,4,fish,churn,residency,2018,resident,0.008937107640663291,AVG,pct_change_all
+US,US,4,fish,participants,age,2009,18-24,0,SUM,pct_change_all
+US,US,4,fish,participants,age,2010,18-24,-0.00909111474359155,SUM,pct_change_all
+US,US,4,fish,participants,age,2011,18-24,0.008080344430747184,SUM,pct_change_all
+US,US,4,fish,participants,age,2012,18-24,0.06018967403894076,SUM,pct_change_all
+US,US,4,fish,participants,age,2013,18-24,0.09764566136075961,SUM,pct_change_all
+US,US,4,fish,participants,age,2014,18-24,0.12641535159396003,SUM,pct_change_all
+US,US,4,fish,participants,age,2015,18-24,0.11192719122353181,SUM,pct_change_all
+US,US,4,fish,participants,age,2016,18-24,0.11162830806277543,SUM,pct_change_all
+US,US,4,fish,participants,age,2017,18-24,0.08511204542330296,SUM,pct_change_all
+US,US,4,fish,participants,age,2018,18-24,0.04981906559064194,SUM,pct_change_all
+US,US,4,fish,participants,age,2009,25-34,0,SUM,pct_change_all
+US,US,4,fish,participants,age,2010,25-34,6.941180082027397e-4,SUM,pct_change_all
+US,US,4,fish,participants,age,2011,25-34,0.0129738330120607,SUM,pct_change_all
+US,US,4,fish,participants,age,2012,25-34,0.04605954969325699,SUM,pct_change_all
+US,US,4,fish,participants,age,2013,25-34,0.06745172517800593,SUM,pct_change_all
+US,US,4,fish,participants,age,2014,25-34,0.09957739638393966,SUM,pct_change_all
+US,US,4,fish,participants,age,2015,25-34,0.10108400511115308,SUM,pct_change_all
+US,US,4,fish,participants,age,2016,25-34,0.10689268397509281,SUM,pct_change_all
+US,US,4,fish,participants,age,2017,25-34,0.08488805747342004,SUM,pct_change_all
+US,US,4,fish,participants,age,2018,25-34,0.05606141170787061,SUM,pct_change_all
+US,US,4,fish,participants,age,2009,35-44,0,SUM,pct_change_all
+US,US,4,fish,participants,age,2010,35-44,-0.021813911559678555,SUM,pct_change_all
+US,US,4,fish,participants,age,2011,35-44,-0.03666686062733315,SUM,pct_change_all
+US,US,4,fish,participants,age,2012,35-44,-0.024314490929487252,SUM,pct_change_all
+US,US,4,fish,participants,age,2013,35-44,-0.023288806627413988,SUM,pct_change_all
+US,US,4,fish,participants,age,2014,35-44,-0.01185903945610476,SUM,pct_change_all
+US,US,4,fish,participants,age,2015,35-44,-0.02005296093251638,SUM,pct_change_all
+US,US,4,fish,participants,age,2016,35-44,-0.014450607669288032,SUM,pct_change_all
+US,US,4,fish,participants,age,2017,35-44,-0.02172805191292916,SUM,pct_change_all
+US,US,4,fish,participants,age,2018,35-44,-0.03879581319299281,SUM,pct_change_all
+US,US,4,fish,participants,age,2009,45-54,0,SUM,pct_change_all
+US,US,4,fish,participants,age,2010,45-54,-0.003571193912526313,SUM,pct_change_all
+US,US,4,fish,participants,age,2011,45-54,-0.011017279008194972,SUM,pct_change_all
+US,US,4,fish,participants,age,2012,45-54,-0.005739645652708611,SUM,pct_change_all
+US,US,4,fish,participants,age,2013,45-54,-0.00808675450003267,SUM,pct_change_all
+US,US,4,fish,participants,age,2014,45-54,-0.0069471389077745745,SUM,pct_change_all
+US,US,4,fish,participants,age,2015,45-54,-0.018305391719734533,SUM,pct_change_all
+US,US,4,fish,participants,age,2016,45-54,-0.019719336130127545,SUM,pct_change_all
+US,US,4,fish,participants,age,2017,45-54,-0.03484613778765201,SUM,pct_change_all
+US,US,4,fish,participants,age,2018,45-54,-0.060814716207125814,SUM,pct_change_all
+US,US,4,fish,participants,age,2009,55-64,0,SUM,pct_change_all
+US,US,4,fish,participants,age,2010,55-64,0.03324948950632138,SUM,pct_change_all
+US,US,4,fish,participants,age,2011,55-64,0.05901564855174876,SUM,pct_change_all
+US,US,4,fish,participants,age,2012,55-64,0.09438143131509921,SUM,pct_change_all
+US,US,4,fish,participants,age,2013,55-64,0.12469746162423287,SUM,pct_change_all
+US,US,4,fish,participants,age,2014,55-64,0.1580732106939757,SUM,pct_change_all
+US,US,4,fish,participants,age,2015,55-64,0.1746671304611639,SUM,pct_change_all
+US,US,4,fish,participants,age,2016,55-64,0.18867361985454464,SUM,pct_change_all
+US,US,4,fish,participants,age,2017,55-64,0.18633702385229625,SUM,pct_change_all
+US,US,4,fish,participants,age,2018,55-64,0.17730266402107914,SUM,pct_change_all
+US,US,4,fish,participants,all,2009,all,0,SUM,pct_change_all
+US,US,4,fish,participants,all,2010,all,-4.750652631669594e-4,SUM,pct_change_all
+US,US,4,fish,participants,all,2011,all,0.00401848142224331,SUM,pct_change_all
+US,US,4,fish,participants,all,2012,all,0.028403447501968732,SUM,pct_change_all
+US,US,4,fish,participants,all,2013,all,0.043419081155533945,SUM,pct_change_all
+US,US,4,fish,participants,all,2014,all,0.06343641430761904,SUM,pct_change_all
+US,US,4,fish,participants,all,2015,all,0.06090161707623425,SUM,pct_change_all
+US,US,4,fish,participants,all,2016,all,0.06592278055313533,SUM,pct_change_all
+US,US,4,fish,participants,all,2017,all,0.05229520520441663,SUM,pct_change_all
+US,US,4,fish,participants,all,2018,all,0.030129865826197266,SUM,pct_change_all
+US,US,4,fish,participants,gender,2009,female,0,SUM,pct_change_all
+US,US,4,fish,participants,gender,2010,female,-0.011061381809814187,SUM,pct_change_all
+US,US,4,fish,participants,gender,2011,female,0.008400281226987064,SUM,pct_change_all
+US,US,4,fish,participants,gender,2012,female,0.05442674509328002,SUM,pct_change_all
+US,US,4,fish,participants,gender,2013,female,0.07327839391249723,SUM,pct_change_all
+US,US,4,fish,participants,gender,2014,female,0.11357073863827057,SUM,pct_change_all
+US,US,4,fish,participants,gender,2015,female,0.11220996007804702,SUM,pct_change_all
+US,US,4,fish,participants,gender,2016,female,0.12023183366722731,SUM,pct_change_all
+US,US,4,fish,participants,gender,2017,female,0.10415011281198053,SUM,pct_change_all
+US,US,4,fish,participants,gender,2018,female,0.07857288089243758,SUM,pct_change_all
+US,US,4,fish,participants,gender,2009,male,0,SUM,pct_change_all
+US,US,4,fish,participants,gender,2010,male,0.002756984023871224,SUM,pct_change_all
+US,US,4,fish,participants,gender,2011,male,0.002743672546271522,SUM,pct_change_all
+US,US,4,fish,participants,gender,2012,male,0.020485539475496955,SUM,pct_change_all
+US,US,4,fish,participants,gender,2013,male,0.03429094075298362,SUM,pct_change_all
+US,US,4,fish,participants,gender,2014,male,0.04787982917661416,SUM,pct_change_all
+US,US,4,fish,participants,gender,2015,male,0.0449629879579989,SUM,pct_change_all
+US,US,4,fish,participants,gender,2016,male,0.04900614965535191,SUM,pct_change_all
+US,US,4,fish,participants,gender,2017,male,0.03618160747794567,SUM,pct_change_all
+US,US,4,fish,participants,gender,2018,male,0.015129006819372617,SUM,pct_change_all
+US,US,4,fish,participants,residency,2009,nonresident,0,SUM,pct_change_all
+US,US,4,fish,participants,residency,2010,nonresident,0.12470455371322084,SUM,pct_change_all
+US,US,4,fish,participants,residency,2011,nonresident,0.1339046354749795,SUM,pct_change_all
+US,US,4,fish,participants,residency,2012,nonresident,0.16773271643164506,SUM,pct_change_all
+US,US,4,fish,participants,residency,2013,nonresident,0.21490275771795792,SUM,pct_change_all
+US,US,4,fish,participants,residency,2014,nonresident,0.23360213817003994,SUM,pct_change_all
+US,US,4,fish,participants,residency,2015,nonresident,0.24888861790415576,SUM,pct_change_all
+US,US,4,fish,participants,residency,2016,nonresident,0.25415191180585367,SUM,pct_change_all
+US,US,4,fish,participants,residency,2017,nonresident,0.24794017543025385,SUM,pct_change_all
+US,US,4,fish,participants,residency,2018,nonresident,0.23335552790160857,SUM,pct_change_all
+US,US,4,fish,participants,residency,2009,resident,0,SUM,pct_change_all
+US,US,4,fish,participants,residency,2010,resident,-0.02599491151302575,SUM,pct_change_all
+US,US,4,fish,participants,residency,2011,resident,-0.022609321955223482,SUM,pct_change_all
+US,US,4,fish,participants,residency,2012,resident,-4.602248341375949e-4,SUM,pct_change_all
+US,US,4,fish,participants,residency,2013,resident,0.006855143991472747,SUM,pct_change_all
+US,US,4,fish,participants,residency,2014,resident,0.02720058506943127,SUM,pct_change_all
+US,US,4,fish,participants,residency,2015,resident,0.02023628962612558,SUM,pct_change_all
+US,US,4,fish,participants,residency,2016,resident,0.025195922833997613,SUM,pct_change_all
+US,US,4,fish,participants,residency,2017,resident,0.009683262438244971,SUM,pct_change_all
+US,US,4,fish,participants,residency,2018,resident,-0.0144272723167968,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2014,18-24,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2015,18-24,-0.020703341853072474,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2016,18-24,-0.023314235272032767,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2017,18-24,-0.06142092527521344,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2018,18-24,-0.10925162702624301,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2014,25-34,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2015,25-34,0.006207982673415277,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2016,25-34,0.013536277407515236,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2017,25-34,-0.019115459802385083,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2018,25-34,-0.06421454526267936,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2014,35-44,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2015,35-44,6.105049974967111e-4,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2016,35-44,0.01840707413722462,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2017,35-44,0.00838745982459568,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2018,35-44,-0.026371890129508063,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2014,45-54,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2015,45-54,0.005769240425223301,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2016,45-54,0.019056852940178476,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2017,45-54,-0.003593219260446834,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2018,45-54,-0.04672969119479423,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2014,55-64,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2015,55-64,0.02098881870029943,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2016,55-64,0.046463976002393506,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2017,55-64,0.041224509956734885,SUM,pct_change_all
+US,US,4,fish,participants - recruited,age,2018,55-64,0.009697152241134294,SUM,pct_change_all
+US,US,4,fish,participants - recruited,all,2014,all,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,all,2015,all,0.0021335842716911687,SUM,pct_change_all
+US,US,4,fish,participants - recruited,all,2016,all,0.013392014438275358,SUM,pct_change_all
+US,US,4,fish,participants - recruited,all,2017,all,-0.009143600772123499,SUM,pct_change_all
+US,US,4,fish,participants - recruited,all,2018,all,-0.049325858054619,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2014,female,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2015,female,-0.006290622710771372,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2016,female,-0.013004978730922608,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2017,female,-0.04289546184287161,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2018,female,-0.08313747765231065,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2014,male,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2015,male,0.006118785458524925,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2016,male,0.025774652736338534,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2017,male,0.0065865851579594995,SUM,pct_change_all
+US,US,4,fish,participants - recruited,gender,2018,male,-0.03356876998653395,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2014,nonresident,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2015,nonresident,0.017189817612481458,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2016,nonresident,0.02534496799838277,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2017,nonresident,0.014676020110995162,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2018,nonresident,-0.010848204550915466,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2014,resident,0,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2015,resident,-0.007078699720906586,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2016,resident,0.006124907283214979,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2017,resident,-0.023811830059294,SUM,pct_change_all
+US,US,4,fish,participants - recruited,residency,2018,resident,-0.07331773966243947,SUM,pct_change_all
+US,US,4,fish,participation rate,age,2009,18-24,0,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2010,18-24,-0.04312483245327429,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2011,18-24,-0.052150480488609444,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2012,18-24,0.011074080094828836,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2013,18-24,0.020943908854877662,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2014,18-24,0.03891492062544262,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2015,18-24,0.019521348190053123,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2016,18-24,0.015294803162191667,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2017,18-24,-0.019353316321897476,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2018,18-24,-0.08004910595441142,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2009,25-34,0,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2010,25-34,-0.030837838257148954,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2011,25-34,-0.04914270220638502,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2012,25-34,-0.016473083992064885,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2013,25-34,-0.029858112360295664,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2014,25-34,-0.014479814848249346,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2015,25-34,-0.017696446633738334,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2016,25-34,-0.020478002696787692,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2017,25-34,-0.06076921888543701,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2018,25-34,-0.11300671624316484,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2009,35-44,0,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2010,35-44,-0.052778138182436526,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2011,35-44,-0.06738512915179024,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2012,35-44,-0.0273810043049868,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2013,35-44,-0.03463630396233837,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2014,35-44,-0.02352715150576557,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2015,35-44,-0.028286134414288303,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2016,35-44,-0.02115564208580873,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2017,35-44,-0.037262100322682394,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2018,35-44,-0.07234919224334996,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2009,45-54,0,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2010,45-54,-0.036029618093266276,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2011,45-54,-0.06351951165714981,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2012,45-54,-0.04929895041903982,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2013,45-54,-0.06865051034606211,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2014,45-54,-0.06567210962700652,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2015,45-54,-0.06825970204589693,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2016,45-54,-0.06018815962237675,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2017,45-54,-0.07387097430127908,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2018,45-54,-0.12327657320297401,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2009,55-64,0,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2010,55-64,0.004491215636976234,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2011,55-64,-0.019324120420171093,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2012,55-64,-0.007989433494273376,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2013,55-64,-0.026250359143791726,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2014,55-64,-0.0231992044075828,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2015,55-64,-0.02416459614982287,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2016,55-64,-0.02415238771483016,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2017,55-64,-0.04481370170297059,AVG,pct_change_all
+US,US,4,fish,participation rate,age,2018,55-64,-0.07000365181287307,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2009,all,0,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2010,all,-0.03191230558802242,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2011,all,-0.0514839294682409,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2012,all,-0.022080075871448564,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2013,all,-0.03368494181510205,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2014,all,-0.024413640353977764,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2015,all,-0.029663108448914788,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2016,all,-0.027491646221410915,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2017,all,-0.0517030514613395,AVG,pct_change_all
+US,US,4,fish,participation rate,all,2018,all,-0.09493483548873556,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2009,female,0,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2010,female,-0.04243394365814687,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2011,female,-0.0523099851944987,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2012,female,0.005651888153341823,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2013,female,-0.003319096896814514,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2014,female,0.028219452606063046,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2015,female,0.02727396068607272,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2016,female,0.03658018762160896,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2017,female,0.010782291039259387,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2018,female,-0.03999974173048356,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2009,male,0,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2010,male,-0.0284943071020347,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2011,male,-0.05110709236979881,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2012,male,-0.03048354986883348,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2013,male,-0.042744843465764674,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2014,male,-0.040459642464107284,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2015,male,-0.0472130172728168,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2016,male,-0.04768526262785107,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2017,male,-0.07148014554481288,AVG,pct_change_all
+US,US,4,fish,participation rate,gender,2018,male,-0.11215397645657844,AVG,pct_change_all
+US,US,4,hunt,churn,age,2010,18-24,0,AVG,pct_change_all
+US,US,4,hunt,churn,age,2011,18-24,-0.008316470745562342,AVG,pct_change_all
+US,US,4,hunt,churn,age,2012,18-24,-0.016054635430457327,AVG,pct_change_all
+US,US,4,hunt,churn,age,2013,18-24,-0.015179816765984377,AVG,pct_change_all
+US,US,4,hunt,churn,age,2014,18-24,0.006480221445676755,AVG,pct_change_all
+US,US,4,hunt,churn,age,2015,18-24,-0.0015383527527240606,AVG,pct_change_all
+US,US,4,hunt,churn,age,2016,18-24,0.010978027560543899,AVG,pct_change_all
+US,US,4,hunt,churn,age,2017,18-24,0.021001505339449854,AVG,pct_change_all
+US,US,4,hunt,churn,age,2018,18-24,0.018653080020560098,AVG,pct_change_all
+US,US,4,hunt,churn,age,2010,25-34,0,AVG,pct_change_all
+US,US,4,hunt,churn,age,2011,25-34,-0.013531730956804537,AVG,pct_change_all
+US,US,4,hunt,churn,age,2012,25-34,-0.01707322120451922,AVG,pct_change_all
+US,US,4,hunt,churn,age,2013,25-34,-0.011353428890333877,AVG,pct_change_all
+US,US,4,hunt,churn,age,2014,25-34,0.0033896230925669264,AVG,pct_change_all
+US,US,4,hunt,churn,age,2015,25-34,-0.0016451731190406387,AVG,pct_change_all
+US,US,4,hunt,churn,age,2016,25-34,0.015403367614741745,AVG,pct_change_all
+US,US,4,hunt,churn,age,2017,25-34,0.023100765041244815,AVG,pct_change_all
+US,US,4,hunt,churn,age,2018,25-34,0.020228613252039576,AVG,pct_change_all
+US,US,4,hunt,churn,age,2010,35-44,0,AVG,pct_change_all
+US,US,4,hunt,churn,age,2011,35-44,-0.015917056408500246,AVG,pct_change_all
+US,US,4,hunt,churn,age,2012,35-44,-0.02589283813512279,AVG,pct_change_all
+US,US,4,hunt,churn,age,2013,35-44,-0.025277442351869742,AVG,pct_change_all
+US,US,4,hunt,churn,age,2014,35-44,-0.015598381533812433,AVG,pct_change_all
+US,US,4,hunt,churn,age,2015,35-44,-0.02664746827853389,AVG,pct_change_all
+US,US,4,hunt,churn,age,2016,35-44,-0.007735156846843342,AVG,pct_change_all
+US,US,4,hunt,churn,age,2017,35-44,-0.0032348131933353746,AVG,pct_change_all
+US,US,4,hunt,churn,age,2018,35-44,-0.002004030807866112,AVG,pct_change_all
+US,US,4,hunt,churn,age,2010,45-54,0,AVG,pct_change_all
+US,US,4,hunt,churn,age,2011,45-54,-0.0124823036204834,AVG,pct_change_all
+US,US,4,hunt,churn,age,2012,45-54,-0.029332523445669452,AVG,pct_change_all
+US,US,4,hunt,churn,age,2013,45-54,-0.022666214172853808,AVG,pct_change_all
+US,US,4,hunt,churn,age,2014,45-54,-0.018352045703148228,AVG,pct_change_all
+US,US,4,hunt,churn,age,2015,45-54,-0.03205784909756338,AVG,pct_change_all
+US,US,4,hunt,churn,age,2016,45-54,-0.010434769111926447,AVG,pct_change_all
+US,US,4,hunt,churn,age,2017,45-54,-0.0069545131749863855,AVG,pct_change_all
+US,US,4,hunt,churn,age,2018,45-54,-7.871714597015786e-4,AVG,pct_change_all
+US,US,4,hunt,churn,age,2010,55-64,0,AVG,pct_change_all
+US,US,4,hunt,churn,age,2011,55-64,-0.021396500519079674,AVG,pct_change_all
+US,US,4,hunt,churn,age,2012,55-64,-0.03358462740879663,AVG,pct_change_all
+US,US,4,hunt,churn,age,2013,55-64,-0.033017930297940604,AVG,pct_change_all
+US,US,4,hunt,churn,age,2014,55-64,-0.04518134748406535,AVG,pct_change_all
+US,US,4,hunt,churn,age,2015,55-64,-0.06657314662631575,AVG,pct_change_all
+US,US,4,hunt,churn,age,2016,55-64,-0.051885996578580396,AVG,pct_change_all
+US,US,4,hunt,churn,age,2017,55-64,-0.04079989809595429,AVG,pct_change_all
+US,US,4,hunt,churn,age,2018,55-64,-0.04029293997020945,AVG,pct_change_all
+US,US,4,hunt,churn,all,2010,all,0,AVG,pct_change_all
+US,US,4,hunt,churn,all,2011,all,-0.01561814403685886,AVG,pct_change_all
+US,US,4,hunt,churn,all,2012,all,-0.027294786310250084,AVG,pct_change_all
+US,US,4,hunt,churn,all,2013,all,-0.023114514569711864,AVG,pct_change_all
+US,US,4,hunt,churn,all,2014,all,-0.014218153660592661,AVG,pct_change_all
+US,US,4,hunt,churn,all,2015,all,-0.02699569893346812,AVG,pct_change_all
+US,US,4,hunt,churn,all,2016,all,-0.009883187627453511,AVG,pct_change_all
+US,US,4,hunt,churn,all,2017,all,-0.0037432471626127096,AVG,pct_change_all
+US,US,4,hunt,churn,all,2018,all,-0.002803101462358526,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2010,female,0,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2011,female,-0.01683928395322783,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2012,female,-0.03838056467488209,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2013,female,-0.031932520306887396,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2014,female,-0.035553330839645285,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2015,female,-0.05938681090327013,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2016,female,-0.04402725358171006,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2017,female,-0.0424676590856019,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2018,female,-0.044293054635855325,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2010,male,0,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2011,male,-0.015959661825994686,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2012,male,-0.02716429263026253,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2013,male,-0.026250265581154928,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2014,male,-0.016985253651512686,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2015,male,-0.030241642722361493,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2016,male,-0.014579828803649771,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2017,male,-0.006672197620305985,AVG,pct_change_all
+US,US,4,hunt,churn,gender,2018,male,-0.00562521252049107,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2010,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2011,nonresident,-0.027375882756437403,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2012,nonresident,-0.035685721009806846,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2013,nonresident,-0.03752327679001618,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2014,nonresident,-0.032357655181880524,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2015,nonresident,-0.041699241222781055,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2016,nonresident,-0.032830819634899575,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2017,nonresident,-0.032395412147595844,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2018,nonresident,-0.042886111066796274,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2010,resident,0,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2011,resident,-0.010268776470744576,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2012,resident,-0.02075057777600199,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2013,resident,-0.013849309675754758,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2014,resident,-0.0019595888173070805,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2015,resident,-0.01920885410674495,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2016,resident,-0.003998537879540774,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2017,resident,0.0019448285607116542,AVG,pct_change_all
+US,US,4,hunt,churn,residency,2018,resident,0.003271224682094948,AVG,pct_change_all
+US,US,4,hunt,participants,age,2009,18-24,0,SUM,pct_change_all
+US,US,4,hunt,participants,age,2010,18-24,-0.015416185193368384,SUM,pct_change_all
+US,US,4,hunt,participants,age,2011,18-24,-0.02244743880035024,SUM,pct_change_all
+US,US,4,hunt,participants,age,2012,18-24,0.0059537480902513325,SUM,pct_change_all
+US,US,4,hunt,participants,age,2013,18-24,0.034581563175524466,SUM,pct_change_all
+US,US,4,hunt,participants,age,2014,18-24,0.030111353143672658,SUM,pct_change_all
+US,US,4,hunt,participants,age,2015,18-24,0.02376392377798623,SUM,pct_change_all
+US,US,4,hunt,participants,age,2016,18-24,0.017604619519531867,SUM,pct_change_all
+US,US,4,hunt,participants,age,2017,18-24,-3.4535190875840255e-4,SUM,pct_change_all
+US,US,4,hunt,participants,age,2018,18-24,-0.024066972067959682,SUM,pct_change_all
+US,US,4,hunt,participants,age,2009,25-34,0,SUM,pct_change_all
+US,US,4,hunt,participants,age,2010,25-34,-0.012938660729632807,SUM,pct_change_all
+US,US,4,hunt,participants,age,2011,25-34,-0.012783171507889334,SUM,pct_change_all
+US,US,4,hunt,participants,age,2012,25-34,0.0096114964519226909,SUM,pct_change_all
+US,US,4,hunt,participants,age,2013,25-34,0.03473489898889283,SUM,pct_change_all
+US,US,4,hunt,participants,age,2014,25-34,0.036394920342468676,SUM,pct_change_all
+US,US,4,hunt,participants,age,2015,25-34,0.046407039257195526,SUM,pct_change_all
+US,US,4,hunt,participants,age,2016,25-34,0.04310837514975351,SUM,pct_change_all
+US,US,4,hunt,participants,age,2017,25-34,0.02878441695124739,SUM,pct_change_all
+US,US,4,hunt,participants,age,2018,25-34,0.011263033891859243,SUM,pct_change_all
+US,US,4,hunt,participants,age,2009,35-44,0,SUM,pct_change_all
+US,US,4,hunt,participants,age,2010,35-44,-0.0386017999825234,SUM,pct_change_all
+US,US,4,hunt,participants,age,2011,35-44,-0.07002636491280939,SUM,pct_change_all
+US,US,4,hunt,participants,age,2012,35-44,-0.07912856192702927,SUM,pct_change_all
+US,US,4,hunt,participants,age,2013,35-44,-0.08324646103246601,SUM,pct_change_all
+US,US,4,hunt,participants,age,2014,35-44,-0.10383475525751819,SUM,pct_change_all
+US,US,4,hunt,participants,age,2015,35-44,-0.11165218924653149,SUM,pct_change_all
+US,US,4,hunt,participants,age,2016,35-44,-0.12463162320350177,SUM,pct_change_all
+US,US,4,hunt,participants,age,2017,35-44,-0.1328961581125384,SUM,pct_change_all
+US,US,4,hunt,participants,age,2018,35-44,-0.14083200421367476,SUM,pct_change_all
+US,US,4,hunt,participants,age,2009,45-54,0,SUM,pct_change_all
+US,US,4,hunt,participants,age,2010,45-54,-0.01786290822515907,SUM,pct_change_all
+US,US,4,hunt,participants,age,2011,45-54,-0.03106026699865897,SUM,pct_change_all
+US,US,4,hunt,participants,age,2012,45-54,-0.042279699506719,SUM,pct_change_all
+US,US,4,hunt,participants,age,2013,45-54,-0.05736944761642969,SUM,pct_change_all
+US,US,4,hunt,participants,age,2014,45-54,-0.08239529497818132,SUM,pct_change_all
+US,US,4,hunt,participants,age,2015,45-54,-0.09350976302448036,SUM,pct_change_all
+US,US,4,hunt,participants,age,2016,45-54,-0.10908363809634178,SUM,pct_change_all
+US,US,4,hunt,participants,age,2017,45-54,-0.12834744312332041,SUM,pct_change_all
+US,US,4,hunt,participants,age,2018,45-54,-0.15416318281334343,SUM,pct_change_all
+US,US,4,hunt,participants,age,2009,55-64,0,SUM,pct_change_all
+US,US,4,hunt,participants,age,2010,55-64,0.016307150178008545,SUM,pct_change_all
+US,US,4,hunt,participants,age,2011,55-64,0.04152883866903344,SUM,pct_change_all
+US,US,4,hunt,participants,age,2012,55-64,0.05916026240525432,SUM,pct_change_all
+US,US,4,hunt,participants,age,2013,55-64,0.08080740281478453,SUM,pct_change_all
+US,US,4,hunt,participants,age,2014,55-64,0.0952607837062276,SUM,pct_change_all
+US,US,4,hunt,participants,age,2015,55-64,0.12308174853020498,SUM,pct_change_all
+US,US,4,hunt,participants,age,2016,55-64,0.13250241515904812,SUM,pct_change_all
+US,US,4,hunt,participants,age,2017,55-64,0.13358770387751137,SUM,pct_change_all
+US,US,4,hunt,participants,age,2018,55-64,0.12900093399243523,SUM,pct_change_all
+US,US,4,hunt,participants,all,2009,all,0,SUM,pct_change_all
+US,US,4,hunt,participants,all,2010,all,-0.01507818309971282,SUM,pct_change_all
+US,US,4,hunt,participants,all,2011,all,-0.021546475651851478,SUM,pct_change_all
+US,US,4,hunt,participants,all,2012,all,-0.014831294803113891,SUM,pct_change_all
+US,US,4,hunt,participants,all,2013,all,-0.006321139619322449,SUM,pct_change_all
+US,US,4,hunt,participants,all,2014,all,-0.014267754627128346,SUM,pct_change_all
+US,US,4,hunt,participants,all,2015,all,-0.011730315580827176,SUM,pct_change_all
+US,US,4,hunt,participants,all,2016,all,-0.01768056302308541,SUM,pct_change_all
+US,US,4,hunt,participants,all,2017,all,-0.028973446565199172,SUM,pct_change_all
+US,US,4,hunt,participants,all,2018,all,-0.04445453228060456,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2009,female,0,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2010,female,0.001797574070391728,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2011,female,0.028105423948518934,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2012,female,0.09933921203418825,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2013,female,0.13897163002331966,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2014,female,0.16852487553163617,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2015,female,0.20661818592532102,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2016,female,0.2181740707824323,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2017,female,0.2095354904780099,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2018,female,0.18434664706492648,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2009,male,0,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2010,male,-0.016904408900862672,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2011,male,-0.026987076973055836,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2012,male,-0.027648205783059356,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2013,male,-0.0229521921286872,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2014,male,-0.03565435355303471,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2015,male,-0.037818915586117,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2016,male,-0.04617762100613121,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2017,male,-0.05784301175659536,SUM,pct_change_all
+US,US,4,hunt,participants,gender,2018,male,-0.07195752998991987,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2009,nonresident,0,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2010,nonresident,-0.03837800839854228,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2011,nonresident,-0.06145504985872881,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2012,nonresident,-0.058934511408702414,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2013,nonresident,-0.05290435670675313,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2014,nonresident,-0.03840939597044661,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2015,nonresident,0.003576585607761331,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2016,nonresident,0.01829718965121759,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2017,nonresident,0.023248153268915828,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2018,nonresident,0.025428886024101406,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2009,resident,0,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2010,resident,-0.012345754004755375,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2011,resident,-0.016917634938162396,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2012,resident,-0.009732407352996419,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2013,resident,-9.456333036225745e-4,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2014,resident,-0.011388538083460237,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2015,resident,-0.013349743267748999,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2016,resident,-0.0217610581024936,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2017,resident,-0.035033047166619445,SUM,pct_change_all
+US,US,4,hunt,participants,residency,2018,resident,-0.05270574093087715,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2014,18-24,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2015,18-24,-0.028575704425987614,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2016,18-24,-0.03274147275340321,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2017,18-24,-0.08134077049125726,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2018,18-24,-0.13618922010012696,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2014,25-34,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2015,25-34,-0.0028389038097312294,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2016,25-34,-0.016412210920096388,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2017,25-34,-0.05180833182218761,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2018,25-34,-0.08678603395479251,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2014,35-44,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2015,35-44,-0.011710229202707496,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2016,35-44,-0.021605257719873972,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2017,35-44,-0.041896707691612946,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2018,35-44,-0.05978058134105306,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2014,45-54,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2015,45-54,1.7694191648942841e-4,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2016,45-54,-0.007593516572575332,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2017,45-54,-0.038726750911572044,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2018,45-54,-0.0797785620674882,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2014,55-64,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2015,55-64,0.011626978135366985,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2016,55-64,0.025214591848083633,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2017,55-64,0.018123414698734932,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,age,2018,55-64,-0.007530539299724785,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,all,2014,all,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,all,2015,all,-0.007178697401758656,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,all,2016,all,-0.013803275894535002,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,all,2017,all,-0.04336352417487463,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,all,2018,all,-0.07590912290604036,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2014,female,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2015,female,-0.006095732986909163,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2016,female,-0.009740414265815256,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2017,female,-0.051946322588426824,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2018,female,-0.11277706588506066,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2014,male,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2015,male,-0.007485846683624666,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2016,male,-0.014956764360751093,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2017,male,-0.04091159425357998,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,gender,2018,male,-0.06552733104574371,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2014,nonresident,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2015,nonresident,0.0219942930545886,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2016,nonresident,0.031416307178015065,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2017,nonresident,0.032110183953103937,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2018,nonresident,0.029137131397513553,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2014,resident,0,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2015,resident,-0.018606366265782187,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2016,resident,-0.031776775311680966,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2017,resident,-0.07396102800471477,SUM,pct_change_all
+US,US,4,hunt,participants - recruited,residency,2018,resident,-0.11939863359652582,SUM,pct_change_all
+US,US,4,hunt,participation rate,age,2009,18-24,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2010,18-24,-0.02586770605067899,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2011,18-24,-0.03957150618493814,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2012,18-24,-0.0037848349048119363,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2013,18-24,0.01040027216295095,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2014,18-24,-8.555925277182533e-4,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2015,18-24,-0.008709297618485505,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2016,18-24,-0.016161655511875355,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2017,18-24,-0.04076501738068056,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2018,18-24,-0.08484270758236637,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2009,25-34,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2010,25-34,-0.021322293234106792,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2011,25-34,-0.03772299904041212,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2012,25-34,-0.020297200214236897,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2013,25-34,-0.02040648111140581,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2014,25-34,-0.026590769213688404,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2015,25-34,-0.01820219303641433,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2016,25-34,-0.02554372141923726,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2017,25-34,-0.05337154728746474,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2018,25-34,-0.08718727840673444,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2009,35-44,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2010,35-44,-0.04334922665911478,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2011,35-44,-0.05958998859853349,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2012,35-44,-0.04342994132947795,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2013,35-44,-0.04525619575872136,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2014,35-44,-0.05894669576845784,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2015,35-44,-0.059851327560995427,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2016,35-44,-0.06701872134670563,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2017,35-44,-0.08252033381909121,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2018,35-44,-0.10078911615069476,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2009,45-54,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2010,45-54,-0.026718405588117076,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2011,45-54,-0.04674629125403358,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2012,45-54,-0.05133974034535518,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2013,45-54,-0.07051624119793963,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2014,45-54,-0.0850482167737472,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2015,45-54,-0.08037237649470284,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2016,45-54,-0.08190821205688789,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2017,45-54,-0.09358652440428121,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2018,45-54,-0.1347713175954249,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2009,55-64,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2010,55-64,0.005693813014931474,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2011,55-64,-0.0067192943824849706,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2012,55-64,-0.015998725007413412,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2013,55-64,-0.03356054825095383,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2014,55-64,-0.04677436532930412,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2015,55-64,-0.0374914120882134,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2016,55-64,-0.04105980865896777,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2017,55-64,-0.05568750898327097,AVG,pct_change_all
+US,US,4,hunt,participation rate,age,2018,55-64,-0.07040696761673568,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2009,all,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2010,all,-0.023309259005486613,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2011,all,-0.03926389502622853,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2012,all,-0.03052288942691086,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2013,all,-0.037397883233618395,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2014,all,-0.04970514928435266,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2015,all,-0.04663531681836707,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2016,all,-0.05204134101340511,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2017,all,-0.0701642712446014,AVG,pct_change_all
+US,US,4,hunt,participation rate,all,2018,all,-0.09975230118353495,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2009,female,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2010,female,-0.010049744481599862,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2011,female,-3.2886932445517353e-4,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2012,female,0.08343260900008403,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2013,female,0.09960343202872245,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2014,female,0.1223623353238894,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2015,female,0.1576584126880991,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2016,female,0.1738538958585835,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2017,female,0.1583588309960765,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2018,female,0.1126275923889221,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2009,male,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2010,male,-0.02488036400454501,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2011,male,-0.044228582143576986,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2012,male,-0.04529317815455109,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2013,male,-0.05511716378091619,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2014,male,-0.07255078585007868,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2015,male,-0.07454786756164955,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2016,male,-0.08384531366369435,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2017,male,-0.10270480194194705,AVG,pct_change_all
+US,US,4,hunt,participation rate,gender,2018,male,-0.12967416791542183,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2009,resident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2010,resident,0.008028681472333312,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2011,resident,-0.01108830848715169,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2012,resident,0.009812039233966263,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2013,resident,-0.0022306539600749804,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2014,resident,0.004459164002406384,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2015,resident,-3.241187036539207e-4,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2016,resident,-0.004178468993026712,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2017,resident,-0.028140982445637716,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2018,resident,-0.06567796299300742,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2009,resident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2010,resident,-0.03191230558802242,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2011,resident,-0.0514839294682409,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2012,resident,-0.022080075871448564,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2013,resident,-0.03368494181510205,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2014,resident,-0.024413640353977764,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2015,resident,-0.029663108448914788,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2016,resident,-0.027491646221410915,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2017,resident,-0.0517030514613395,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2018,resident,-0.09493483548873556,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2009,resident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2010,resident,-0.023309259005486613,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2011,resident,-0.03926389502622853,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2012,resident,-0.03052288942691086,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2013,resident,-0.037397883233618395,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2014,resident,-0.04970514928435266,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2015,resident,-0.04663531681836707,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2016,resident,-0.05204134101340511,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2017,resident,-0.0701642712446014,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2018,resident,-0.09975230118353495,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2009,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2010,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2011,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2012,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2013,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2014,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2015,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2016,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2017,nonresident,0,AVG,pct_change_all
+US,US,4,all_sports,participation rate,residency,2018,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2009,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2010,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2011,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2012,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2013,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2014,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2015,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2016,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2017,nonresident,0,AVG,pct_change_all
+US,US,4,fish,participation rate,residency,2018,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2009,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2010,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2011,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2012,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2013,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2014,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2015,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2016,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2017,nonresident,0,AVG,pct_change_all
+US,US,4,hunt,participation rate,residency,2018,nonresident,0,AVG,pct_change_all

@@ -5,6 +5,7 @@
 # run_visual("2018-q4/out-rate", pct_range = 0.3)
 
 library(tidyverse)
+source("R/")
 indir <- "2018-q4/out-rate"
 outfile <- "out/full-year2018.csv"
 
@@ -132,10 +133,18 @@ nrow(dashout) == nrow(
 dashout <- bind_rows(
     dashout,
     filter(dashout, segment == "all", metric == "participation rate") %>%
-        mutate(segment == "residency", category = "resident"),
+        mutate(segment = "residency", category = "resident"),
     filter(dashout, segment == "all", metric == "participation rate") %>%
-        mutate(segment == "residency", category = "nonresident", value = 0)
+        mutate(segment = "residency", category = "nonresident", value = 0)
 )
+
+glimpse(dashout)
+count(dashout, region)
+count(dashout, state)
+count(dashout, metric)
+count(dashout, segment)
+count(dashout, category)
+count(dashout, year)
 
 # Write to CSV -------------------------------------------------------------
 
@@ -151,8 +160,18 @@ for (i in names(x)) {
 # source("../dashboard-template/visualize/app-functions.R")
 # run_visual(outdir, pct_range = 0.2)
 
+## temporary - include mock mid-year data
+dashout <- rename(dashout, timeframe = quarter) %>% mutate(timeframe = "full-year")
+mid <- filter(dashout, metric != "churn") %>%
+    mutate(value = ifelse(value_type == "total", value / 2, value))
+dashout <- bind_rows(dashout, mid)
+
+dashout %>% 
+    group_by(metric, value_type, timeframe) %>%
+    summarise(min(value), mean(value), max(value))
+
 # stacked
 dashout %>%
-    select(region, state, quarter, group, metric, segment, year, category,
+    select(region, state, timeframe, group, metric, segment, year, category,
            value, aggregation, value_type) %>%
     write.csv(outfile)

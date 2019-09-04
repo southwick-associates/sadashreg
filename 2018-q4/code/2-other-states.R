@@ -29,6 +29,10 @@ x <- x %>% mutate(
 )
 x <- filter(x, metric != "participation rate")
 
+# change churn to 0 to 1 instead of 0 to 100
+x <- mutate(x, value = ifelse(metric == "churn", value / 100, value))
+group_by(x, metric) %>% summarise(min(value), mean(value), max(value))
+
 # drop segment == gender, category == gender
 drop <- filter(x, category == "gender") # no idea what these represent
 drop

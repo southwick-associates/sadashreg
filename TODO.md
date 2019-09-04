@@ -2,8 +2,9 @@
 # TODO
 
 - Get updated dataset to Ben (combine.R)
-    + exclude 2009 from national results (and reginal when not present for 1 or more states). Probably can code this into the aggregation function actually
+    + exclude 2009 from national results (and regional when not present for 1 or more states). Probably can code this into the aggregation function actually
     + stack in mid-year results (probably use timeframe instead of quarter column)
+    
 - Follow-up with FL, MA, etc. (maybe give the southeast states a bit of extra time)
     + hopefully an easy fix, analysts from both states used R, so that is a big plus
 - determine how missing values will be dealt with (probably just exclude 2009)

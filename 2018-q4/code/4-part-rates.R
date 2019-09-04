@@ -78,5 +78,5 @@ x <- lapply(x, est_rate)
 
 # Save Results ------------------------------------------------------------
 
-dir.create("2018-q4/out-rate")
+dir.create("2018-q4/out-rate", showWarnings = FALSE)
 for (i in names(x)) write_csv(x[[i]], file.path("2018-q4", "out-rate", i))

@@ -1,1021 +1,1021 @@
-region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type,"segment == ""residency"""
-Southeast,VA,4,hunt,participants,all,2009,all,245166,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2010,all,238272,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2011,all,233092,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2012,all,233805,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2013,all,238324,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2014,all,234775,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2015,all,230068,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2016,all,223215,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2017,all,217583,NONE,total,NA
-Southeast,VA,4,hunt,participants,all,2018,all,211965,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2009,resident,224713,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2010,resident,218819,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2011,resident,214871,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2012,resident,215844,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2013,resident,220167,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2014,resident,216249,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2015,resident,211365,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2016,resident,204674,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2017,resident,199391,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2018,resident,193396,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2009,nonresident,20453,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2010,nonresident,19453,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2011,nonresident,18221,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2012,nonresident,17961,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2013,nonresident,18157,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2014,nonresident,18526,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2015,nonresident,18703,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2016,nonresident,18541,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2017,nonresident,18192,NONE,total,NA
-Southeast,VA,4,hunt,participants,residency,2018,nonresident,18569,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2009,male,228318,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2010,male,221299,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2011,male,215879,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2012,male,214758,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2013,male,217976,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2014,male,213478,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2015,male,208568,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2016,male,202010,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2017,male,197209,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2018,male,192050,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2009,female,16848,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2010,female,16973,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2011,female,17213,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2012,female,19047,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2013,female,20348,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2014,female,21297,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2015,female,21500,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2016,female,21205,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2017,female,20374,NONE,total,NA
-Southeast,VA,4,hunt,participants,gender,2018,female,19915,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2009,18-24,31515,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2010,18-24,31466,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2011,18-24,30783,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2012,18-24,31856,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2013,18-24,33269,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2014,18-24,33171,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2015,18-24,32221,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2016,18-24,30993,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2017,18-24,29412,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2018,18-24,28496,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2009,25-34,46290,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2010,25-34,44461,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2011,25-34,43665,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2012,25-34,44928,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2013,25-34,46913,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2014,25-34,46856,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2015,25-34,46398,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2016,25-34,45250,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2017,25-34,43274,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2018,25-34,42119,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2009,35-44,59073,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2010,35-44,55244,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2011,35-44,52712,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2012,35-44,51033,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2013,35-44,51183,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2014,35-44,48969,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2015,35-44,46667,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2016,35-44,44239,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2017,35-44,42880,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2018,35-44,41702,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2009,45-54,63284,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2010,45-54,61794,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2011,45-54,60484,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2012,45-54,59906,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2013,45-54,60047,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2014,45-54,58483,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2015,45-54,56646,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2016,45-54,54648,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2017,45-54,53028,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2018,45-54,50488,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2009,55-64,45004,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2010,55-64,45307,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2011,55-64,45448,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2012,55-64,46081,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2013,55-64,46913,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2014,55-64,47295,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2015,55-64,48136,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2016,55-64,48084,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2017,55-64,48988,NONE,total,NA
-Southeast,VA,4,hunt,participants,age,2018,55-64,49160,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,all,2014,all,39667,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,all,2015,all,38144,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,all,2016,all,37935,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,all,2017,all,33654,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,all,2018,all,31195,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2014,resident,32342,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2015,resident,30632,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2016,resident,30444,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2017,resident,26720,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2018,resident,23891,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2014,nonresident,7325,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2015,nonresident,7512,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2016,nonresident,7491,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2017,nonresident,6934,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,residency,2018,nonresident,7304,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2014,male,30949,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2015,male,29724,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2016,male,29604,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2017,male,26420,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2018,male,24566,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2014,female,8718,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2015,female,8420,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2016,female,8331,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2017,female,7234,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,gender,2018,female,6629,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2014,18-24,8513,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2015,18-24,7846,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2016,18-24,7496,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2017,18-24,6251,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2018,18-24,5886,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2014,25-34,10801,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2015,25-34,10547,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2016,25-34,10235,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2017,25-34,8860,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2018,25-34,8247,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2014,35-44,8188,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2015,35-44,7725,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2016,35-44,7637,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2017,35-44,7040,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2018,35-44,6538,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2014,45-54,7265,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2015,45-54,6992,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2016,45-54,7251,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2017,45-54,6466,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2018,45-54,5904,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2014,55-64,4899,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2015,55-64,5034,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2016,55-64,5316,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2017,55-64,5036,NONE,total,NA
-Southeast,VA,4,hunt,participants - recruited,age,2018,55-64,4619,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2010,all,0.28059355701851013,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2011,all,0.2785849785119527,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2012,all,0.2782806788735777,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2013,all,0.2783730031436452,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2014,all,0.29224081502492416,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2015,all,0.2956405068682784,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2016,all,0.30820453083436217,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2017,all,0.29140066751786414,NONE,total,NA
-Southeast,VA,4,hunt,churn,all,2018,all,0.27723213670185615,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2010,resident,0.2603543186197505,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2011,resident,0.25802146979924034,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2012,resident,0.25887625598614983,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2013,resident,0.258770222938789,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2014,resident,0.27393296906439224,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2015,resident,0.2764498332940266,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2016,resident,0.28778179925720937,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2017,resident,0.27036416317715645,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2018,resident,0.25665651910066145,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2010,nonresident,0.5029580012712072,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2011,nonresident,0.5098956459157971,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2012,nonresident,0.5071071840184402,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2013,nonresident,0.5139468849173209,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2014,nonresident,0.5142369334141103,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2015,nonresident,0.5196480621828782,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2016,nonresident,0.5390044377907287,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2017,nonresident,0.5230852211434736,NONE,total,NA
-Southeast,VA,4,hunt,churn,residency,2018,nonresident,0.5027484608619173,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2010,male,0.270457930901927,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2011,male,0.2679502170078678,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2012,male,0.26644396157829564,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2013,male,0.2644076935990109,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2014,male,0.27763677242068446,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2015,male,0.2805757956342445,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2016,male,0.29185793795289183,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2017,male,0.27828446240198723,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2018,male,0.26707613759095805,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2010,female,0.5366933645894381,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2011,female,0.54186046511627906,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2012,female,0.5415472779369628,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2013,female,0.546372239747634,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2014,female,0.5561442945836009,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2015,female,0.5535677879714577,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2016,female,0.5680571629849545,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2017,female,0.5515665464886,NONE,total,NA
-Southeast,VA,4,hunt,churn,gender,2018,female,0.5158394931362197,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2010,18-24,0.37829478676243167,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2011,18-24,0.386637308195142,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2012,18-24,0.38444233540721995,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2013,18-24,0.3854022015241321,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2014,18-24,0.40047868555533994,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2015,18-24,0.40706590313500923,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2016,18-24,0.41905172986254063,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2017,18-24,0.40428679556870567,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2018,18-24,0.38104546770923836,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2010,25-34,0.3415689852834514,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2011,25-34,0.3430971512052593,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2012,25-34,0.3423700252763047,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2013,25-34,0.35048030739673386,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2014,25-34,0.36825083719436663,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2015,25-34,0.37532351526533986,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2016,25-34,0.38529825451359273,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2017,25-34,0.37633141672165143,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2018,25-34,0.3549196663632113,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2010,35-44,0.2792057788207686,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2011,35-44,0.2759499127981031,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2012,35-44,0.28346505183208465,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2013,35-44,0.2804346906845956,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2014,35-44,0.29888367986208925,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2015,35-44,0.30339688801227255,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2016,35-44,0.31918112835560847,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2017,35-44,0.30755881218665637,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2018,35-44,0.29766841308072406,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2010,45-54,0.25475766703176345,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2011,45-54,0.25027592368739154,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2012,45-54,0.2476296110773194,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2013,45-54,0.2436871870609848,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2014,45-54,0.25460540463049247,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2015,45-54,0.2568125516102395,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2016,45-54,0.2691697514542571,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2017,45-54,0.2547317073170732,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2018,45-54,0.2509436993012609,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2010,55-64,0.2267651730278674,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2011,55-64,0.22262311533774581,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2012,55-64,0.21860863768391983,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2013,55-64,0.21768245568849653,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2014,55-64,0.22335886967292082,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2015,55-64,0.22201043793964148,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2016,55-64,0.23887629461706011,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2017,55-64,0.21991839269082364,NONE,total,NA
-Southeast,VA,4,hunt,churn,age,2018,55-64,0.21169771131735093,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2009,all,494967,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2010,all,481734,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2011,all,462954,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2012,all,465310,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2013,all,471496,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2014,all,480098,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2015,all,474651,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2016,all,458751,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2017,all,453065,NONE,total,NA
-Southeast,VA,4,fish,participants,all,2018,all,426420,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2009,resident,422925,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2010,resident,409428,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2011,resident,396569,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2012,resident,399858,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2013,resident,407615,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2014,resident,411610,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2015,resident,405279,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2016,resident,390754,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2017,resident,385122,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2018,resident,362493,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2009,nonresident,72042,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2010,nonresident,72306,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2011,nonresident,66385,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2012,nonresident,65452,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2013,nonresident,63881,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2014,nonresident,68488,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2015,nonresident,69372,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2016,nonresident,67997,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2017,nonresident,67943,NONE,total,NA
-Southeast,VA,4,fish,participants,residency,2018,nonresident,63927,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2009,male,402490,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2010,male,390585,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2011,male,375839,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2012,male,376500,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2013,male,380068,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2014,male,383139,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2015,male,379690,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2016,male,366709,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2017,male,363043,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2018,male,343387,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2009,female,92477,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2010,female,91149,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2011,female,87115,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2012,female,88810,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2013,female,91428,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2014,female,96959,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2015,female,94961,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2016,female,92042,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2017,female,90022,NONE,total,NA
-Southeast,VA,4,fish,participants,gender,2018,female,83033,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2009,18-24,64293,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2010,18-24,63306,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2011,18-24,61728,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2012,18-24,63537,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2013,18-24,66917,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2014,18-24,68743,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2015,18-24,67398,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2016,18-24,64066,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2017,18-24,60410,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2018,18-24,55256,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2009,25-34,101932,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2010,25-34,99549,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2011,25-34,95418,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2012,25-34,96647,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2013,25-34,99300,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2014,25-34,102185,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2015,25-34,101453,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2016,25-34,98155,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2017,25-34,94421,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2018,25-34,87535,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2009,35-44,120190,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2010,35-44,113368,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2011,35-44,106242,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2012,35-44,103586,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2013,35-44,102843,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2014,35-44,103504,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2015,35-44,100167,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2016,35-44,95847,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2017,35-44,95194,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2018,35-44,89640,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2009,45-54,125294,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2010,45-54,121171,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2011,45-54,115677,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2012,45-54,115071,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2013,45-54,113985,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2014,45-54,114261,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2015,45-54,111424,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2016,45-54,106639,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2017,45-54,106013,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2018,45-54,98067,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2009,55-64,83258,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2010,55-64,84340,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2011,55-64,83888,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2012,55-64,86470,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2013,55-64,88452,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2014,55-64,91405,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2015,55-64,94210,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2016,55-64,94044,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2017,55-64,97028,NONE,total,NA
-Southeast,VA,4,fish,participants,age,2018,55-64,95923,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,all,2014,all,143186,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,all,2015,all,139860,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,all,2016,all,134613,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,all,2017,all,130065,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,all,2018,all,113380,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2014,resident,104718,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2015,resident,100507,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2016,resident,95735,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2017,resident,91492,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2018,resident,77550,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2014,nonresident,38468,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2015,nonresident,39353,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2016,nonresident,38878,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2017,nonresident,38573,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,residency,2018,nonresident,35830,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2014,male,100127,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2015,male,98747,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2016,male,95069,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2017,male,92307,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2018,male,81067,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2014,female,43059,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2015,female,41113,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2016,female,39544,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2017,female,37758,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,gender,2018,female,32313,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2014,18-24,29739,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2015,18-24,28302,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2016,18-24,26353,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2017,18-24,24151,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2018,18-24,21303,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2014,25-34,37685,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2015,25-34,36855,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2016,25-34,35128,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2017,25-34,32985,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2018,25-34,28751,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2014,35-44,30693,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2015,35-44,29529,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2016,35-44,28488,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2017,35-44,28513,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2018,35-44,24852,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2014,45-54,26840,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2015,45-54,26361,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2016,45-54,25691,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2017,45-54,25196,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2018,45-54,21322,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2014,55-64,18229,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2015,55-64,18812,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2016,55-64,18952,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2017,55-64,19220,NONE,total,NA
-Southeast,VA,4,fish,participants - recruited,age,2018,55-64,17153,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2010,all,0.514757549493199,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2011,all,0.5158199338224002,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2012,all,0.5107332477956773,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2013,all,0.5014807332745916,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2014,all,0.5017773215467363,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2015,all,0.5093626717878429,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2016,all,0.5181617651706195,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2017,all,0.504668109715292,NONE,total,NA
-Southeast,VA,4,fish,churn,all,2018,all,0.4934170593623429,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2010,resident,0.4816882425962048,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2011,resident,0.48160848793927113,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2012,resident,0.47841359259044436,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2013,resident,0.4677035347548374,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2014,resident,0.470991008672399,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2015,resident,0.4752314083720023,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2016,resident,0.48320786421206074,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2017,resident,0.4674919510459801,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2018,resident,0.45304438368400435,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2010,nonresident,0.708892035201688,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2011,nonresident,0.7095400105108843,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2012,nonresident,0.7038035700836033,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2013,nonresident,0.7078316934547455,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2014,nonresident,0.6982201280505941,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2015,nonresident,0.7144901296577503,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2016,nonresident,0.7223663725998962,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2017,nonresident,0.7181915785448502,NONE,total,NA
-Southeast,VA,4,fish,churn,residency,2018,nonresident,0.7222336698949103,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2010,male,0.5051615798922802,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2011,male,0.5059945619250226,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2012,male,0.500767118153763,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2013,male,0.49199473307037517,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2014,male,0.4923335337074285,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2015,male,0.49774228543191956,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2016,male,0.5073073010139343,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2017,male,0.4934724081620643,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2018,male,0.4865727843618676,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2010,female,0.6736507331483091,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2011,female,0.6732389944700683,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2012,female,0.6723258046586833,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2013,female,0.6571079248638435,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2014,female,0.6530243791623325,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2015,female,0.6641492071685876,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2016,female,0.6670932504541975,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2017,female,0.6578941198536997,NONE,total,NA
-Southeast,VA,4,fish,churn,gender,2018,female,0.6426981803467933,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2010,18-24,0.6430188934329266,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2011,18-24,0.6447957206782451,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2012,18-24,0.639258413144715,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2013,18-24,0.6291668085396166,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2014,18-24,0.6277840451248992,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2015,18-24,0.6330902674765392,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2016,18-24,0.6404826162882996,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2017,18-24,0.6365042150945278,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2018,18-24,0.6314479519043696,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2010,25-34,0.5996567786222115,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2011,25-34,0.605331443523768,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2012,25-34,0.605390902993304,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2013,25-34,0.5949321753145005,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2014,25-34,0.5986120463085645,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2015,25-34,0.6059265950965356,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2016,25-34,0.6141449935666224,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2017,25-34,0.6077967462910105,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2018,25-34,0.5973377890416489,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2010,35-44,0.5343741242621202,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2011,35-44,0.5376249377704593,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2012,35-44,0.5402436160545635,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2013,35-44,0.5308522080553033,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2014,35-44,0.5321400109055827,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2015,35-44,0.543032553123088,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2016,35-44,0.5542642283370365,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2017,35-44,0.5452514587385385,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2018,35-44,0.539564424274782,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2010,45-54,0.4877340247487404,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2011,45-54,0.4883600111070304,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2012,45-54,0.4835379176473897,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2013,45-54,0.47429028012784363,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2014,45-54,0.4703060693504896,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2015,45-54,0.47952540653270576,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2016,45-54,0.49080538137261476,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2017,45-54,0.47349283252584784,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2018,45-54,0.4707656658876171,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2010,55-64,0.43604901538582,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2011,55-64,0.4301028221395755,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2012,55-64,0.4150826285980294,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2013,55-64,0.4060346013835549,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2014,55-64,0.4023457979248711,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2015,55-64,0.4070224884034996,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2016,55-64,0.41671114947358867,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2017,55-64,0.3976688339638884,NONE,total,NA
-Southeast,VA,4,fish,churn,age,2018,55-64,0.38842388991346294,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2009,all,587170,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2010,all,572009,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2011,all,552139,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2012,all,553926,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2013,all,561536,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2014,all,566615,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2015,all,557875,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2016,all,538657,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2017,all,529790,NONE,total,NA
-Southeast,VA,4,all_sports,participants,all,2018,all,500552,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2009,resident,502743,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2010,resident,487648,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2011,resident,474166,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2012,resident,477364,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2013,resident,486245,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2014,resident,486576,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2015,resident,476829,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2016,resident,459451,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2017,resident,450901,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2018,resident,425701,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2009,nonresident,84427,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2010,nonresident,84361,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2011,nonresident,77973,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2012,nonresident,76562,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2013,nonresident,75291,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2014,nonresident,80039,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2015,nonresident,81046,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2016,nonresident,79206,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2017,nonresident,78889,NONE,total,NA
-Southeast,VA,4,all_sports,participants,residency,2018,nonresident,74851,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2009,male,489596,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2010,male,475586,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2011,male,459495,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2012,male,459118,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2013,male,463477,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2014,male,463073,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2015,male,456188,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2016,male,440402,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2017,male,433466,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2018,male,411348,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2009,female,97574,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2010,female,96423,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2011,female,92644,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2012,female,94808,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2013,female,98059,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2014,female,103542,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2015,female,101687,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2016,female,98255,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2017,female,96324,NONE,total,NA
-Southeast,VA,4,all_sports,participants,gender,2018,female,89204,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2009,18-24,76759,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2010,18-24,75868,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2011,18-24,73940,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2012,18-24,75895,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2013,18-24,79560,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2014,18-24,80819,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2015,18-24,78659,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2016,18-24,74992,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2017,18-24,71012,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2018,18-24,65690,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2009,25-34,119121,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2010,25-34,116299,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2011,25-34,112302,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2012,25-34,113847,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2013,25-34,117313,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2014,25-34,119777,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2015,25-34,118457,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2016,25-34,114773,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2017,25-34,110346,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2018,25-34,103050,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2009,35-44,141841,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2010,35-44,133798,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2011,35-44,126064,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2012,35-44,122881,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2013,35-44,122180,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2014,35-44,121479,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2015,35-44,117085,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2016,35-44,111544,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2017,35-44,110085,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2018,35-44,104179,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2009,45-54,149176,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2010,45-54,144684,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2011,45-54,138880,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2012,45-54,137961,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2013,45-54,136886,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2014,45-54,136206,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2015,45-54,132269,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2016,45-54,126455,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2017,45-54,124648,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2018,45-54,115432,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2009,55-64,100273,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2010,55-64,101360,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2011,55-64,100953,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2012,55-64,103342,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2013,55-64,105596,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2014,55-64,108334,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2015,55-64,111405,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2016,55-64,110893,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2017,55-64,113699,NONE,total,NA
-Southeast,VA,4,all_sports,participants,age,2018,55-64,112202,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,all,2014,all,147306,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,all,2015,all,143370,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,all,2016,all,138121,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,all,2017,all,132174,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,all,2018,all,116041,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2014,resident,105522,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2015,resident,100500,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2016,resident,96169,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2017,resident,90961,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2018,resident,77348,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2014,nonresident,41784,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2015,nonresident,42870,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2016,nonresident,41952,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2017,nonresident,41213,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,residency,2018,nonresident,38693,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2014,male,103216,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2015,male,101273,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2016,male,97687,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2017,male,93683,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2018,male,83018,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2014,female,44090,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2015,female,42097,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2016,female,40434,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2017,female,38491,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,gender,2018,female,33023,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2014,18-24,30154,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2015,18-24,28543,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2016,18-24,26636,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2017,18-24,24324,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2018,18-24,21697,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2014,25-34,39148,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2015,25-34,38183,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2016,25-34,36499,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2017,25-34,34028,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2018,25-34,29886,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2014,35-44,31639,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2015,35-44,30360,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2016,35-44,29230,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2017,35-44,28880,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2018,35-44,25419,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2014,45-54,27685,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2015,45-54,27023,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2016,45-54,26367,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2017,45-54,25450,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2018,45-54,21706,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2014,55-64,18680,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2015,55-64,19261,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2016,55-64,19390,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2017,55-64,19492,NONE,total,NA
-Southeast,VA,4,all_sports,participants - recruited,age,2018,55-64,17333,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2010,all,0.4451283274009233,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2011,all,0.4457831957189481,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2012,all,0.4397660733981833,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2013,all,0.43227615241024986,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2014,all,0.43619999430134543,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2015,all,0.445948307051525,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2016,all,0.4556092314586607,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2017,all,0.44133650913289896,NONE,total,NA
-Southeast,VA,4,all_sports,churn,all,2018,all,0.43363974404952915,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2010,resident,0.4076496341072878,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2011,resident,0.4068939070805176,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2012,resident,0.40289265784556405,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2013,resident,0.3947008991042476,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2014,resident,0.40194346471429054,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2015,resident,0.40853844003814466,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2016,resident,0.41685593787290676,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2017,resident,0.40116143664663434,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2018,resident,0.39097534253866745,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2010,nonresident,0.6683051630402596,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2011,nonresident,0.6705823781131091,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2012,nonresident,0.6639990766034397,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2013,nonresident,0.6665578224184321,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2014,nonresident,0.6574358157017439,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2015,nonresident,0.6733717312810005,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2016,nonresident,0.6836117760284284,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2017,nonresident,0.6742632761798945,NONE,total,NA
-Southeast,VA,4,all_sports,churn,residency,2018,nonresident,0.6774667883581788,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2010,male,0.42551709775873936,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2011,male,0.425738585084633,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2012,male,0.41922545610441514,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2013,male,0.4120259058986758,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2014,male,0.41604618931145215,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2015,male,0.42382149767711436,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2016,male,0.43346418521058505,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2017,male,0.42011616631664084,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2018,male,0.41733064053901797,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2010,female,0.651262345366906,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2011,female,0.6502310898127435,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2012,female,0.6469587610598561,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2013,female,0.6308589705239421,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2014,female,0.6275798621117736,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2015,female,0.6379218444623279,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2016,female,0.642573732230002,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2017,female,0.6305311667321889,NONE,total,NA
-Southeast,VA,4,all_sports,churn,gender,2018,female,0.6160624342724305,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2010,18-24,0.5552344432853074,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2011,18-24,0.5562930887128937,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2012,18-24,0.5495925698764567,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2013,18-24,0.54074872682394,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2014,18-24,0.5462798100787742,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2015,18-24,0.5560946589106294,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2016,18-24,0.5640036283389518,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2017,18-24,0.5566128439329242,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2018,18-24,0.550082418806338,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2010,25-34,0.5252993223233591,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2011,25-34,0.5297074784418674,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2012,25-34,0.5256812106993827,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2013,25-34,0.5173437736420033,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2014,25-34,0.5231121072130996,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2015,25-34,0.5337775755791652,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2016,25-34,0.5411875758529241,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2017,25-34,0.5336369683308082,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2018,25-34,0.5251820562319617,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2010,35-44,0.459344817589527,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2011,35-44,0.46190068493150677,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2012,35-44,0.4619963683705631,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2013,35-44,0.45289350330748673,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2014,35-44,0.4584101888449715,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2015,35-44,0.4721269372174432,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2016,35-44,0.48547027204016496,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2017,35-44,0.47518013650449625,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2018,35-44,0.4737426956605038,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2010,45-54,0.41864699396471694,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2011,45-54,0.41765883389850755,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2012,45-54,0.41102152836628536,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2013,45-54,0.4034618115981615,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2014,45-54,0.40288350724796756,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2015,45-54,0.4127175882708252,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2016,45-54,0.4236705446640636,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2017,45-54,0.40694778678696303,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2018,45-54,0.4096362098138749,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2010,55-64,0.3744064577397911,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2011,55-64,0.3708631866257251,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2012,55-64,0.35851801146573103,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2013,55-64,0.35126997687162703,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2014,55-64,0.3503053954896998,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2015,55-64,0.355337258731051,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2016,55-64,0.3664171756856225,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2017,55-64,0.3486957852061501,NONE,total,NA
-Southeast,VA,4,all_sports,churn,age,2018,55-64,0.3434616062402033,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2009,18-24,0.0957506003873352,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2010,18-24,0.0934862736652372,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2011,18-24,0.09018086574784344,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2012,18-24,0.09178565996355492,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2013,18-24,0.09561743341985521,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2014,18-24,0.09685112885214299,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2015,18-24,0.09406543734176678,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2016,18-24,0.08994961864509583,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2017,18-24,0.0856982128046519,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2018,18-24,0.078787131679711,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2009,25-34,0.11216947223897335,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2010,25-34,0.10817809828788841,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2011,25-34,0.10268039226474626,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2012,25-34,0.10195599690950415,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2013,25-34,0.10327540890142085,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2014,25-34,0.10365595119817778,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2015,25-34,0.10133806996808145,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2016,25-34,0.09822087249271093,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2017,25-34,0.09378542129165038,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2018,25-34,0.08704478208285464,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2009,35-44,0.12282180745424154,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2010,35-44,0.1144459260357447,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2011,35-44,0.10941253775760057,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2012,35-44,0.10798382494773988,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2013,35-44,0.10865018522925593,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2014,35-44,0.10887454536446067,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2015,35-44,0.10556713393446462,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2016,35-44,0.10065159534274032,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2017,35-44,0.09919576749945143,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2018,35-44,0.09329560535991632,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2009,45-54,0.1245369224585168,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2010,45-54,0.11931545303194269,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2011,45-54,0.11366518882426419,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2012,45-54,0.11231101091294762,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2013,45-54,0.11169075136602191,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2014,45-54,0.11194100835408956,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2015,45-54,0.10970609942415135,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2016,45-54,0.10556523984236665,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2017,45-54,0.10515521536084858,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2018,45-54,0.09678047078687801,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2009,55-64,0.11011424536460455,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2010,55-64,0.109951995661555,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2011,55-64,0.10612090586952075,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2012,55-64,0.10567815006862401,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2013,55-64,0.105439174075486,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2014,55-64,0.10611843620138217,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2015,55-64,0.10727696603723809,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2016,55-64,0.10503415086262748,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2017,55-64,0.10581806310025342,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,age,2018,55-64,0.10378145820848834,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2009,all,0.11452610383671863,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2010,all,0.11020987409241938,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2011,all,0.1053914025061557,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2012,all,0.10475675029919006,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2013,all,0.10556013659186585,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2014,all,0.10604005453244612,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2015,all,0.10411230777380581,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2016,all,0.1004186197743821,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2017,all,0.09856867727727463,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2018,all,0.09255510556070659,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2009,female,0.0376961177457162,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2010,female,0.036797657423345675,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2011,female,0.03501451045456492,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2012,female,0.035493735977843645,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2013,female,0.036524328461003654,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2014,female,0.038425886694459684,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2015,female,0.037665384556780104,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2016,female,0.0363581661938355,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2017,female,0.0355972910132101,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2018,female,0.03276293320450629,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2009,male,0.19286692930135554,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2010,male,0.18506572069158378,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2011,male,0.1772016141217535,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2012,male,0.1754624782630055,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2013,male,0.17590425495909742,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2014,male,0.17482266011615083,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2015,male,0.17158636418198503,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2016,male,0.16545918261237835,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2017,male,0.16241403677041943,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,gender,2018,male,0.1531771271714356,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2009,18-24,0.08020028075799505,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2010,18-24,0.0780070917995928,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2011,18-24,0.07528650907334163,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2012,18-24,0.07684018021087541,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2013,18-24,0.08042272237501824,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2014,18-24,0.08237960319581863,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2015,18-24,0.08059881699437316,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2016,18-24,0.07684436030665551,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2017,18-24,0.07290358017699855,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2018,18-24,0.06627282307952674,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2009,25-34,0.09598356834028451,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2010,25-34,0.09259771370743516,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2011,25-34,0.08724294909367206,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2012,25-34,0.08655248915924747,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2013,25-34,0.08741783181668776,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2014,25-34,0.08843169701349839,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2015,25-34,0.08679141977655831,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2016,25-34,0.0839994575337583,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2017,25-34,0.08025042379224367,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2018,25-34,0.07393949538692558,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2009,35-44,0.10407394926661043,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2010,35-44,0.09697084966008689,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2011,35-44,0.09220877361057082,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2012,35-44,0.09102800669783435,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2013,35-44,0.09145450155125526,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2014,35-44,0.09276460082321338,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2015,35-44,0.09031338860497518,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2016,35-44,0.08648742611718811,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2017,35-44,0.0857777343992622,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2018,35-44,0.08027546880333752,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2009,45-54,0.10459946078804502,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2010,45-54,0.09992516628883309,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2011,45-54,0.09467488513554442,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2012,45-54,0.09367676616408838,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2013,45-54,0.09300491134561611,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2014,45-54,0.09390549282371281,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2015,45-54,0.09241691116011039,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2016,45-54,0.08902274810446513,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2017,45-54,0.0894344060558504,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2018,45-54,0.08222131149643744,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2009,55-64,0.09142931637196698,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2010,55-64,0.09148925921562302,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2011,55-64,0.08818232793064452,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2012,55-64,0.08842474150329893,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2013,55-64,0.08832063549116338,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2014,55-64,0.08953565511277473,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2015,55-64,0.09071911467499842,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2016,55-64,0.08907534004603482,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2017,55-64,0.09030259744141451,NONE,total,NA
-Southeast,VA,4,fish,participation rate,age,2018,55-64,0.08872416548486504,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2009,all,0.09654212926026383,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2010,all,0.09281644779371925,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2011,all,0.0883679134345424,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2012,all,0.08799796991243619,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2013,all,0.0886340006028436,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2014,all,0.08984869461789455,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2015,all,0.08858079497583635,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2016,all,0.08552221959450552,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2017,all,0.0842938103222568,NONE,total,NA
-Southeast,VA,4,fish,participation rate,all,2018,all,0.07884764842253454,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2009,female,0.03572697522670585,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2010,female,0.034784954590507816,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2011,female,0.03292484217271947,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2012,female,0.03324823529862769,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2013,female,0.03405446009578562,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2014,female,0.035982843174828735,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2015,female,0.03517403977791061,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2016,female,0.034059114882835556,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2017,female,0.033268337398687765,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2018,female,0.030496442230951198,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2009,male,0.1585531956439648,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2010,male,0.1519891134649091,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2011,male,0.14494015702000176,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2012,male,0.1438881138749114,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2013,male,0.14424788797242202,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2014,male,0.14464539969776236,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2015,male,0.14281310910470663,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2016,male,0.13777269720982796,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2017,male,0.13602746040345354,NONE,total,NA
-Southeast,VA,4,fish,participation rate,gender,2018,male,0.12786991590579694,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2009,18-24,0.039312395565430355,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2010,18-24,0.03877312025030782,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2011,18-24,0.0375444629471986,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2012,18-24,0.038525910584346866,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2013,18-24,0.03998361478689245,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2014,18-24,0.039751157464883696,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2015,18-24,0.038531922050738854,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2016,18-24,0.037174745715109016,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2017,18-24,0.03549478728961896,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2018,18-24,0.03417747152298744,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2009,25-34,0.04358866085696121,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2010,25-34,0.04135638679591232,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2011,25-34,0.039923949068049955,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2012,25-34,0.04023539512811231,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2013,25-34,0.04129942340399066,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2014,25-34,0.040549548321813185,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2015,25-34,0.03969274732923376,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2016,25-34,0.03872421632522605,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2017,25-34,0.03677949650168451,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2018,25-34,0.03557728458561625,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2009,35-44,0.051152012688463915,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2010,35-44,0.04725370138506316,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2011,35-44,0.045749410539715075,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2012,35-44,0.04484614007501574,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2013,35-44,0.04551516148787859,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2014,35-44,0.04388805976302303,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2015,35-44,0.04207628166989504,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2016,35-44,0.03991900887871592,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2017,35-44,0.03863845674139508,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2018,35-44,0.0373454663100935,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2009,45-54,0.05283151848061871,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2010,45-54,0.05095918764103748,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2011,45-54,0.049502630190429116,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2012,45-54,0.04876815491154051,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2013,45-54,0.04899474414677554,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2014,45-54,0.04806429960186937,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2015,45-54,0.04698313065026936,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2016,45-54,0.04562041221703889,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2017,45-54,0.044735340800936066,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2018,45-54,0.04233013730237627,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2009,55-64,0.04942089593797596,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2010,55-64,0.049147544074961254,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2011,55-64,0.04777453795288876,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2012,55-64,0.04712270745013899,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2013,55-64,0.04684332714689264,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2014,55-64,0.046327758968969755,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2015,55-64,0.046352354357241526,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2016,55-64,0.04554356100095208,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2017,55-64,0.04559244386630678,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,age,2018,55-64,0.045470637649322534,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2009,all,0.04781904179919437,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2010,all,0.04590824116359874,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2011,all,0.0444922253145763,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2012,all,0.044216469354574676,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2013,all,0.044801248705550197,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2014,all,0.043937336291582536,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2015,all,0.04293598104396855,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2016,all,0.04161264443409944,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2017,all,0.040481829607997975,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,all,2018,all,0.03919361614812282,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2009,female,0.006508949021048911,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2010,female,0.006477361619597464,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2011,female,0.006505599590415202,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2012,female,0.007130718812441861,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2013,female,0.0075790803039445884,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2014,female,0.007903615044444843,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2015,female,0.007963709893799329,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2016,female,0.007846673595646857,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2017,female,0.007529371777575087,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2018,female,0.0073144008650704315,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2009,male,0.08994148555998598,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2010,male,0.08611451750751031,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2011,male,0.08325249949398801,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2012,male,0.08207469736931798,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2013,male,0.08272882123377044,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2014,male,0.08059375484270438,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2015,male,0.07844885179949551,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2016,male,0.07589522636029479,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2017,male,0.07389163112552691,NONE,total,NA
-Southeast,VA,4,hunt,participation rate,gender,2018,male,0.07151527969814904,NONE,total,NA
-Southeast,VA,4,all_sports,participation rate,all,2009,resident,0.11452610383671863,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2010,resident,0.11020987409241938,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2011,resident,0.1053914025061557,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2012,resident,0.10475675029919006,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2013,resident,0.10556013659186585,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2014,resident,0.10604005453244612,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2015,resident,0.10411230777380581,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2016,resident,0.1004186197743821,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2017,resident,0.09856867727727463,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2018,resident,0.09255510556070659,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2009,resident,0.09654212926026383,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2010,resident,0.09281644779371925,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2011,resident,0.0883679134345424,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2012,resident,0.08799796991243619,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2013,resident,0.0886340006028436,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2014,resident,0.08984869461789455,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2015,resident,0.08858079497583635,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2016,resident,0.08552221959450552,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2017,resident,0.0842938103222568,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2018,resident,0.07884764842253454,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2009,resident,0.04781904179919437,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2010,resident,0.04590824116359874,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2011,resident,0.0444922253145763,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2012,resident,0.044216469354574676,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2013,resident,0.044801248705550197,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2014,resident,0.043937336291582536,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2015,resident,0.04293598104396855,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2016,resident,0.04161264443409944,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2017,resident,0.040481829607997975,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2018,resident,0.03919361614812282,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2009,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2010,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2011,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2012,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2013,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2014,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2015,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2016,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2017,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,all_sports,participation rate,all,2018,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2009,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2010,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2011,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2012,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2013,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2014,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2015,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2016,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2017,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,fish,participation rate,all,2018,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2009,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2010,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2011,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2012,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2013,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2014,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2015,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2016,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2017,nonresident,0,NONE,total,FALSE
-Southeast,VA,4,hunt,participation rate,all,2018,nonresident,0,NONE,total,FALSE
+region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type
+Southeast,VA,4,hunt,participants,all,2009,all,245166,NONE,total
+Southeast,VA,4,hunt,participants,all,2010,all,238272,NONE,total
+Southeast,VA,4,hunt,participants,all,2011,all,233092,NONE,total
+Southeast,VA,4,hunt,participants,all,2012,all,233805,NONE,total
+Southeast,VA,4,hunt,participants,all,2013,all,238324,NONE,total
+Southeast,VA,4,hunt,participants,all,2014,all,234775,NONE,total
+Southeast,VA,4,hunt,participants,all,2015,all,230068,NONE,total
+Southeast,VA,4,hunt,participants,all,2016,all,223215,NONE,total
+Southeast,VA,4,hunt,participants,all,2017,all,217583,NONE,total
+Southeast,VA,4,hunt,participants,all,2018,all,211965,NONE,total
+Southeast,VA,4,hunt,participants,residency,2009,resident,224713,NONE,total
+Southeast,VA,4,hunt,participants,residency,2010,resident,218819,NONE,total
+Southeast,VA,4,hunt,participants,residency,2011,resident,214871,NONE,total
+Southeast,VA,4,hunt,participants,residency,2012,resident,215844,NONE,total
+Southeast,VA,4,hunt,participants,residency,2013,resident,220167,NONE,total
+Southeast,VA,4,hunt,participants,residency,2014,resident,216249,NONE,total
+Southeast,VA,4,hunt,participants,residency,2015,resident,211365,NONE,total
+Southeast,VA,4,hunt,participants,residency,2016,resident,204674,NONE,total
+Southeast,VA,4,hunt,participants,residency,2017,resident,199391,NONE,total
+Southeast,VA,4,hunt,participants,residency,2018,resident,193396,NONE,total
+Southeast,VA,4,hunt,participants,residency,2009,nonresident,20453,NONE,total
+Southeast,VA,4,hunt,participants,residency,2010,nonresident,19453,NONE,total
+Southeast,VA,4,hunt,participants,residency,2011,nonresident,18221,NONE,total
+Southeast,VA,4,hunt,participants,residency,2012,nonresident,17961,NONE,total
+Southeast,VA,4,hunt,participants,residency,2013,nonresident,18157,NONE,total
+Southeast,VA,4,hunt,participants,residency,2014,nonresident,18526,NONE,total
+Southeast,VA,4,hunt,participants,residency,2015,nonresident,18703,NONE,total
+Southeast,VA,4,hunt,participants,residency,2016,nonresident,18541,NONE,total
+Southeast,VA,4,hunt,participants,residency,2017,nonresident,18192,NONE,total
+Southeast,VA,4,hunt,participants,residency,2018,nonresident,18569,NONE,total
+Southeast,VA,4,hunt,participants,gender,2009,male,228318,NONE,total
+Southeast,VA,4,hunt,participants,gender,2010,male,221299,NONE,total
+Southeast,VA,4,hunt,participants,gender,2011,male,215879,NONE,total
+Southeast,VA,4,hunt,participants,gender,2012,male,214758,NONE,total
+Southeast,VA,4,hunt,participants,gender,2013,male,217976,NONE,total
+Southeast,VA,4,hunt,participants,gender,2014,male,213478,NONE,total
+Southeast,VA,4,hunt,participants,gender,2015,male,208568,NONE,total
+Southeast,VA,4,hunt,participants,gender,2016,male,202010,NONE,total
+Southeast,VA,4,hunt,participants,gender,2017,male,197209,NONE,total
+Southeast,VA,4,hunt,participants,gender,2018,male,192050,NONE,total
+Southeast,VA,4,hunt,participants,gender,2009,female,16848,NONE,total
+Southeast,VA,4,hunt,participants,gender,2010,female,16973,NONE,total
+Southeast,VA,4,hunt,participants,gender,2011,female,17213,NONE,total
+Southeast,VA,4,hunt,participants,gender,2012,female,19047,NONE,total
+Southeast,VA,4,hunt,participants,gender,2013,female,20348,NONE,total
+Southeast,VA,4,hunt,participants,gender,2014,female,21297,NONE,total
+Southeast,VA,4,hunt,participants,gender,2015,female,21500,NONE,total
+Southeast,VA,4,hunt,participants,gender,2016,female,21205,NONE,total
+Southeast,VA,4,hunt,participants,gender,2017,female,20374,NONE,total
+Southeast,VA,4,hunt,participants,gender,2018,female,19915,NONE,total
+Southeast,VA,4,hunt,participants,age,2009,18-24,31515,NONE,total
+Southeast,VA,4,hunt,participants,age,2010,18-24,31466,NONE,total
+Southeast,VA,4,hunt,participants,age,2011,18-24,30783,NONE,total
+Southeast,VA,4,hunt,participants,age,2012,18-24,31856,NONE,total
+Southeast,VA,4,hunt,participants,age,2013,18-24,33269,NONE,total
+Southeast,VA,4,hunt,participants,age,2014,18-24,33171,NONE,total
+Southeast,VA,4,hunt,participants,age,2015,18-24,32221,NONE,total
+Southeast,VA,4,hunt,participants,age,2016,18-24,30993,NONE,total
+Southeast,VA,4,hunt,participants,age,2017,18-24,29412,NONE,total
+Southeast,VA,4,hunt,participants,age,2018,18-24,28496,NONE,total
+Southeast,VA,4,hunt,participants,age,2009,25-34,46290,NONE,total
+Southeast,VA,4,hunt,participants,age,2010,25-34,44461,NONE,total
+Southeast,VA,4,hunt,participants,age,2011,25-34,43665,NONE,total
+Southeast,VA,4,hunt,participants,age,2012,25-34,44928,NONE,total
+Southeast,VA,4,hunt,participants,age,2013,25-34,46913,NONE,total
+Southeast,VA,4,hunt,participants,age,2014,25-34,46856,NONE,total
+Southeast,VA,4,hunt,participants,age,2015,25-34,46398,NONE,total
+Southeast,VA,4,hunt,participants,age,2016,25-34,45250,NONE,total
+Southeast,VA,4,hunt,participants,age,2017,25-34,43274,NONE,total
+Southeast,VA,4,hunt,participants,age,2018,25-34,42119,NONE,total
+Southeast,VA,4,hunt,participants,age,2009,35-44,59073,NONE,total
+Southeast,VA,4,hunt,participants,age,2010,35-44,55244,NONE,total
+Southeast,VA,4,hunt,participants,age,2011,35-44,52712,NONE,total
+Southeast,VA,4,hunt,participants,age,2012,35-44,51033,NONE,total
+Southeast,VA,4,hunt,participants,age,2013,35-44,51183,NONE,total
+Southeast,VA,4,hunt,participants,age,2014,35-44,48969,NONE,total
+Southeast,VA,4,hunt,participants,age,2015,35-44,46667,NONE,total
+Southeast,VA,4,hunt,participants,age,2016,35-44,44239,NONE,total
+Southeast,VA,4,hunt,participants,age,2017,35-44,42880,NONE,total
+Southeast,VA,4,hunt,participants,age,2018,35-44,41702,NONE,total
+Southeast,VA,4,hunt,participants,age,2009,45-54,63284,NONE,total
+Southeast,VA,4,hunt,participants,age,2010,45-54,61794,NONE,total
+Southeast,VA,4,hunt,participants,age,2011,45-54,60484,NONE,total
+Southeast,VA,4,hunt,participants,age,2012,45-54,59906,NONE,total
+Southeast,VA,4,hunt,participants,age,2013,45-54,60047,NONE,total
+Southeast,VA,4,hunt,participants,age,2014,45-54,58483,NONE,total
+Southeast,VA,4,hunt,participants,age,2015,45-54,56646,NONE,total
+Southeast,VA,4,hunt,participants,age,2016,45-54,54648,NONE,total
+Southeast,VA,4,hunt,participants,age,2017,45-54,53028,NONE,total
+Southeast,VA,4,hunt,participants,age,2018,45-54,50488,NONE,total
+Southeast,VA,4,hunt,participants,age,2009,55-64,45004,NONE,total
+Southeast,VA,4,hunt,participants,age,2010,55-64,45307,NONE,total
+Southeast,VA,4,hunt,participants,age,2011,55-64,45448,NONE,total
+Southeast,VA,4,hunt,participants,age,2012,55-64,46081,NONE,total
+Southeast,VA,4,hunt,participants,age,2013,55-64,46913,NONE,total
+Southeast,VA,4,hunt,participants,age,2014,55-64,47295,NONE,total
+Southeast,VA,4,hunt,participants,age,2015,55-64,48136,NONE,total
+Southeast,VA,4,hunt,participants,age,2016,55-64,48084,NONE,total
+Southeast,VA,4,hunt,participants,age,2017,55-64,48988,NONE,total
+Southeast,VA,4,hunt,participants,age,2018,55-64,49160,NONE,total
+Southeast,VA,4,hunt,participants - recruited,all,2014,all,39667,NONE,total
+Southeast,VA,4,hunt,participants - recruited,all,2015,all,38144,NONE,total
+Southeast,VA,4,hunt,participants - recruited,all,2016,all,37935,NONE,total
+Southeast,VA,4,hunt,participants - recruited,all,2017,all,33654,NONE,total
+Southeast,VA,4,hunt,participants - recruited,all,2018,all,31195,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2014,resident,32342,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2015,resident,30632,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2016,resident,30444,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2017,resident,26720,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2018,resident,23891,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2014,nonresident,7325,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2015,nonresident,7512,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2016,nonresident,7491,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2017,nonresident,6934,NONE,total
+Southeast,VA,4,hunt,participants - recruited,residency,2018,nonresident,7304,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2014,male,30949,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2015,male,29724,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2016,male,29604,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2017,male,26420,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2018,male,24566,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2014,female,8718,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2015,female,8420,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2016,female,8331,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2017,female,7234,NONE,total
+Southeast,VA,4,hunt,participants - recruited,gender,2018,female,6629,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2014,18-24,8513,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2015,18-24,7846,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2016,18-24,7496,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2017,18-24,6251,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2018,18-24,5886,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2014,25-34,10801,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2015,25-34,10547,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2016,25-34,10235,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2017,25-34,8860,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2018,25-34,8247,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2014,35-44,8188,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2015,35-44,7725,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2016,35-44,7637,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2017,35-44,7040,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2018,35-44,6538,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2014,45-54,7265,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2015,45-54,6992,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2016,45-54,7251,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2017,45-54,6466,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2018,45-54,5904,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2014,55-64,4899,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2015,55-64,5034,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2016,55-64,5316,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2017,55-64,5036,NONE,total
+Southeast,VA,4,hunt,participants - recruited,age,2018,55-64,4619,NONE,total
+Southeast,VA,4,hunt,churn,all,2010,all,0.28059355701851013,NONE,total
+Southeast,VA,4,hunt,churn,all,2011,all,0.2785849785119527,NONE,total
+Southeast,VA,4,hunt,churn,all,2012,all,0.2782806788735777,NONE,total
+Southeast,VA,4,hunt,churn,all,2013,all,0.2783730031436452,NONE,total
+Southeast,VA,4,hunt,churn,all,2014,all,0.29224081502492416,NONE,total
+Southeast,VA,4,hunt,churn,all,2015,all,0.2956405068682784,NONE,total
+Southeast,VA,4,hunt,churn,all,2016,all,0.30820453083436217,NONE,total
+Southeast,VA,4,hunt,churn,all,2017,all,0.29140066751786414,NONE,total
+Southeast,VA,4,hunt,churn,all,2018,all,0.27723213670185615,NONE,total
+Southeast,VA,4,hunt,churn,residency,2010,resident,0.2603543186197505,NONE,total
+Southeast,VA,4,hunt,churn,residency,2011,resident,0.25802146979924034,NONE,total
+Southeast,VA,4,hunt,churn,residency,2012,resident,0.25887625598614983,NONE,total
+Southeast,VA,4,hunt,churn,residency,2013,resident,0.258770222938789,NONE,total
+Southeast,VA,4,hunt,churn,residency,2014,resident,0.27393296906439224,NONE,total
+Southeast,VA,4,hunt,churn,residency,2015,resident,0.2764498332940266,NONE,total
+Southeast,VA,4,hunt,churn,residency,2016,resident,0.28778179925720937,NONE,total
+Southeast,VA,4,hunt,churn,residency,2017,resident,0.27036416317715645,NONE,total
+Southeast,VA,4,hunt,churn,residency,2018,resident,0.25665651910066145,NONE,total
+Southeast,VA,4,hunt,churn,residency,2010,nonresident,0.5029580012712072,NONE,total
+Southeast,VA,4,hunt,churn,residency,2011,nonresident,0.5098956459157971,NONE,total
+Southeast,VA,4,hunt,churn,residency,2012,nonresident,0.5071071840184402,NONE,total
+Southeast,VA,4,hunt,churn,residency,2013,nonresident,0.5139468849173209,NONE,total
+Southeast,VA,4,hunt,churn,residency,2014,nonresident,0.5142369334141103,NONE,total
+Southeast,VA,4,hunt,churn,residency,2015,nonresident,0.5196480621828782,NONE,total
+Southeast,VA,4,hunt,churn,residency,2016,nonresident,0.5390044377907287,NONE,total
+Southeast,VA,4,hunt,churn,residency,2017,nonresident,0.5230852211434736,NONE,total
+Southeast,VA,4,hunt,churn,residency,2018,nonresident,0.5027484608619173,NONE,total
+Southeast,VA,4,hunt,churn,gender,2010,male,0.270457930901927,NONE,total
+Southeast,VA,4,hunt,churn,gender,2011,male,0.2679502170078678,NONE,total
+Southeast,VA,4,hunt,churn,gender,2012,male,0.26644396157829564,NONE,total
+Southeast,VA,4,hunt,churn,gender,2013,male,0.2644076935990109,NONE,total
+Southeast,VA,4,hunt,churn,gender,2014,male,0.27763677242068446,NONE,total
+Southeast,VA,4,hunt,churn,gender,2015,male,0.2805757956342445,NONE,total
+Southeast,VA,4,hunt,churn,gender,2016,male,0.29185793795289183,NONE,total
+Southeast,VA,4,hunt,churn,gender,2017,male,0.27828446240198723,NONE,total
+Southeast,VA,4,hunt,churn,gender,2018,male,0.26707613759095805,NONE,total
+Southeast,VA,4,hunt,churn,gender,2010,female,0.5366933645894381,NONE,total
+Southeast,VA,4,hunt,churn,gender,2011,female,0.54186046511627906,NONE,total
+Southeast,VA,4,hunt,churn,gender,2012,female,0.5415472779369628,NONE,total
+Southeast,VA,4,hunt,churn,gender,2013,female,0.546372239747634,NONE,total
+Southeast,VA,4,hunt,churn,gender,2014,female,0.5561442945836009,NONE,total
+Southeast,VA,4,hunt,churn,gender,2015,female,0.5535677879714577,NONE,total
+Southeast,VA,4,hunt,churn,gender,2016,female,0.5680571629849545,NONE,total
+Southeast,VA,4,hunt,churn,gender,2017,female,0.5515665464886,NONE,total
+Southeast,VA,4,hunt,churn,gender,2018,female,0.5158394931362197,NONE,total
+Southeast,VA,4,hunt,churn,age,2010,18-24,0.37829478676243167,NONE,total
+Southeast,VA,4,hunt,churn,age,2011,18-24,0.386637308195142,NONE,total
+Southeast,VA,4,hunt,churn,age,2012,18-24,0.38444233540721995,NONE,total
+Southeast,VA,4,hunt,churn,age,2013,18-24,0.3854022015241321,NONE,total
+Southeast,VA,4,hunt,churn,age,2014,18-24,0.40047868555533994,NONE,total
+Southeast,VA,4,hunt,churn,age,2015,18-24,0.40706590313500923,NONE,total
+Southeast,VA,4,hunt,churn,age,2016,18-24,0.41905172986254063,NONE,total
+Southeast,VA,4,hunt,churn,age,2017,18-24,0.40428679556870567,NONE,total
+Southeast,VA,4,hunt,churn,age,2018,18-24,0.38104546770923836,NONE,total
+Southeast,VA,4,hunt,churn,age,2010,25-34,0.3415689852834514,NONE,total
+Southeast,VA,4,hunt,churn,age,2011,25-34,0.3430971512052593,NONE,total
+Southeast,VA,4,hunt,churn,age,2012,25-34,0.3423700252763047,NONE,total
+Southeast,VA,4,hunt,churn,age,2013,25-34,0.35048030739673386,NONE,total
+Southeast,VA,4,hunt,churn,age,2014,25-34,0.36825083719436663,NONE,total
+Southeast,VA,4,hunt,churn,age,2015,25-34,0.37532351526533986,NONE,total
+Southeast,VA,4,hunt,churn,age,2016,25-34,0.38529825451359273,NONE,total
+Southeast,VA,4,hunt,churn,age,2017,25-34,0.37633141672165143,NONE,total
+Southeast,VA,4,hunt,churn,age,2018,25-34,0.3549196663632113,NONE,total
+Southeast,VA,4,hunt,churn,age,2010,35-44,0.2792057788207686,NONE,total
+Southeast,VA,4,hunt,churn,age,2011,35-44,0.2759499127981031,NONE,total
+Southeast,VA,4,hunt,churn,age,2012,35-44,0.28346505183208465,NONE,total
+Southeast,VA,4,hunt,churn,age,2013,35-44,0.2804346906845956,NONE,total
+Southeast,VA,4,hunt,churn,age,2014,35-44,0.29888367986208925,NONE,total
+Southeast,VA,4,hunt,churn,age,2015,35-44,0.30339688801227255,NONE,total
+Southeast,VA,4,hunt,churn,age,2016,35-44,0.31918112835560847,NONE,total
+Southeast,VA,4,hunt,churn,age,2017,35-44,0.30755881218665637,NONE,total
+Southeast,VA,4,hunt,churn,age,2018,35-44,0.29766841308072406,NONE,total
+Southeast,VA,4,hunt,churn,age,2010,45-54,0.25475766703176345,NONE,total
+Southeast,VA,4,hunt,churn,age,2011,45-54,0.25027592368739154,NONE,total
+Southeast,VA,4,hunt,churn,age,2012,45-54,0.2476296110773194,NONE,total
+Southeast,VA,4,hunt,churn,age,2013,45-54,0.2436871870609848,NONE,total
+Southeast,VA,4,hunt,churn,age,2014,45-54,0.25460540463049247,NONE,total
+Southeast,VA,4,hunt,churn,age,2015,45-54,0.2568125516102395,NONE,total
+Southeast,VA,4,hunt,churn,age,2016,45-54,0.2691697514542571,NONE,total
+Southeast,VA,4,hunt,churn,age,2017,45-54,0.2547317073170732,NONE,total
+Southeast,VA,4,hunt,churn,age,2018,45-54,0.2509436993012609,NONE,total
+Southeast,VA,4,hunt,churn,age,2010,55-64,0.2267651730278674,NONE,total
+Southeast,VA,4,hunt,churn,age,2011,55-64,0.22262311533774581,NONE,total
+Southeast,VA,4,hunt,churn,age,2012,55-64,0.21860863768391983,NONE,total
+Southeast,VA,4,hunt,churn,age,2013,55-64,0.21768245568849653,NONE,total
+Southeast,VA,4,hunt,churn,age,2014,55-64,0.22335886967292082,NONE,total
+Southeast,VA,4,hunt,churn,age,2015,55-64,0.22201043793964148,NONE,total
+Southeast,VA,4,hunt,churn,age,2016,55-64,0.23887629461706011,NONE,total
+Southeast,VA,4,hunt,churn,age,2017,55-64,0.21991839269082364,NONE,total
+Southeast,VA,4,hunt,churn,age,2018,55-64,0.21169771131735093,NONE,total
+Southeast,VA,4,fish,participants,all,2009,all,494967,NONE,total
+Southeast,VA,4,fish,participants,all,2010,all,481734,NONE,total
+Southeast,VA,4,fish,participants,all,2011,all,462954,NONE,total
+Southeast,VA,4,fish,participants,all,2012,all,465310,NONE,total
+Southeast,VA,4,fish,participants,all,2013,all,471496,NONE,total
+Southeast,VA,4,fish,participants,all,2014,all,480098,NONE,total
+Southeast,VA,4,fish,participants,all,2015,all,474651,NONE,total
+Southeast,VA,4,fish,participants,all,2016,all,458751,NONE,total
+Southeast,VA,4,fish,participants,all,2017,all,453065,NONE,total
+Southeast,VA,4,fish,participants,all,2018,all,426420,NONE,total
+Southeast,VA,4,fish,participants,residency,2009,resident,422925,NONE,total
+Southeast,VA,4,fish,participants,residency,2010,resident,409428,NONE,total
+Southeast,VA,4,fish,participants,residency,2011,resident,396569,NONE,total
+Southeast,VA,4,fish,participants,residency,2012,resident,399858,NONE,total
+Southeast,VA,4,fish,participants,residency,2013,resident,407615,NONE,total
+Southeast,VA,4,fish,participants,residency,2014,resident,411610,NONE,total
+Southeast,VA,4,fish,participants,residency,2015,resident,405279,NONE,total
+Southeast,VA,4,fish,participants,residency,2016,resident,390754,NONE,total
+Southeast,VA,4,fish,participants,residency,2017,resident,385122,NONE,total
+Southeast,VA,4,fish,participants,residency,2018,resident,362493,NONE,total
+Southeast,VA,4,fish,participants,residency,2009,nonresident,72042,NONE,total
+Southeast,VA,4,fish,participants,residency,2010,nonresident,72306,NONE,total
+Southeast,VA,4,fish,participants,residency,2011,nonresident,66385,NONE,total
+Southeast,VA,4,fish,participants,residency,2012,nonresident,65452,NONE,total
+Southeast,VA,4,fish,participants,residency,2013,nonresident,63881,NONE,total
+Southeast,VA,4,fish,participants,residency,2014,nonresident,68488,NONE,total
+Southeast,VA,4,fish,participants,residency,2015,nonresident,69372,NONE,total
+Southeast,VA,4,fish,participants,residency,2016,nonresident,67997,NONE,total
+Southeast,VA,4,fish,participants,residency,2017,nonresident,67943,NONE,total
+Southeast,VA,4,fish,participants,residency,2018,nonresident,63927,NONE,total
+Southeast,VA,4,fish,participants,gender,2009,male,402490,NONE,total
+Southeast,VA,4,fish,participants,gender,2010,male,390585,NONE,total
+Southeast,VA,4,fish,participants,gender,2011,male,375839,NONE,total
+Southeast,VA,4,fish,participants,gender,2012,male,376500,NONE,total
+Southeast,VA,4,fish,participants,gender,2013,male,380068,NONE,total
+Southeast,VA,4,fish,participants,gender,2014,male,383139,NONE,total
+Southeast,VA,4,fish,participants,gender,2015,male,379690,NONE,total
+Southeast,VA,4,fish,participants,gender,2016,male,366709,NONE,total
+Southeast,VA,4,fish,participants,gender,2017,male,363043,NONE,total
+Southeast,VA,4,fish,participants,gender,2018,male,343387,NONE,total
+Southeast,VA,4,fish,participants,gender,2009,female,92477,NONE,total
+Southeast,VA,4,fish,participants,gender,2010,female,91149,NONE,total
+Southeast,VA,4,fish,participants,gender,2011,female,87115,NONE,total
+Southeast,VA,4,fish,participants,gender,2012,female,88810,NONE,total
+Southeast,VA,4,fish,participants,gender,2013,female,91428,NONE,total
+Southeast,VA,4,fish,participants,gender,2014,female,96959,NONE,total
+Southeast,VA,4,fish,participants,gender,2015,female,94961,NONE,total
+Southeast,VA,4,fish,participants,gender,2016,female,92042,NONE,total
+Southeast,VA,4,fish,participants,gender,2017,female,90022,NONE,total
+Southeast,VA,4,fish,participants,gender,2018,female,83033,NONE,total
+Southeast,VA,4,fish,participants,age,2009,18-24,64293,NONE,total
+Southeast,VA,4,fish,participants,age,2010,18-24,63306,NONE,total
+Southeast,VA,4,fish,participants,age,2011,18-24,61728,NONE,total
+Southeast,VA,4,fish,participants,age,2012,18-24,63537,NONE,total
+Southeast,VA,4,fish,participants,age,2013,18-24,66917,NONE,total
+Southeast,VA,4,fish,participants,age,2014,18-24,68743,NONE,total
+Southeast,VA,4,fish,participants,age,2015,18-24,67398,NONE,total
+Southeast,VA,4,fish,participants,age,2016,18-24,64066,NONE,total
+Southeast,VA,4,fish,participants,age,2017,18-24,60410,NONE,total
+Southeast,VA,4,fish,participants,age,2018,18-24,55256,NONE,total
+Southeast,VA,4,fish,participants,age,2009,25-34,101932,NONE,total
+Southeast,VA,4,fish,participants,age,2010,25-34,99549,NONE,total
+Southeast,VA,4,fish,participants,age,2011,25-34,95418,NONE,total
+Southeast,VA,4,fish,participants,age,2012,25-34,96647,NONE,total
+Southeast,VA,4,fish,participants,age,2013,25-34,99300,NONE,total
+Southeast,VA,4,fish,participants,age,2014,25-34,102185,NONE,total
+Southeast,VA,4,fish,participants,age,2015,25-34,101453,NONE,total
+Southeast,VA,4,fish,participants,age,2016,25-34,98155,NONE,total
+Southeast,VA,4,fish,participants,age,2017,25-34,94421,NONE,total
+Southeast,VA,4,fish,participants,age,2018,25-34,87535,NONE,total
+Southeast,VA,4,fish,participants,age,2009,35-44,120190,NONE,total
+Southeast,VA,4,fish,participants,age,2010,35-44,113368,NONE,total
+Southeast,VA,4,fish,participants,age,2011,35-44,106242,NONE,total
+Southeast,VA,4,fish,participants,age,2012,35-44,103586,NONE,total
+Southeast,VA,4,fish,participants,age,2013,35-44,102843,NONE,total
+Southeast,VA,4,fish,participants,age,2014,35-44,103504,NONE,total
+Southeast,VA,4,fish,participants,age,2015,35-44,100167,NONE,total
+Southeast,VA,4,fish,participants,age,2016,35-44,95847,NONE,total
+Southeast,VA,4,fish,participants,age,2017,35-44,95194,NONE,total
+Southeast,VA,4,fish,participants,age,2018,35-44,89640,NONE,total
+Southeast,VA,4,fish,participants,age,2009,45-54,125294,NONE,total
+Southeast,VA,4,fish,participants,age,2010,45-54,121171,NONE,total
+Southeast,VA,4,fish,participants,age,2011,45-54,115677,NONE,total
+Southeast,VA,4,fish,participants,age,2012,45-54,115071,NONE,total
+Southeast,VA,4,fish,participants,age,2013,45-54,113985,NONE,total
+Southeast,VA,4,fish,participants,age,2014,45-54,114261,NONE,total
+Southeast,VA,4,fish,participants,age,2015,45-54,111424,NONE,total
+Southeast,VA,4,fish,participants,age,2016,45-54,106639,NONE,total
+Southeast,VA,4,fish,participants,age,2017,45-54,106013,NONE,total
+Southeast,VA,4,fish,participants,age,2018,45-54,98067,NONE,total
+Southeast,VA,4,fish,participants,age,2009,55-64,83258,NONE,total
+Southeast,VA,4,fish,participants,age,2010,55-64,84340,NONE,total
+Southeast,VA,4,fish,participants,age,2011,55-64,83888,NONE,total
+Southeast,VA,4,fish,participants,age,2012,55-64,86470,NONE,total
+Southeast,VA,4,fish,participants,age,2013,55-64,88452,NONE,total
+Southeast,VA,4,fish,participants,age,2014,55-64,91405,NONE,total
+Southeast,VA,4,fish,participants,age,2015,55-64,94210,NONE,total
+Southeast,VA,4,fish,participants,age,2016,55-64,94044,NONE,total
+Southeast,VA,4,fish,participants,age,2017,55-64,97028,NONE,total
+Southeast,VA,4,fish,participants,age,2018,55-64,95923,NONE,total
+Southeast,VA,4,fish,participants - recruited,all,2014,all,143186,NONE,total
+Southeast,VA,4,fish,participants - recruited,all,2015,all,139860,NONE,total
+Southeast,VA,4,fish,participants - recruited,all,2016,all,134613,NONE,total
+Southeast,VA,4,fish,participants - recruited,all,2017,all,130065,NONE,total
+Southeast,VA,4,fish,participants - recruited,all,2018,all,113380,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2014,resident,104718,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2015,resident,100507,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2016,resident,95735,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2017,resident,91492,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2018,resident,77550,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2014,nonresident,38468,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2015,nonresident,39353,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2016,nonresident,38878,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2017,nonresident,38573,NONE,total
+Southeast,VA,4,fish,participants - recruited,residency,2018,nonresident,35830,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2014,male,100127,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2015,male,98747,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2016,male,95069,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2017,male,92307,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2018,male,81067,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2014,female,43059,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2015,female,41113,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2016,female,39544,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2017,female,37758,NONE,total
+Southeast,VA,4,fish,participants - recruited,gender,2018,female,32313,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2014,18-24,29739,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2015,18-24,28302,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2016,18-24,26353,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2017,18-24,24151,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2018,18-24,21303,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2014,25-34,37685,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2015,25-34,36855,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2016,25-34,35128,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2017,25-34,32985,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2018,25-34,28751,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2014,35-44,30693,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2015,35-44,29529,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2016,35-44,28488,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2017,35-44,28513,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2018,35-44,24852,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2014,45-54,26840,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2015,45-54,26361,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2016,45-54,25691,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2017,45-54,25196,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2018,45-54,21322,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2014,55-64,18229,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2015,55-64,18812,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2016,55-64,18952,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2017,55-64,19220,NONE,total
+Southeast,VA,4,fish,participants - recruited,age,2018,55-64,17153,NONE,total
+Southeast,VA,4,fish,churn,all,2010,all,0.514757549493199,NONE,total
+Southeast,VA,4,fish,churn,all,2011,all,0.5158199338224002,NONE,total
+Southeast,VA,4,fish,churn,all,2012,all,0.5107332477956773,NONE,total
+Southeast,VA,4,fish,churn,all,2013,all,0.5014807332745916,NONE,total
+Southeast,VA,4,fish,churn,all,2014,all,0.5017773215467363,NONE,total
+Southeast,VA,4,fish,churn,all,2015,all,0.5093626717878429,NONE,total
+Southeast,VA,4,fish,churn,all,2016,all,0.5181617651706195,NONE,total
+Southeast,VA,4,fish,churn,all,2017,all,0.504668109715292,NONE,total
+Southeast,VA,4,fish,churn,all,2018,all,0.4934170593623429,NONE,total
+Southeast,VA,4,fish,churn,residency,2010,resident,0.4816882425962048,NONE,total
+Southeast,VA,4,fish,churn,residency,2011,resident,0.48160848793927113,NONE,total
+Southeast,VA,4,fish,churn,residency,2012,resident,0.47841359259044436,NONE,total
+Southeast,VA,4,fish,churn,residency,2013,resident,0.4677035347548374,NONE,total
+Southeast,VA,4,fish,churn,residency,2014,resident,0.470991008672399,NONE,total
+Southeast,VA,4,fish,churn,residency,2015,resident,0.4752314083720023,NONE,total
+Southeast,VA,4,fish,churn,residency,2016,resident,0.48320786421206074,NONE,total
+Southeast,VA,4,fish,churn,residency,2017,resident,0.4674919510459801,NONE,total
+Southeast,VA,4,fish,churn,residency,2018,resident,0.45304438368400435,NONE,total
+Southeast,VA,4,fish,churn,residency,2010,nonresident,0.708892035201688,NONE,total
+Southeast,VA,4,fish,churn,residency,2011,nonresident,0.7095400105108843,NONE,total
+Southeast,VA,4,fish,churn,residency,2012,nonresident,0.7038035700836033,NONE,total
+Southeast,VA,4,fish,churn,residency,2013,nonresident,0.7078316934547455,NONE,total
+Southeast,VA,4,fish,churn,residency,2014,nonresident,0.6982201280505941,NONE,total
+Southeast,VA,4,fish,churn,residency,2015,nonresident,0.7144901296577503,NONE,total
+Southeast,VA,4,fish,churn,residency,2016,nonresident,0.7223663725998962,NONE,total
+Southeast,VA,4,fish,churn,residency,2017,nonresident,0.7181915785448502,NONE,total
+Southeast,VA,4,fish,churn,residency,2018,nonresident,0.7222336698949103,NONE,total
+Southeast,VA,4,fish,churn,gender,2010,male,0.5051615798922802,NONE,total
+Southeast,VA,4,fish,churn,gender,2011,male,0.5059945619250226,NONE,total
+Southeast,VA,4,fish,churn,gender,2012,male,0.500767118153763,NONE,total
+Southeast,VA,4,fish,churn,gender,2013,male,0.49199473307037517,NONE,total
+Southeast,VA,4,fish,churn,gender,2014,male,0.4923335337074285,NONE,total
+Southeast,VA,4,fish,churn,gender,2015,male,0.49774228543191956,NONE,total
+Southeast,VA,4,fish,churn,gender,2016,male,0.5073073010139343,NONE,total
+Southeast,VA,4,fish,churn,gender,2017,male,0.4934724081620643,NONE,total
+Southeast,VA,4,fish,churn,gender,2018,male,0.4865727843618676,NONE,total
+Southeast,VA,4,fish,churn,gender,2010,female,0.6736507331483091,NONE,total
+Southeast,VA,4,fish,churn,gender,2011,female,0.6732389944700683,NONE,total
+Southeast,VA,4,fish,churn,gender,2012,female,0.6723258046586833,NONE,total
+Southeast,VA,4,fish,churn,gender,2013,female,0.6571079248638435,NONE,total
+Southeast,VA,4,fish,churn,gender,2014,female,0.6530243791623325,NONE,total
+Southeast,VA,4,fish,churn,gender,2015,female,0.6641492071685876,NONE,total
+Southeast,VA,4,fish,churn,gender,2016,female,0.6670932504541975,NONE,total
+Southeast,VA,4,fish,churn,gender,2017,female,0.6578941198536997,NONE,total
+Southeast,VA,4,fish,churn,gender,2018,female,0.6426981803467933,NONE,total
+Southeast,VA,4,fish,churn,age,2010,18-24,0.6430188934329266,NONE,total
+Southeast,VA,4,fish,churn,age,2011,18-24,0.6447957206782451,NONE,total
+Southeast,VA,4,fish,churn,age,2012,18-24,0.639258413144715,NONE,total
+Southeast,VA,4,fish,churn,age,2013,18-24,0.6291668085396166,NONE,total
+Southeast,VA,4,fish,churn,age,2014,18-24,0.6277840451248992,NONE,total
+Southeast,VA,4,fish,churn,age,2015,18-24,0.6330902674765392,NONE,total
+Southeast,VA,4,fish,churn,age,2016,18-24,0.6404826162882996,NONE,total
+Southeast,VA,4,fish,churn,age,2017,18-24,0.6365042150945278,NONE,total
+Southeast,VA,4,fish,churn,age,2018,18-24,0.6314479519043696,NONE,total
+Southeast,VA,4,fish,churn,age,2010,25-34,0.5996567786222115,NONE,total
+Southeast,VA,4,fish,churn,age,2011,25-34,0.605331443523768,NONE,total
+Southeast,VA,4,fish,churn,age,2012,25-34,0.605390902993304,NONE,total
+Southeast,VA,4,fish,churn,age,2013,25-34,0.5949321753145005,NONE,total
+Southeast,VA,4,fish,churn,age,2014,25-34,0.5986120463085645,NONE,total
+Southeast,VA,4,fish,churn,age,2015,25-34,0.6059265950965356,NONE,total
+Southeast,VA,4,fish,churn,age,2016,25-34,0.6141449935666224,NONE,total
+Southeast,VA,4,fish,churn,age,2017,25-34,0.6077967462910105,NONE,total
+Southeast,VA,4,fish,churn,age,2018,25-34,0.5973377890416489,NONE,total
+Southeast,VA,4,fish,churn,age,2010,35-44,0.5343741242621202,NONE,total
+Southeast,VA,4,fish,churn,age,2011,35-44,0.5376249377704593,NONE,total
+Southeast,VA,4,fish,churn,age,2012,35-44,0.5402436160545635,NONE,total
+Southeast,VA,4,fish,churn,age,2013,35-44,0.5308522080553033,NONE,total
+Southeast,VA,4,fish,churn,age,2014,35-44,0.5321400109055827,NONE,total
+Southeast,VA,4,fish,churn,age,2015,35-44,0.543032553123088,NONE,total
+Southeast,VA,4,fish,churn,age,2016,35-44,0.5542642283370365,NONE,total
+Southeast,VA,4,fish,churn,age,2017,35-44,0.5452514587385385,NONE,total
+Southeast,VA,4,fish,churn,age,2018,35-44,0.539564424274782,NONE,total
+Southeast,VA,4,fish,churn,age,2010,45-54,0.4877340247487404,NONE,total
+Southeast,VA,4,fish,churn,age,2011,45-54,0.4883600111070304,NONE,total
+Southeast,VA,4,fish,churn,age,2012,45-54,0.4835379176473897,NONE,total
+Southeast,VA,4,fish,churn,age,2013,45-54,0.47429028012784363,NONE,total
+Southeast,VA,4,fish,churn,age,2014,45-54,0.4703060693504896,NONE,total
+Southeast,VA,4,fish,churn,age,2015,45-54,0.47952540653270576,NONE,total
+Southeast,VA,4,fish,churn,age,2016,45-54,0.49080538137261476,NONE,total
+Southeast,VA,4,fish,churn,age,2017,45-54,0.47349283252584784,NONE,total
+Southeast,VA,4,fish,churn,age,2018,45-54,0.4707656658876171,NONE,total
+Southeast,VA,4,fish,churn,age,2010,55-64,0.43604901538582,NONE,total
+Southeast,VA,4,fish,churn,age,2011,55-64,0.4301028221395755,NONE,total
+Southeast,VA,4,fish,churn,age,2012,55-64,0.4150826285980294,NONE,total
+Southeast,VA,4,fish,churn,age,2013,55-64,0.4060346013835549,NONE,total
+Southeast,VA,4,fish,churn,age,2014,55-64,0.4023457979248711,NONE,total
+Southeast,VA,4,fish,churn,age,2015,55-64,0.4070224884034996,NONE,total
+Southeast,VA,4,fish,churn,age,2016,55-64,0.41671114947358867,NONE,total
+Southeast,VA,4,fish,churn,age,2017,55-64,0.3976688339638884,NONE,total
+Southeast,VA,4,fish,churn,age,2018,55-64,0.38842388991346294,NONE,total
+Southeast,VA,4,all_sports,participants,all,2009,all,587170,NONE,total
+Southeast,VA,4,all_sports,participants,all,2010,all,572009,NONE,total
+Southeast,VA,4,all_sports,participants,all,2011,all,552139,NONE,total
+Southeast,VA,4,all_sports,participants,all,2012,all,553926,NONE,total
+Southeast,VA,4,all_sports,participants,all,2013,all,561536,NONE,total
+Southeast,VA,4,all_sports,participants,all,2014,all,566615,NONE,total
+Southeast,VA,4,all_sports,participants,all,2015,all,557875,NONE,total
+Southeast,VA,4,all_sports,participants,all,2016,all,538657,NONE,total
+Southeast,VA,4,all_sports,participants,all,2017,all,529790,NONE,total
+Southeast,VA,4,all_sports,participants,all,2018,all,500552,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2009,resident,502743,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2010,resident,487648,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2011,resident,474166,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2012,resident,477364,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2013,resident,486245,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2014,resident,486576,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2015,resident,476829,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2016,resident,459451,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2017,resident,450901,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2018,resident,425701,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2009,nonresident,84427,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2010,nonresident,84361,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2011,nonresident,77973,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2012,nonresident,76562,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2013,nonresident,75291,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2014,nonresident,80039,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2015,nonresident,81046,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2016,nonresident,79206,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2017,nonresident,78889,NONE,total
+Southeast,VA,4,all_sports,participants,residency,2018,nonresident,74851,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2009,male,489596,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2010,male,475586,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2011,male,459495,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2012,male,459118,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2013,male,463477,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2014,male,463073,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2015,male,456188,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2016,male,440402,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2017,male,433466,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2018,male,411348,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2009,female,97574,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2010,female,96423,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2011,female,92644,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2012,female,94808,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2013,female,98059,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2014,female,103542,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2015,female,101687,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2016,female,98255,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2017,female,96324,NONE,total
+Southeast,VA,4,all_sports,participants,gender,2018,female,89204,NONE,total
+Southeast,VA,4,all_sports,participants,age,2009,18-24,76759,NONE,total
+Southeast,VA,4,all_sports,participants,age,2010,18-24,75868,NONE,total
+Southeast,VA,4,all_sports,participants,age,2011,18-24,73940,NONE,total
+Southeast,VA,4,all_sports,participants,age,2012,18-24,75895,NONE,total
+Southeast,VA,4,all_sports,participants,age,2013,18-24,79560,NONE,total
+Southeast,VA,4,all_sports,participants,age,2014,18-24,80819,NONE,total
+Southeast,VA,4,all_sports,participants,age,2015,18-24,78659,NONE,total
+Southeast,VA,4,all_sports,participants,age,2016,18-24,74992,NONE,total
+Southeast,VA,4,all_sports,participants,age,2017,18-24,71012,NONE,total
+Southeast,VA,4,all_sports,participants,age,2018,18-24,65690,NONE,total
+Southeast,VA,4,all_sports,participants,age,2009,25-34,119121,NONE,total
+Southeast,VA,4,all_sports,participants,age,2010,25-34,116299,NONE,total
+Southeast,VA,4,all_sports,participants,age,2011,25-34,112302,NONE,total
+Southeast,VA,4,all_sports,participants,age,2012,25-34,113847,NONE,total
+Southeast,VA,4,all_sports,participants,age,2013,25-34,117313,NONE,total
+Southeast,VA,4,all_sports,participants,age,2014,25-34,119777,NONE,total
+Southeast,VA,4,all_sports,participants,age,2015,25-34,118457,NONE,total
+Southeast,VA,4,all_sports,participants,age,2016,25-34,114773,NONE,total
+Southeast,VA,4,all_sports,participants,age,2017,25-34,110346,NONE,total
+Southeast,VA,4,all_sports,participants,age,2018,25-34,103050,NONE,total
+Southeast,VA,4,all_sports,participants,age,2009,35-44,141841,NONE,total
+Southeast,VA,4,all_sports,participants,age,2010,35-44,133798,NONE,total
+Southeast,VA,4,all_sports,participants,age,2011,35-44,126064,NONE,total
+Southeast,VA,4,all_sports,participants,age,2012,35-44,122881,NONE,total
+Southeast,VA,4,all_sports,participants,age,2013,35-44,122180,NONE,total
+Southeast,VA,4,all_sports,participants,age,2014,35-44,121479,NONE,total
+Southeast,VA,4,all_sports,participants,age,2015,35-44,117085,NONE,total
+Southeast,VA,4,all_sports,participants,age,2016,35-44,111544,NONE,total
+Southeast,VA,4,all_sports,participants,age,2017,35-44,110085,NONE,total
+Southeast,VA,4,all_sports,participants,age,2018,35-44,104179,NONE,total
+Southeast,VA,4,all_sports,participants,age,2009,45-54,149176,NONE,total
+Southeast,VA,4,all_sports,participants,age,2010,45-54,144684,NONE,total
+Southeast,VA,4,all_sports,participants,age,2011,45-54,138880,NONE,total
+Southeast,VA,4,all_sports,participants,age,2012,45-54,137961,NONE,total
+Southeast,VA,4,all_sports,participants,age,2013,45-54,136886,NONE,total
+Southeast,VA,4,all_sports,participants,age,2014,45-54,136206,NONE,total
+Southeast,VA,4,all_sports,participants,age,2015,45-54,132269,NONE,total
+Southeast,VA,4,all_sports,participants,age,2016,45-54,126455,NONE,total
+Southeast,VA,4,all_sports,participants,age,2017,45-54,124648,NONE,total
+Southeast,VA,4,all_sports,participants,age,2018,45-54,115432,NONE,total
+Southeast,VA,4,all_sports,participants,age,2009,55-64,100273,NONE,total
+Southeast,VA,4,all_sports,participants,age,2010,55-64,101360,NONE,total
+Southeast,VA,4,all_sports,participants,age,2011,55-64,100953,NONE,total
+Southeast,VA,4,all_sports,participants,age,2012,55-64,103342,NONE,total
+Southeast,VA,4,all_sports,participants,age,2013,55-64,105596,NONE,total
+Southeast,VA,4,all_sports,participants,age,2014,55-64,108334,NONE,total
+Southeast,VA,4,all_sports,participants,age,2015,55-64,111405,NONE,total
+Southeast,VA,4,all_sports,participants,age,2016,55-64,110893,NONE,total
+Southeast,VA,4,all_sports,participants,age,2017,55-64,113699,NONE,total
+Southeast,VA,4,all_sports,participants,age,2018,55-64,112202,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,all,2014,all,147306,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,all,2015,all,143370,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,all,2016,all,138121,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,all,2017,all,132174,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,all,2018,all,116041,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2014,resident,105522,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2015,resident,100500,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2016,resident,96169,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2017,resident,90961,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2018,resident,77348,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2014,nonresident,41784,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2015,nonresident,42870,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2016,nonresident,41952,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2017,nonresident,41213,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,residency,2018,nonresident,38693,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2014,male,103216,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2015,male,101273,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2016,male,97687,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2017,male,93683,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2018,male,83018,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2014,female,44090,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2015,female,42097,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2016,female,40434,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2017,female,38491,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,gender,2018,female,33023,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2014,18-24,30154,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2015,18-24,28543,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2016,18-24,26636,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2017,18-24,24324,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2018,18-24,21697,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2014,25-34,39148,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2015,25-34,38183,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2016,25-34,36499,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2017,25-34,34028,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2018,25-34,29886,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2014,35-44,31639,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2015,35-44,30360,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2016,35-44,29230,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2017,35-44,28880,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2018,35-44,25419,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2014,45-54,27685,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2015,45-54,27023,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2016,45-54,26367,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2017,45-54,25450,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2018,45-54,21706,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2014,55-64,18680,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2015,55-64,19261,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2016,55-64,19390,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2017,55-64,19492,NONE,total
+Southeast,VA,4,all_sports,participants - recruited,age,2018,55-64,17333,NONE,total
+Southeast,VA,4,all_sports,churn,all,2010,all,0.4451283274009233,NONE,total
+Southeast,VA,4,all_sports,churn,all,2011,all,0.4457831957189481,NONE,total
+Southeast,VA,4,all_sports,churn,all,2012,all,0.4397660733981833,NONE,total
+Southeast,VA,4,all_sports,churn,all,2013,all,0.43227615241024986,NONE,total
+Southeast,VA,4,all_sports,churn,all,2014,all,0.43619999430134543,NONE,total
+Southeast,VA,4,all_sports,churn,all,2015,all,0.445948307051525,NONE,total
+Southeast,VA,4,all_sports,churn,all,2016,all,0.4556092314586607,NONE,total
+Southeast,VA,4,all_sports,churn,all,2017,all,0.44133650913289896,NONE,total
+Southeast,VA,4,all_sports,churn,all,2018,all,0.43363974404952915,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2010,resident,0.4076496341072878,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2011,resident,0.4068939070805176,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2012,resident,0.40289265784556405,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2013,resident,0.3947008991042476,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2014,resident,0.40194346471429054,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2015,resident,0.40853844003814466,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2016,resident,0.41685593787290676,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2017,resident,0.40116143664663434,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2018,resident,0.39097534253866745,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2010,nonresident,0.6683051630402596,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2011,nonresident,0.6705823781131091,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2012,nonresident,0.6639990766034397,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2013,nonresident,0.6665578224184321,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2014,nonresident,0.6574358157017439,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2015,nonresident,0.6733717312810005,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2016,nonresident,0.6836117760284284,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2017,nonresident,0.6742632761798945,NONE,total
+Southeast,VA,4,all_sports,churn,residency,2018,nonresident,0.6774667883581788,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2010,male,0.42551709775873936,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2011,male,0.425738585084633,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2012,male,0.41922545610441514,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2013,male,0.4120259058986758,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2014,male,0.41604618931145215,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2015,male,0.42382149767711436,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2016,male,0.43346418521058505,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2017,male,0.42011616631664084,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2018,male,0.41733064053901797,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2010,female,0.651262345366906,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2011,female,0.6502310898127435,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2012,female,0.6469587610598561,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2013,female,0.6308589705239421,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2014,female,0.6275798621117736,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2015,female,0.6379218444623279,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2016,female,0.642573732230002,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2017,female,0.6305311667321889,NONE,total
+Southeast,VA,4,all_sports,churn,gender,2018,female,0.6160624342724305,NONE,total
+Southeast,VA,4,all_sports,churn,age,2010,18-24,0.5552344432853074,NONE,total
+Southeast,VA,4,all_sports,churn,age,2011,18-24,0.5562930887128937,NONE,total
+Southeast,VA,4,all_sports,churn,age,2012,18-24,0.5495925698764567,NONE,total
+Southeast,VA,4,all_sports,churn,age,2013,18-24,0.54074872682394,NONE,total
+Southeast,VA,4,all_sports,churn,age,2014,18-24,0.5462798100787742,NONE,total
+Southeast,VA,4,all_sports,churn,age,2015,18-24,0.5560946589106294,NONE,total
+Southeast,VA,4,all_sports,churn,age,2016,18-24,0.5640036283389518,NONE,total
+Southeast,VA,4,all_sports,churn,age,2017,18-24,0.5566128439329242,NONE,total
+Southeast,VA,4,all_sports,churn,age,2018,18-24,0.550082418806338,NONE,total
+Southeast,VA,4,all_sports,churn,age,2010,25-34,0.5252993223233591,NONE,total
+Southeast,VA,4,all_sports,churn,age,2011,25-34,0.5297074784418674,NONE,total
+Southeast,VA,4,all_sports,churn,age,2012,25-34,0.5256812106993827,NONE,total
+Southeast,VA,4,all_sports,churn,age,2013,25-34,0.5173437736420033,NONE,total
+Southeast,VA,4,all_sports,churn,age,2014,25-34,0.5231121072130996,NONE,total
+Southeast,VA,4,all_sports,churn,age,2015,25-34,0.5337775755791652,NONE,total
+Southeast,VA,4,all_sports,churn,age,2016,25-34,0.5411875758529241,NONE,total
+Southeast,VA,4,all_sports,churn,age,2017,25-34,0.5336369683308082,NONE,total
+Southeast,VA,4,all_sports,churn,age,2018,25-34,0.5251820562319617,NONE,total
+Southeast,VA,4,all_sports,churn,age,2010,35-44,0.459344817589527,NONE,total
+Southeast,VA,4,all_sports,churn,age,2011,35-44,0.46190068493150677,NONE,total
+Southeast,VA,4,all_sports,churn,age,2012,35-44,0.4619963683705631,NONE,total
+Southeast,VA,4,all_sports,churn,age,2013,35-44,0.45289350330748673,NONE,total
+Southeast,VA,4,all_sports,churn,age,2014,35-44,0.4584101888449715,NONE,total
+Southeast,VA,4,all_sports,churn,age,2015,35-44,0.4721269372174432,NONE,total
+Southeast,VA,4,all_sports,churn,age,2016,35-44,0.48547027204016496,NONE,total
+Southeast,VA,4,all_sports,churn,age,2017,35-44,0.47518013650449625,NONE,total
+Southeast,VA,4,all_sports,churn,age,2018,35-44,0.4737426956605038,NONE,total
+Southeast,VA,4,all_sports,churn,age,2010,45-54,0.41864699396471694,NONE,total
+Southeast,VA,4,all_sports,churn,age,2011,45-54,0.41765883389850755,NONE,total
+Southeast,VA,4,all_sports,churn,age,2012,45-54,0.41102152836628536,NONE,total
+Southeast,VA,4,all_sports,churn,age,2013,45-54,0.4034618115981615,NONE,total
+Southeast,VA,4,all_sports,churn,age,2014,45-54,0.40288350724796756,NONE,total
+Southeast,VA,4,all_sports,churn,age,2015,45-54,0.4127175882708252,NONE,total
+Southeast,VA,4,all_sports,churn,age,2016,45-54,0.4236705446640636,NONE,total
+Southeast,VA,4,all_sports,churn,age,2017,45-54,0.40694778678696303,NONE,total
+Southeast,VA,4,all_sports,churn,age,2018,45-54,0.4096362098138749,NONE,total
+Southeast,VA,4,all_sports,churn,age,2010,55-64,0.3744064577397911,NONE,total
+Southeast,VA,4,all_sports,churn,age,2011,55-64,0.3708631866257251,NONE,total
+Southeast,VA,4,all_sports,churn,age,2012,55-64,0.35851801146573103,NONE,total
+Southeast,VA,4,all_sports,churn,age,2013,55-64,0.35126997687162703,NONE,total
+Southeast,VA,4,all_sports,churn,age,2014,55-64,0.3503053954896998,NONE,total
+Southeast,VA,4,all_sports,churn,age,2015,55-64,0.355337258731051,NONE,total
+Southeast,VA,4,all_sports,churn,age,2016,55-64,0.3664171756856225,NONE,total
+Southeast,VA,4,all_sports,churn,age,2017,55-64,0.3486957852061501,NONE,total
+Southeast,VA,4,all_sports,churn,age,2018,55-64,0.3434616062402033,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2009,18-24,0.0957506003873352,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2010,18-24,0.0934862736652372,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2011,18-24,0.09018086574784344,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2012,18-24,0.09178565996355492,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2013,18-24,0.09561743341985521,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2014,18-24,0.09685112885214299,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2015,18-24,0.09406543734176678,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2016,18-24,0.08994961864509583,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2017,18-24,0.0856982128046519,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2018,18-24,0.078787131679711,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2009,25-34,0.11216947223897335,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2010,25-34,0.10817809828788841,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2011,25-34,0.10268039226474626,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2012,25-34,0.10195599690950415,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2013,25-34,0.10327540890142085,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2014,25-34,0.10365595119817778,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2015,25-34,0.10133806996808145,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2016,25-34,0.09822087249271093,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2017,25-34,0.09378542129165038,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2018,25-34,0.08704478208285464,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2009,35-44,0.12282180745424154,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2010,35-44,0.1144459260357447,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2011,35-44,0.10941253775760057,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2012,35-44,0.10798382494773988,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2013,35-44,0.10865018522925593,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2014,35-44,0.10887454536446067,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2015,35-44,0.10556713393446462,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2016,35-44,0.10065159534274032,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2017,35-44,0.09919576749945143,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2018,35-44,0.09329560535991632,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2009,45-54,0.1245369224585168,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2010,45-54,0.11931545303194269,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2011,45-54,0.11366518882426419,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2012,45-54,0.11231101091294762,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2013,45-54,0.11169075136602191,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2014,45-54,0.11194100835408956,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2015,45-54,0.10970609942415135,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2016,45-54,0.10556523984236665,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2017,45-54,0.10515521536084858,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2018,45-54,0.09678047078687801,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2009,55-64,0.11011424536460455,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2010,55-64,0.109951995661555,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2011,55-64,0.10612090586952075,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2012,55-64,0.10567815006862401,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2013,55-64,0.105439174075486,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2014,55-64,0.10611843620138217,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2015,55-64,0.10727696603723809,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2016,55-64,0.10503415086262748,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2017,55-64,0.10581806310025342,NONE,total
+Southeast,VA,4,all_sports,participation rate,age,2018,55-64,0.10378145820848834,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2009,all,0.11452610383671863,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2010,all,0.11020987409241938,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2011,all,0.1053914025061557,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2012,all,0.10475675029919006,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2013,all,0.10556013659186585,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2014,all,0.10604005453244612,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2015,all,0.10411230777380581,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2016,all,0.1004186197743821,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2017,all,0.09856867727727463,NONE,total
+Southeast,VA,4,all_sports,participation rate,all,2018,all,0.09255510556070659,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2009,female,0.0376961177457162,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2010,female,0.036797657423345675,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2011,female,0.03501451045456492,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2012,female,0.035493735977843645,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2013,female,0.036524328461003654,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2014,female,0.038425886694459684,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2015,female,0.037665384556780104,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2016,female,0.0363581661938355,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2017,female,0.0355972910132101,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2018,female,0.03276293320450629,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2009,male,0.19286692930135554,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2010,male,0.18506572069158378,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2011,male,0.1772016141217535,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2012,male,0.1754624782630055,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2013,male,0.17590425495909742,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2014,male,0.17482266011615083,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2015,male,0.17158636418198503,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2016,male,0.16545918261237835,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2017,male,0.16241403677041943,NONE,total
+Southeast,VA,4,all_sports,participation rate,gender,2018,male,0.1531771271714356,NONE,total
+Southeast,VA,4,fish,participation rate,age,2009,18-24,0.08020028075799505,NONE,total
+Southeast,VA,4,fish,participation rate,age,2010,18-24,0.0780070917995928,NONE,total
+Southeast,VA,4,fish,participation rate,age,2011,18-24,0.07528650907334163,NONE,total
+Southeast,VA,4,fish,participation rate,age,2012,18-24,0.07684018021087541,NONE,total
+Southeast,VA,4,fish,participation rate,age,2013,18-24,0.08042272237501824,NONE,total
+Southeast,VA,4,fish,participation rate,age,2014,18-24,0.08237960319581863,NONE,total
+Southeast,VA,4,fish,participation rate,age,2015,18-24,0.08059881699437316,NONE,total
+Southeast,VA,4,fish,participation rate,age,2016,18-24,0.07684436030665551,NONE,total
+Southeast,VA,4,fish,participation rate,age,2017,18-24,0.07290358017699855,NONE,total
+Southeast,VA,4,fish,participation rate,age,2018,18-24,0.06627282307952674,NONE,total
+Southeast,VA,4,fish,participation rate,age,2009,25-34,0.09598356834028451,NONE,total
+Southeast,VA,4,fish,participation rate,age,2010,25-34,0.09259771370743516,NONE,total
+Southeast,VA,4,fish,participation rate,age,2011,25-34,0.08724294909367206,NONE,total
+Southeast,VA,4,fish,participation rate,age,2012,25-34,0.08655248915924747,NONE,total
+Southeast,VA,4,fish,participation rate,age,2013,25-34,0.08741783181668776,NONE,total
+Southeast,VA,4,fish,participation rate,age,2014,25-34,0.08843169701349839,NONE,total
+Southeast,VA,4,fish,participation rate,age,2015,25-34,0.08679141977655831,NONE,total
+Southeast,VA,4,fish,participation rate,age,2016,25-34,0.0839994575337583,NONE,total
+Southeast,VA,4,fish,participation rate,age,2017,25-34,0.08025042379224367,NONE,total
+Southeast,VA,4,fish,participation rate,age,2018,25-34,0.07393949538692558,NONE,total
+Southeast,VA,4,fish,participation rate,age,2009,35-44,0.10407394926661043,NONE,total
+Southeast,VA,4,fish,participation rate,age,2010,35-44,0.09697084966008689,NONE,total
+Southeast,VA,4,fish,participation rate,age,2011,35-44,0.09220877361057082,NONE,total
+Southeast,VA,4,fish,participation rate,age,2012,35-44,0.09102800669783435,NONE,total
+Southeast,VA,4,fish,participation rate,age,2013,35-44,0.09145450155125526,NONE,total
+Southeast,VA,4,fish,participation rate,age,2014,35-44,0.09276460082321338,NONE,total
+Southeast,VA,4,fish,participation rate,age,2015,35-44,0.09031338860497518,NONE,total
+Southeast,VA,4,fish,participation rate,age,2016,35-44,0.08648742611718811,NONE,total
+Southeast,VA,4,fish,participation rate,age,2017,35-44,0.0857777343992622,NONE,total
+Southeast,VA,4,fish,participation rate,age,2018,35-44,0.08027546880333752,NONE,total
+Southeast,VA,4,fish,participation rate,age,2009,45-54,0.10459946078804502,NONE,total
+Southeast,VA,4,fish,participation rate,age,2010,45-54,0.09992516628883309,NONE,total
+Southeast,VA,4,fish,participation rate,age,2011,45-54,0.09467488513554442,NONE,total
+Southeast,VA,4,fish,participation rate,age,2012,45-54,0.09367676616408838,NONE,total
+Southeast,VA,4,fish,participation rate,age,2013,45-54,0.09300491134561611,NONE,total
+Southeast,VA,4,fish,participation rate,age,2014,45-54,0.09390549282371281,NONE,total
+Southeast,VA,4,fish,participation rate,age,2015,45-54,0.09241691116011039,NONE,total
+Southeast,VA,4,fish,participation rate,age,2016,45-54,0.08902274810446513,NONE,total
+Southeast,VA,4,fish,participation rate,age,2017,45-54,0.0894344060558504,NONE,total
+Southeast,VA,4,fish,participation rate,age,2018,45-54,0.08222131149643744,NONE,total
+Southeast,VA,4,fish,participation rate,age,2009,55-64,0.09142931637196698,NONE,total
+Southeast,VA,4,fish,participation rate,age,2010,55-64,0.09148925921562302,NONE,total
+Southeast,VA,4,fish,participation rate,age,2011,55-64,0.08818232793064452,NONE,total
+Southeast,VA,4,fish,participation rate,age,2012,55-64,0.08842474150329893,NONE,total
+Southeast,VA,4,fish,participation rate,age,2013,55-64,0.08832063549116338,NONE,total
+Southeast,VA,4,fish,participation rate,age,2014,55-64,0.08953565511277473,NONE,total
+Southeast,VA,4,fish,participation rate,age,2015,55-64,0.09071911467499842,NONE,total
+Southeast,VA,4,fish,participation rate,age,2016,55-64,0.08907534004603482,NONE,total
+Southeast,VA,4,fish,participation rate,age,2017,55-64,0.09030259744141451,NONE,total
+Southeast,VA,4,fish,participation rate,age,2018,55-64,0.08872416548486504,NONE,total
+Southeast,VA,4,fish,participation rate,all,2009,all,0.09654212926026383,NONE,total
+Southeast,VA,4,fish,participation rate,all,2010,all,0.09281644779371925,NONE,total
+Southeast,VA,4,fish,participation rate,all,2011,all,0.0883679134345424,NONE,total
+Southeast,VA,4,fish,participation rate,all,2012,all,0.08799796991243619,NONE,total
+Southeast,VA,4,fish,participation rate,all,2013,all,0.0886340006028436,NONE,total
+Southeast,VA,4,fish,participation rate,all,2014,all,0.08984869461789455,NONE,total
+Southeast,VA,4,fish,participation rate,all,2015,all,0.08858079497583635,NONE,total
+Southeast,VA,4,fish,participation rate,all,2016,all,0.08552221959450552,NONE,total
+Southeast,VA,4,fish,participation rate,all,2017,all,0.0842938103222568,NONE,total
+Southeast,VA,4,fish,participation rate,all,2018,all,0.07884764842253454,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2009,female,0.03572697522670585,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2010,female,0.034784954590507816,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2011,female,0.03292484217271947,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2012,female,0.03324823529862769,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2013,female,0.03405446009578562,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2014,female,0.035982843174828735,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2015,female,0.03517403977791061,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2016,female,0.034059114882835556,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2017,female,0.033268337398687765,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2018,female,0.030496442230951198,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2009,male,0.1585531956439648,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2010,male,0.1519891134649091,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2011,male,0.14494015702000176,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2012,male,0.1438881138749114,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2013,male,0.14424788797242202,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2014,male,0.14464539969776236,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2015,male,0.14281310910470663,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2016,male,0.13777269720982796,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2017,male,0.13602746040345354,NONE,total
+Southeast,VA,4,fish,participation rate,gender,2018,male,0.12786991590579694,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2009,18-24,0.039312395565430355,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2010,18-24,0.03877312025030782,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2011,18-24,0.0375444629471986,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2012,18-24,0.038525910584346866,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2013,18-24,0.03998361478689245,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2014,18-24,0.039751157464883696,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2015,18-24,0.038531922050738854,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2016,18-24,0.037174745715109016,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2017,18-24,0.03549478728961896,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2018,18-24,0.03417747152298744,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2009,25-34,0.04358866085696121,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2010,25-34,0.04135638679591232,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2011,25-34,0.039923949068049955,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2012,25-34,0.04023539512811231,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2013,25-34,0.04129942340399066,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2014,25-34,0.040549548321813185,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2015,25-34,0.03969274732923376,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2016,25-34,0.03872421632522605,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2017,25-34,0.03677949650168451,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2018,25-34,0.03557728458561625,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2009,35-44,0.051152012688463915,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2010,35-44,0.04725370138506316,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2011,35-44,0.045749410539715075,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2012,35-44,0.04484614007501574,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2013,35-44,0.04551516148787859,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2014,35-44,0.04388805976302303,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2015,35-44,0.04207628166989504,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2016,35-44,0.03991900887871592,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2017,35-44,0.03863845674139508,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2018,35-44,0.0373454663100935,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2009,45-54,0.05283151848061871,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2010,45-54,0.05095918764103748,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2011,45-54,0.049502630190429116,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2012,45-54,0.04876815491154051,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2013,45-54,0.04899474414677554,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2014,45-54,0.04806429960186937,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2015,45-54,0.04698313065026936,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2016,45-54,0.04562041221703889,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2017,45-54,0.044735340800936066,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2018,45-54,0.04233013730237627,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2009,55-64,0.04942089593797596,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2010,55-64,0.049147544074961254,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2011,55-64,0.04777453795288876,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2012,55-64,0.04712270745013899,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2013,55-64,0.04684332714689264,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2014,55-64,0.046327758968969755,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2015,55-64,0.046352354357241526,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2016,55-64,0.04554356100095208,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2017,55-64,0.04559244386630678,NONE,total
+Southeast,VA,4,hunt,participation rate,age,2018,55-64,0.045470637649322534,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2009,all,0.04781904179919437,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2010,all,0.04590824116359874,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2011,all,0.0444922253145763,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2012,all,0.044216469354574676,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2013,all,0.044801248705550197,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2014,all,0.043937336291582536,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2015,all,0.04293598104396855,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2016,all,0.04161264443409944,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2017,all,0.040481829607997975,NONE,total
+Southeast,VA,4,hunt,participation rate,all,2018,all,0.03919361614812282,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2009,female,0.006508949021048911,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2010,female,0.006477361619597464,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2011,female,0.006505599590415202,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2012,female,0.007130718812441861,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2013,female,0.0075790803039445884,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2014,female,0.007903615044444843,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2015,female,0.007963709893799329,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2016,female,0.007846673595646857,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2017,female,0.007529371777575087,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2018,female,0.0073144008650704315,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2009,male,0.08994148555998598,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2010,male,0.08611451750751031,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2011,male,0.08325249949398801,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2012,male,0.08207469736931798,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2013,male,0.08272882123377044,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2014,male,0.08059375484270438,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2015,male,0.07844885179949551,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2016,male,0.07589522636029479,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2017,male,0.07389163112552691,NONE,total
+Southeast,VA,4,hunt,participation rate,gender,2018,male,0.07151527969814904,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2009,resident,0.11452610383671863,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2010,resident,0.11020987409241938,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2011,resident,0.1053914025061557,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2012,resident,0.10475675029919006,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2013,resident,0.10556013659186585,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2014,resident,0.10604005453244612,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2015,resident,0.10411230777380581,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2016,resident,0.1004186197743821,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2017,resident,0.09856867727727463,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2018,resident,0.09255510556070659,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2009,resident,0.09654212926026383,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2010,resident,0.09281644779371925,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2011,resident,0.0883679134345424,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2012,resident,0.08799796991243619,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2013,resident,0.0886340006028436,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2014,resident,0.08984869461789455,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2015,resident,0.08858079497583635,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2016,resident,0.08552221959450552,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2017,resident,0.0842938103222568,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2018,resident,0.07884764842253454,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2009,resident,0.04781904179919437,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2010,resident,0.04590824116359874,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2011,resident,0.0444922253145763,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2012,resident,0.044216469354574676,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2013,resident,0.044801248705550197,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2014,resident,0.043937336291582536,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2015,resident,0.04293598104396855,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2016,resident,0.04161264443409944,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2017,resident,0.040481829607997975,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2018,resident,0.03919361614812282,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2009,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2010,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2011,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2012,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2013,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2014,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2015,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2016,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2017,nonresident,0,NONE,total
+Southeast,VA,4,all_sports,participation rate,residency,2018,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2009,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2010,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2011,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2012,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2013,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2014,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2015,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2016,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2017,nonresident,0,NONE,total
+Southeast,VA,4,fish,participation rate,residency,2018,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2009,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2010,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2011,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2012,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2013,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2014,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2015,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2016,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2017,nonresident,0,NONE,total
+Southeast,VA,4,hunt,participation rate,residency,2018,nonresident,0,NONE,total

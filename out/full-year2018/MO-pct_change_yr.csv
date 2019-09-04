@@ -1,1021 +1,1021 @@
-region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type,"segment == ""residency"""
-Midwest,MO,4,all_sports,churn,age,2010,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2011,18-24,0.007044046548768786,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2012,18-24,-0.06521247715226164,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2013,18-24,0.05723906669932583,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2014,18-24,-0.023909291364038417,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2015,18-24,0.04595304524497593,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2016,18-24,-0.009558656854179089,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2017,18-24,0.05061343352919876,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2018,18-24,-0.013879755996294452,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2010,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2011,25-34,0.009755166240741547,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2012,25-34,-0.06930392271576909,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2013,25-34,0.06402029381412903,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2014,25-34,-0.032773908865419935,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2015,25-34,0.05047227316169983,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2016,25-34,-0.008139478466564752,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2017,25-34,0.04765726109082406,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2018,25-34,-0.018962885772575468,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2010,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2011,35-44,0.011882463493928934,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2012,35-44,-0.06544619610341058,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2013,35-44,0.06171905301799305,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2014,35-44,-0.02938289256438704,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2015,35-44,0.04885232074778221,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2016,35-44,-0.015220838777990759,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2017,35-44,0.04295193404888085,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2018,35-44,-0.0016298318114717563,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2010,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2011,45-54,0.014008568848477945,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2012,45-54,-0.07744320630952517,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2013,45-54,0.06896904241641613,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2014,45-54,-0.027183061128522267,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2015,45-54,0.0422484451965272,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2016,45-54,-0.0023417131927883006,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2017,45-54,0.042225682418057825,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2018,45-54,-0.006517064633544837,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2010,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2011,55-64,0.008319885264098336,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2012,55-64,-0.08029312468129486,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2013,55-64,0.06251029608546115,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2014,55-64,-0.04496786540193453,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2015,55-64,0.04078056202144373,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2016,55-64,-0.015568940690765361,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2017,55-64,0.03911548110628706,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,age,2018,55-64,-0.010570732454469838,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2010,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2011,all,0.010039685434885273,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2012,all,-0.07122477424844235,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2013,all,0.06481584931196364,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2014,all,-0.031062667317470996,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2015,all,0.04639754097871095,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2016,all,-0.010972935595032781,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2017,all,0.04374961616164012,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,all,2018,all,-0.011888358257494205,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2010,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2011,female,0.013280986343248917,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2012,female,-0.07583053080978261,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2013,female,0.07496383385897842,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2014,female,-0.05107570802181183,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2015,female,0.05649219148962618,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2016,female,-0.02387884823492499,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2017,female,0.075663592144247,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2018,female,-0.009121715683941496,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2010,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2011,male,0.014231361932467495,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2012,male,-0.06738169347632703,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2013,male,0.07189492214464346,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2014,male,-0.03270444591003501,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2015,male,0.0479504698673282,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2016,male,-0.005432875078243951,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2017,male,0.17025002151838478,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,gender,2018,male,-0.006479769106841877,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2010,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2011,nonresident,0.005208122415891971,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2012,nonresident,-0.032211474369628186,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2013,nonresident,0.01794432507029276,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2014,nonresident,-0.011484645318877424,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2015,nonresident,7.477353399036143e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2016,nonresident,-0.005700218436076714,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2017,nonresident,0.0034001604117967757,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2018,nonresident,-0.01907677207364852,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2010,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2011,resident,0.015455087891865204,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2012,resident,-0.08241602741131195,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2013,resident,0.09033417657068865,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2014,resident,-0.04798386026204463,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2015,resident,0.06512841704539557,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2016,resident,-0.02129142544887296,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2017,resident,0.06175747205643281,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,churn,residency,2018,resident,-0.011472789913991987,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2009,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2010,18-24,-0.026077293307603937,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2011,18-24,-0.029250316094612514,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2012,18-24,0.0677605349683117,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2013,18-24,-0.010599050920072,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2014,18-24,0.024477338164650694,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2015,18-24,-0.03594150150062006,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2016,18-24,-0.004064576530495741,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2017,18-24,-0.05009744354006649,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2018,18-24,-0.055008447984552254,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2009,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2010,25-34,-0.0203931373905481,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2011,25-34,-0.027193624051047947,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2012,25-34,0.04971118047849669,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2013,25-34,-0.009983155586071992,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2014,25-34,0.023360942021754316,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2015,25-34,-0.027147468089048377,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2016,25-34,9.572303467078292e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2017,25-34,-0.0444511202903993,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2018,25-34,-0.04536618338250012,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2009,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2010,35-44,-0.05391033495776782,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2011,35-44,-0.05475774997404729,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2012,35-44,0.03616367002416141,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2013,35-44,-0.020577502536226398,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2014,35-44,0.011373240162430688,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2015,35-44,-0.02944578337808712,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2016,35-44,0.005990130197396052,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2017,35-44,-0.014419087678281609,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2018,35-44,-0.020687500661872943,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2009,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2010,45-54,-0.0343413737355819,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2011,45-54,-0.05529369032360419,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2012,45-54,0.00926740234314579,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2013,45-54,-0.039846917775228356,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2014,45-54,-0.011040980690825177,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2015,45-54,-0.04213453353193177,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2016,45-54,-0.016219260913940187,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2017,45-54,-0.0495236044571244,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2018,45-54,-0.05956947283333419,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2009,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2010,55-64,0.007215063974691084,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2011,55-64,-0.012948757287511506,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2012,55-64,0.047076710904117025,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2013,55-64,5.344043011449208e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2014,55-64,0.035775173723509864,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2015,55-64,0.00549527822775975,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2016,55-64,0.029429438763352293,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2017,55-64,-0.0027979206819680053,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,age,2018,55-64,-0.007266745053314695,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2009,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2010,all,-0.027026666803366926,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2011,all,-0.037749905427661906,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2012,all,0.0388300714861408,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2013,all,-0.017417511118513498,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2014,all,0.015399304810539416,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2015,all,-0.025701709714160137,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2016,all,0.0033725605868038535,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2017,all,-0.031205350291486265,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,all,2018,all,-0.03615968584927236,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2009,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2010,female,-0.030879089916528723,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2011,female,-0.0421251078907918,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2012,female,0.08603935368519898,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2013,female,-0.019297027497936672,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2014,female,0.04620625166978359,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2015,female,-0.03362317360197824,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2016,female,-0.005320249981282233,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2017,female,-0.042798506967044354,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2018,female,-0.03358265913600977,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2009,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2010,male,-0.025857160804355902,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2011,male,-0.03642854300919631,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2012,male,0.02465660582606108,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2013,male,-0.01681942738353964,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2014,male,0.005620883624954066,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2015,male,-0.023085885509411583,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2016,male,0.00621213625266332,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2017,male,-0.027461756997693768,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,gender,2018,male,-0.03697872102698904,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2009,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2010,nonresident,-0.036395088528593716,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2011,nonresident,-0.06638741243971981,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2012,nonresident,0.0345863338737448,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2013,nonresident,0.00923822596907229,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2014,nonresident,0.03263060970252102,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2015,nonresident,0.0014045516799254013,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2016,nonresident,0.014281889818770151,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2017,nonresident,-0.01938260270828552,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2018,nonresident,-0.020034873787316707,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2009,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2010,resident,-0.024951219695470633,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2011,resident,-0.03148011380056644,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2012,resident,0.03972569312747498,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2013,resident,-0.023015276766228613,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2014,resident,0.01166122902460582,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2015,resident,-0.031703895654732486,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2016,resident,8.742913042667015e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2017,resident,-0.03394906375419786,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants,residency,2018,resident,-0.039958207153027704,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2015,18-24,-0.08628949627537315,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2016,18-24,0.04391574480981967,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2017,18-24,-0.08152363256300081,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2018,18-24,-0.11123403717284107,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2015,25-34,-0.05127473781210233,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2016,25-34,0.048680650308734766,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2017,25-34,-0.07502315529484409,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2018,25-34,-0.09166984550829678,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2015,35-44,-0.043581445523193096,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2016,35-44,0.0658978118655538,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2017,35-44,-0.025184518928070686,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2018,35-44,-0.06160275719829575,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2015,45-54,-0.047520299082890356,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2016,45-54,0.07466805679065346,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2017,45-54,-0.07404554014723506,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2018,45-54,-0.10680718621922283,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2015,55-64,-0.01199227741887577,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2016,55-64,0.10931569651647814,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2017,55-64,-0.03536585365853658,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,age,2018,55-64,-0.055099030762747574,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,all,2014,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,all,2015,all,-0.05012754180536954,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,all,2016,all,0.06574382316976848,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,all,2017,all,-0.0593001679860341,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,all,2018,all,-0.08561124209248581,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2014,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2015,female,-0.08041963282128138,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2016,female,-0.09566648739386235,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2017,female,-0.07880841247814882,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2018,female,-0.029834102824947178,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2014,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2015,male,-0.03227459016393443,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2016,male,0.15613990252094703,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2017,male,-0.0507543282097435,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,gender,2018,male,-0.10932302062541584,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2015,nonresident,-0.015459338478754947,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2016,nonresident,0.03581012198408699,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2017,nonresident,-0.04528536681939024,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2018,nonresident,-0.06486396814863968,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2015,resident,-0.08234865218416933,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2016,resident,0.09559253113972564,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2017,resident,-0.07251261158452695,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participants - recruited,residency,2018,resident,-0.10574490593808933,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2009,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2010,18-24,-0.03174412976443487,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2011,18-24,-0.027354876997195465,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2012,18-24,0.06637764633300368,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2013,18-24,-0.011114994795603642,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2014,18-24,0.023445395359699403,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2015,18-24,-0.03532586314154492,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2016,18-24,-0.002038061090325325,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2017,18-24,-0.04212192232865978,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2018,18-24,-0.05776022818097834,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2009,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2010,25-34,-0.026093047500715078,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2011,25-34,-0.03920747623788558,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2012,25-34,0.03952703533929556,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2013,25-34,-0.019456896949522077,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2014,25-34,0.013438023916521245,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2015,25-34,-0.032443699982037055,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2016,25-34,-0.003075798350693056,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2017,25-34,-0.052104673615353383,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2018,25-34,-0.048146041494251744,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2009,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2010,35-44,-0.0594152229416413,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2011,35-44,-0.033749324552170556,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2012,35-44,0.05555964684140111,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2013,35-44,-0.005287559468126099,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2014,35-44,0.020092326678020796,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2015,35-44,-0.02559129759673807,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2016,35-44,0.00800607191830451,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2017,35-44,-0.013902096550140651,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2018,35-44,-0.02353922217837094,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2009,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2010,45-54,-0.03996012507032927,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2011,45-54,-0.05439428936472622,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2012,45-54,0.015668090574992768,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2013,45-54,-0.029569569043539176,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2014,45-54,0.00658324593437446,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2015,45-54,-0.0228236988183838,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2016,45-54,0.004130161512929061,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2017,45-54,-0.03209717160873961,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2018,45-54,-0.06230797149530896,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2009,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2010,55-64,0.0013545136402753478,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2011,55-64,-0.042849627429427856,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2012,55-64,0.020757549331424267,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2013,55-64,-0.0255659192466834,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2014,55-64,0.012844456986315086,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2015,55-64,-0.014815505505420273,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2016,55-64,0.014358519511287846,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2017,55-64,-0.01814589891927758,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,age,2018,55-64,-0.010157547310191833,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2009,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2010,all,-0.032687979265018555,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2011,all,-0.040834099900339746,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2012,all,0.03690505358091003,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2013,all,-0.019103060478330252,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2014,all,0.014416917687072863,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2015,all,-0.025677111775146158,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2016,all,0.0046734194995308375,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2017,all,-0.030879106979448546,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2018,all,-0.038966352938878096,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2009,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2010,female,-0.036517986788529654,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2011,female,-0.0440190675381733,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2012,female,0.08423683001936148,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2013,female,-0.02105558776642894,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2014,female,0.04547207263923607,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2015,female,-0.03295953475583395,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2016,female,-0.0027690830059186886,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2017,female,-0.04179159119968904,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2018,female,-0.03639683043140439,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2009,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2010,male,-0.031525278117343326,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2011,male,-0.04072555815942736,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2012,male,0.022555573947706627,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2013,male,-0.01842795398463272,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2014,male,0.004375207159785676,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2015,male,-0.02371990394602279,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2016,male,0.00621916083697832,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2017,male,-0.027840394589267507,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,gender,2018,male,-0.039783003116668283,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2010,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2011,18-24,0.018577331035120298,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2012,18-24,-0.06908500172756075,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2013,18-24,0.04702894738551279,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2014,18-24,-0.026360302786580588,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2015,18-24,0.03780649957221198,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2016,18-24,-0.01892255683931752,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2017,18-24,0.057175301013188906,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2018,18-24,-0.014887573590044657,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2010,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2011,25-34,0.01974135947564876,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2012,25-34,-0.07340479205773974,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2013,25-34,0.06419186366344487,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2014,25-34,-0.03352093587903378,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2015,25-34,0.04927190301158133,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2016,25-34,-0.019599701506440782,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2017,25-34,0.05795219973747164,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2018,25-34,-0.022747983023770558,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2010,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2011,35-44,0.024886379645386935,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2012,35-44,-0.06495108297313885,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2013,35-44,0.057324004668970134,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2014,35-44,-0.02965165737782637,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2015,35-44,0.05013588009218063,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2016,35-44,-0.030231857450653293,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2017,35-44,0.05143681778779007,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2018,35-44,-0.010274456436869727,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2010,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2011,45-54,0.021472984601476106,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2012,45-54,-0.07826709148337474,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2013,45-54,0.07197294074401928,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2014,45-54,-0.029781967321606973,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2015,45-54,0.04378194836754102,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2016,45-54,-0.02312612492068091,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2017,45-54,0.06065237282250654,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2018,45-54,-0.019687006218129594,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2010,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2011,55-64,0.01599397328775489,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2012,55-64,-0.0830206612281085,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2013,55-64,0.0682612763523187,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2014,55-64,-0.048915900626438344,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2015,55-64,0.0446081592192996,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2016,55-64,-0.023697572729423116,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2017,55-64,0.05234945834224664,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,age,2018,55-64,-0.022803032973350956,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2010,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2011,all,0.019818272749706912,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2012,all,-0.07355513715543834,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2013,all,0.06431976656219174,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2014,all,-0.0331352660251045,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2015,all,0.045945878503785266,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2016,all,-0.024460027812295632,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2017,all,0.055185214988617025,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,all,2018,all,-0.020361047447399454,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2010,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2011,female,0.022298887023282685,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2012,female,-0.0742921257477389,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2013,female,0.07570673899698989,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2014,female,-0.04800768029560085,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2015,female,0.0581893573822023,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2016,female,-0.030137604230054467,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2017,female,0.0763209778613209,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2018,female,-0.012420667020188318,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2010,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2011,male,0.023868257384922563,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2012,male,-0.07729934208005372,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2013,male,0.0757793571640775,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2014,male,-0.03947243396342662,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2015,male,0.04897547660290757,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2016,male,-0.02855678769274361,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2017,male,0.17891823632433743,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,gender,2018,male,-0.01932509711144494,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2010,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2011,nonresident,0.009034622661338098,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2012,nonresident,-0.030081567969327195,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2013,nonresident,0.020462162544823075,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2014,nonresident,-0.006409151662809196,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2015,nonresident,0.0037610503749232332,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2016,nonresident,-0.006176573101906549,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2017,nonresident,0.007927627838417122,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2018,nonresident,-0.017448494381733314,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2010,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2011,resident,0.024253220163587993,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2012,resident,-0.08556573977559394,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2013,resident,0.08719941923097543,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2014,resident,-0.04952516666680633,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2015,resident,0.06266070102767589,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2016,resident,-0.03609183863646859,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2017,resident,0.07648327004014913,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,churn,residency,2018,resident,-0.02341844367013171,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2009,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2010,18-24,-0.03824411298485514,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2011,18-24,-0.04642711756704429,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2012,18-24,0.10021761539342572,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2013,18-24,-0.02062158120871425,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2014,18-24,0.03463236928309836,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2015,18-24,-0.047846755890950866,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2016,18-24,0.009034017342174442,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2017,18-24,-0.07091543613722306,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2018,18-24,-0.06380396342101409,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2009,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2010,25-34,-0.03114666601228198,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2011,25-34,-0.04573027873814318,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2012,25-34,0.07075459178256716,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2013,25-34,-0.02423667788333426,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2014,25-34,0.027823645970937914,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2015,25-34,-0.0399846759393711,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2016,25-34,0.011868748632261885,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2017,25-34,-0.06559379174352777,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2018,25-34,-0.05426214107748233,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2009,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2010,35-44,-0.06439775464885465,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2011,35-44,-0.06744522790229161,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2012,35-44,0.05209718687342618,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2013,35-44,-0.02907394574061241,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2014,35-44,0.01563646216782431,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2015,35-44,-0.04228294041476064,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2016,35-44,0.023861775636800947,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2017,35-44,-0.02428115440000531,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2018,35-44,-0.023756410082021846,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2009,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2010,45-54,-0.050305949211917916,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2011,45-54,-0.0711064544526596,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2012,45-54,0.02564639258574477,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2013,45-54,-0.04833790616992812,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2014,45-54,-0.006880037170070945,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2015,45-54,-0.05220666738642771,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2016,45-54,-4.683010796238403e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2017,45-54,-0.06017955731145216,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2018,45-54,-0.058333726311818324,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2009,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2010,55-64,-0.0012312065120271287,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2011,55-64,-0.028141333596314506,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2012,55-64,0.05949248733392768,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2013,55-64,-0.00948178553104156,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2014,55-64,0.04085255095345641,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2015,55-64,-0.002236171568107018,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2016,55-64,0.038106765447205836,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2017,55-64,-0.01242816966373473,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,age,2018,55-64,-0.006590683523939879,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2009,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2010,all,-0.0387270349508973,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2011,all,-0.0534136983063458,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2012,all,0.05763793022724596,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2013,all,-0.027546897469468354,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2014,all,0.020820199718314135,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2015,all,-0.03666822519573954,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2016,all,0.016743374401546406,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2017,all,-0.045131516317957,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,all,2018,all,-0.03935541386180959,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2009,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2010,female,-0.04204081632653061,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2011,female,-0.057392415850021306,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2012,female,0.10077182118157574,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2013,female,-0.027671838989010312,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2014,female,0.04981312160820998,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2015,female,-0.04297409284737308,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2016,female,-0.003536186803140008,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2017,female,-0.05188641936249308,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2018,female,-0.032830010288924114,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2009,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2010,male,-0.037604497745423876,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2011,male,-0.05207212805045587,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2012,male,0.043175389838343306,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2013,male,-0.02750269233633047,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2014,male,0.010564097009671461,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2015,male,-0.034350919338445904,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2016,male,0.024129240414037786,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2017,male,-0.0427378216267728,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,gender,2018,male,-0.04164568278619085,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2009,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2010,nonresident,-0.03804937124188529,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2011,nonresident,-0.08256356955687956,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2012,nonresident,0.03543106061814875,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2013,nonresident,0.00355208309254679,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2014,nonresident,0.02690335063419428,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2015,nonresident,-0.014871250411221103,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2016,nonresident,0.010708945878459915,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2017,nonresident,-0.03444469475107006,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2018,nonresident,-0.03195601284773259,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2009,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2010,resident,-0.038879184286448244,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2011,resident,-0.046863306583593896,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2012,resident,0.06244121976430959,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2013,resident,-0.034102518707170855,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2014,resident,0.01948789006469058,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2015,resident,-0.041476843497738614,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2016,resident,0.018111577643171808,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2017,resident,-0.04753695205739929,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants,residency,2018,resident,-0.04104379613855764,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2015,18-24,-0.09100595595869078,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2016,18-24,0.046857623756424514,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2017,18-24,-0.10499569336778639,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2018,18-24,-0.11378436467455812,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2015,25-34,-0.0548643065076533,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2016,25-34,0.05149159194217442,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2017,25-34,-0.08967211565718605,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2018,25-34,-0.1020604110442184,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2015,35-44,-0.054082959965312906,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2016,35-44,0.08999511062217333,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2017,35-44,-0.03358658779332193,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2018,35-44,-0.06779611847640045,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2015,45-54,-0.05374854371989043,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2016,45-54,0.09197391188606416,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2017,45-54,-0.08459288152120917,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2018,45-54,-0.10512649800266312,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2015,55-64,-0.012367142123355329,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2016,55-64,0.1155784925588094,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2017,55-64,-0.028653397884167115,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,age,2018,55-64,-0.06379679539245367,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,all,2014,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,all,2015,all,-0.055957439337008814,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,all,2016,all,0.0758395794198424,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,all,2017,all,-0.07045881498726474,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,all,2018,all,-0.09116157389325943,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2014,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2015,female,-0.0772439433554491,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2016,female,-0.10089098532494759,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2017,female,-0.08414092101428156,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2018,female,-0.02736837917934642,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2014,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2015,male,-0.042504417593963416,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2016,male,0.18348047284153823,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2017,male,-0.06412785111009964,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,gender,2018,male,-0.12004863550391787,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2015,nonresident,-0.030412322210621942,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2016,nonresident,0.04066564116906726,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2017,nonresident,-0.05662608508694133,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2018,nonresident,-0.07549427383055096,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2015,resident,-0.0753586176358525,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2016,resident,0.10385227918165518,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2017,resident,-0.08084466685499818,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participants - recruited,residency,2018,resident,-0.10323480017123475,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2009,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2010,18-24,-0.043840155962042354,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2011,18-24,-0.04456521706522944,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2012,18-24,0.09879269062156336,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2013,18-24,-0.021132298625625025,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2014,18-24,0.033590197446321454,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2015,18-24,-0.047238720111271754,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2016,18-24,0.011087185617560932,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2017,18-24,-0.0631147058455886,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2018,18-24,-0.0665301314041417,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2009,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2010,25-34,-0.036784005974310315,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2011,25-34,-0.057515209080968396,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2012,25-34,0.06036628652872659,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2013,25-34,-0.033574023402082966,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2014,25-34,0.01785745569847895,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2015,25-34,-0.04521102177316391,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2016,25-34,0.007791755552524023,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2017,25-34,-0.07307800097020019,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2018,25-34,-0.05701609449182038,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2009,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2010,35-44,-0.06984162085776065,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2011,35-44,-0.046718787266685276,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2012,35-44,0.07179142363971279,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2013,35-44,-0.013916642195509504,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2014,35-44,0.024392302079711565,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2015,35-44,-0.03847943647288353,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2016,35-44,0.025913531024842847,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2017,35-44,-0.023769336465598395,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2018,35-44,-0.02659919504861213,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2009,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2010,45-54,-0.05583180956290923,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2011,45-54,-0.07022210792400456,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2012,45-54,0.032150954983993986,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2013,45-54,-0.03815144382961199,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2014,45-54,0.01081834157887973,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2015,45-54,-0.03309888969798997,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2016,45-54,0.020206928635965953,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2017,45-54,-0.04294849517161132,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2018,45-54,-0.06107582342162944,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2009,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2010,55-64,-0.007042611638933569,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2011,55-64,-0.057581973071703034,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2012,55-64,0.03286124468589075,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2013,55-64,-0.03532082291598247,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2014,55-64,0.017809427680575664,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2015,55-64,-0.022390781713854127,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2016,55-64,0.02290880952331954,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2017,55-64,-0.027627928342684595,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,age,2018,55-64,-0.009483454446805718,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2009,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2010,all,-0.04432026801331008,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2011,all,-0.05644768734522832,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2012,all,0.05567806016878111,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2013,all,-0.029215070597902654,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2014,all,0.01983256794150796,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2015,all,-0.03664390412642938,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2016,all,0.018061568392991504,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2017,all,-0.04480996266696341,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,all,2018,all,-0.042152775110490814,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2009,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2010,female,-0.047614767923401635,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2011,female,-0.059256188188562,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2012,female,0.09894484571182492,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2013,female,-0.0294153818555397,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2014,female,0.04907641144360513,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2015,female,-0.0423168755472436,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2016,female,-9.804440403816807e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2017,female,-0.05088906350739227,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2018,female,-0.035646373269723634,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2009,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2010,male,-0.04320426236800698,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2011,male,-0.05629938114885522,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2012,male,0.04103638567216399,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2013,male,-0.029093740646719234,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2014,male,0.009312297317871835,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2015,male,-0.034977626754537784,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2016,male,0.0241363900815278,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2017,male,-0.04311051179945427,NONE,pct_change_yr,NA
-Midwest,MO,4,fish,participation rate,gender,2018,male,-0.04443637485708197,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2010,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2011,18-24,-0.0016126153297205525,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2012,18-24,-0.0011952246054354858,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2013,18-24,0.019713520724431756,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2014,18-24,0.022833901405881204,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2015,18-24,0.022974649908868088,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2016,18-24,0.038066012418953514,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2017,18-24,-0.018330931383447234,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2018,18-24,0.005936197437203727,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2010,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2011,25-34,-0.003004814886874096,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2012,25-34,-0.004740323218305173,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2013,25-34,0.018680769752356437,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2014,25-34,0.02699494065930812,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2015,25-34,0.023743184922667332,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2016,25-34,0.04861085531773529,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2017,25-34,-0.0025719427031003863,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2018,25-34,0.0015451978354423604,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2010,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2011,35-44,-0.024379200209806415,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2012,35-44,-0.02299008528699619,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2013,35-44,0.025969102050747102,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2014,35-44,0.005496796326581142,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2015,35-44,0.013069246148583536,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2016,35-44,0.05268582627131149,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2017,35-44,-0.0245957569886695,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2018,35-44,-0.0023701227348175914,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2010,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2011,45-54,0.005887624841812484,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2012,45-54,-0.01942370883954906,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2013,45-54,0.01682143804186367,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2014,45-54,0.0018528408766585788,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2015,45-54,0.0010800488029485658,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2016,45-54,0.06261220321091039,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2017,45-54,-0.026084043193440338,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2018,45-54,0.009306089947021994,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2010,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2011,55-64,-0.017870985024728985,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2012,55-64,-0.028546546300727265,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2013,55-64,0.019705123456048773,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2014,55-64,-0.01504218483950094,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2015,55-64,0.016294058907396197,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2016,55-64,0.01892536075996226,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2017,55-64,0.015825366002756417,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,age,2018,55-64,0.0013137888133027205,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2010,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2011,all,-0.007899824893636793,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2012,all,-0.01492114510152682,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2013,all,0.020890563134006283,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2014,all,0.009806950455416805,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2015,all,0.015350438518623444,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2016,all,0.044394728180936226,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2017,all,-0.012470277663525426,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,all,2018,all,0.003410452565828976,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2010,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2011,female,-9.192814429168148e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2012,female,-0.02274811039817118,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2013,female,0.028120615713487177,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2014,female,-0.002487020486466938,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2015,female,0.010186381565746545,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2016,female,0.042618167842382176,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2017,female,-0.007475463875702142,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2018,female,5.14859683129643e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2010,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2011,male,-0.009245257126162514,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2012,male,-0.014367074310667149,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2013,male,0.01643944343668496,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2014,male,0.011704920956637296,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2015,male,0.013652800696719694,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2016,male,0.042116269963241935,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2017,male,-0.009040398205554084,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,gender,2018,male,0.0035694496841982963,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2010,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2011,nonresident,-0.01571773542827086,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2012,nonresident,-0.01852569748571389,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2013,nonresident,0.005656422351138769,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2014,nonresident,-0.026928112619532544,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2015,nonresident,-0.0031444872212349154,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2016,nonresident,0.018133433094410775,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2017,nonresident,-0.012260065165494534,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2018,nonresident,-0.0059976396267826864,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2010,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2011,resident,-0.0015351833931373945,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2012,resident,-0.01424950028878459,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2013,resident,0.02098174810169748,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2014,resident,0.0162515893569302,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2015,resident,0.011360297217484529,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2016,resident,0.04112874851297432,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2017,resident,-0.02002795681499366,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,churn,residency,2018,resident,-0.0012334289947156987,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2009,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2010,18-24,-0.010529112830903112,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2011,18-24,0.006847935548841893,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2012,18-24,0.02465493098619724,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2013,18-24,0.013080189369905803,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2014,18-24,0.002778179248767484,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2015,18-24,-0.015101530971750689,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2016,18-24,-0.033788068486691275,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2017,18-24,-0.01243626205341366,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2018,18-24,-0.025287983095903483,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2009,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2010,25-34,-0.0075840500390930415,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2011,25-34,0.008598665181033416,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2012,25-34,0.017240417340846956,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2013,25-34,0.02378236068451075,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2014,25-34,0.008068318189610835,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2015,25-34,-8.609602363920452e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2016,25-34,-0.022308510638297873,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2017,25-34,-0.012110594866326452,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2018,25-34,-0.02028857803722877,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2009,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2010,35-44,-0.04636191885164786,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2011,35-44,-0.031697780945692394,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2012,35-44,0.009677733634995724,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2013,35-44,-0.0027232473115973883,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2014,35-44,-0.0033112226797252114,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2015,35-44,-0.008639937870109698,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2016,35-44,-0.027364320842581714,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2017,35-44,-0.005134630228317653,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2018,35-44,-0.0020127285402658152,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2009,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2010,45-54,-0.013137099134506836,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2011,45-54,-0.021285610181842832,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2012,45-54,-0.017826531142317883,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2013,45-54,-0.028225628729846707,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2014,45-54,-0.025435182917426365,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2015,45-54,-0.02475869579381405,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2016,45-54,-0.04312969449402063,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2017,45-54,-0.041333359931377045,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2018,45-54,-0.05088748777493393,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2009,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2010,55-64,0.019587327850503673,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2011,55-64,0.02323222680953631,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2012,55-64,0.02869870441850431,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2013,55-64,0.02177658875008502,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2014,55-64,0.028645920008875576,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2015,55-64,0.023382982624545662,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2016,55-64,0.016683353533224428,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2017,55-64,0.009992951030393498,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,age,2018,55-64,0.0016626980868708432,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2009,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2010,all,-0.013094460376689956,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2011,all,-0.005421270408300647,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2012,all,0.009741988466640795,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2013,all,0.0032174888393355886,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2014,all,8.797444954720999e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2015,all,-0.005160339928213641,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2016,all,-0.021531303822667592,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2017,all,-0.012552463858230997,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,all,2018,all,-0.01906225908837304,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2009,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2010,female,0.013895754380183445,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2011,female,0.024322860238353197,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2012,female,0.05454192888747863,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2013,female,0.02400494809515053,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2014,female,0.038183391285893854,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2015,female,0.011227121202591358,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2016,female,-0.015347535375524801,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2017,female,-0.012633640225510478,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2018,female,-0.03272395758360923,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2009,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2010,male,-0.016808416300536096,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2011,male,-0.009641993276484092,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2012,male,0.003166808534859473,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2013,male,1.0316377507202121e-5,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2014,male,-0.00501370774519842,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2015,male,-0.007861728958275553,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2016,male,-0.022570279026021527,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2017,male,-0.012538724102629897,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,gender,2018,male,-0.016750128576455622,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2009,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2010,nonresident,-0.036284544524053226,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2011,nonresident,-0.0037438266687908235,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2012,nonresident,0.032888249247088296,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2013,nonresident,0.023867888014449747,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2014,nonresident,0.05498991935483871,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2015,nonresident,0.055324638096603124,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2016,nonresident,0.020598487935171352,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2017,nonresident,0.027324343506032647,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2018,nonresident,0.019667530224525043,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2009,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2010,resident,-0.010897365964822964,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2011,resident,-0.0055761170616926885,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2012,resident,0.00760139506796643,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2013,resident,0.0012597878174848765,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2014,resident,-0.004365841383387815,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2015,resident,-0.011373479548594327,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2016,resident,-0.02615092878488528,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2017,resident,-0.01713494887296231,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants,residency,2018,resident,-0.023714256819307476,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2015,18-24,-0.0627437485661849,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2016,18-24,-0.05972341206706645,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2017,18-24,0.040218664584146815,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2018,18-24,-0.06356356356356356,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2015,25-34,-0.0312063344201211,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2016,25-34,-0.038461538461538464,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2017,25-34,-0.0026666666666666666,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2018,25-34,-0.026320187165775402,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2015,35-44,-0.002431857331036579,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2016,35-44,-0.07404773996952768,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2017,35-44,0.004936375603334796,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2018,35-44,-0.0015282174435105338,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2015,45-54,-0.008811496905486205,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2016,45-54,-0.047412424595195256,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2017,45-54,-0.03877346961448728,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2018,45-54,-0.08148404993065188,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2015,55-64,0.0016806722689075631,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2016,55-64,0.06459731543624161,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2017,55-64,-0.029813501444707118,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,age,2018,55-64,-0.014078787058345742,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,all,2014,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,all,2015,all,-0.021706617921980805,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,all,2016,all,-0.035755992950718726,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,all,2017,all,-0.005549071851672429,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,all,2018,all,-0.03646952016120104,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2014,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2015,female,-0.0517630710439465,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2016,female,-0.06393112291628503,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2017,female,-0.02837573385518591,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2018,female,-0.09476334340382679,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2014,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2015,male,-0.01225838156601507,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2016,male,-0.027253379032035157,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2017,male,0.0010797601795811667,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,gender,2018,male,-0.020039170049104483,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2015,nonresident,0.061234817813765184,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2016,nonresident,0.005901287553648069,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2017,nonresident,0.01357037037037037,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2018,nonresident,-5.261927034611787e-4,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2015,resident,-0.062256448320653184,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2016,resident,-0.05880412915141321,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2017,resident,-0.016854720022426238,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participants - recruited,residency,2018,resident,-0.05838115265352675,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2009,18-24,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2010,18-24,-0.016286417448459017,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2011,18-24,0.008813858354518441,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2012,18-24,0.02332786970909612,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2013,18-24,0.012551897457902044,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2014,18-24,0.0017680937266301032,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2015,18-24,-0.014472584410652953,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2016,18-24,-0.03182203399133476,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2017,18-24,-0.004144532037481988,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2018,18-24,-0.028126308178931633,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2009,25-34,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2010,25-34,-0.01335849070767412,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2011,25-34,-0.0038572104987560116,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2012,25-34,0.007371298821085646,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2013,25-34,0.013985507881133402,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2014,25-34,-0.0017063165019512582,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2015,25-34,-0.0063002964917356595,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2016,25-34,-0.026247797667009933,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2017,25-34,-0.020023182492032866,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2018,25-34,-0.02314146120154902,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2009,35-44,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2010,35-44,-0.05191072781537688,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2011,35-44,-0.010176837553369893,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2012,35-44,0.028577919465686965,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2013,35-44,0.012845421788031467,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2014,35-44,0.005281268532695461,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2015,35-44,-0.0047028231801369644,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2016,35-44,-0.02541521936931719,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2017,35-44,-0.0046127688941170674,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2018,35-44,-0.0049188302975050596,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2009,45-54,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2010,45-54,-0.018879229003838524,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2011,45-54,-0.02035383207085338,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2012,45-54,-0.011597670337783323,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2013,45-54,-0.017823887291992007,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2014,45-54,-0.008067475194605113,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2015,45-54,-0.005097559349682346,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2016,45-54,-0.023336912138312,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2017,45-54,-0.0237567637050177,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2018,45-54,-0.053651268053975486,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2009,55-64,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2010,55-64,0.01365478864520199,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2011,55-64,-0.007764678533267525,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2012,55-64,0.00284148963255763,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2013,55-64,-0.004877866554329043,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2014,55-64,0.005873035687078572,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2015,55-64,0.0027108711921182416,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2016,55-64,0.0017990378637368024,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2017,55-64,-0.0055518920397811655,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,age,2018,55-64,-0.0012541063757887782,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2009,all,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2010,all,-0.018836838342575407,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2011,all,-0.008609084301749028,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2012,all,0.00787087262121584,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2013,all,0.0014965416260436615,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2014,all,-8.859512074834545e-5,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2015,all,-0.00513522338481937,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2016,all,-0.020262732432293592,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2017,all,-0.012219939153690903,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,all,2018,all,-0.021918713247789212,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2009,female,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2010,female,0.007996331987762844,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2011,female,0.022297516240756692,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2012,female,0.05279168219799377,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2013,female,0.022168740326895055,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2014,female,0.03745484232671094,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2015,female,0.011921560040085037,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2016,female,-0.012822086506265257,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2017,female,-0.011594992915566364,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2018,female,-0.035540629385935774,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2009,male,0,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2010,male,-0.022529184357664163,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2011,male,-0.014058462162282804,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2012,male,0.001109840930244715,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2013,male,-0.001625744423592818,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2014,male,-0.006246210995289154,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2015,male,-0.008505627890819894,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2016,male,-0.02256345537796608,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2017,male,-0.012923171667513188,NONE,pct_change_yr,NA
-Midwest,MO,4,hunt,participation rate,gender,2018,male,-0.019613315573790632,NONE,pct_change_yr,NA
-Midwest,MO,4,all_sports,participation rate,all,2009,resident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2010,resident,-0.032687979265018555,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2011,resident,-0.040834099900339746,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2012,resident,0.03690505358091003,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2013,resident,-0.019103060478330252,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2014,resident,0.014416917687072863,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2015,resident,-0.025677111775146158,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2016,resident,0.0046734194995308375,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2017,resident,-0.030879106979448546,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2018,resident,-0.038966352938878096,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2009,resident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2010,resident,-0.04432026801331008,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2011,resident,-0.05644768734522832,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2012,resident,0.05567806016878111,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2013,resident,-0.029215070597902654,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2014,resident,0.01983256794150796,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2015,resident,-0.03664390412642938,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2016,resident,0.018061568392991504,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2017,resident,-0.04480996266696341,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2018,resident,-0.042152775110490814,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2009,resident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2010,resident,-0.018836838342575407,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2011,resident,-0.008609084301749028,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2012,resident,0.00787087262121584,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2013,resident,0.0014965416260436615,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2014,resident,-8.859512074834545e-5,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2015,resident,-0.00513522338481937,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2016,resident,-0.020262732432293592,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2017,resident,-0.012219939153690903,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2018,resident,-0.021918713247789212,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2009,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2010,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2011,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2012,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2013,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2014,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2015,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2016,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2017,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,all_sports,participation rate,all,2018,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2009,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2010,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2011,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2012,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2013,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2014,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2015,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2016,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2017,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,fish,participation rate,all,2018,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2009,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2010,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2011,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2012,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2013,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2014,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2015,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2016,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2017,nonresident,0,NONE,pct_change_yr,FALSE
-Midwest,MO,4,hunt,participation rate,all,2018,nonresident,0,NONE,pct_change_yr,FALSE
+region,state,quarter,group,metric,segment,year,category,value,aggregation,value_type
+Midwest,MO,4,all_sports,churn,age,2010,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2011,18-24,0.007044046548768786,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2012,18-24,-0.06521247715226164,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2013,18-24,0.05723906669932583,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2014,18-24,-0.023909291364038417,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2015,18-24,0.04595304524497593,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2016,18-24,-0.009558656854179089,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2017,18-24,0.05061343352919876,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2018,18-24,-0.013879755996294452,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2010,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2011,25-34,0.009755166240741547,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2012,25-34,-0.06930392271576909,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2013,25-34,0.06402029381412903,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2014,25-34,-0.032773908865419935,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2015,25-34,0.05047227316169983,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2016,25-34,-0.008139478466564752,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2017,25-34,0.04765726109082406,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2018,25-34,-0.018962885772575468,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2010,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2011,35-44,0.011882463493928934,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2012,35-44,-0.06544619610341058,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2013,35-44,0.06171905301799305,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2014,35-44,-0.02938289256438704,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2015,35-44,0.04885232074778221,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2016,35-44,-0.015220838777990759,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2017,35-44,0.04295193404888085,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2018,35-44,-0.0016298318114717563,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2010,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2011,45-54,0.014008568848477945,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2012,45-54,-0.07744320630952517,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2013,45-54,0.06896904241641613,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2014,45-54,-0.027183061128522267,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2015,45-54,0.0422484451965272,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2016,45-54,-0.0023417131927883006,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2017,45-54,0.042225682418057825,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2018,45-54,-0.006517064633544837,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2010,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2011,55-64,0.008319885264098336,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2012,55-64,-0.08029312468129486,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2013,55-64,0.06251029608546115,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2014,55-64,-0.04496786540193453,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2015,55-64,0.04078056202144373,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2016,55-64,-0.015568940690765361,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2017,55-64,0.03911548110628706,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,age,2018,55-64,-0.010570732454469838,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2010,all,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2011,all,0.010039685434885273,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2012,all,-0.07122477424844235,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2013,all,0.06481584931196364,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2014,all,-0.031062667317470996,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2015,all,0.04639754097871095,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2016,all,-0.010972935595032781,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2017,all,0.04374961616164012,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,all,2018,all,-0.011888358257494205,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2010,female,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2011,female,0.013280986343248917,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2012,female,-0.07583053080978261,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2013,female,0.07496383385897842,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2014,female,-0.05107570802181183,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2015,female,0.05649219148962618,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2016,female,-0.02387884823492499,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2017,female,0.075663592144247,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2018,female,-0.009121715683941496,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2010,male,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2011,male,0.014231361932467495,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2012,male,-0.06738169347632703,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2013,male,0.07189492214464346,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2014,male,-0.03270444591003501,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2015,male,0.0479504698673282,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2016,male,-0.005432875078243951,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2017,male,0.17025002151838478,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,gender,2018,male,-0.006479769106841877,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2010,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2011,nonresident,0.005208122415891971,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2012,nonresident,-0.032211474369628186,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2013,nonresident,0.01794432507029276,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2014,nonresident,-0.011484645318877424,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2015,nonresident,7.477353399036143e-4,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2016,nonresident,-0.005700218436076714,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2017,nonresident,0.0034001604117967757,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2018,nonresident,-0.01907677207364852,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2010,resident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2011,resident,0.015455087891865204,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2012,resident,-0.08241602741131195,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2013,resident,0.09033417657068865,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2014,resident,-0.04798386026204463,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2015,resident,0.06512841704539557,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2016,resident,-0.02129142544887296,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2017,resident,0.06175747205643281,NONE,pct_change_yr
+Midwest,MO,4,all_sports,churn,residency,2018,resident,-0.011472789913991987,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2009,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2010,18-24,-0.026077293307603937,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2011,18-24,-0.029250316094612514,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2012,18-24,0.0677605349683117,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2013,18-24,-0.010599050920072,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2014,18-24,0.024477338164650694,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2015,18-24,-0.03594150150062006,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2016,18-24,-0.004064576530495741,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2017,18-24,-0.05009744354006649,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2018,18-24,-0.055008447984552254,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2009,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2010,25-34,-0.0203931373905481,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2011,25-34,-0.027193624051047947,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2012,25-34,0.04971118047849669,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2013,25-34,-0.009983155586071992,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2014,25-34,0.023360942021754316,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2015,25-34,-0.027147468089048377,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2016,25-34,9.572303467078292e-4,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2017,25-34,-0.0444511202903993,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2018,25-34,-0.04536618338250012,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2009,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2010,35-44,-0.05391033495776782,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2011,35-44,-0.05475774997404729,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2012,35-44,0.03616367002416141,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2013,35-44,-0.020577502536226398,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2014,35-44,0.011373240162430688,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2015,35-44,-0.02944578337808712,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2016,35-44,0.005990130197396052,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2017,35-44,-0.014419087678281609,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2018,35-44,-0.020687500661872943,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2009,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2010,45-54,-0.0343413737355819,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2011,45-54,-0.05529369032360419,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2012,45-54,0.00926740234314579,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2013,45-54,-0.039846917775228356,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2014,45-54,-0.011040980690825177,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2015,45-54,-0.04213453353193177,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2016,45-54,-0.016219260913940187,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2017,45-54,-0.0495236044571244,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2018,45-54,-0.05956947283333419,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2009,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2010,55-64,0.007215063974691084,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2011,55-64,-0.012948757287511506,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2012,55-64,0.047076710904117025,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2013,55-64,5.344043011449208e-4,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2014,55-64,0.035775173723509864,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2015,55-64,0.00549527822775975,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2016,55-64,0.029429438763352293,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2017,55-64,-0.0027979206819680053,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,age,2018,55-64,-0.007266745053314695,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2009,all,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2010,all,-0.027026666803366926,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2011,all,-0.037749905427661906,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2012,all,0.0388300714861408,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2013,all,-0.017417511118513498,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2014,all,0.015399304810539416,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2015,all,-0.025701709714160137,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2016,all,0.0033725605868038535,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2017,all,-0.031205350291486265,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,all,2018,all,-0.03615968584927236,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2009,female,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2010,female,-0.030879089916528723,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2011,female,-0.0421251078907918,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2012,female,0.08603935368519898,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2013,female,-0.019297027497936672,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2014,female,0.04620625166978359,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2015,female,-0.03362317360197824,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2016,female,-0.005320249981282233,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2017,female,-0.042798506967044354,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2018,female,-0.03358265913600977,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2009,male,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2010,male,-0.025857160804355902,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2011,male,-0.03642854300919631,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2012,male,0.02465660582606108,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2013,male,-0.01681942738353964,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2014,male,0.005620883624954066,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2015,male,-0.023085885509411583,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2016,male,0.00621213625266332,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2017,male,-0.027461756997693768,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,gender,2018,male,-0.03697872102698904,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2009,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2010,nonresident,-0.036395088528593716,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2011,nonresident,-0.06638741243971981,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2012,nonresident,0.0345863338737448,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2013,nonresident,0.00923822596907229,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2014,nonresident,0.03263060970252102,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2015,nonresident,0.0014045516799254013,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2016,nonresident,0.014281889818770151,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2017,nonresident,-0.01938260270828552,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2018,nonresident,-0.020034873787316707,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2009,resident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2010,resident,-0.024951219695470633,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2011,resident,-0.03148011380056644,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2012,resident,0.03972569312747498,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2013,resident,-0.023015276766228613,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2014,resident,0.01166122902460582,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2015,resident,-0.031703895654732486,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2016,resident,8.742913042667015e-4,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2017,resident,-0.03394906375419786,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants,residency,2018,resident,-0.039958207153027704,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2015,18-24,-0.08628949627537315,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2016,18-24,0.04391574480981967,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2017,18-24,-0.08152363256300081,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2018,18-24,-0.11123403717284107,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2015,25-34,-0.05127473781210233,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2016,25-34,0.048680650308734766,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2017,25-34,-0.07502315529484409,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2018,25-34,-0.09166984550829678,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2015,35-44,-0.043581445523193096,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2016,35-44,0.0658978118655538,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2017,35-44,-0.025184518928070686,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2018,35-44,-0.06160275719829575,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2015,45-54,-0.047520299082890356,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2016,45-54,0.07466805679065346,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2017,45-54,-0.07404554014723506,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2018,45-54,-0.10680718621922283,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2015,55-64,-0.01199227741887577,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2016,55-64,0.10931569651647814,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2017,55-64,-0.03536585365853658,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,age,2018,55-64,-0.055099030762747574,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,all,2014,all,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,all,2015,all,-0.05012754180536954,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,all,2016,all,0.06574382316976848,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,all,2017,all,-0.0593001679860341,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,all,2018,all,-0.08561124209248581,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2014,female,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2015,female,-0.08041963282128138,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2016,female,-0.09566648739386235,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2017,female,-0.07880841247814882,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2018,female,-0.029834102824947178,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2014,male,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2015,male,-0.03227459016393443,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2016,male,0.15613990252094703,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2017,male,-0.0507543282097435,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,gender,2018,male,-0.10932302062541584,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2015,nonresident,-0.015459338478754947,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2016,nonresident,0.03581012198408699,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2017,nonresident,-0.04528536681939024,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2018,nonresident,-0.06486396814863968,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2015,resident,-0.08234865218416933,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2016,resident,0.09559253113972564,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2017,resident,-0.07251261158452695,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participants - recruited,residency,2018,resident,-0.10574490593808933,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2009,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2010,18-24,-0.03174412976443487,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2011,18-24,-0.027354876997195465,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2012,18-24,0.06637764633300368,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2013,18-24,-0.011114994795603642,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2014,18-24,0.023445395359699403,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2015,18-24,-0.03532586314154492,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2016,18-24,-0.002038061090325325,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2017,18-24,-0.04212192232865978,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2018,18-24,-0.05776022818097834,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2009,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2010,25-34,-0.026093047500715078,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2011,25-34,-0.03920747623788558,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2012,25-34,0.03952703533929556,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2013,25-34,-0.019456896949522077,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2014,25-34,0.013438023916521245,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2015,25-34,-0.032443699982037055,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2016,25-34,-0.003075798350693056,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2017,25-34,-0.052104673615353383,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2018,25-34,-0.048146041494251744,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2009,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2010,35-44,-0.0594152229416413,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2011,35-44,-0.033749324552170556,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2012,35-44,0.05555964684140111,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2013,35-44,-0.005287559468126099,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2014,35-44,0.020092326678020796,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2015,35-44,-0.02559129759673807,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2016,35-44,0.00800607191830451,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2017,35-44,-0.013902096550140651,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2018,35-44,-0.02353922217837094,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2009,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2010,45-54,-0.03996012507032927,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2011,45-54,-0.05439428936472622,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2012,45-54,0.015668090574992768,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2013,45-54,-0.029569569043539176,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2014,45-54,0.00658324593437446,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2015,45-54,-0.0228236988183838,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2016,45-54,0.004130161512929061,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2017,45-54,-0.03209717160873961,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2018,45-54,-0.06230797149530896,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2009,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2010,55-64,0.0013545136402753478,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2011,55-64,-0.042849627429427856,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2012,55-64,0.020757549331424267,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2013,55-64,-0.0255659192466834,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2014,55-64,0.012844456986315086,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2015,55-64,-0.014815505505420273,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2016,55-64,0.014358519511287846,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2017,55-64,-0.01814589891927758,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,age,2018,55-64,-0.010157547310191833,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2009,all,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2010,all,-0.032687979265018555,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2011,all,-0.040834099900339746,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2012,all,0.03690505358091003,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2013,all,-0.019103060478330252,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2014,all,0.014416917687072863,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2015,all,-0.025677111775146158,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2016,all,0.0046734194995308375,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2017,all,-0.030879106979448546,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,all,2018,all,-0.038966352938878096,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2009,female,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2010,female,-0.036517986788529654,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2011,female,-0.0440190675381733,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2012,female,0.08423683001936148,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2013,female,-0.02105558776642894,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2014,female,0.04547207263923607,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2015,female,-0.03295953475583395,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2016,female,-0.0027690830059186886,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2017,female,-0.04179159119968904,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2018,female,-0.03639683043140439,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2009,male,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2010,male,-0.031525278117343326,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2011,male,-0.04072555815942736,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2012,male,0.022555573947706627,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2013,male,-0.01842795398463272,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2014,male,0.004375207159785676,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2015,male,-0.02371990394602279,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2016,male,0.00621916083697832,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2017,male,-0.027840394589267507,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,gender,2018,male,-0.039783003116668283,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2010,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2011,18-24,0.018577331035120298,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2012,18-24,-0.06908500172756075,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2013,18-24,0.04702894738551279,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2014,18-24,-0.026360302786580588,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2015,18-24,0.03780649957221198,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2016,18-24,-0.01892255683931752,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2017,18-24,0.057175301013188906,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2018,18-24,-0.014887573590044657,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2010,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2011,25-34,0.01974135947564876,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2012,25-34,-0.07340479205773974,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2013,25-34,0.06419186366344487,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2014,25-34,-0.03352093587903378,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2015,25-34,0.04927190301158133,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2016,25-34,-0.019599701506440782,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2017,25-34,0.05795219973747164,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2018,25-34,-0.022747983023770558,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2010,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2011,35-44,0.024886379645386935,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2012,35-44,-0.06495108297313885,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2013,35-44,0.057324004668970134,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2014,35-44,-0.02965165737782637,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2015,35-44,0.05013588009218063,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2016,35-44,-0.030231857450653293,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2017,35-44,0.05143681778779007,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2018,35-44,-0.010274456436869727,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2010,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2011,45-54,0.021472984601476106,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2012,45-54,-0.07826709148337474,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2013,45-54,0.07197294074401928,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2014,45-54,-0.029781967321606973,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2015,45-54,0.04378194836754102,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2016,45-54,-0.02312612492068091,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2017,45-54,0.06065237282250654,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2018,45-54,-0.019687006218129594,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2010,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2011,55-64,0.01599397328775489,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2012,55-64,-0.0830206612281085,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2013,55-64,0.0682612763523187,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2014,55-64,-0.048915900626438344,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2015,55-64,0.0446081592192996,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2016,55-64,-0.023697572729423116,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2017,55-64,0.05234945834224664,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,age,2018,55-64,-0.022803032973350956,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2010,all,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2011,all,0.019818272749706912,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2012,all,-0.07355513715543834,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2013,all,0.06431976656219174,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2014,all,-0.0331352660251045,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2015,all,0.045945878503785266,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2016,all,-0.024460027812295632,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2017,all,0.055185214988617025,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,all,2018,all,-0.020361047447399454,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2010,female,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2011,female,0.022298887023282685,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2012,female,-0.0742921257477389,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2013,female,0.07570673899698989,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2014,female,-0.04800768029560085,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2015,female,0.0581893573822023,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2016,female,-0.030137604230054467,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2017,female,0.0763209778613209,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2018,female,-0.012420667020188318,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2010,male,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2011,male,0.023868257384922563,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2012,male,-0.07729934208005372,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2013,male,0.0757793571640775,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2014,male,-0.03947243396342662,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2015,male,0.04897547660290757,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2016,male,-0.02855678769274361,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2017,male,0.17891823632433743,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,gender,2018,male,-0.01932509711144494,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2010,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2011,nonresident,0.009034622661338098,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2012,nonresident,-0.030081567969327195,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2013,nonresident,0.020462162544823075,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2014,nonresident,-0.006409151662809196,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2015,nonresident,0.0037610503749232332,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2016,nonresident,-0.006176573101906549,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2017,nonresident,0.007927627838417122,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2018,nonresident,-0.017448494381733314,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2010,resident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2011,resident,0.024253220163587993,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2012,resident,-0.08556573977559394,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2013,resident,0.08719941923097543,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2014,resident,-0.04952516666680633,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2015,resident,0.06266070102767589,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2016,resident,-0.03609183863646859,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2017,resident,0.07648327004014913,NONE,pct_change_yr
+Midwest,MO,4,fish,churn,residency,2018,resident,-0.02341844367013171,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2009,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2010,18-24,-0.03824411298485514,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2011,18-24,-0.04642711756704429,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2012,18-24,0.10021761539342572,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2013,18-24,-0.02062158120871425,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2014,18-24,0.03463236928309836,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2015,18-24,-0.047846755890950866,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2016,18-24,0.009034017342174442,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2017,18-24,-0.07091543613722306,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2018,18-24,-0.06380396342101409,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2009,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2010,25-34,-0.03114666601228198,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2011,25-34,-0.04573027873814318,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2012,25-34,0.07075459178256716,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2013,25-34,-0.02423667788333426,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2014,25-34,0.027823645970937914,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2015,25-34,-0.0399846759393711,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2016,25-34,0.011868748632261885,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2017,25-34,-0.06559379174352777,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2018,25-34,-0.05426214107748233,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2009,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2010,35-44,-0.06439775464885465,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2011,35-44,-0.06744522790229161,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2012,35-44,0.05209718687342618,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2013,35-44,-0.02907394574061241,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2014,35-44,0.01563646216782431,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2015,35-44,-0.04228294041476064,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2016,35-44,0.023861775636800947,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2017,35-44,-0.02428115440000531,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2018,35-44,-0.023756410082021846,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2009,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2010,45-54,-0.050305949211917916,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2011,45-54,-0.0711064544526596,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2012,45-54,0.02564639258574477,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2013,45-54,-0.04833790616992812,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2014,45-54,-0.006880037170070945,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2015,45-54,-0.05220666738642771,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2016,45-54,-4.683010796238403e-4,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2017,45-54,-0.06017955731145216,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2018,45-54,-0.058333726311818324,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2009,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2010,55-64,-0.0012312065120271287,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2011,55-64,-0.028141333596314506,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2012,55-64,0.05949248733392768,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2013,55-64,-0.00948178553104156,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2014,55-64,0.04085255095345641,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2015,55-64,-0.002236171568107018,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2016,55-64,0.038106765447205836,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2017,55-64,-0.01242816966373473,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,age,2018,55-64,-0.006590683523939879,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2009,all,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2010,all,-0.0387270349508973,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2011,all,-0.0534136983063458,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2012,all,0.05763793022724596,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2013,all,-0.027546897469468354,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2014,all,0.020820199718314135,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2015,all,-0.03666822519573954,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2016,all,0.016743374401546406,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2017,all,-0.045131516317957,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,all,2018,all,-0.03935541386180959,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2009,female,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2010,female,-0.04204081632653061,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2011,female,-0.057392415850021306,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2012,female,0.10077182118157574,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2013,female,-0.027671838989010312,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2014,female,0.04981312160820998,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2015,female,-0.04297409284737308,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2016,female,-0.003536186803140008,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2017,female,-0.05188641936249308,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2018,female,-0.032830010288924114,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2009,male,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2010,male,-0.037604497745423876,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2011,male,-0.05207212805045587,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2012,male,0.043175389838343306,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2013,male,-0.02750269233633047,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2014,male,0.010564097009671461,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2015,male,-0.034350919338445904,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2016,male,0.024129240414037786,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2017,male,-0.0427378216267728,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,gender,2018,male,-0.04164568278619085,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2009,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2010,nonresident,-0.03804937124188529,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2011,nonresident,-0.08256356955687956,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2012,nonresident,0.03543106061814875,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2013,nonresident,0.00355208309254679,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2014,nonresident,0.02690335063419428,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2015,nonresident,-0.014871250411221103,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2016,nonresident,0.010708945878459915,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2017,nonresident,-0.03444469475107006,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2018,nonresident,-0.03195601284773259,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2009,resident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2010,resident,-0.038879184286448244,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2011,resident,-0.046863306583593896,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2012,resident,0.06244121976430959,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2013,resident,-0.034102518707170855,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2014,resident,0.01948789006469058,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2015,resident,-0.041476843497738614,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2016,resident,0.018111577643171808,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2017,resident,-0.04753695205739929,NONE,pct_change_yr
+Midwest,MO,4,fish,participants,residency,2018,resident,-0.04104379613855764,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2015,18-24,-0.09100595595869078,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2016,18-24,0.046857623756424514,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2017,18-24,-0.10499569336778639,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2018,18-24,-0.11378436467455812,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2015,25-34,-0.0548643065076533,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2016,25-34,0.05149159194217442,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2017,25-34,-0.08967211565718605,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2018,25-34,-0.1020604110442184,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2015,35-44,-0.054082959965312906,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2016,35-44,0.08999511062217333,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2017,35-44,-0.03358658779332193,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2018,35-44,-0.06779611847640045,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2015,45-54,-0.05374854371989043,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2016,45-54,0.09197391188606416,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2017,45-54,-0.08459288152120917,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2018,45-54,-0.10512649800266312,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2015,55-64,-0.012367142123355329,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2016,55-64,0.1155784925588094,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2017,55-64,-0.028653397884167115,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,age,2018,55-64,-0.06379679539245367,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,all,2014,all,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,all,2015,all,-0.055957439337008814,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,all,2016,all,0.0758395794198424,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,all,2017,all,-0.07045881498726474,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,all,2018,all,-0.09116157389325943,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2014,female,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2015,female,-0.0772439433554491,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2016,female,-0.10089098532494759,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2017,female,-0.08414092101428156,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2018,female,-0.02736837917934642,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2014,male,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2015,male,-0.042504417593963416,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2016,male,0.18348047284153823,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2017,male,-0.06412785111009964,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,gender,2018,male,-0.12004863550391787,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2015,nonresident,-0.030412322210621942,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2016,nonresident,0.04066564116906726,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2017,nonresident,-0.05662608508694133,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2018,nonresident,-0.07549427383055096,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2015,resident,-0.0753586176358525,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2016,resident,0.10385227918165518,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2017,resident,-0.08084466685499818,NONE,pct_change_yr
+Midwest,MO,4,fish,participants - recruited,residency,2018,resident,-0.10323480017123475,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2009,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2010,18-24,-0.043840155962042354,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2011,18-24,-0.04456521706522944,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2012,18-24,0.09879269062156336,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2013,18-24,-0.021132298625625025,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2014,18-24,0.033590197446321454,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2015,18-24,-0.047238720111271754,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2016,18-24,0.011087185617560932,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2017,18-24,-0.0631147058455886,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2018,18-24,-0.0665301314041417,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2009,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2010,25-34,-0.036784005974310315,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2011,25-34,-0.057515209080968396,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2012,25-34,0.06036628652872659,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2013,25-34,-0.033574023402082966,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2014,25-34,0.01785745569847895,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2015,25-34,-0.04521102177316391,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2016,25-34,0.007791755552524023,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2017,25-34,-0.07307800097020019,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2018,25-34,-0.05701609449182038,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2009,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2010,35-44,-0.06984162085776065,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2011,35-44,-0.046718787266685276,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2012,35-44,0.07179142363971279,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2013,35-44,-0.013916642195509504,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2014,35-44,0.024392302079711565,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2015,35-44,-0.03847943647288353,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2016,35-44,0.025913531024842847,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2017,35-44,-0.023769336465598395,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2018,35-44,-0.02659919504861213,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2009,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2010,45-54,-0.05583180956290923,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2011,45-54,-0.07022210792400456,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2012,45-54,0.032150954983993986,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2013,45-54,-0.03815144382961199,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2014,45-54,0.01081834157887973,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2015,45-54,-0.03309888969798997,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2016,45-54,0.020206928635965953,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2017,45-54,-0.04294849517161132,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2018,45-54,-0.06107582342162944,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2009,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2010,55-64,-0.007042611638933569,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2011,55-64,-0.057581973071703034,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2012,55-64,0.03286124468589075,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2013,55-64,-0.03532082291598247,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2014,55-64,0.017809427680575664,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2015,55-64,-0.022390781713854127,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2016,55-64,0.02290880952331954,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2017,55-64,-0.027627928342684595,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,age,2018,55-64,-0.009483454446805718,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2009,all,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2010,all,-0.04432026801331008,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2011,all,-0.05644768734522832,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2012,all,0.05567806016878111,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2013,all,-0.029215070597902654,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2014,all,0.01983256794150796,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2015,all,-0.03664390412642938,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2016,all,0.018061568392991504,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2017,all,-0.04480996266696341,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,all,2018,all,-0.042152775110490814,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2009,female,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2010,female,-0.047614767923401635,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2011,female,-0.059256188188562,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2012,female,0.09894484571182492,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2013,female,-0.0294153818555397,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2014,female,0.04907641144360513,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2015,female,-0.0423168755472436,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2016,female,-9.804440403816807e-4,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2017,female,-0.05088906350739227,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2018,female,-0.035646373269723634,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2009,male,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2010,male,-0.04320426236800698,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2011,male,-0.05629938114885522,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2012,male,0.04103638567216399,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2013,male,-0.029093740646719234,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2014,male,0.009312297317871835,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2015,male,-0.034977626754537784,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2016,male,0.0241363900815278,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2017,male,-0.04311051179945427,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,gender,2018,male,-0.04443637485708197,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2010,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2011,18-24,-0.0016126153297205525,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2012,18-24,-0.0011952246054354858,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2013,18-24,0.019713520724431756,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2014,18-24,0.022833901405881204,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2015,18-24,0.022974649908868088,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2016,18-24,0.038066012418953514,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2017,18-24,-0.018330931383447234,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2018,18-24,0.005936197437203727,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2010,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2011,25-34,-0.003004814886874096,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2012,25-34,-0.004740323218305173,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2013,25-34,0.018680769752356437,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2014,25-34,0.02699494065930812,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2015,25-34,0.023743184922667332,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2016,25-34,0.04861085531773529,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2017,25-34,-0.0025719427031003863,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2018,25-34,0.0015451978354423604,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2010,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2011,35-44,-0.024379200209806415,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2012,35-44,-0.02299008528699619,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2013,35-44,0.025969102050747102,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2014,35-44,0.005496796326581142,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2015,35-44,0.013069246148583536,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2016,35-44,0.05268582627131149,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2017,35-44,-0.0245957569886695,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2018,35-44,-0.0023701227348175914,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2010,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2011,45-54,0.005887624841812484,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2012,45-54,-0.01942370883954906,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2013,45-54,0.01682143804186367,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2014,45-54,0.0018528408766585788,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2015,45-54,0.0010800488029485658,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2016,45-54,0.06261220321091039,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2017,45-54,-0.026084043193440338,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2018,45-54,0.009306089947021994,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2010,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2011,55-64,-0.017870985024728985,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2012,55-64,-0.028546546300727265,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2013,55-64,0.019705123456048773,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2014,55-64,-0.01504218483950094,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2015,55-64,0.016294058907396197,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2016,55-64,0.01892536075996226,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2017,55-64,0.015825366002756417,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,age,2018,55-64,0.0013137888133027205,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2010,all,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2011,all,-0.007899824893636793,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2012,all,-0.01492114510152682,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2013,all,0.020890563134006283,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2014,all,0.009806950455416805,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2015,all,0.015350438518623444,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2016,all,0.044394728180936226,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2017,all,-0.012470277663525426,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,all,2018,all,0.003410452565828976,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2010,female,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2011,female,-9.192814429168148e-4,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2012,female,-0.02274811039817118,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2013,female,0.028120615713487177,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2014,female,-0.002487020486466938,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2015,female,0.010186381565746545,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2016,female,0.042618167842382176,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2017,female,-0.007475463875702142,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2018,female,5.14859683129643e-4,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2010,male,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2011,male,-0.009245257126162514,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2012,male,-0.014367074310667149,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2013,male,0.01643944343668496,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2014,male,0.011704920956637296,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2015,male,0.013652800696719694,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2016,male,0.042116269963241935,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2017,male,-0.009040398205554084,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,gender,2018,male,0.0035694496841982963,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2010,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2011,nonresident,-0.01571773542827086,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2012,nonresident,-0.01852569748571389,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2013,nonresident,0.005656422351138769,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2014,nonresident,-0.026928112619532544,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2015,nonresident,-0.0031444872212349154,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2016,nonresident,0.018133433094410775,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2017,nonresident,-0.012260065165494534,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2018,nonresident,-0.0059976396267826864,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2010,resident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2011,resident,-0.0015351833931373945,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2012,resident,-0.01424950028878459,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2013,resident,0.02098174810169748,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2014,resident,0.0162515893569302,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2015,resident,0.011360297217484529,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2016,resident,0.04112874851297432,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2017,resident,-0.02002795681499366,NONE,pct_change_yr
+Midwest,MO,4,hunt,churn,residency,2018,resident,-0.0012334289947156987,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2009,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2010,18-24,-0.010529112830903112,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2011,18-24,0.006847935548841893,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2012,18-24,0.02465493098619724,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2013,18-24,0.013080189369905803,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2014,18-24,0.002778179248767484,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2015,18-24,-0.015101530971750689,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2016,18-24,-0.033788068486691275,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2017,18-24,-0.01243626205341366,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2018,18-24,-0.025287983095903483,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2009,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2010,25-34,-0.0075840500390930415,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2011,25-34,0.008598665181033416,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2012,25-34,0.017240417340846956,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2013,25-34,0.02378236068451075,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2014,25-34,0.008068318189610835,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2015,25-34,-8.609602363920452e-4,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2016,25-34,-0.022308510638297873,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2017,25-34,-0.012110594866326452,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2018,25-34,-0.02028857803722877,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2009,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2010,35-44,-0.04636191885164786,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2011,35-44,-0.031697780945692394,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2012,35-44,0.009677733634995724,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2013,35-44,-0.0027232473115973883,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2014,35-44,-0.0033112226797252114,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2015,35-44,-0.008639937870109698,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2016,35-44,-0.027364320842581714,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2017,35-44,-0.005134630228317653,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2018,35-44,-0.0020127285402658152,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2009,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2010,45-54,-0.013137099134506836,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2011,45-54,-0.021285610181842832,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2012,45-54,-0.017826531142317883,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2013,45-54,-0.028225628729846707,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2014,45-54,-0.025435182917426365,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2015,45-54,-0.02475869579381405,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2016,45-54,-0.04312969449402063,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2017,45-54,-0.041333359931377045,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2018,45-54,-0.05088748777493393,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2009,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2010,55-64,0.019587327850503673,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2011,55-64,0.02323222680953631,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2012,55-64,0.02869870441850431,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2013,55-64,0.02177658875008502,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2014,55-64,0.028645920008875576,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2015,55-64,0.023382982624545662,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2016,55-64,0.016683353533224428,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2017,55-64,0.009992951030393498,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,age,2018,55-64,0.0016626980868708432,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2009,all,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2010,all,-0.013094460376689956,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2011,all,-0.005421270408300647,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2012,all,0.009741988466640795,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2013,all,0.0032174888393355886,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2014,all,8.797444954720999e-4,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2015,all,-0.005160339928213641,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2016,all,-0.021531303822667592,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2017,all,-0.012552463858230997,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,all,2018,all,-0.01906225908837304,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2009,female,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2010,female,0.013895754380183445,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2011,female,0.024322860238353197,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2012,female,0.05454192888747863,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2013,female,0.02400494809515053,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2014,female,0.038183391285893854,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2015,female,0.011227121202591358,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2016,female,-0.015347535375524801,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2017,female,-0.012633640225510478,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2018,female,-0.03272395758360923,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2009,male,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2010,male,-0.016808416300536096,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2011,male,-0.009641993276484092,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2012,male,0.003166808534859473,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2013,male,1.0316377507202121e-5,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2014,male,-0.00501370774519842,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2015,male,-0.007861728958275553,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2016,male,-0.022570279026021527,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2017,male,-0.012538724102629897,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,gender,2018,male,-0.016750128576455622,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2009,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2010,nonresident,-0.036284544524053226,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2011,nonresident,-0.0037438266687908235,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2012,nonresident,0.032888249247088296,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2013,nonresident,0.023867888014449747,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2014,nonresident,0.05498991935483871,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2015,nonresident,0.055324638096603124,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2016,nonresident,0.020598487935171352,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2017,nonresident,0.027324343506032647,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2018,nonresident,0.019667530224525043,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2009,resident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2010,resident,-0.010897365964822964,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2011,resident,-0.0055761170616926885,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2012,resident,0.00760139506796643,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2013,resident,0.0012597878174848765,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2014,resident,-0.004365841383387815,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2015,resident,-0.011373479548594327,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2016,resident,-0.02615092878488528,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2017,resident,-0.01713494887296231,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants,residency,2018,resident,-0.023714256819307476,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2014,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2015,18-24,-0.0627437485661849,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2016,18-24,-0.05972341206706645,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2017,18-24,0.040218664584146815,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2018,18-24,-0.06356356356356356,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2014,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2015,25-34,-0.0312063344201211,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2016,25-34,-0.038461538461538464,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2017,25-34,-0.0026666666666666666,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2018,25-34,-0.026320187165775402,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2014,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2015,35-44,-0.002431857331036579,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2016,35-44,-0.07404773996952768,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2017,35-44,0.004936375603334796,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2018,35-44,-0.0015282174435105338,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2014,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2015,45-54,-0.008811496905486205,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2016,45-54,-0.047412424595195256,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2017,45-54,-0.03877346961448728,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2018,45-54,-0.08148404993065188,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2014,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2015,55-64,0.0016806722689075631,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2016,55-64,0.06459731543624161,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2017,55-64,-0.029813501444707118,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,age,2018,55-64,-0.014078787058345742,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,all,2014,all,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,all,2015,all,-0.021706617921980805,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,all,2016,all,-0.035755992950718726,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,all,2017,all,-0.005549071851672429,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,all,2018,all,-0.03646952016120104,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2014,female,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2015,female,-0.0517630710439465,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2016,female,-0.06393112291628503,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2017,female,-0.02837573385518591,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2018,female,-0.09476334340382679,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2014,male,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2015,male,-0.01225838156601507,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2016,male,-0.027253379032035157,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2017,male,0.0010797601795811667,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,gender,2018,male,-0.020039170049104483,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2014,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2015,nonresident,0.061234817813765184,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2016,nonresident,0.005901287553648069,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2017,nonresident,0.01357037037037037,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2018,nonresident,-5.261927034611787e-4,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2014,resident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2015,resident,-0.062256448320653184,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2016,resident,-0.05880412915141321,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2017,resident,-0.016854720022426238,NONE,pct_change_yr
+Midwest,MO,4,hunt,participants - recruited,residency,2018,resident,-0.05838115265352675,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2009,18-24,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2010,18-24,-0.016286417448459017,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2011,18-24,0.008813858354518441,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2012,18-24,0.02332786970909612,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2013,18-24,0.012551897457902044,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2014,18-24,0.0017680937266301032,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2015,18-24,-0.014472584410652953,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2016,18-24,-0.03182203399133476,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2017,18-24,-0.004144532037481988,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2018,18-24,-0.028126308178931633,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2009,25-34,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2010,25-34,-0.01335849070767412,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2011,25-34,-0.0038572104987560116,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2012,25-34,0.007371298821085646,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2013,25-34,0.013985507881133402,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2014,25-34,-0.0017063165019512582,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2015,25-34,-0.0063002964917356595,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2016,25-34,-0.026247797667009933,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2017,25-34,-0.020023182492032866,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2018,25-34,-0.02314146120154902,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2009,35-44,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2010,35-44,-0.05191072781537688,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2011,35-44,-0.010176837553369893,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2012,35-44,0.028577919465686965,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2013,35-44,0.012845421788031467,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2014,35-44,0.005281268532695461,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2015,35-44,-0.0047028231801369644,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2016,35-44,-0.02541521936931719,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2017,35-44,-0.0046127688941170674,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2018,35-44,-0.0049188302975050596,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2009,45-54,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2010,45-54,-0.018879229003838524,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2011,45-54,-0.02035383207085338,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2012,45-54,-0.011597670337783323,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2013,45-54,-0.017823887291992007,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2014,45-54,-0.008067475194605113,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2015,45-54,-0.005097559349682346,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2016,45-54,-0.023336912138312,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2017,45-54,-0.0237567637050177,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2018,45-54,-0.053651268053975486,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2009,55-64,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2010,55-64,0.01365478864520199,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2011,55-64,-0.007764678533267525,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2012,55-64,0.00284148963255763,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2013,55-64,-0.004877866554329043,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2014,55-64,0.005873035687078572,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2015,55-64,0.0027108711921182416,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2016,55-64,0.0017990378637368024,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2017,55-64,-0.0055518920397811655,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,age,2018,55-64,-0.0012541063757887782,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2009,all,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2010,all,-0.018836838342575407,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2011,all,-0.008609084301749028,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2012,all,0.00787087262121584,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2013,all,0.0014965416260436615,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2014,all,-8.859512074834545e-5,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2015,all,-0.00513522338481937,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2016,all,-0.020262732432293592,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2017,all,-0.012219939153690903,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,all,2018,all,-0.021918713247789212,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2009,female,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2010,female,0.007996331987762844,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2011,female,0.022297516240756692,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2012,female,0.05279168219799377,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2013,female,0.022168740326895055,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2014,female,0.03745484232671094,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2015,female,0.011921560040085037,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2016,female,-0.012822086506265257,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2017,female,-0.011594992915566364,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2018,female,-0.035540629385935774,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2009,male,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2010,male,-0.022529184357664163,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2011,male,-0.014058462162282804,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2012,male,0.001109840930244715,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2013,male,-0.001625744423592818,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2014,male,-0.006246210995289154,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2015,male,-0.008505627890819894,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2016,male,-0.02256345537796608,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2017,male,-0.012923171667513188,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,gender,2018,male,-0.019613315573790632,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2009,resident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2010,resident,-0.032687979265018555,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2011,resident,-0.040834099900339746,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2012,resident,0.03690505358091003,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2013,resident,-0.019103060478330252,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2014,resident,0.014416917687072863,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2015,resident,-0.025677111775146158,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2016,resident,0.0046734194995308375,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2017,resident,-0.030879106979448546,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2018,resident,-0.038966352938878096,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2009,resident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2010,resident,-0.04432026801331008,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2011,resident,-0.05644768734522832,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2012,resident,0.05567806016878111,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2013,resident,-0.029215070597902654,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2014,resident,0.01983256794150796,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2015,resident,-0.03664390412642938,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2016,resident,0.018061568392991504,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2017,resident,-0.04480996266696341,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2018,resident,-0.042152775110490814,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2009,resident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2010,resident,-0.018836838342575407,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2011,resident,-0.008609084301749028,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2012,resident,0.00787087262121584,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2013,resident,0.0014965416260436615,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2014,resident,-8.859512074834545e-5,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2015,resident,-0.00513522338481937,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2016,resident,-0.020262732432293592,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2017,resident,-0.012219939153690903,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2018,resident,-0.021918713247789212,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2009,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2010,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2011,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2012,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2013,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2014,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2015,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2016,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2017,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,all_sports,participation rate,residency,2018,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2009,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2010,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2011,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2012,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2013,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2014,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2015,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2016,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2017,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,fish,participation rate,residency,2018,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2009,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2010,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2011,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2012,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2013,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2014,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2015,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2016,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2017,nonresident,0,NONE,pct_change_yr
+Midwest,MO,4,hunt,participation rate,residency,2018,nonresident,0,NONE,pct_change_yr
