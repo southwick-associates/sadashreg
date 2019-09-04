@@ -51,13 +51,6 @@ pop <- bind_rows(
     aggregate_pop(pop_seg, "all", "all")
 ) 
 
-# add state abbreviations
-state_names <- data.frame(state_name = state.name, state = state.abb, stringsAsFactors = FALSE)
-pop <- pop %>%
-    rename(state_name = state) %>%
-    left_join(state_names, by = "state_name") %>%
-    select(-state_name)
-
 # add participation rates
 x <- lapply(x, function(dashboard) est_rate(dashboard, pop))
 

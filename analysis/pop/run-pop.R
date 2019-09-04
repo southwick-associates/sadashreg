@@ -58,7 +58,15 @@ count(pop_seg, sex, sex_acs)
 
 # collapse to 7 age categories
 pop_seg <- group_by(pop_seg, state, year, sex, agecat) %>%
-    summarise(pop = sum(pop))
+    summarise(pop = sum(pop)) %>%
+    ungroup()
+
+# add state abbreviations
+state_names <- data.frame(state_name = state.name, state = state.abb, stringsAsFactors = FALSE)
+pop_seg <- pop_seg %>%
+    rename(state_name = state) %>%
+    left_join(state_names, by = "state_name") %>%
+    select(state, year, sex, agecat, pop)
 
 # visualize
 group_by(pop_seg, state, year) %>%
