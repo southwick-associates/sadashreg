@@ -1,32 +1,22 @@
 # stack together all states
 
 library(tidyverse)
-source("R/")
-indir <- "2018-q4/out-rate"
-outfile <- "out/full-year2018.csv"
 
-# Pull Data & Check -------------------------------------------------------
+source("analysis/reg-aggregate.R")
+indir <- file.path(dir, "out-rate")
+outfile <- file.path(dir, "dashboard.csv")
 
-# pull all results
+# Pull Data  -------------------------------------------------------
+
+# pull states into a single table
 get_state <- function(f) {
     st <- str_sub(f, end = 2)
-    read_csv(file.path(indir, f)) %>%
-        mutate(state = st)
+    read_csv(file.path(indir, f))
 }
 infiles <- list.files(indir)
 x <- sapply(infiles, get_state, simplify = FALSE) %>% bind_rows()
 
-x <- x %>% mutate(
-    metric = case_when( 
-        metric == "recruits" ~ "participants - recruited", 
-        metric == "rate" ~ "participation rate", 
-        TRUE ~ metric
-    ),
-    quarter = ifelse(timeframe == "full-year", 4, 2)
-) %>%
-    select(-timeframe)
-
-# check naming
+# check dimensions
 count(x, group)
 count(x, segment)
 count(x, category)
@@ -34,60 +24,31 @@ count(x, metric)
 count(x, year)
 
 # add regions
-regions <- tibble::tribble(
-    ~state, ~region,
-    "FL", "Southeast",
-    "GA", "Southeast",
-    "IA", "Midwest",
-    "MO", "Midwest",
-    "NE", "Midwest",
-    "OR", "Northwest",
-    "SC", "Southeast",
-    "TN", "Southeast",
-    "VA", "Southeast",
-    "WI", "Midwest"
+dashboard <- left_join(x, region_relate, by = "state")
+count(dashboard, region, state)
+
+# Get Regional Aggregations -------------------------------------------------
+
+regs <- c(unique(dashboard$region), "US")
+dashboard_reg <- bind_rows(
+    sapply(regs, function(reg) aggregate_region(dashboard, reg, "SUM", "participants")), 
+    sapply(regs, function(reg) aggregate_region(dashboard, reg, "SUM", "recruits")),
+    sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "churn")),
+    sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "rate"))
 )
-dashout <- left_join(x, regions)
-count(dashout, state, region)
-glimpse(dashout)
-
-# tmp check previous data
-# read_csv("2018-q4-prototype/out/dash-out-reg_2019-05-21.csv")
-
-# Get Averages ------------------------------------------------------------
-
-## build regional averages
-agg_region <- function(x, ag = "SUM", metrics = c("participants", "participants - recruited"),
-                       nat = FALSE) {
-    grp <- c("region", "quarter", "group", "metric", "segment", "year", "category")
-    if (nat) grp <- setdiff(grp, "region")
-    func <- if (ag == "SUM") "sum" else "mean"
-    
-    x <- x %>%
-        filter(metric %in% metrics) %>%
-        group_by_at(grp) %>%
-        summarise_at("value", func) %>%
-        ungroup() %>%
-        mutate(aggregation = ag)
-    if (nat) x$region <- "US"
-    x$state <- x$region
-    x
-}
-reg <- bind_rows(
-    agg_region(dashout, "SUM", c("participants", "participants - recruited")),
-    agg_region(dashout, "SUM", c("participants", "participants - recruited"), TRUE),
-    agg_region(dashout, "AVG", c("churn", "participation rate")),
-    agg_region(dashout, "AVG", c("churn", "participation rate"), TRUE)
-)
-# note that the aggregations won't make sense when years are missing in some states
-count(reg, region)
-dashout <- bind_rows(
-    mutate(dashout, aggregation = "NONE"), 
-    reg
+count(dashboard_reg, region)
+dashboard <- bind_rows(
+    mutate(dashboard, aggregation = "NONE"), 
+    dashboard_reg
 )
 
-## Add %change metric
-pct_change <- dashout %>%
+# Add % Change Metric -----------------------------------------------------
+
+# TODO: we are running into problems here with dashboard_reg
+# - clearly something changed with the new function
+# - probably just run both functions and compare results
+
+pct_change <- dashboard %>%
     arrange(group, region, state, metric, segment, category, year) %>%
     group_by(group, region, state, metric, segment, category) %>%
     mutate(
@@ -103,50 +64,61 @@ pct_change <- dashout %>%
 summary(pct_change$pct_change_yr)
 summary(pct_change$pct_change_all)
 
+
+# Formatting --------------------------------------------------------------
+
 # stack with existing results
-dashout <- bind_rows(
-    mutate(dashout, value_type = "total"),
+dashboard <- bind_rows(
+    mutate(dashboard, value_type = "total"),
     gather(pct_change, value_type, value, pct_change_yr, pct_change_all)
 )
 
 # order the columns
-dashout <- dashout %>% select(
+dashboard <- dashboard %>% select(
     region, state, quarter, group, metric, segment, year, category, 
     value, aggregation, value_type
 )
 
 # check that rows are uniquely identified by dimensions
-nrow(dashout) == nrow(
-    distinct(dashout,region, state, quarter, group, metric, segment, year,  
+nrow(dashboard) == nrow(
+    distinct(dashboard,region, state, quarter, group, metric, segment, year,  
              category, aggregation, value_type)
 )
 
 ## add res/nonres rows for participation rate
-dashout <- bind_rows(
-    dashout,
-    filter(dashout, segment == "all", metric == "participation rate") %>%
+dashboard <- bind_rows(
+    dashboard,
+    filter(dashboard, segment == "all", metric == "participation rate") %>%
         mutate(segment = "residency", category = "resident"),
-    filter(dashout, segment == "all", metric == "participation rate") %>%
+    filter(dashboard, segment == "all", metric == "participation rate") %>%
         mutate(segment = "residency", category = "nonresident", value = 0)
 )
 
 # Run some Summaries ------------------------------------------------------
 
-glimpse(dashout)
-count(dashout, region)
-count(dashout, state)
-count(dashout, metric)
-count(dashout, segment)
-count(dashout, category)
-count(dashout, year)
-group_by(dashout, metric, value_type) %>% summarise(min(value), mean(value), max(value))
+# do some final standardization for tableau
+x <- mutate(x, metric = case_when(
+    metric == "recruits" ~ "participants - recruited", 
+    metric == "rate" ~ "participation rate", 
+    TRUE ~ metric
+))
+x$timeframe <- timeframe
+
+glimpse(dashboard)
+count(dashboard, region)
+count(dashboard, state)
+count(dashboard, metric)
+count(dashboard, segment)
+count(dashboard, category)
+count(dashboard, year)
+group_by(dashboard, metric, value_type) %>% summarise(min(value), mean(value), max(value))
 
 # Write to Individual Files for Visuals -----------------------------------
 
 # individual  files(for checking)
 outdir <- str_remove(outfile, ".csv")
 dir.create(outdir, showWarnings = FALSE)
-x <- split(dashout, dashout$state)
+x <- split(dashboard, dashboard$state)
 
 for (i in names(x)) {
     y <- split(x[[i]], x[[i]]$value_type)
@@ -158,7 +130,7 @@ for (i in names(x)) {
 # Write to CSV for Tableau ------------------------------------------------
 
 # stacked
-dashout %>%
+dashboard %>%
     select(region, state, timeframe, group, metric, segment, year, category,
            value, aggregation, value_type) %>%
     write.csv(outfile)
