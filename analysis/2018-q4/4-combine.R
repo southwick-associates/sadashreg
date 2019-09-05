@@ -33,29 +33,24 @@ count(dashboard, region, state)
 regs <- c(unique(dashboard$region), "US")
 
 # temp, check differences
-dashboard <- filter(dashboard, state != "NE")
-
-# new
+# old
 dashboard_reg <- bind_rows(
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "SUM", "participants")), 
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "SUM", "recruits")),
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "churn")),
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "rate"))
 )
-# old
-reg <- bind_rows(
-    agg_region(dashboard, "SUM", c("participants", "recruits")),
-    agg_region(dashboard, "SUM", c("participants", "recruits"), TRUE),
-    agg_region(dashboard, "AVG", c("churn", "rate")),
-    agg_region(dashboard, "AVG", c("churn", "rate"), TRUE)
-)
+# new
+reg <- agg_reg(dashboard)
+
+# compare
 format_result <- function(x) {
-    filter(x, region != "Northwest") %>%
+    filter(x, region == "US", group == "all_sports", metric == "recruits") %>%
         select(metric, region, group, segment, year, category, value) %>%
         arrange(metric, region, group, segment, year, category, value)
 }
-reg <- format_result(reg)
 dashboard_reg <- format_result(dashboard_reg)
+reg <- format_result(reg)
 all.equal(dashboard_reg, reg)
 
 # inclusion of NE causes differences...not entirely certain why

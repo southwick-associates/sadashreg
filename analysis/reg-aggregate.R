@@ -19,25 +19,6 @@ region_relate <- tibble::tribble(
 # - func: function to use for aggregation (SUM or AVG)
 # - metrics: metrics to be aggregated
 # - nat: if TRUE, aggregate all states
-agg_region <- function(
-    dashboard, func = "SUM", metrics = c("participants", "participants - recruited"), 
-    nat = FALSE
-) {
-    grp <- c("region", "timeframe", "group", "metric", "segment", "year", "category")
-    if (nat) grp <- setdiff(grp, "region")
-    func <- if (func == "SUM") "sum" else "mean"
-    
-    x <- dashboard %>%
-        filter(metric %in% metrics) %>%
-        group_by_at(grp) %>%
-        summarise_at("value", func) %>%
-        ungroup() %>%
-        mutate(aggregation = func)
-    if (nat) x$region <- "US"
-    x$state <- x$region # so that "state" can be used for any geographic dimension
-    x
-}
-
 aggregate_region <- function(df, reg, func, measure) {
     grps <- c("timeframe", "region", "group", "metric", "segment", "year", "category")
     func <- if (func == "SUM") "sum" else "mean"
@@ -47,6 +28,7 @@ aggregate_region <- function(df, reg, func, measure) {
         df$region <- "US"
     } else {
         df <- filter(df, region == reg)
+        if (nrow(df) == 0) return(invisible())
     }
     # function for 1 group ("hunt", "fish", "all_sports") & metric
     aggregate_group <- function(df, grp) {
@@ -85,17 +67,23 @@ aggregate_region <- function(df, reg, func, measure) {
     }
 }
 
-# aggregate_region(dashboard, "US", "SUM", "recruits")
-# 
-# filter(dashboard, metric == "recruits", group == "all_sports") %>%
-#     group_by_at(grps) %>%
-#     summarise(value = sum(value)) %>%
-#     ungroup()
-
-
 # TODO: can this be made more modular and intelligible?
 # - maybe pull tests into separate funcs: few_states() [1 or none], incomplete_states()
-agg_reg <- function(df, reg = "US", grp = "all_sports", measure, func = "sum") {
-    
+agg_region <- function(
+    df, reg = "US", grp = "all_sports", measure = "recruits", func = "sum"
+) {
+    if (reg == "US") df$region <- "US"
+    df <- filter(df, group == grp, metric == measure, region == reg)
+    if (nrow(df) == 0) return(invisible()) # check_no_states()
+    # drop_incomplete_states()
+    # check_few_states()
+        
+    df %>%
+        group_by(timeframe, region, group, metric, segment, year, category) %>%
+        summarise_at(vars(value), func) %>%
+        ungroup() %>%
+        mutate(
+            aggregation = func, 
+            states_included = paste(unique(df$state), collapse = ", ")
+        )
 }
-    
