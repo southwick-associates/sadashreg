@@ -1,0 +1,1021 @@
+timeframe,group,segment,category,year,metric,value,state,region,aggregation,states_included
+full-year,hunt,all,all,2009,participants,233378,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2010,participants,216348,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2011,participants,212024,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2012,participants,208213,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2013,participants,210407,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2014,participants,210041,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2015,participants,210235,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2016,participants,210216,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2017,participants,204500,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2018,participants,200378,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2009,participants,214782,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2010,participants,202957,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2011,participants,198869,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2012,participants,195409,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2013,participants,197469,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2014,participants,196739,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2015,participants,196479,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2016,participants,196276,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2017,participants,190753,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2018,participants,187051,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2009,participants,18596,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2010,participants,13391,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2011,participants,13155,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2012,participants,12804,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2013,participants,12938,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2014,participants,13302,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2015,participants,13756,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2016,participants,13940,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2017,participants,13747,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2018,participants,13327,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2009,participants,200541,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2010,participants,186312,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2011,participants,182015,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2012,participants,177809,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2013,participants,177974,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2014,participants,176070,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2015,participants,174827,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2016,participants,173539,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2017,participants,168351,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2018,participants,164862,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2009,participants,32837,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2010,participants,30036,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2011,participants,30009,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2012,participants,30404,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2013,participants,32433,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2014,participants,33971,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2015,participants,35408,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2016,participants,36677,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2017,participants,36149,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2018,participants,35516,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2009,participants,25571,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2010,participants,23317,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2011,participants,22370,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2012,participants,22352,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2013,participants,23278,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2014,participants,23370,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2015,participants,23248,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2016,participants,23793,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2017,participants,22774,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2018,participants,21828,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2009,participants,46792,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2010,participants,43520,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2011,participants,43028,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2012,participants,42657,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2013,participants,43807,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2014,participants,44473,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2015,participants,45121,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2016,participants,45027,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2017,participants,44165,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2018,participants,42954,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2009,participants,51400,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2010,participants,46815,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2011,participants,45499,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2012,participants,44835,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2013,participants,45671,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2014,participants,45734,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2015,participants,46143,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2016,participants,46482,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2017,participants,45752,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2018,participants,46059,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2009,participants,58313,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2010,participants,53168,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2011,participants,51242,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2012,participants,49395,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2013,participants,48610,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2014,participants,47917,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2015,participants,47442,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2016,participants,46956,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2017,participants,45129,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2018,participants,44036,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2009,participants,51301,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2010,participants,49528,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2011,participants,49885,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2012,participants,48974,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2013,participants,49041,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2014,participants,48547,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2015,participants,48281,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2016,participants,47959,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2017,participants,46680,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2018,participants,45501,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2014,participants - recruited,23988,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2015,participants - recruited,24539,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2016,participants - recruited,24777,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2017,participants - recruited,22426,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2018,participants - recruited,21307,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2014,participants - recruited,20300,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2015,participants - recruited,20574,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2016,participants - recruited,20812,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2017,participants - recruited,18581,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2018,participants - recruited,17559,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2014,participants - recruited,3688,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2015,participants - recruited,3965,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2016,participants - recruited,3965,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2017,participants - recruited,3845,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2018,participants - recruited,3748,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2014,participants - recruited,17678,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2015,participants - recruited,18047,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2016,participants - recruited,18238,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2017,participants - recruited,16809,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2018,participants - recruited,16221,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2014,participants - recruited,6310,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2015,participants - recruited,6492,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2016,participants - recruited,6539,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2017,participants - recruited,5617,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2018,participants - recruited,5086,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2014,participants - recruited,4510,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2015,participants - recruited,4316,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2016,participants - recruited,4709,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2017,participants - recruited,3672,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2018,participants - recruited,3132,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2014,participants - recruited,6962,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2015,participants - recruited,7168,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2016,participants - recruited,6812,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2017,participants - recruited,6557,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2018,participants - recruited,6267,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2014,participants - recruited,4859,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2015,participants - recruited,5123,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2016,participants - recruited,5245,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2017,participants - recruited,4766,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2018,participants - recruited,4868,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2014,participants - recruited,4001,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2015,participants - recruited,4205,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2016,participants - recruited,4277,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2017,participants - recruited,3892,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2018,participants - recruited,3676,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2014,participants - recruited,3656,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2015,participants - recruited,3727,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2016,participants - recruited,3735,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2017,participants - recruited,3539,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2018,participants - recruited,3364,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2010,churn,0.23073297397355352,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2011,churn,0.20923697006674435,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2012,churn,0.2068539410632758,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2013,churn,0.19779264503177035,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2014,churn,0.20512625530519427,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2015,churn,0.2035650182583401,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2016,churn,0.20431421980165068,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2017,churn,0.21521197244738738,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2018,churn,0.21395110024449884,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2010,churn,0.20770828095464242,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2011,churn,0.19667220150081044,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2012,churn,0.19438424289356318,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2013,churn,0.18546228679334106,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2014,churn,0.19316449670581212,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2015,churn,0.19129404947671785,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2016,churn,0.1919238188305112,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2017,churn,0.2024527061796579,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2018,churn,0.20055254701105624,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2010,churn,0.496665949666595,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2011,churn,0.3996714211037264,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2012,churn,0.39536297985556823,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2013,churn,0.3859731333958138,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2014,churn,0.3876951615396506,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2015,churn,0.38505487896556906,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2016,churn,0.381288165164292,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2017,churn,0.3946915351506456,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2018,churn,0.3998690623408744,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2010,churn,0.21862548062297707,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2011,churn,0.1983456434920771,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2012,churn,0.1961032110595836,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2013,churn,0.18801149690359809,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2014,churn,0.1944591177296993,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2015,churn,0.19338934046771067,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2016,churn,0.19423340961098404,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2017,churn,0.2045381192798026,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2018,churn,0.20306549829199455,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2010,churn,0.3045928001461899,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2011,churn,0.2767955249225852,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2012,churn,0.2721455708858228,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2013,churn,0.2549342105263158,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2014,churn,0.26362206666872245,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2015,churn,0.25639591368092557,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2016,churn,0.25405344330828766,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2017,churn,0.2656595129666494,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2018,churn,0.2647465692784418,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2010,churn,0.3107426381447734,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2011,churn,0.30089634172492175,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2012,churn,0.2956191327670988,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2013,churn,0.2817197566213314,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2014,churn,0.2962883409227597,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2015,churn,0.29032948224219085,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2016,churn,0.282863041982106,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2017,churn,0.3108477283234565,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2018,churn,0.3122420303855274,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2010,churn,0.2576081381432724,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2011,churn,0.23515625,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2012,churn,0.23538161197359855,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2013,churn,0.22891905197271256,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2014,churn,0.23229164288812293,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2015,churn,0.23477165920895823,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2016,churn,0.23359411360563814,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2017,churn,0.2358859325722916,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2018,churn,0.24456017208196537,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2010,churn,0.23066147859922176,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2011,churn,0.20512656199935916,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2012,churn,0.20147695553748432,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2013,churn,0.1909222705475633,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2014,churn,0.19653609511506206,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2015,churn,0.1951064853282022,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2016,churn,0.19547927096200937,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2017,churn,0.20735354230760952,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2018,churn,0.20058139534883718,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2010,churn,0.20943871863906846,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2011,churn,0.187913782726452,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2012,churn,0.18678037547324464,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2013,churn,0.1760299625468165,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2014,churn,0.1823698827401769,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2015,churn,0.1802700502953023,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2016,churn,0.1830234813034864,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2017,churn,0.1952081780428069,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2018,churn,0.1881495269117419,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2010,churn,0.1906005730882439,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2011,churn,0.17008560814084964,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2012,churn,0.16796632254184624,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2013,churn,0.1606158369747213,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2014,churn,0.1681450215126119,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2015,churn,0.16417080355119779,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2016,churn,0.16849278183964705,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2017,churn,0.17550773593561034,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2018,churn,0.17508568980291342,OR,Northwest,NONE,NA
+full-year,fish,all,all,2009,participants,550828,OR,Northwest,NONE,NA
+full-year,fish,all,all,2010,participants,503147,OR,Northwest,NONE,NA
+full-year,fish,all,all,2011,participants,497591,OR,Northwest,NONE,NA
+full-year,fish,all,all,2012,participants,496780,OR,Northwest,NONE,NA
+full-year,fish,all,all,2013,participants,497874,OR,Northwest,NONE,NA
+full-year,fish,all,all,2014,participants,501904,OR,Northwest,NONE,NA
+full-year,fish,all,all,2015,participants,494907,OR,Northwest,NONE,NA
+full-year,fish,all,all,2016,participants,500228,OR,Northwest,NONE,NA
+full-year,fish,all,all,2017,participants,475814,OR,Northwest,NONE,NA
+full-year,fish,all,all,2018,participants,467112,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2009,participants,450954,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2010,participants,415895,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2011,participants,411914,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2012,participants,408701,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2013,participants,409192,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2014,participants,410970,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2015,participants,399506,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2016,participants,401540,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2017,participants,382059,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2018,participants,375863,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2009,participants,99874,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2010,participants,87252,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2011,participants,85677,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2012,participants,88079,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2013,participants,88682,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2014,participants,90934,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2015,participants,95401,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2016,participants,98688,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2017,participants,93755,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2018,participants,91249,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2009,participants,418092,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2010,participants,386181,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2011,participants,380043,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2012,participants,377326,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2013,participants,375120,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2014,participants,375968,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2015,participants,370625,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2016,participants,371980,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2017,participants,356272,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2018,participants,348767,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2009,participants,132736,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2010,participants,116966,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2011,participants,117548,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2012,participants,119454,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2013,participants,122754,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2014,participants,125936,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2015,participants,124282,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2016,participants,128248,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2017,participants,119542,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2018,participants,118345,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2009,participants,63558,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2010,participants,54809,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2011,participants,53777,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2012,participants,53449,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2013,participants,55141,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2014,participants,56731,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2015,participants,54838,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2016,participants,54860,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2017,participants,51397,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2018,participants,49386,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2009,participants,115407,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2010,participants,104758,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2011,participants,104333,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2012,participants,104517,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2013,participants,105280,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2014,participants,107670,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2015,participants,107178,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2016,participants,108558,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2017,participants,103312,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2018,participants,100028,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2009,participants,120326,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2010,participants,109051,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2011,participants,107291,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2012,participants,107589,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2013,participants,108250,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2014,participants,108531,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2015,participants,107300,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2016,participants,109955,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2017,participants,106147,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2018,participants,106771,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2009,participants,135224,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2010,participants,123260,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2011,participants,118931,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2012,participants,116769,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2013,participants,114670,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2014,participants,113861,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2015,participants,111748,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2016,participants,111179,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2017,participants,104632,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2018,participants,101862,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2009,participants,116312,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2010,participants,111268,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2011,participants,113258,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2012,participants,114456,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2013,participants,114532,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2014,participants,115111,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2015,participants,113843,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2016,participants,115675,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2017,participants,110326,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2018,participants,109065,OR,Northwest,NONE,NA
+full-year,fish,all,all,2014,participants - recruited,119110,OR,Northwest,NONE,NA
+full-year,fish,all,all,2015,participants - recruited,122297,OR,Northwest,NONE,NA
+full-year,fish,all,all,2016,participants - recruited,125212,OR,Northwest,NONE,NA
+full-year,fish,all,all,2017,participants - recruited,117342,OR,Northwest,NONE,NA
+full-year,fish,all,all,2018,participants - recruited,114156,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2014,participants - recruited,67014,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2015,participants - recruited,65654,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2016,participants - recruited,67189,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2017,participants - recruited,62020,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2018,participants - recruited,60861,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2014,participants - recruited,52096,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2015,participants - recruited,56643,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2016,participants - recruited,58023,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2017,participants - recruited,55322,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2018,participants - recruited,53295,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2014,participants - recruited,78877,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2015,participants - recruited,81672,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2016,participants - recruited,83354,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2017,participants - recruited,79508,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2018,participants - recruited,77052,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2014,participants - recruited,40233,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2015,participants - recruited,40625,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2016,participants - recruited,41858,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2017,participants - recruited,37834,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2018,participants - recruited,37104,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2014,participants - recruited,18194,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2015,participants - recruited,17855,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2016,participants - recruited,17640,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2017,participants - recruited,16084,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2018,participants - recruited,15337,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2014,participants - recruited,31141,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2015,participants - recruited,32337,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2016,participants - recruited,33126,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2017,participants - recruited,31299,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2018,participants - recruited,29665,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2014,participants - recruited,25494,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2015,participants - recruited,26150,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2016,participants - recruited,27316,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2017,participants - recruited,26159,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2018,participants - recruited,26226,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2014,participants - recruited,23154,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2015,participants - recruited,24077,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2016,participants - recruited,24320,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2017,participants - recruited,22247,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2018,participants - recruited,21869,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2014,participants - recruited,21127,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2015,participants - recruited,21878,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2016,participants - recruited,22810,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2017,participants - recruited,21553,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2018,participants - recruited,21059,OR,Northwest,NONE,NA
+full-year,fish,all,all,2010,churn,0.43388498769125744,OR,Northwest,NONE,NA
+full-year,fish,all,all,2011,churn,0.41616068465080724,OR,Northwest,NONE,NA
+full-year,fish,all,all,2012,churn,0.4136529800579196,OR,Northwest,NONE,NA
+full-year,fish,all,all,2013,churn,0.4178549861105523,OR,Northwest,NONE,NA
+full-year,fish,all,all,2014,churn,0.41865210876647463,OR,Northwest,NONE,NA
+full-year,fish,all,all,2015,churn,0.430588319678664,OR,Northwest,NONE,NA
+full-year,fish,all,all,2016,churn,0.42827440306966713,OR,Northwest,NONE,NA
+full-year,fish,all,all,2017,churn,0.4516300566941479,OR,Northwest,NONE,NA
+full-year,fish,all,all,2018,churn,0.4428789400900351,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2010,churn,0.37128785325267427,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2011,churn,0.35427932531047485,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2012,churn,0.3532056526499528,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2013,churn,0.35493429181724506,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2014,churn,0.35426243490203857,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2015,churn,0.3669595516936799,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2016,churn,0.35954583683767855,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2017,churn,0.380736184095833,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2018,churn,0.37078498758038714,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2010,churn,0.7165128061357311,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2011,churn,0.7111241003071563,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2012,churn,0.7042613536888548,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2013,churn,0.7098173230849577,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2014,churn,0.7157484044112673,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2015,churn,0.7181472276596211,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2016,churn,0.7160931227135985,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2017,churn,0.7400212798297614,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2018,churn,0.7366512362139216,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2010,churn,0.40185641491830376,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2011,churn,0.38814226996899864,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2012,churn,0.38557856785704864,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2013,churn,0.39018358399643766,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2014,churn,0.39022959544168645,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2015,churn,0.4003011383134655,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2016,churn,0.4002369303753912,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2017,churn,0.42078361359224314,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2018,churn,0.4155350871529117,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2010,churn,0.5345640871072264,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2011,churn,0.5084612424644063,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2012,churn,0.5043477521015552,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2013,churn,0.505195294511659,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2014,churn,0.5054264576475574,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2015,churn,0.520922844776238,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2016,churn,0.5118577234136724,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2017,churn,0.5410482971605043,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2018,churn,0.5243469821455463,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2010,churn,0.5466188363384625,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2011,churn,0.5239285518801656,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2012,churn,0.5259311601614072,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2013,churn,0.5227974330670359,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2014,churn,0.5188879418218748,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2015,churn,0.5322310553313003,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2016,churn,0.5271891753893286,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2017,churn,0.5478772854044004,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2018,churn,0.5437282331653598,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2010,churn,0.47562972783280055,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2011,churn,0.45615609309074234,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2012,churn,0.45643276815580885,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2013,churn,0.4615325736483062,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2014,churn,0.45856762917933136,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2015,churn,0.47208135971022563,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2016,churn,0.4718412360745676,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2017,churn,0.49265816721323547,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2018,churn,0.4877748954622889,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2010,churn,0.43166065521998565,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2011,churn,0.41469587624139176,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2012,churn,0.4146014111155643,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2013,churn,0.4178865869187371,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2014,churn,0.42050808314087756,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2015,churn,0.43170154149505674,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2016,churn,0.4234762348555452,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2017,churn,0.45091993851918555,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2018,churn,0.4419060359689864,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2010,churn,0.4004244808613856,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2011,churn,0.3915057601817298,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2012,churn,0.3869722780435716,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2013,churn,0.38988943983420254,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2014,churn,0.3908258480858115,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2015,churn,0.40215701601075,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2016,churn,0.40309446254071657,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2017,churn,0.42351385628322397,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2018,churn,0.413869561893111,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2010,churn,0.37206823027718555,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2011,churn,0.354171909264119,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2012,churn,0.3480460541418709,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2013,churn,0.35746487733277416,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2014,churn,0.35980337372961285,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2015,churn,0.36875711269991585,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2016,churn,0.3688500830090564,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2017,churn,0.39513110233157256,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2018,churn,0.382303355510034,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2009,participants,619152,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2010,participants,568086,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2011,participants,561307,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2012,participants,558879,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2013,participants,561184,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2014,participants,565232,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2015,participants,559326,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2016,participants,564502,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2017,participants,539347,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2018,participants,529843,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2009,participants,504185,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2010,participants,469802,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2011,participants,464801,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2012,participants,460294,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2013,participants,461928,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2014,participants,463295,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2015,participants,452627,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2016,participants,454498,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2017,participants,434410,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2018,participants,427920,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2009,participants,114967,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2010,participants,98284,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2011,participants,96506,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2012,participants,98585,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2013,participants,99256,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2014,participants,101937,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2015,participants,106699,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2016,participants,110004,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2017,participants,104937,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2018,participants,101923,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2009,participants,473530,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2010,participants,438775,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2011,participants,431351,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2012,participants,427045,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2013,participants,425277,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2014,participants,425558,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2015,participants,420618,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2016,participants,421806,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2017,participants,405117,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2018,participants,397059,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2009,participants,145622,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2010,participants,129311,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2011,participants,129956,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2012,participants,131834,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2013,participants,135907,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2014,participants,139674,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2015,participants,138708,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2016,participants,142696,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2017,participants,134230,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2018,participants,132784,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2009,participants,72732,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2010,participants,63801,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2011,participants,62249,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2012,participants,61850,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2013,participants,63856,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2014,participants,65151,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2015,participants,63490,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2016,participants,63122,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2017,participants,59464,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2018,participants,57294,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2009,participants,129789,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2010,participants,118606,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2011,participants,118104,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2012,participants,118015,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2013,participants,119376,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2014,participants,122011,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2015,participants,121964,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2016,participants,123476,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2017,participants,118314,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2018,participants,114976,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2009,participants,135480,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2010,participants,123051,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2011,participants,120949,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2012,participants,120823,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2013,participants,121839,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2014,participants,122337,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2015,participants,121336,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2016,participants,124038,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2017,participants,120076,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2018,participants,120774,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2009,participants,151815,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2010,participants,138705,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2011,participants,133871,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2012,participants,131203,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2013,participants,128750,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2014,participants,127697,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2015,participants,125665,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2016,participants,124916,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2017,participants,118069,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2018,participants,114939,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2009,participants,129335,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2010,participants,123922,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2011,participants,126133,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2012,participants,126988,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2013,participants,127362,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2014,participants,128036,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2015,participants,126871,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2016,participants,128950,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2017,participants,123424,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2018,participants,121860,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2014,participants - recruited,121046,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2015,participants - recruited,124465,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2016,participants - recruited,126867,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2017,participants - recruited,119072,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2018,participants - recruited,115602,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2014,participants - recruited,66760,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2015,participants - recruited,65511,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2016,participants - recruited,66719,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2017,participants - recruited,61591,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2018,participants - recruited,60175,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2014,participants - recruited,54286,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2015,participants - recruited,58954,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2016,participants - recruited,60148,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2017,participants - recruited,57481,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2018,participants - recruited,55427,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2014,participants - recruited,80211,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2015,participants - recruited,83254,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2016,participants - recruited,84617,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2017,participants - recruited,80915,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2018,participants - recruited,78392,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2014,participants - recruited,40835,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2015,participants - recruited,41211,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2016,participants - recruited,42250,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2017,participants - recruited,38157,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2018,participants - recruited,37210,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2014,participants - recruited,18669,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2015,participants - recruited,18302,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2016,participants - recruited,18066,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2017,participants - recruited,16481,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2018,participants - recruited,15716,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2014,participants - recruited,31710,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2015,participants - recruited,33042,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2016,participants - recruited,33633,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2017,participants - recruited,31932,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2018,participants - recruited,30231,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2014,participants - recruited,25917,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2015,participants - recruited,26571,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2016,participants - recruited,27586,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2017,participants - recruited,26374,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2018,participants - recruited,26430,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2014,participants - recruited,23441,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2015,participants - recruited,24439,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2016,participants - recruited,24631,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2017,participants - recruited,22573,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2018,participants - recruited,22080,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2014,participants - recruited,21309,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2015,participants - recruited,22111,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2016,participants - recruited,22951,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2017,participants - recruited,21712,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2018,participants - recruited,21145,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2010,churn,0.3863994624906319,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2011,churn,0.366034368035825,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2012,churn,0.36397550716452814,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2013,churn,0.36634226728862573,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2014,churn,0.36832660945429674,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2015,churn,0.37860206074673824,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2016,churn,0.37516403671561915,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2017,churn,0.3971199393447668,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2018,churn,0.38686596940374135,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2010,churn,0.3199830220376335,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2011,churn,0.30312770060578736,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2012,churn,0.3023278829604135,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2013,churn,0.30198959795261315,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2014,churn,0.3030738623202372,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2015,churn,0.31373598622041277,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2016,churn,0.3052173432753386,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2017,churn,0.32486369217093575,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2018,churn,0.31311578055652733,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2010,churn,0.6776553271808433,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2011,churn,0.6667311057751008,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2012,churn,0.6608811887343793,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2013,churn,0.6668052949231628,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2014,churn,0.671999677601354,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2015,churn,0.6734061233899369,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2016,churn,0.6718900833184941,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2017,churn,0.6955845855946764,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2018,churn,0.6921552184188458,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2010,churn,0.35289073258928266,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2011,churn,0.3364258035103713,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2012,churn,0.3342576856104786,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2013,churn,0.3369408656672371,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2014,churn,0.33866491691008066,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2015,churn,0.34782557603903286,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2016,churn,0.3464666159406504,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2017,churn,0.3662780358375002,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2018,churn,0.359490339559664,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2010,churn,0.4951612349325183,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2011,churn,0.4662964366651455,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2012,churn,0.46255906663177837,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2013,churn,0.46148710673454063,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2014,churn,0.46106576981668057,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2015,churn,0.47230258070059855,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2016,churn,0.46214191464355514,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2017,churn,0.48821773017831094,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2018,churn,0.46947671169593685,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2010,churn,0.4818649287796292,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2011,churn,0.45649754706039086,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2012,churn,0.4568748092338832,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2013,churn,0.4509620048504447,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2014,churn,0.4523772237534452,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2015,churn,0.46247947076790846,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2016,churn,0.45555205544180194,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2017,churn,0.47496078959458815,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2018,churn,0.4669884299744383,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2010,churn,0.423356370724792,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2011,churn,0.40042662259919404,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2012,churn,0.40116338142653923,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2013,churn,0.40416048807355004,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2014,churn,0.4016636509851225,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2015,churn,0.4139790674611307,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2016,churn,0.41217900364041843,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2017,churn,0.43064475634349214,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2018,churn,0.4246750173267746,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2010,churn,0.3836359610274581,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2011,churn,0.3636053343735523,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2012,churn,0.3640708067036519,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2013,churn,0.3645249662729779,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2014,churn,0.36879816807426186,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2015,churn,0.3779804964973803,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2016,churn,0.36992318850135175,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2017,churn,0.3964848631434675,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2018,churn,0.3849228821746228,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2010,churn,0.3566446003359353,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2011,churn,0.34437114739915636,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2012,churn,0.33990931568450233,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2013,churn,0.34235497663925385,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2014,churn,0.3445126213592232,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2015,churn,0.3535948377800577,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2016,churn,0.35347948911789273,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2017,churn,0.3731557163785994,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2018,churn,0.36192395971846963,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2010,churn,0.3334518885065915,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2011,churn,0.3132050806152258,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2012,churn,0.3087534586507891,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2013,churn,0.3164944719186063,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2014,churn,0.31855655533047544,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2015,churn,0.3277437595676214,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2016,churn,0.3258427851912572,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2017,churn,0.35067896112356245,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2018,churn,0.3377706118745139,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2009,participation rate,0.20229112238516045,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2010,participation rate,0.1761132910586632,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2011,participation rate,0.17057169989600593,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2012,participation rate,0.16889210086271697,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2013,participation rate,0.1736733567536373,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2014,participation rate,0.17665176817182948,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2015,participation rate,0.17109213288860647,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2016,participation rate,0.16828429244006746,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2017,participation rate,0.15905008046309105,OR,Northwest,NONE,NA
+full-year,all_sports,age,18-24,2018,participation rate,0.15163250276199564,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2009,participation rate,0.25185339499377046,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2010,participation rate,0.22841779557230987,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2011,participation rate,0.22406502276614498,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2012,participation rate,0.2214033255826828,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2013,participation rate,0.22266007832600782,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2014,participation rate,0.2254985585914701,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2015,participation rate,0.22206534459296112,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2016,participation rate,0.21911406905943998,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2017,participation rate,0.2055188690819538,OR,Northwest,NONE,NA
+full-year,all_sports,age,25-34,2018,participation rate,0.19761783895532337,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2009,participation rate,0.26595689867442435,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2010,participation rate,0.2397367274152927,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2011,participation rate,0.236679926933418,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2012,participation rate,0.23705068123148496,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2013,participation rate,0.2381600693628435,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2014,participation rate,0.23705363509525676,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2015,participation rate,0.23187452726740085,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2016,participation rate,0.23300071944729758,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2017,participation rate,0.2208909767355548,OR,Northwest,NONE,NA
+full-year,all_sports,age,35-44,2018,participation rate,0.2198358919442496,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2009,participation rate,0.27448606648113705,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2010,participation rate,0.24889208708372318,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2011,participation rate,0.24236587452594757,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2012,participation rate,0.2407737732276604,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2013,participation rate,0.23993163338868836,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2014,participation rate,0.2397405397270161,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2015,participation rate,0.2372635878719803,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2016,participation rate,0.23605866211086435,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2017,participation rate,0.2228933761539493,OR,Northwest,NONE,NA
+full-year,all_sports,age,45-54,2018,participation rate,0.21470001662669863,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2009,participation rate,0.2678797528210433,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2010,participation rate,0.2547332222260539,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2011,participation rate,0.25034483408577624,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2012,participation rate,0.24533501122029583,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2013,participation rate,0.24093539362398303,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2014,participation rate,0.23729622058765693,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2015,participation rate,0.23172079712633276,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2016,participation rate,0.23263670988659615,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2017,participation rate,0.22097808837899618,OR,Northwest,NONE,NA
+full-year,all_sports,age,55-64,2018,participation rate,0.21588086774614124,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2009,participation rate,0.2558288312723205,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2010,participation rate,0.23295908207397856,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2011,participation rate,0.228243007404306,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2012,participation rate,0.22613245227940046,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2013,participation rate,0.22622687738026076,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2014,participation rate,0.2262589469417624,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2015,participation rate,0.22188828124332896,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2016,participation rate,0.22098882553570684,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2017,participation rate,0.20893599440676888,OR,Northwest,NONE,NA
+full-year,all_sports,all,all,2018,participation rate,0.20309329432514783,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2009,participation rate,0.12040137243770051,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2010,participation rate,0.1061092559797371,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2011,participation rate,0.1057185154152272,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2012,participation rate,0.10663734892316942,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2013,participation rate,0.10942622026088071,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2014,participation rate,0.11160921738194558,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2015,participation rate,0.1098371992922083,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2016,participation rate,0.11163316171437704,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2017,participation rate,0.10394687927149224,OR,Northwest,NONE,NA
+full-year,all_sports,gender,female,2018,participation rate,0.10174451327686437,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2009,participation rate,0.39111779051655393,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2010,participation rate,0.35967918079161676,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2011,participation rate,0.3506954758691789,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2012,participation rate,0.3457339362332937,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2013,participation rate,0.34334518144819465,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2014,participation rate,0.3413452531158464,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2015,participation rate,0.3343800002998309,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2016,participation rate,0.3305226789315959,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2017,participation rate,0.31402823106766475,OR,Northwest,NONE,NA
+full-year,all_sports,gender,male,2018,participation rate,0.30454162132072204,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2009,participation rate,0.17677527300989976,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2010,participation rate,0.15129219557113951,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2011,participation rate,0.14735713513964097,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2012,participation rate,0.1459517202750422,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2013,participation rate,0.149970598921829,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2014,participation rate,0.15382160611742043,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2015,participation rate,0.1477768212843818,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2016,participation rate,0.14625766425750295,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2017,participation rate,0.13747304227030624,OR,Northwest,NONE,NA
+full-year,fish,age,18-24,2018,participation rate,0.1307034380808447,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2009,participation rate,0.22394536329000198,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2010,participation rate,0.20174857451194741,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2011,participation rate,0.1979389014788678,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2012,participation rate,0.19608025572957047,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2013,participation rate,0.19636822348011412,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2014,participation rate,0.19899377763925863,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2015,participation rate,0.1951438088516643,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2016,participation rate,0.19264136438623444,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2017,participation rate,0.17945945029831475,OR,Northwest,NONE,NA
+full-year,fish,age,25-34,2018,participation rate,0.1719255948634766,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2009,participation rate,0.23620851631162376,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2010,participation rate,0.21246092970691083,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2011,participation rate,0.20995317068031444,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2012,participation rate,0.2110860162635776,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2013,participation rate,0.21159749758720778,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2014,participation rate,0.2103016100650115,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2015,participation rate,0.20505156570013938,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2016,participation rate,0.20654633343675008,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2017,participation rate,0.1952672849491067,OR,Northwest,NONE,NA
+full-year,fish,age,35-44,2018,participation rate,0.19434727688723957,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2009,participation rate,0.24448904162200885,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2010,participation rate,0.2211775974473863,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2011,participation rate,0.21531784944644825,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2012,participation rate,0.21428559351554977,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2013,participation rate,0.21369289631596813,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2014,participation rate,0.21376459583120808,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2015,participation rate,0.2109873983807588,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2016,participation rate,0.21009931469806742,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2017,participation rate,0.19752669823357547,OR,Northwest,NONE,NA
+full-year,fish,age,45-54,2018,participation rate,0.1902728672915962,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2009,participation rate,0.24090640437716926,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2010,participation rate,0.22872174570010623,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2011,participation rate,0.22479093670083838,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2012,participation rate,0.2211237600736304,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2013,participation rate,0.2166644093414207,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2014,participation rate,0.21334160117518336,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2015,participation rate,0.20792608797324133,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2016,participation rate,0.2086874867478248,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2017,participation rate,0.1975274547778482,OR,Northwest,NONE,NA
+full-year,fish,age,55-64,2018,participation rate,0.1932139080972665,OR,Northwest,NONE,NA
+full-year,fish,all,all,2009,participation rate,0.22759788141210838,OR,Northwest,NONE,NA
+full-year,fish,all,all,2010,participation rate,0.20632908268867053,OR,Northwest,NONE,NA
+full-year,fish,all,all,2011,participation rate,0.20233431312510985,OR,Northwest,NONE,NA
+full-year,fish,all,all,2012,participation rate,0.20100608475781082,OR,Northwest,NONE,NA
+full-year,fish,all,all,2013,participation rate,0.200705081308127,OR,Northwest,NONE,NA
+full-year,fish,all,all,2014,participation rate,0.20090913201279886,OR,Northwest,NONE,NA
+full-year,fish,all,all,2015,participation rate,0.19633284275233445,OR,Northwest,NONE,NA
+full-year,fish,all,all,2016,participation rate,0.19582711526279015,OR,Northwest,NONE,NA
+full-year,fish,all,all,2017,participation rate,0.18432413871341144,OR,Northwest,NONE,NA
+full-year,fish,all,all,2018,participation rate,0.17904797251036336,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2009,participation rate,0.10974713004827989,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2010,participation rate,0.09597926885513165,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2011,participation rate,0.09562467335120446,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2012,participation rate,0.09662346495037911,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2013,participation rate,0.09883601464166047,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2014,participation rate,0.10063160216083665,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2015,participation rate,0.0984138391616506,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2016,participation rate,0.10033028062135887,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2017,participation rate,0.09257258319207871,OR,Northwest,NONE,NA
+full-year,fish,gender,female,2018,participation rate,0.09068076292136487,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2009,participation rate,0.34532810861539304,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2010,participation rate,0.3165660434557287,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2011,participation rate,0.30898122581320164,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2012,participation rate,0.30548163126406763,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2013,participation rate,0.30285118749625956,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2014,participation rate,0.3015685103404437,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2015,participation rate,0.29463690952627997,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2016,participation rate,0.2914795572110758,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2017,participation rate,0.2761658136758987,OR,Northwest,NONE,NA
+full-year,fish,gender,male,2018,participation rate,0.26750197739672005,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2009,participation rate,0.07112118861726528,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2010,participation rate,0.06436315430188946,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2011,participation rate,0.061297192351261104,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2012,participation rate,0.06103599415494664,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2013,participation rate,0.06331070531369282,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2014,participation rate,0.06336590109400708,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2015,participation rate,0.06264844708449084,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2016,participation rate,0.06343253018007232,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2017,participation rate,0.06091427641037326,OR,Northwest,NONE,NA
+full-year,hunt,age,18-24,2018,participation rate,0.057769299931735275,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2009,participation rate,0.09079909744699864,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2010,participation rate,0.08381314995284324,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2011,participation rate,0.0816320344745452,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2012,participation rate,0.08002712925797992,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2013,participation rate,0.08170880286847795,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2014,participation rate,0.08219420704885994,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2015,participation rate,0.08215383566772981,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2016,participation rate,0.07990256557986494,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2017,participation rate,0.07671738638710963,OR,Northwest,NONE,NA
+full-year,hunt,age,25-34,2018,participation rate,0.07382824810818744,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2009,participation rate,0.10090186442179962,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2010,participation rate,0.0912083192655641,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2011,participation rate,0.08903504779323174,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2012,participation rate,0.08796476906726061,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2013,participation rate,0.08927361951321355,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2014,participation rate,0.08861923169152809,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2015,participation rate,0.08817981729824353,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2016,participation rate,0.0873146893802648,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2017,participation rate,0.08416506185753275,OR,Northwest,NONE,NA
+full-year,hunt,age,35-44,2018,participation rate,0.08383775768841134,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2009,participation rate,0.10543165032911467,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2010,participation rate,0.09540459598476907,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2011,participation rate,0.0927707430471021,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2012,participation rate,0.09064594962447721,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2013,participation rate,0.09058700348756615,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2014,participation rate,0.08996019829831108,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2015,participation rate,0.08957354184397,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2016,participation rate,0.08873459395175755,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2017,participation rate,0.08519556507170872,OR,Northwest,NONE,NA
+full-year,hunt,age,45-54,2018,participation rate,0.08225693569783364,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2009,participation rate,0.10625506784298405,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2010,participation rate,0.10180942068730328,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2011,participation rate,0.09901018804253406,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2012,participation rate,0.0946155293374395,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2013,participation rate,0.09277266876080582,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2014,participation rate,0.0899748478620777,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2015,participation rate,0.08818178942434814,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2016,participation rate,0.08652209359791597,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2017,participation rate,0.08357578076817752,OR,Northwest,NONE,NA
+full-year,hunt,age,55-64,2018,participation rate,0.08060721617690113,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2009,participation rate,0.0964299897031288,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2010,participation rate,0.08871936905422965,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2011,participation rate,0.08621484393013196,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2012,participation rate,0.08424670865509494,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2013,participation rate,0.08482016342046196,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2014,participation rate,0.08407814043542249,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2015,participation rate,0.08340159908030606,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2016,participation rate,0.08229445945065589,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2017,participation rate,0.07922063320308491,OR,Northwest,NONE,NA
+full-year,hunt,all,all,2018,participation rate,0.07680657879840722,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2009,participation rate,0.02714988028413819,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2010,participation rate,0.024646763327229572,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2011,participation rate,0.02441216203249987,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2012,participation rate,0.024593063675986796,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2013,participation rate,0.0261135968104744,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2014,participation rate,0.027145186102510654,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2015,participation rate,0.028038148863356916,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2016,participation rate,0.028692951955192905,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2017,participation rate,0.02799356134087144,OR,Northwest,NONE,NA
+full-year,hunt,gender,female,2018,participation rate,0.027213806885928386,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2009,participation rate,0.16563924741406086,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2010,participation rate,0.1527264487075328,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2011,participation rate,0.1479811963814355,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2012,participation rate,0.14395346033253104,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2013,participation rate,0.1436863863389297,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2014,participation rate,0.14122789071315092,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2015,participation rate,0.1389827642003398,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2016,participation rate,0.13598330791669686,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2017,participation rate,0.13049802088895907,OR,Northwest,NONE,NA
+full-year,hunt,gender,male,2018,participation rate,0.12644806130619599,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2009,participation rate,0.2558288312723205,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2010,participation rate,0.23295908207397856,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2011,participation rate,0.228243007404306,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2012,participation rate,0.22613245227940046,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2013,participation rate,0.22622687738026076,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2014,participation rate,0.2262589469417624,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2015,participation rate,0.22188828124332896,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2016,participation rate,0.22098882553570684,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2017,participation rate,0.20893599440676888,OR,Northwest,NONE,NA
+full-year,all_sports,residency,resident,2018,participation rate,0.20309329432514783,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2009,participation rate,0.22759788141210838,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2010,participation rate,0.20632908268867053,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2011,participation rate,0.20233431312510985,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2012,participation rate,0.20100608475781082,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2013,participation rate,0.200705081308127,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2014,participation rate,0.20090913201279886,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2015,participation rate,0.19633284275233445,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2016,participation rate,0.19582711526279015,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2017,participation rate,0.18432413871341144,OR,Northwest,NONE,NA
+full-year,fish,residency,resident,2018,participation rate,0.17904797251036336,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2009,participation rate,0.0964299897031288,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2010,participation rate,0.08871936905422965,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2011,participation rate,0.08621484393013196,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2012,participation rate,0.08424670865509494,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2013,participation rate,0.08482016342046196,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2014,participation rate,0.08407814043542249,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2015,participation rate,0.08340159908030606,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2016,participation rate,0.08229445945065589,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2017,participation rate,0.07922063320308491,OR,Northwest,NONE,NA
+full-year,hunt,residency,resident,2018,participation rate,0.07680657879840722,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2009,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2010,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2011,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2012,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2013,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2014,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2015,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2016,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2017,participation rate,0,OR,Northwest,NONE,NA
+full-year,all_sports,residency,nonresident,2018,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2009,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2010,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2011,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2012,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2013,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2014,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2015,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2016,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2017,participation rate,0,OR,Northwest,NONE,NA
+full-year,fish,residency,nonresident,2018,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2009,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2010,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2011,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2012,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2013,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2014,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2015,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2016,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2017,participation rate,0,OR,Northwest,NONE,NA
+full-year,hunt,residency,nonresident,2018,participation rate,0,OR,Northwest,NONE,NA

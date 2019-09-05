@@ -3,9 +3,17 @@
 
 library(tidyverse)
 
+# for development convenience
+if (!exists("timeframe")) {
+    dir <- "analysis/2018-q4"
+    timeframe <- "full-year"
+    yrs <- 2008:2018
+}
+
 source("analysis/reg-aggregate.R")
 indir <- file.path(dir, "out-rate")
 outfile <- file.path(dir, "dashboard.csv")
+outdir <- file.path(dir, "out-dashboard") # for checking individual states
 
 # Pull Data  -------------------------------------------------------
 
@@ -50,47 +58,18 @@ dashboard <- bind_rows(
     dashboard_reg
 )
 
-# Add % Change Metric -----------------------------------------------------
-
-pct_change <- dashboard %>%
-    arrange(group, region, state, metric, segment, category, year) %>%
-    group_by(group, region, state, metric, segment, category) %>%
-    mutate(
-        pct_change_yr = (value - lag(value)) / lag(value),
-        pct_change_yr = ifelse(lag(value) == 0, 0, pct_change_yr),
-        pct_change_yr = ifelse(is.na(pct_change_yr), 0, pct_change_yr),
-        pct_change_all = cumsum(pct_change_yr)
-    ) %>% 
-    ungroup() %>%
-    select(-value)
-
-# check
-summary(pct_change$pct_change_yr)
-summary(pct_change$pct_change_all)
-
-# stack with point values
-dashboard <- bind_rows(
-    mutate(dashboard, value_type = "total"),
-    gather(pct_change, value_type, value, pct_change_yr, pct_change_all)
-)
-
 # Final Formatting -----------------------------------------------------------
 
-dashboard <- dashboard %>% 
-    mutate(metric = case_when(
-        metric == "recruits" ~ "participants - recruited",
-        metric == "rate" ~ "participation rate",
-        TRUE ~ metric
-    )) %>%
-    select(
-        region, state, timeframe, group, metric, segment, year, category, 
-        value, aggregation, value_type, states_included
-    )
+dashboard <- dashboard %>% mutate(metric = case_when(
+    metric == "recruits" ~ "participants - recruited",
+    metric == "rate" ~ "participation rate",
+    TRUE ~ metric
+))
 
 # check that rows are uniquely identified by dimensions
 nrow(dashboard) == nrow(
     distinct(dashboard,region, state, timeframe, group, metric, segment, year,  
-             category, aggregation, value_type)
+             category, aggregation)
 )
 
 ## add res/nonres rows for participation rate
@@ -112,27 +91,30 @@ count(dashboard, segment)
 count(dashboard, category)
 count(dashboard, year)
 filter(dashboard, state == region) %>% count(region, states_included)
-group_by(dashboard, metric, value_type) %>% 
-    summarise(min(value), mean(value), max(value))
 
 # Write to Individual Files for Visuals -----------------------------------
 
 # individual  files(for checking)
-outdir <- str_remove(outfile, ".csv")
 dir.create(outdir, showWarnings = FALSE)
 x <- split(dashboard, dashboard$state)
 
 for (i in names(x)) {
-    y <- split(x[[i]], x[[i]]$value_type)
-    for (j in names(y)) write_csv(y[[j]], file.path(outdir, paste0(i, "-", j, ".csv")))
+    write_csv(x[[i]], file.path(outdir, paste0(i, ".csv")))
 }
 # source("../dashboard-template/visualize/app-functions.R")
 # run_visual(outdir, pct_range = 0.2)
 
 # Write to CSV for Tableau ------------------------------------------------
 
+# TODO - drop this once an updated 9/5 file is sent to Ben
+# temporary - add mid-year dummy data
+mid <- filter(dashboard, metric != "churn") %>%
+    mutate( value = value / 2, timeframe = "mid-year" )
+dashboard <- bind_rows(dashboard, mid)
+count(dashboard, timeframe)
+
 # stacked
 dashboard %>%
     select(region, state, timeframe, group, metric, segment, year, category,
-           value, aggregation, value_type) %>%
+           value, aggregation, states_included) %>%
     write.csv(outfile)

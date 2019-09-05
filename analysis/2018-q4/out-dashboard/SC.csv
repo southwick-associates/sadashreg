@@ -1,0 +1,1021 @@
+timeframe,group,segment,category,year,metric,value,state,region,aggregation,states_included
+full-year,hunt,all,all,2009,participants,195557,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2010,participants,206059,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2011,participants,210994,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2012,participants,205261,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2013,participants,212412,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2014,participants,209335,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2015,participants,207604,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2016,participants,200581,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2017,participants,198611,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2018,participants,194206,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2009,participants,173452,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2010,participants,184225,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2011,participants,189029,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2012,participants,184084,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2013,participants,190692,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2014,participants,186310,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2015,participants,184715,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2016,participants,178467,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2017,participants,176895,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2018,participants,172472,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2009,participants,22105,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2010,participants,21834,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2011,participants,21965,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2012,participants,21177,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2013,participants,21720,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2014,participants,23025,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2015,participants,22889,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2016,participants,22114,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2017,participants,21716,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2018,participants,21734,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2009,participants,181023,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2010,participants,188894,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2011,participants,191404,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2012,participants,185642,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2013,participants,191303,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2014,participants,188288,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2015,participants,185911,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2016,participants,179522,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2017,participants,176662,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2018,participants,172852,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2009,participants,14534,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2010,participants,17165,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2011,participants,19590,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2012,participants,19619,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2013,participants,21109,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2014,participants,21047,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2015,participants,21693,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2016,participants,21059,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2017,participants,21949,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2018,participants,21354,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2009,participants,21403,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2010,participants,23178,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2011,participants,24129,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2012,participants,24021,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2013,participants,25697,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2014,participants,25253,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2015,participants,25352,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2016,participants,24553,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2017,participants,24838,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2018,participants,24378,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2009,participants,35387,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2010,participants,36533,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2011,participants,36761,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2012,participants,35212,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2013,participants,36766,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2014,participants,36422,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2015,participants,36867,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2016,participants,35906,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2017,participants,35769,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2018,participants,35428,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2009,participants,48400,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2010,participants,49850,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2011,participants,49518,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2012,participants,47370,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2013,participants,48268,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2014,participants,46630,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2015,participants,44751,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2016,participants,41604,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2017,participants,40121,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2018,participants,38807,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2009,participants,48819,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2010,participants,50983,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2011,participants,52102,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2012,participants,51006,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2013,participants,52692,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2014,participants,52354,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2015,participants,52102,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2016,participants,50425,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2017,participants,50044,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2018,participants,48374,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2009,participants,41548,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2010,participants,45515,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2011,participants,48484,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2012,participants,47651,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2013,participants,48989,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2014,participants,48676,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2015,participants,48532,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2016,participants,48093,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2017,participants,47839,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2018,participants,47219,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2014,participants - recruited,31833,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2015,participants - recruited,30451,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2016,participants - recruited,28842,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2017,participants - recruited,28660,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2018,participants - recruited,27202,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2014,participants - recruited,23347,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2015,participants - recruited,21933,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2016,participants - recruited,20903,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2017,participants - recruited,20822,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2018,participants - recruited,19582,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2014,participants - recruited,8486,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2015,participants - recruited,8518,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2016,participants - recruited,7939,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2017,participants - recruited,7838,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2018,participants - recruited,7620,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2014,participants - recruited,26108,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2015,participants - recruited,24757,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2016,participants - recruited,23468,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2017,participants - recruited,22832,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2018,participants - recruited,22116,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2014,participants - recruited,5725,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2015,participants - recruited,5694,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2016,participants - recruited,5374,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2017,participants - recruited,5828,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2018,participants - recruited,5086,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2014,participants - recruited,5100,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2015,participants - recruited,4916,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2016,participants - recruited,4745,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2017,participants - recruited,4789,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2018,participants - recruited,4343,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2014,participants - recruited,6554,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2015,participants - recruited,6405,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2016,participants - recruited,6044,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2017,participants - recruited,6046,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2018,participants - recruited,5699,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2014,participants - recruited,7050,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2015,participants - recruited,6433,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2016,participants - recruited,5965,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2017,participants - recruited,5699,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2018,participants - recruited,5459,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2014,participants - recruited,6723,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2015,participants - recruited,6543,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2016,participants - recruited,6144,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2017,participants - recruited,6140,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2018,participants - recruited,5885,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2014,participants - recruited,6406,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2015,participants - recruited,6154,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2016,participants - recruited,5943,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2017,participants - recruited,5984,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2018,participants - recruited,5816,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2010,churn,0.23760847221014847,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2011,churn,0.24970032854667823,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2012,churn,0.267908092173237,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2013,churn,0.22693546265486375,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2014,churn,0.2509462742217954,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2015,churn,0.24952349105500757,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2016,churn,0.27013930367430306,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2017,churn,0.27219926114636966,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2018,churn,0.27458197179411004,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2010,churn,0.2073657265410603,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2011,churn,0.22361785859682443,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2012,churn,0.24249189277835673,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2013,churn,0.20006627409226216,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2014,churn,0.22597696809514817,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2015,churn,0.21901669260909248,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2016,churn,0.24190780391413813,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2017,churn,0.24415157984389257,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2018,churn,0.24980355578167834,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2010,churn,0.47491517756163765,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2011,churn,0.46977191536136303,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2012,churn,0.48663783291600277,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2013,churn,0.4604995986211456,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2014,churn,0.47016574585635357,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2015,churn,0.4963735070575462,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2016,churn,0.49796845646380355,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2017,churn,0.4985529528805282,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2018,churn,0.47642291398047526,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2010,churn,0.2266396864098013,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2011,churn,0.2388580088277528,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2012,churn,0.25508608835232177,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2013,churn,0.21577092226102698,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2014,churn,0.23882119136028437,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2015,churn,0.23959838504037415,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2016,churn,0.25761309344466915,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2017,churn,0.2606919991085357,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2018,churn,0.26132252274696083,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2010,churn,0.37067896983886517,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2011,churn,0.36497754971135343,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2012,churn,0.3897828863346105,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2013,churn,0.33061349380386557,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2014,churn,0.3591639414190246,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2015,churn,0.338370877293033,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2016,churn,0.3772305989763453,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2017,churn,0.37042842215256006,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2018,churn,0.38130611128833797,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2010,churn,0.2558074316429072,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2011,churn,0.2785738950276243,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2012,churn,0.30839068070640907,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2013,churn,0.26311844077961016,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2014,churn,0.3088785046728972,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2015,churn,0.2957785521938856,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2016,churn,0.32925722851169575,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2017,churn,0.32506516780710326,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2018,churn,0.3307967951040786,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2010,churn,0.24873498233215546,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2011,churn,0.26981214743414206,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2012,churn,0.2978150254414845,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2013,churn,0.2513707775789085,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2014,churn,0.28279034321330393,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2015,churn,0.2781636967683479,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2016,churn,0.3065968643194271,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2017,churn,0.31023534326695446,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2018,churn,0.30521695370163276,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2010,churn,0.2353099229068061,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2011,churn,0.2526641112605109,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2012,churn,0.26997273002726996,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2013,churn,0.22799459368136513,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2014,churn,0.25702794593249856,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2015,churn,0.25610671470544083,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2016,churn,0.27995530726256984,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2017,churn,0.282022931038627,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2018,churn,0.2846959122632104,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2010,churn,0.2354821523708045,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2011,churn,0.24437816412228716,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2012,churn,0.2547227768391952,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2013,churn,0.2176829387883186,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2014,churn,0.23537231517177207,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2015,churn,0.2365862510266842,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2016,churn,0.25590679641465613,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2017,churn,0.25549341583373003,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2018,churn,0.26283921505935015,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2010,churn,0.2230756266101654,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2011,churn,0.22061280112537368,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2012,churn,0.23661570836170084,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2013,churn,0.19881174815778974,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2014,churn,0.20534765912247732,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2015,churn,0.21171032357473032,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2016,churn,0.21779893264099234,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2017,churn,0.22583797721034685,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2018,churn,0.22628454366821352,SC,Southeast,NONE,NA
+full-year,fish,all,all,2009,participants,494519,SC,Southeast,NONE,NA
+full-year,fish,all,all,2010,participants,505449,SC,Southeast,NONE,NA
+full-year,fish,all,all,2011,participants,498139,SC,Southeast,NONE,NA
+full-year,fish,all,all,2012,participants,510278,SC,Southeast,NONE,NA
+full-year,fish,all,all,2013,participants,501954,SC,Southeast,NONE,NA
+full-year,fish,all,all,2014,participants,534099,SC,Southeast,NONE,NA
+full-year,fish,all,all,2015,participants,531359,SC,Southeast,NONE,NA
+full-year,fish,all,all,2016,participants,518679,SC,Southeast,NONE,NA
+full-year,fish,all,all,2017,participants,513193,SC,Southeast,NONE,NA
+full-year,fish,all,all,2018,participants,492411,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2009,participants,397288,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2010,participants,396859,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2011,participants,393456,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2012,participants,402155,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2013,participants,406471,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2014,participants,417557,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2015,participants,412665,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2016,participants,400040,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2017,participants,392559,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2018,participants,376542,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2009,participants,97231,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2010,participants,108590,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2011,participants,104683,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2012,participants,108123,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2013,participants,95483,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2014,participants,116542,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2015,participants,118694,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2016,participants,118639,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2017,participants,120634,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2018,participants,115869,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2009,participants,393487,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2010,participants,401637,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2011,participants,395750,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2012,participants,403330,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2013,participants,395293,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2014,participants,417567,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2015,participants,414849,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2016,participants,404588,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2017,participants,399865,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2018,participants,385013,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2009,participants,101032,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2010,participants,103812,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2011,participants,102389,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2012,participants,106948,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2013,participants,106661,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2014,participants,116532,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2015,participants,116510,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2016,participants,114091,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2017,participants,113328,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2018,participants,107398,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2009,participants,61524,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2010,participants,63494,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2011,participants,63533,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2012,participants,66912,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2013,participants,67069,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2014,participants,72595,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2015,participants,72097,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2016,participants,69297,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2017,participants,67405,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2018,participants,63697,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2009,participants,98615,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2010,participants,99567,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2011,participants,98804,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2012,participants,101241,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2013,participants,99934,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2014,participants,108330,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2015,participants,109747,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2016,participants,107575,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2017,participants,104462,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2018,participants,99712,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2009,participants,116419,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2010,participants,116436,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2011,participants,112684,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2012,participants,114574,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2013,participants,110438,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2014,participants,116229,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2015,participants,113999,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2016,participants,109973,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2017,participants,108997,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2018,participants,104704,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2009,participants,120880,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2010,participants,122595,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2011,participants,119999,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2012,participants,122109,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2013,participants,119362,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2014,participants,125433,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2015,participants,124713,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2016,participants,121264,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2017,participants,120521,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2018,participants,114358,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2009,participants,97082,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2010,participants,103356,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2011,participants,103120,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2012,participants,105442,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2013,participants,105150,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2014,participants,111512,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2015,participants,110804,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2016,participants,110569,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2017,participants,111808,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2018,participants,109941,SC,Southeast,NONE,NA
+full-year,fish,all,all,2014,participants - recruited,148963,SC,Southeast,NONE,NA
+full-year,fish,all,all,2015,participants - recruited,151494,SC,Southeast,NONE,NA
+full-year,fish,all,all,2016,participants - recruited,147481,SC,Southeast,NONE,NA
+full-year,fish,all,all,2017,participants - recruited,143977,SC,Southeast,NONE,NA
+full-year,fish,all,all,2018,participants - recruited,134389,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2014,participants - recruited,83043,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2015,participants - recruited,84206,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2016,participants - recruited,80557,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2017,participants - recruited,76188,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2018,participants - recruited,70412,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2014,participants - recruited,65920,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2015,participants - recruited,67288,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2016,participants - recruited,66924,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2017,participants - recruited,67789,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2018,participants - recruited,63977,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2014,participants - recruited,103294,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2015,participants - recruited,104991,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2016,participants - recruited,102232,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2017,participants - recruited,100335,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2018,participants - recruited,94409,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2014,participants - recruited,45669,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2015,participants - recruited,46503,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2016,participants - recruited,45249,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2017,participants - recruited,43642,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2018,participants - recruited,39980,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2014,participants - recruited,29463,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2015,participants - recruited,29180,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2016,participants - recruited,27786,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2017,participants - recruited,26621,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2018,participants - recruited,24655,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2014,participants - recruited,35831,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2015,participants - recruited,36907,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2016,participants - recruited,36088,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2017,participants - recruited,33914,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2018,participants - recruited,31627,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2014,participants - recruited,31274,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2015,participants - recruited,31571,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2016,participants - recruited,30632,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2017,participants - recruited,30465,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2018,participants - recruited,28670,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2014,participants - recruited,29300,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2015,participants - recruited,30157,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2016,participants - recruited,29467,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2017,participants - recruited,28976,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2018,participants - recruited,26552,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2014,participants - recruited,23093,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2015,participants - recruited,23677,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2016,participants - recruited,23508,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2017,participants - recruited,24e3,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2018,participants - recruited,22885,SC,Southeast,NONE,NA
+full-year,fish,all,all,2010,churn,0.4365797876320224,SC,Southeast,NONE,NA
+full-year,fish,all,all,2011,churn,0.4478790144999798,SC,Southeast,NONE,NA
+full-year,fish,all,all,2012,churn,0.43797012480452263,SC,Southeast,NONE,NA
+full-year,fish,all,all,2013,churn,0.4430036176358764,SC,Southeast,NONE,NA
+full-year,fish,all,all,2014,churn,0.43083828398618135,SC,Southeast,NONE,NA
+full-year,fish,all,all,2015,churn,0.47061125371888035,SC,Southeast,NONE,NA
+full-year,fish,all,all,2016,churn,0.4953656567405468,SC,Southeast,NONE,NA
+full-year,fish,all,all,2017,churn,0.5011018375527057,SC,Southeast,NONE,NA
+full-year,fish,all,all,2018,churn,0.5068755809217979,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2010,churn,0.38327107790821796,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2011,churn,0.3847890560627325,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2012,churn,0.37673335773250427,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2013,churn,0.3750892068978376,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2014,churn,0.37741929928580337,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2015,churn,0.4073862969606548,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2016,churn,0.4330049798262517,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2017,churn,0.4387386261373863,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2018,churn,0.4409171614967428,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2010,churn,0.6544003455688,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2011,churn,0.6784510544249011,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2012,churn,0.6681314062455221,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2013,churn,0.6956059302831036,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2014,churn,0.6582428285663415,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2015,churn,0.697139228775892,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2016,churn,0.7121758471363338,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2017,churn,0.7113849577289086,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2018,churn,0.7215130062834689,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2010,churn,0.40557531535107094,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2011,churn,0.41638570801580044,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2012,churn,0.40685385212905123,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2013,churn,0.4127802790753084,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2014,churn,0.3968551436306402,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2015,churn,0.43676142611087054,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2016,churn,0.46124411373955104,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2017,churn,0.4674903772703338,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2018,churn,0.4743126999492231,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2010,churn,0.5563658703342218,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2011,churn,0.5675983366940347,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2012,churn,0.5558956705426736,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2013,churn,0.5554317913772768,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2014,churn,0.5549246334916373,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2015,churn,0.5920238289398011,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2016,churn,0.6167173200089288,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2017,churn,0.6202912272396531,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2018,churn,0.6218029054065982,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2010,churn,0.5415129001316837,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2011,churn,0.5543444017390209,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2012,churn,0.5412501770900562,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2013,churn,0.5473706239349456,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2014,churn,0.5372511000074577,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2015,churn,0.5688565013155539,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2016,churn,0.5968929884180595,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2017,churn,0.6021848302932348,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2018,churn,0.6082428342531601,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2010,churn,0.5020082357952818,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2011,churn,0.5085232694799652,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2012,churn,0.5044942000526349,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2013,churn,0.5077356253704801,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2014,churn,0.4985635491846764,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2015,churn,0.5306894864622856,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2016,churn,0.5581666590733064,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2017,churn,0.5672188447022515,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2018,churn,0.5674557969002787,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2010,churn,0.43876832139113703,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2011,churn,0.4512188836777819,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2012,churn,0.43801975628588913,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2013,churn,0.44641641204714116,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2014,churn,0.4320872471670938,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2015,churn,0.47005833462392244,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2016,churn,0.4978332573072738,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2017,churn,0.5064652820718001,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2018,churn,0.5161749055011194,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2010,churn,0.40211329372631444,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2011,churn,0.4155952225558022,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2012,churn,0.4054939285089217,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2013,churn,0.4077062326450038,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2014,churn,0.3940077103586994,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2015,churn,0.4333766513326266,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2016,churn,0.4602678213455217,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2017,churn,0.46259782456313975,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2018,churn,0.47149850647195496,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2010,churn,0.3435468416768836,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2011,churn,0.35824462937874985,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2012,churn,0.3481621569197944,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2013,churn,0.3514987668374123,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2014,churn,0.33825502078715275,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2015,churn,0.3907576966881596,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2016,churn,0.4040667503000875,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2017,churn,0.41031763258809073,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2018,churn,0.4182475158084914,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2009,participants,528497,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2010,participants,540727,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2011,participants,532781,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2012,participants,545075,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2013,participants,537131,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2014,participants,567855,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2015,participants,564671,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2016,participants,550978,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2017,participants,544914,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2018,participants,523404,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2009,participants,413513,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2010,participants,414664,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2011,participants,410540,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2012,participants,419135,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2013,participants,423176,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2014,participants,431719,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2015,participants,426324,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2016,participants,413434,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2017,participants,405569,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2018,participants,388884,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2009,participants,114984,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2010,participants,126063,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2011,participants,122241,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2012,participants,125940,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2013,participants,113955,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2014,participants,136136,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2015,participants,138347,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2016,participants,137544,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2017,participants,139345,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2018,participants,134520,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2009,participants,424891,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2010,participants,433953,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2011,participants,427507,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2012,participants,435067,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2013,participants,427277,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2014,participants,448221,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2015,participants,445122,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2016,participants,433907,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2017,participants,428585,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2018,participants,413044,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2009,participants,103606,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2010,participants,106774,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2011,participants,105274,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2012,participants,110008,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2013,participants,109854,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2014,participants,119634,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2015,participants,119549,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2016,participants,117071,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2017,participants,116329,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2018,participants,110360,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2009,participants,64808,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2010,participants,67211,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2011,participants,67544,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2012,participants,71143,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2013,participants,71628,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2014,participants,76912,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2015,participants,76519,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2016,participants,73723,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2017,participants,71933,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2018,participants,68119,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2009,participants,104008,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2010,participants,105146,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2011,participants,104665,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2012,participants,107416,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2013,participants,106352,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2014,participants,114889,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2015,participants,116248,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2016,participants,114147,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2017,participants,111047,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2018,participants,106353,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2009,participants,124382,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2010,participants,124586,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2011,participants,120666,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2012,participants,122433,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2013,participants,118361,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2014,participants,123851,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2015,participants,121217,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2016,participants,116578,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2017,participants,115397,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2018,participants,110811,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2009,participants,129826,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2010,participants,131608,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2011,participants,128739,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2012,participants,130820,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2013,participants,128133,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2014,participants,133885,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2015,participants,133111,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2016,participants,129358,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2017,participants,128294,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2018,participants,121930,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2009,participants,105474,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2010,participants,112177,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2011,participants,111167,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2012,participants,113263,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2013,participants,112657,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2014,participants,118318,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2015,participants,117576,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2016,participants,117171,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2017,participants,118242,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2018,participants,116190,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2014,participants - recruited,155188,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2015,participants - recruited,157284,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2016,participants - recruited,152928,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2017,participants - recruited,149504,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2018,participants - recruited,139642,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2014,participants - recruited,83211,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2015,participants - recruited,83890,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2016,participants - recruited,80365,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2017,participants - recruited,76101,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2018,participants - recruited,70320,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2014,participants - recruited,71977,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2015,participants - recruited,73394,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2016,participants - recruited,72563,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2017,participants - recruited,73403,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2018,participants - recruited,69322,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2014,participants - recruited,108858,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2015,participants - recruited,110259,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2016,participants - recruited,107160,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2017,participants - recruited,105308,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2018,participants - recruited,99197,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2014,participants - recruited,46330,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2015,participants - recruited,47025,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2016,participants - recruited,45768,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2017,participants - recruited,44196,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2018,participants - recruited,40445,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2014,participants - recruited,30244,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2015,participants - recruited,29981,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2016,participants - recruited,28522,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2017,participants - recruited,27370,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2018,participants - recruited,25291,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2014,participants - recruited,37329,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2015,participants - recruited,38229,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2016,participants - recruited,37333,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2017,participants - recruited,35101,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2018,participants - recruited,32843,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2014,participants - recruited,32887,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2015,participants - recruited,32907,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2016,participants - recruited,31814,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2017,participants - recruited,31648,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2018,participants - recruited,29772,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2014,participants - recruited,30854,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2015,participants - recruited,31661,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2016,participants - recruited,30838,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2017,participants - recruited,30328,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2018,participants - recruited,27884,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2014,participants - recruited,23872,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2015,participants - recruited,24504,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2016,participants - recruited,24421,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2017,participants - recruited,25055,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2018,participants - recruited,23852,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2010,churn,0.4275199291575921,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2011,churn,0.4380657892060127,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2012,churn,0.42621452341581295,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2013,churn,0.4308691464477362,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2014,churn,0.4213050447656152,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2015,churn,0.45734738621655224,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2016,churn,0.4803044604734433,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2017,churn,0.48540958078181035,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2018,churn,0.4899378617543323,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2010,churn,0.3740898109612031,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2011,churn,0.3757090077749702,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2012,churn,0.3646100258196517,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2013,churn,0.3630620205900244,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2014,churn,0.3675917348809957,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2015,churn,0.39296625814476543,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2016,churn,0.4171099914618933,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2017,churn,0.422122999076032,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2018,churn,0.4239599180410736,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2010,churn,0.6196688234884854,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2011,churn,0.6431784107946028,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2012,churn,0.6331100040084752,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2013,churn,0.6565348578688265,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2014,churn,0.6207713571146505,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2015,churn,0.6615149556326027,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2016,churn,0.6750417428639579,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2017,churn,0.6756383411853661,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2018,churn,0.6819692131041659,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2010,churn,0.3969219604830993,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2011,churn,0.40680896044608306,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2012,churn,0.3955347460187707,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2013,churn,0.4009042589908191,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2014,churn,0.38802892961818486,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2015,churn,0.42354248681074363,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2016,churn,0.4460399321355937,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2017,churn,0.45148619835187054,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2018,churn,0.4569873652865099,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2010,churn,0.5519846944691377,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2011,churn,0.562916826909548,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2012,churn,0.5483192877660891,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2013,churn,0.5477195792232374,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2014,churn,0.5488021578472556,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2015,churn,0.5841018737614864,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2016,churn,0.6077410933917905,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2017,churn,0.6111713897598442,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2018,churn,0.6113733481217811,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2010,churn,0.5207439419663528,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2011,churn,0.5302189216138585,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2012,churn,0.5177244054846447,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2013,churn,0.522671990776542,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2014,churn,0.5153986898892412,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2015,churn,0.5447406059030035,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2016,churn,0.570748983885934,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2017,churn,0.5737635983831149,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2018,churn,0.5769198687649447,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2010,churn,0.4891613771879208,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2011,churn,0.4936262105443405,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2012,churn,0.4891112194096457,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2013,churn,0.49223820831587284,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2014,churn,0.4833454052884571,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2015,churn,0.5144404017896,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2016,churn,0.5395970614042632,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2017,churn,0.5461163772712142,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2018,churn,0.5444680582821533,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2010,churn,0.42932737157010975,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2011,churn,0.4403185792393599,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2012,churn,0.42788110867979573,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2013,churn,0.4349335773460351,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2014,churn,0.42257271090600196,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2015,churn,0.4573347974937021,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2016,churn,0.4838714999917503,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2017,churn,0.4913147533389949,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2018,churn,0.5003033034073973,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2010,churn,0.3975853487529952,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2011,churn,0.4103805492008241,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2012,churn,0.397284006246164,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2013,churn,0.39954734177989476,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2014,churn,0.388333671668827,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2015,churn,0.4234805536259814,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2016,churn,0.44805721669621645,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2017,churn,0.45046229011410394,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2018,churn,0.45767890687722645,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2010,churn,0.3437242164161412,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2011,churn,0.36026500695509495,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2012,churn,0.3428520017993703,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2013,churn,0.3464422287182838,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2014,churn,0.3380191636547699,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2015,churn,0.3834425051768585,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2016,churn,0.3956572031231394,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2017,churn,0.40338823931040363,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2018,churn,0.41070356306188194,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2009,participation rate,0.13824318865606594,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2010,participation rate,0.14195309116348936,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2011,participation rate,0.1409820853646877,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2012,participation rate,0.14644220377944103,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2013,participation rate,0.1458183988644973,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2014,participation rate,0.15568120668929666,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2015,participation rate,0.1538394398092814,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2016,participation rate,0.14994674692617005,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2017,participation rate,0.14699996723430864,SC,Southeast,NONE,NA
+full-year,all_sports,age,18-24,2018,participation rate,0.13748334863449832,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2009,participation rate,0.17644311199212193,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2010,participation rate,0.17661195304729124,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2011,participation rate,0.17509963210721466,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2012,participation rate,0.17787488176559607,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2013,participation rate,0.17450572365701925,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2014,participation rate,0.18556117166073993,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2015,participation rate,0.18468377560836796,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2016,participation rate,0.17784031432054953,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2017,participation rate,0.16948727779354444,SC,Southeast,NONE,NA
+full-year,all_sports,age,25-34,2018,participation rate,0.16031449523199326,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2009,participation rate,0.1996323163363309,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2010,participation rate,0.1979848351480126,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2011,participation rate,0.19412022884337116,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2012,participation rate,0.1990834619787469,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2013,participation rate,0.1939804020768058,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2014,participation rate,0.2035565745612244,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2015,participation rate,0.1989686616174016,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2016,participation rate,0.19025967226141427,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2017,participation rate,0.18782357357465507,SC,Southeast,NONE,NA
+full-year,all_sports,age,35-44,2018,participation rate,0.17812760465042318,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2009,participation rate,0.19776455925242334,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2010,participation rate,0.19849905900015935,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2011,participation rate,0.19359689365638574,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2012,participation rate,0.19649476921846068,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2013,participation rate,0.19212442430600588,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2014,participation rate,0.20084386473145777,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2015,participation rate,0.19954777388505646,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2016,participation rate,0.19378593474774852,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2017,participation rate,0.1924824752021383,SC,Southeast,NONE,NA
+full-year,all_sports,age,45-54,2018,participation rate,0.180670894840796,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2009,participation rate,0.1888728780361217,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2010,participation rate,0.1988920282490315,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2011,participation rate,0.19132663850816886,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2012,participation rate,0.18986135863464632,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2013,participation rate,0.18481411962045782,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2014,participation rate,0.18966189365577316,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2015,participation rate,0.1845487479578835,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2016,participation rate,0.1803298607955804,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2017,participation rate,0.17907073886108557,SC,Southeast,NONE,NA
+full-year,all_sports,age,55-64,2018,participation rate,0.1737858383213663,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2009,participation rate,0.1824775964993087,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2010,participation rate,0.1848563846264004,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2011,participation rate,0.18094331567514774,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2012,participation rate,0.183712346389207,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2013,participation rate,0.17980321042360176,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2014,participation rate,0.18852694458241168,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2015,participation rate,0.18573307485552032,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2016,participation rate,0.17985052035419255,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2017,participation rate,0.17659009763776137,SC,Southeast,NONE,NA
+full-year,all_sports,all,all,2018,participation rate,0.1675205888561203,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2009,participation rate,0.07013286449642726,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2010,participation rate,0.07156349741817065,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2011,participation rate,0.07007884425374207,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2012,participation rate,0.07265601732512159,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2013,participation rate,0.07204432295478481,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2014,participation rate,0.07778011654523045,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2015,participation rate,0.076952393736835,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2016,participation rate,0.07473399621035093,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2017,participation rate,0.07370026868860069,SC,Southeast,NONE,NA
+full-year,all_sports,gender,female,2018,participation rate,0.06905347540141352,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2009,participation rate,0.29944090149607283,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2010,participation rate,0.3028068241731368,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2011,participation rate,0.2964184980303446,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2012,participation rate,0.29944543715706734,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2013,participation rate,0.2921520672109414,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2014,participation rate,0.30409354229052943,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2015,participation rate,0.2994059963410265,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2016,participation rate,0.2898451555559027,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2017,participation rate,0.28433020335146564,SC,Southeast,NONE,NA
+full-year,all_sports,gender,male,2018,participation rate,0.2706294901079186,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2009,participation rate,0.13123802522645045,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2010,participation rate,0.13410259585982343,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2011,participation rate,0.13261007386999146,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2012,participation rate,0.13773302699197332,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2013,participation rate,0.13653730654831867,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2014,participation rate,0.14694296338165033,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2015,participation rate,0.14494912494844106,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2016,participation rate,0.14094461323796922,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2017,participation rate,0.1377466919415091,SC,Southeast,NONE,NA
+full-year,fish,age,18-24,2018,participation rate,0.12855850582027978,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2009,participation rate,0.1672942224550333,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2010,participation rate,0.16724100136058098,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2011,participation rate,0.16529445421794522,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2012,participation rate,0.16764942750456832,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2013,participation rate,0.16397486636772757,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2014,participation rate,0.17496750538352632,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2015,participation rate,0.17435560458409227,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2016,participation rate,0.16760117929540957,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2017,participation rate,0.15943681515816943,SC,Southeast,NONE,NA
+full-year,fish,age,25-34,2018,participation rate,0.15030397777751933,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2009,participation rate,0.18685175214708968,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2010,participation rate,0.18503332850636506,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2011,participation rate,0.18127926563395186,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2012,participation rate,0.18630425271579515,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2013,participation rate,0.18099549382447158,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2014,participation rate,0.19102935870260676,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2015,participation rate,0.18712085314536875,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2016,participation rate,0.17948006431406022,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2017,participation rate,0.1774067441000778,SC,Southeast,NONE,NA
+full-year,fish,age,35-44,2018,participation rate,0.16831066155271507,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2009,participation rate,0.18413707518088004,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2010,participation rate,0.18490511320075173,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2011,participation rate,0.1804537369551778,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2012,participation rate,0.18341063885107028,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2013,participation rate,0.17897306341078,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2014,participation rate,0.1881648316455237,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2015,participation rate,0.18695826433973936,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2016,participation rate,0.18166064403632537,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2017,participation rate,0.1808204623274425,SC,Southeast,NONE,NA
+full-year,fish,age,45-54,2018,participation rate,0.16945101445258548,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2009,participation rate,0.1738452769924604,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2010,participation rate,0.18325222168275937,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2011,participation rate,0.1774771556573657,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2012,participation rate,0.1767511135777295,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2013,participation rate,0.17249886538866774,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2014,participation rate,0.17875198266825484,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2015,participation rate,0.17391933276115298,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2016,participation rate,0.17016917478135826,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2017,participation rate,0.16932681425026855,SC,Southeast,NONE,NA
+full-year,fish,age,55-64,2018,participation rate,0.16443918453300052,SC,Southeast,NONE,NA
+full-year,fish,all,all,2009,participation rate,0.17074579144865842,SC,Southeast,NONE,NA
+full-year,fish,all,all,2010,participation rate,0.1727960223052103,SC,Southeast,NONE,NA
+full-year,fish,all,all,2011,participation rate,0.16917818452066125,SC,Southeast,NONE,NA
+full-year,fish,all,all,2012,participation rate,0.17198434837552956,SC,Southeast,NONE,NA
+full-year,fish,all,all,2013,participation rate,0.16802780082506613,SC,Southeast,NONE,NA
+full-year,fish,all,all,2014,participation rate,0.17732000699918377,SC,Southeast,NONE,NA
+full-year,fish,all,all,2015,participation rate,0.17477600394239196,SC,Southeast,NONE,NA
+full-year,fish,all,all,2016,participation rate,0.16930746426679874,SC,Southeast,NONE,NA
+full-year,fish,all,all,2017,participation rate,0.1663102837824238,SC,Southeast,NONE,NA
+full-year,fish,all,all,2018,participation rate,0.15760097492420969,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2009,participation rate,0.0683904751250221,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2010,participation rate,0.06957826618816502,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2011,participation rate,0.06815835614013334,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2012,participation rate,0.07063500600762766,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2013,participation rate,0.06995029339560056,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2014,participation rate,0.0757633493927211,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2015,participation rate,0.07499622242158986,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2016,participation rate,0.07283166934283596,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2017,participation rate,0.07179898434562094,SC,Southeast,NONE,NA
+full-year,fish,gender,female,2018,participation rate,0.0672001191660113,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2009,participation rate,0.2773090086798384,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2010,participation rate,0.2802571348519912,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2011,participation rate,0.27439929777877053,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2012,participation rate,0.27760167553172266,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2013,participation rate,0.27028290103144953,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2014,participation rate,0.2832964724402237,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2015,participation rate,0.27904322450042574,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2016,participation rate,0.270260382515266,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2017,participation rate,0.2652768920123985,SC,Southeast,NONE,NA
+full-year,fish,gender,male,2018,participation rate,0.2522633711539692,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2009,participation rate,0.04565515008649826,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2010,participation rate,0.04895312890728238,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2011,participation rate,0.05036356653092131,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2012,participation rate,0.04944531685458799,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2013,participation rate,0.05231327686967369,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2014,participation rate,0.05111578833634294,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2015,participation rate,0.050969530156495794,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2016,participation rate,0.04993885866389394,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2017,participation rate,0.05075813863130633,SC,Southeast,NONE,NA
+full-year,hunt,age,18-24,2018,participation rate,0.049201677549755574,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2009,participation rate,0.06003184758927409,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2010,participation rate,0.06136386054321316,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2011,participation rate,0.061499427467571,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2012,participation rate,0.05830910047600142,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2013,participation rate,0.06032681506670274,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2014,participation rate,0.0588264237153032,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2015,participation rate,0.05857078621011718,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2016,participation rate,0.05594132413461284,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2017,participation rate,0.05459301412372501,SC,Southeast,NONE,NA
+full-year,hunt,age,25-34,2018,participation rate,0.05340349531352249,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2009,participation rate,0.07768169116655477,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2010,participation rate,0.07921872467314489,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2011,participation rate,0.07966159060436288,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2012,participation rate,0.07702648464003366,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2013,participation rate,0.07910583762762449,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2014,participation rate,0.07663921221298087,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2015,participation rate,0.07345542767136902,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2016,participation rate,0.0678992897867855,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2017,participation rate,0.06530212739836162,SC,Southeast,NONE,NA
+full-year,hunt,age,35-44,2018,participation rate,0.06238187502746995,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2009,participation rate,0.07436621337901542,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2010,participation rate,0.0768956106392098,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2011,participation rate,0.07835065794580516,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2012,participation rate,0.07661223206510323,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2013,participation rate,0.07900712670063186,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2014,participation rate,0.07853739921687075,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2015,participation rate,0.07810652849846528,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2016,participation rate,0.07553963233549699,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2017,participation rate,0.07508217834829227,SC,Southeast,NONE,NA
+full-year,hunt,age,45-54,2018,participation rate,0.07167861778913036,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2009,participation rate,0.07440023452836514,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2010,participation rate,0.08069899057520408,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2011,participation rate,0.08344455406217725,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2012,participation rate,0.07987677882715036,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2013,participation rate,0.08036658979101706,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2014,participation rate,0.0780268626547813,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2015,participation rate,0.07617642916829967,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2016,participation rate,0.07401664230263331,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2017,participation rate,0.07244942639988729,SC,Southeast,NONE,NA
+full-year,hunt,age,55-64,2018,participation rate,0.0706256433401893,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2009,participation rate,0.06752123727971078,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2010,participation rate,0.07044464537508102,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2011,participation rate,0.07165787433779006,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2012,participation rate,0.06918126850836127,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2013,participation rate,0.07110436659306221,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2014,participation rate,0.06949888253895652,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2015,participation rate,0.06828565531487439,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2016,participation rate,0.0654737525330672,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2017,participation rate,0.06436380030965147,SC,Southeast,NONE,NA
+full-year,hunt,all,all,2018,participation rate,0.062157536968368024,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2009,participation rate,0.009838339986015037,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2010,participation rate,0.011504555726889498,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2011,participation rate,0.01304068011979033,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2012,participation rate,0.012957588574481496,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2013,participation rate,0.013843679913817911,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2014,participation rate,0.01368371961923421,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2015,participation rate,0.01396354864811217,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2016,participation rate,0.013443322652012714,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2017,participation rate,0.013905794749770878,SC,Southeast,NONE,NA
+full-year,hunt,gender,female,2018,participation rate,0.01336143452085705,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2009,participation rate,0.12757552010168158,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2010,participation rate,0.1318078046363558,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2011,participation rate,0.1327128823551429,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2012,participation rate,0.12777261857302968,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2013,participation rate,0.13080406133177006,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2014,participation rate,0.12774315547642615,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2015,participation rate,0.12505081345284344,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2016,participation rate,0.11991874299263841,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2017,participation rate,0.11720042088378414,SC,Southeast,NONE,NA
+full-year,hunt,gender,male,2018,participation rate,0.11325391150612027,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2009,participation rate,0.1824775964993087,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2010,participation rate,0.1848563846264004,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2011,participation rate,0.18094331567514774,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2012,participation rate,0.183712346389207,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2013,participation rate,0.17980321042360176,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2014,participation rate,0.18852694458241168,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2015,participation rate,0.18573307485552032,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2016,participation rate,0.17985052035419255,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2017,participation rate,0.17659009763776137,SC,Southeast,NONE,NA
+full-year,all_sports,residency,resident,2018,participation rate,0.1675205888561203,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2009,participation rate,0.17074579144865842,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2010,participation rate,0.1727960223052103,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2011,participation rate,0.16917818452066125,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2012,participation rate,0.17198434837552956,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2013,participation rate,0.16802780082506613,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2014,participation rate,0.17732000699918377,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2015,participation rate,0.17477600394239196,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2016,participation rate,0.16930746426679874,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2017,participation rate,0.1663102837824238,SC,Southeast,NONE,NA
+full-year,fish,residency,resident,2018,participation rate,0.15760097492420969,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2009,participation rate,0.06752123727971078,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2010,participation rate,0.07044464537508102,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2011,participation rate,0.07165787433779006,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2012,participation rate,0.06918126850836127,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2013,participation rate,0.07110436659306221,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2014,participation rate,0.06949888253895652,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2015,participation rate,0.06828565531487439,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2016,participation rate,0.0654737525330672,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2017,participation rate,0.06436380030965147,SC,Southeast,NONE,NA
+full-year,hunt,residency,resident,2018,participation rate,0.062157536968368024,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2009,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2010,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2011,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2012,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2013,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2014,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2015,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2016,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2017,participation rate,0,SC,Southeast,NONE,NA
+full-year,all_sports,residency,nonresident,2018,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2009,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2010,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2011,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2012,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2013,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2014,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2015,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2016,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2017,participation rate,0,SC,Southeast,NONE,NA
+full-year,fish,residency,nonresident,2018,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2009,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2010,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2011,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2012,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2013,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2014,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2015,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2016,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2017,participation rate,0,SC,Southeast,NONE,NA
+full-year,hunt,residency,nonresident,2018,participation rate,0,SC,Southeast,NONE,NA

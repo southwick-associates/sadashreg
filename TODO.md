@@ -1,17 +1,10 @@
 
 # TODO - Coding
 
-- reorganize to be more hierarchical (code/2018-q4, etc.)
-    + pull population data separate from timeperiod (code/pop)
-    + look over all existing code & tidy things up
-    
-- functions that are specific to metrics include in nat/reg: 
-    + probably will want 2 functions: get_region(), get_pct_change()
-    + maybe place in R/tableau_format.R
-    
+- use updated 2018-q4 as template for 2019-q2
 - get mid-year results together for Ben (that include real data)
 
-# TODO - Other (wed afternoon)
+# TODO - Other (thu afternoon)
 
 - touch base with MA, FL, GA, IA about data requests/questions
     + FL: data artifact in 2015, suggest an approach and see what they think
