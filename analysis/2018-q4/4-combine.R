@@ -41,11 +41,11 @@ dashboard_reg <- bind_rows(
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "rate"))
 )
 # new
-reg <- agg_reg(dashboard)
+reg <- agg_region(dashboard)
 
 # compare
 format_result <- function(x) {
-    filter(x, region == "US", group == "all_sports", metric == "recruits") %>%
+    filter(x, region == "US", group == "all_sports", metric == "participants") %>%
         select(metric, region, group, segment, year, category, value) %>%
         arrange(metric, region, group, segment, year, category, value)
 }
@@ -58,7 +58,7 @@ compare_row <- function(row) {
     print(dashboard_reg[row,])
     print(reg[row,])
 }
-compare_row(1509)
+compare_row(99)
 
 count(dashboard_reg, region)
 dashboard <- bind_rows(

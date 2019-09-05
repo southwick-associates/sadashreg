@@ -70,12 +70,12 @@ aggregate_region <- function(df, reg, func, measure) {
 # TODO: can this be made more modular and intelligible?
 # - maybe pull tests into separate funcs: few_states() [1 or none], incomplete_states()
 agg_region <- function(
-    df, reg = "US", grp = "all_sports", measure = "recruits", func = "sum"
+    df, reg = "US", grp = "all_sports", measure = "participants", func = "sum"
 ) {
     if (reg == "US") df$region <- "US"
     df <- filter(df, group == grp, metric == measure, region == reg)
-    if (nrow(df) == 0) return(invisible()) # check_no_states()
-    # drop_incomplete_states()
+    if (nrow(df) == 0) return(invisible())
+    df <- drop_incomplete_states(df, grp, reg, measure)
     # check_few_states()
         
     df %>%
@@ -86,4 +86,19 @@ agg_region <- function(
             aggregation = func, 
             states_included = paste(unique(df$state), collapse = ", ")
         )
+}
+
+drop_incomplete_states <- function(df, grp, reg, measure) {
+    drop_states <- df %>%
+        distinct(state, year) %>%
+        count(state) %>%
+        filter(n < max(n)) %>%
+        pull(state)
+    df <- filter(df, !state %in% drop_states)
+    if (length(drop_states) > 0) {
+        message(measure, ": States with incomplete data (", 
+                paste(drop_states, collapse = ", "), 
+                ") were excluded for ", grp, " ", reg)
+    }
+    df
 }
