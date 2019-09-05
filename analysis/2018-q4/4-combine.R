@@ -1,11 +1,11 @@
-# stack together all states
+# stack states & compute regional aggregations & % changes
+# outputs a single table to csv
 
 library(tidyverse)
 
 source("analysis/reg-aggregate.R")
 indir <- file.path(dir, "out-rate")
 outfile <- file.path(dir, "dashboard.csv")
-# regs <- c("Southeast", "Midwest", "US")
 
 # Pull Data  -------------------------------------------------------
 
@@ -32,50 +32,25 @@ count(dashboard, region, state)
 
 regs <- c(unique(dashboard$region), "US")
 
-# temp, check differences
-# old
 dashboard_reg <- bind_rows(
-    sapply(regs, function(reg) aggregate_region(dashboard, reg, "SUM", "participants")), 
-    sapply(regs, function(reg) aggregate_region(dashboard, reg, "SUM", "recruits")),
-    sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "churn")),
-    sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "rate"))
-)
-# new
-reg <- bind_rows(
     agg_region_all(dashboard, regs, "participants", "sum"),
     agg_region_all(dashboard, regs, "recruits", "sum"),
     agg_region_all(dashboard, regs, "churn", "mean"),
     agg_region_all(dashboard, regs, "rate", "mean")
 )
 
-# compare
-format_result <- function(x) {
-    filter(x, region == "US", group == "all_sports", metric == "participants") %>%
-        select(metric, region, group, segment, year, category, value) %>%
-        arrange(metric, region, group, segment, year, category, value)
-}
-dashboard_reg <- format_result(dashboard_reg)
-reg <- format_result(reg)
-all.equal(dashboard_reg, reg)
-
-# inclusion of NE causes differences...not entirely certain why
-compare_row <- function(row) {
-    print(dashboard_reg[row,])
-    print(reg[row,])
-}
-compare_row(99)
-
+# check
 count(dashboard_reg, region)
+group_by(dashboard_reg, metric) %>% summarise(min(value), mean(value), max(value))
+group_by(dashboard, metric) %>% summarise(min(value), mean(value), max(value))
+
+# stack with state results
 dashboard <- bind_rows(
     mutate(dashboard, aggregation = "NONE"), 
     dashboard_reg
 )
 
 # Add % Change Metric -----------------------------------------------------
-
-# TODO: we are running into problems here with dashboard_reg
-# - clearly something changed with the new function
-# - probably just run both functions and compare results
 
 pct_change <- dashboard %>%
     arrange(group, region, state, metric, segment, category, year) %>%
@@ -93,24 +68,28 @@ pct_change <- dashboard %>%
 summary(pct_change$pct_change_yr)
 summary(pct_change$pct_change_all)
 
-
-# Formatting --------------------------------------------------------------
-
-# stack with existing results
+# stack with point values
 dashboard <- bind_rows(
     mutate(dashboard, value_type = "total"),
     gather(pct_change, value_type, value, pct_change_yr, pct_change_all)
 )
 
-# order the columns
-dashboard <- dashboard %>% select(
-    region, state, quarter, group, metric, segment, year, category, 
-    value, aggregation, value_type
-)
+# Final Formatting -----------------------------------------------------------
+
+dashboard <- dashboard %>% 
+    mutate(metric = case_when(
+        metric == "recruits" ~ "participants - recruited",
+        metric == "rate" ~ "participation rate",
+        TRUE ~ metric
+    )) %>%
+    select(
+        region, state, timeframe, group, metric, segment, year, category, 
+        value, aggregation, value_type, states_included
+    )
 
 # check that rows are uniquely identified by dimensions
 nrow(dashboard) == nrow(
-    distinct(dashboard,region, state, quarter, group, metric, segment, year,  
+    distinct(dashboard,region, state, timeframe, group, metric, segment, year,  
              category, aggregation, value_type)
 )
 
@@ -125,14 +104,6 @@ dashboard <- bind_rows(
 
 # Run some Summaries ------------------------------------------------------
 
-# do some final standardization for tableau
-x <- mutate(x, metric = case_when(
-    metric == "recruits" ~ "participants - recruited", 
-    metric == "rate" ~ "participation rate", 
-    TRUE ~ metric
-))
-x$timeframe <- timeframe
-
 glimpse(dashboard)
 count(dashboard, region)
 count(dashboard, state)
@@ -140,7 +111,9 @@ count(dashboard, metric)
 count(dashboard, segment)
 count(dashboard, category)
 count(dashboard, year)
-group_by(dashboard, metric, value_type) %>% summarise(min(value), mean(value), max(value))
+filter(dashboard, state == region) %>% count(region, states_included)
+group_by(dashboard, metric, value_type) %>% 
+    summarise(min(value), mean(value), max(value))
 
 # Write to Individual Files for Visuals -----------------------------------
 

@@ -14,55 +14,6 @@ region_relate <- tibble::tribble(
     "WI", "Midwest"
 )
 
-
-aggregate_region <- function(df, reg, func, measure) {
-    grps <- c("timeframe", "region", "group", "metric", "segment", "year", "category")
-    func <- if (func == "SUM") "sum" else "mean"
-    
-    df <- filter(df, metric == measure)
-    if (reg == "US") {
-        df$region <- "US"
-    } else {
-        df <- filter(df, region == reg)
-        if (nrow(df) == 0) return(invisible())
-    }
-    # function for 1 group ("hunt", "fish", "all_sports") & metric
-    aggregate_group <- function(df, grp) {
-        y <- filter(df, group == grp)
-        if (nrow(y) == 0) {
-            message(measure, ": No states included for ", grp, " ", reg)
-            return(invisible())
-        }
-        # exclude incomplete states (i.e., missing 1 or more years)
-        drop_states <- distinct(y, state, year) %>%
-            count(state) %>%
-            filter(n < max(n)) %>%
-            pull(state)
-        y <- filter(y, !state %in% drop_states)
-        if (length(drop_states) > 0) {
-            message(measure, ": States with incomplete data (", 
-                    paste(drop_states, collapse = ", "), 
-                    ") were excluded for ", grp, " ", reg)
-        }
-        # no aggregation if only 1 state
-        states <- unique(y$state)
-        if (length(states) < 2) {
-            message(measure, ": Only ", length(states), " state(s) included for ", 
-                    grp, " in ", reg, ", so no aggregation was performed.")
-            return(invisible())
-        }
-        # run aggregation
-        group_by_at(y, grps) %>%
-            summarise_at("value", func) %>%
-            ungroup() %>%
-            mutate(aggregation = func, states_included = paste(states, collapse = ", "))
-    }
-    x <- lapply(unique(df$group), function(grp) aggregate_group(df, grp)) %>% bind_rows()
-    if (nrow(x) > 1) {
-        mutate(x, state = region)
-    }
-}
-
 # build regional aggregations for selected metric
 # this function is a wrapper for agg_region()
 # - df: input summary data in tableau input format
@@ -79,7 +30,7 @@ agg_region_all <- function(
     }
     sapply2 <- function(...) sapply(..., simplify = FALSE) # for convenience
     agg_region_grp <- function(grps, reg) {
-        sapply2( grps, function(grp) agg_region(df, reg, grp, measure, func)) %>% 
+        sapply2(grps, function(grp) agg_region(df, reg, grp, measure, func)) %>% 
             bind_rows() 
     }
     sapply2(regs, function(reg) agg_region_grp(grps, reg)) %>% bind_rows()
