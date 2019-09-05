@@ -5,6 +5,7 @@ library(tidyverse)
 source("analysis/reg-aggregate.R")
 indir <- file.path(dir, "out-rate")
 outfile <- file.path(dir, "dashboard.csv")
+# regs <- c("Southeast", "Midwest", "US")
 
 # Pull Data  -------------------------------------------------------
 
@@ -30,12 +31,40 @@ count(dashboard, region, state)
 # Get Regional Aggregations -------------------------------------------------
 
 regs <- c(unique(dashboard$region), "US")
+
+# temp, check differences
+dashboard <- filter(dashboard, state != "NE")
+
+# new
 dashboard_reg <- bind_rows(
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "SUM", "participants")), 
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "SUM", "recruits")),
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "churn")),
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "rate"))
 )
+# old
+reg <- bind_rows(
+    agg_region(dashboard, "SUM", c("participants", "recruits")),
+    agg_region(dashboard, "SUM", c("participants", "recruits"), TRUE),
+    agg_region(dashboard, "AVG", c("churn", "rate")),
+    agg_region(dashboard, "AVG", c("churn", "rate"), TRUE)
+)
+format_result <- function(x) {
+    filter(x, region != "Northwest") %>%
+        select(metric, region, group, segment, year, category, value) %>%
+        arrange(metric, region, group, segment, year, category, value)
+}
+reg <- format_result(reg)
+dashboard_reg <- format_result(dashboard_reg)
+all.equal(dashboard_reg, reg)
+
+# inclusion of NE causes differences...not entirely certain why
+compare_row <- function(row) {
+    print(dashboard_reg[row,])
+    print(reg[row,])
+}
+compare_row(1509)
+
 count(dashboard_reg, region)
 dashboard <- bind_rows(
     mutate(dashboard, aggregation = "NONE"), 

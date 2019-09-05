@@ -19,7 +19,7 @@ region_relate <- tibble::tribble(
 # - func: function to use for aggregation (SUM or AVG)
 # - metrics: metrics to be aggregated
 # - nat: if TRUE, aggregate all states
-aggregate_region <- function(
+agg_region <- function(
     dashboard, func = "SUM", metrics = c("participants", "participants - recruited"), 
     nat = FALSE
 ) {
@@ -39,7 +39,7 @@ aggregate_region <- function(
 }
 
 aggregate_region <- function(df, reg, func, measure) {
-    grps <- c("region", "state", "timeframe", "group", "metric", "segment", "year", "category")
+    grps <- c("timeframe", "region", "group", "metric", "segment", "year", "category")
     func <- if (func == "SUM") "sum" else "mean"
     
     df <- filter(df, metric == measure)
@@ -84,3 +84,18 @@ aggregate_region <- function(df, reg, func, measure) {
         mutate(x, state = region)
     }
 }
+
+# aggregate_region(dashboard, "US", "SUM", "recruits")
+# 
+# filter(dashboard, metric == "recruits", group == "all_sports") %>%
+#     group_by_at(grps) %>%
+#     summarise(value = sum(value)) %>%
+#     ungroup()
+
+
+# TODO: can this be made more modular and intelligible?
+# - maybe pull tests into separate funcs: few_states() [1 or none], incomplete_states()
+agg_reg <- function(df, reg = "US", grp = "all_sports", measure, func = "sum") {
+    
+}
+    
