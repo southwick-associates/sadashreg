@@ -41,7 +41,12 @@ dashboard_reg <- bind_rows(
     sapply(regs, function(reg) aggregate_region(dashboard, reg, "AVG", "rate"))
 )
 # new
-reg <- agg_region(dashboard)
+reg <- bind_rows(
+    agg_region_all(dashboard, regs, "participants", "sum"),
+    agg_region_all(dashboard, regs, "recruits", "sum"),
+    agg_region_all(dashboard, regs, "churn", "mean"),
+    agg_region_all(dashboard, regs, "rate", "mean")
+)
 
 # compare
 format_result <- function(x) {
