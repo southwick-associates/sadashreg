@@ -1,5 +1,5 @@
-# stack states & compute regional aggregations & % changes
-# outputs a single table to csv
+# stack states & compute regional aggregations
+# outputs as a single table (for tableau) & individual by state (for checking)
 
 library(tidyverse)
 
@@ -72,7 +72,7 @@ nrow(dashboard) == nrow(
              category, aggregation)
 )
 
-## add res/nonres rows for participation rate
+# add res/nonres rows for participation rate
 dashboard <- bind_rows(
     dashboard,
     filter(dashboard, segment == "all", metric == "participation rate") %>%
@@ -81,8 +81,7 @@ dashboard <- bind_rows(
         mutate(segment = "residency", category = "nonresident", value = 0)
 )
 
-# Run some Summaries ------------------------------------------------------
-
+# run some summaries
 glimpse(dashboard)
 count(dashboard, region)
 count(dashboard, state)
@@ -92,7 +91,7 @@ count(dashboard, category)
 count(dashboard, year)
 filter(dashboard, state == region) %>% count(region, states_included)
 
-# Write to Individual Files for Visuals -----------------------------------
+# Write to CSV -------------------------------------------------------
 
 # individual  files(for checking)
 dir.create(outdir, showWarnings = FALSE)
@@ -104,16 +103,7 @@ for (i in names(x)) {
 # source("../dashboard-template/visualize/app-functions.R")
 # run_visual(outdir, pct_range = 0.2)
 
-# Write to CSV for Tableau ------------------------------------------------
-
-# TODO - drop this once an updated 9/5 file is sent to Ben
-# temporary - add mid-year dummy data
-mid <- filter(dashboard, metric != "churn") %>%
-    mutate( value = value / 2, timeframe = "mid-year" )
-dashboard <- bind_rows(dashboard, mid)
-count(dashboard, timeframe)
-
-# stacked
+# for tableau input
 dashboard %>%
     select(region, state, timeframe, group, metric, segment, year, category,
            value, aggregation, states_included) %>%

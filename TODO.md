@@ -4,7 +4,7 @@
 - use updated 2018-q4 as template for 2019-q2
 - get mid-year results together for Ben (that include real data)
 
-# TODO - Other (thu afternoon)
+# TODO - Other (fri am)
 
 - touch base with MA, FL, GA, IA about data requests/questions
     + FL: data artifact in 2015, suggest an approach and see what they think
