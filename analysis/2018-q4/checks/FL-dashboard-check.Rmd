@@ -1,5 +1,5 @@
 ---
-title: "Checking the dashboard data supplied by NE"
+title: "Checking the dashboard data supplied by Florida"
 date: '`r strftime(Sys.time(), format = "%B %d, %Y")`'
 output: 
     html_document:
@@ -16,9 +16,18 @@ knitr::opts_chunk$set(comment = NA)
 
 ## Overview
 
-- there is something wrong with churn in 2018 across the board
-- there's a big data artifact in 2015 hunting, which appears to be restricted to people in their 40s or above (seemingly more pronounced for older hunters)
-    + shows up a little bit in fish/all_sports as well
+- there's a big data artifact in 2015 hunting, which appears to be restricted to residents in their 40s or above (more pronounced for older hunters)
+    + especially older hunters (55-64)
+    + especially women
+    + especially mid-year results
+    
+I guess I can take a look at the FL data that I have on hand...bla
+
+```{r, eval = FALSE}
+source("../../../../dashboard-template/visualize/app-functions.R")
+run_visual("FL", pct_range = 1.2)
+```
+
 
 ### TODO: mid-year
 
