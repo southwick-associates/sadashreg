@@ -5,7 +5,7 @@ library(plyr)
 library(tidyverse)
 library(salic)
 
-source("analysis/part-rate.R")
+source("analysis/R/part-rate.R")
 
 # Pull Pop Data -----------------------------------------------------------
 
@@ -20,6 +20,9 @@ pop <- bind_rows(
     get_pop("analysis/pop/data/nst-est2018-01.xlsx", 
             c("state", "drop1", "drop2", 2010:2018))
 )
+
+# 2019-specific: extrapolate forward for missing year
+pop <- extrapolate_yr(pop, 2019)
 
 # check state-level totals in pop_seg
 discrepancy <- group_by(pop_seg, state, year) %>%
@@ -40,10 +43,11 @@ pop_seg <- left_join(pop_seg, adjust, by = c("state", "year")) %>%
     select(-ratio)
 
 # extrapolate segments for years missing from B01001 table
-pop_seg <- bind_rows(pop_seg, extrapolate_yr(pop_seg, pop, 2018, "forward"))
-pop_seg <- bind_rows(pop_seg, extrapolate_yr(pop_seg, pop, 2019, "forward"))
-pop_seg <- bind_rows(extrapolate_yr(pop_seg, pop, 2009, "back"), pop_seg)
-pop_seg <- bind_rows(extrapolate_yr(pop_seg, pop, 2008, "back"), pop_seg)
+pop_seg <- bind_rows(pop_seg, extrapolate_yr_seg(pop_seg, pop, 2018, "forward"))
+pop_seg <- bind_rows(pop_seg, extrapolate_yr_seg(pop_seg, pop, 2019, "forward"))
+pop_seg <- bind_rows(extrapolate_yr_seg(pop_seg, pop, 2009, "back"), pop_seg)
+pop_seg <- bind_rows(extrapolate_yr_seg(pop_seg, pop, 2008, "back"), pop_seg)
+count(pop_seg, year)
 
 # convert sex/age to dashboard categories
 pop_seg <- pop_seg %>% mutate(

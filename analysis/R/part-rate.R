@@ -12,13 +12,32 @@ get_pop <- function(filename, col_names) {
         mutate(state = str_replace(state, ".", ""), year = as.numeric(year))
 }
 
+# extrapolate (forward) overall population for 1 missing year
+# naively assumes % change is the same as the previous year
+extrapolate_yr <- function(pop, yr) {
+    pct_change <- filter(pop, year %in% c(yr-1, yr-2)) %>%
+        arrange(year) %>%
+        group_by(state) %>%
+        mutate(pct_change = (pop_state - lag(pop_state)) / pop_state) %>%
+        filter(year == yr-1) %>%
+        select(-pop_state, -year)
+    newyr <- filter(pop, year == yr-1) %>%
+        left_join(pct_change, by = "state") %>%
+        mutate(
+            pop_state = pop_state + (pop_state * pct_change),
+            year = yr
+        ) %>%
+        select(-pct_change)
+    bind_rows(pop, newyr)
+}
+
 # extrapolate segments for missing years
 # using most recent year distributions & reference population totals
 # - pop_seg: census sex-by-age table (by state)
 # - pop: census by state population
 # - yr: year to be extrapolated to
 # - direction: either "forward" (future) or "backward"
-extrapolate_yr <- function(pop_seg, pop, yr, direction) {
+extrapolate_yr_seg <- function(pop_seg, pop, yr, direction) {
     if (direction == "forward") {
         yr_compare = yr - 1
         compare <- function(x) lag(x)

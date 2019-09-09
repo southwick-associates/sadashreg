@@ -10,6 +10,8 @@ outdir <- file.path(dir, "out-rate")
 # Load Data ----------------------------------------------------------------
 
 # load pop data
+# note that population data should be updated once per year
+# (i.e., as new estimates become available from American Community Survey)
 pop_seg <- read_csv("analysis/pop/pop_seg.csv") %>%
     filter(!agecat %in% c("0-17", "65+")) %>%
     mutate(sex = tolower(sex))

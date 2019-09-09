@@ -5,9 +5,9 @@ library(tidyverse)
 
 # for development convenience
 if (!exists("timeframe")) {
-    dir <- "analysis/2018-q4"
-    timeframe <- "full-year"
-    yrs <- 2008:2018
+    dir <- "analysis/2019-q2"
+    timeframe <- "mid-year"
+    yrs <- 2008:2019
 }
 
 source("analysis/R/reg-aggregate.R")
