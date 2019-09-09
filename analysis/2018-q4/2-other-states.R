@@ -89,7 +89,8 @@ x1 <- filter(x, segment != "All", metric != "churn") %>%
     left_join(tot) %>%
     mutate(value = value * value_tot / value_sum)
 x <- filter(x, segment == "All" | metric == "churn") %>%
-    bind_rows(x1)
+    bind_rows(x1) %>%
+    select(-value_sum, -value_tot)
 
 count(x, group)
 count(x, segment)

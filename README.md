@@ -10,7 +10,7 @@ Southwick work for preparing all summary data for the national/regional dashboar
 
 ## Usage
 
-Results for each time-period can be competely reproduced using the code below. In practice the first step (SA-processed states) takes by far the longest to run, and can only be run from the Data Server. 
+New results need to be produced for each time-period (2018-q4, 2019-q2, etc.).
 
 ``` r
 # must correctly point to dashboard-template code 
@@ -21,8 +21,7 @@ Results for each time-period can be competely reproduced using the code below. I
 template_directory <- "E:/SA/Projects/R-Software/Templates/dashboard-template" # server
 # template_directory <- "" # Dan's laptop
 
-source("2018-q4/code/run.R")
-source("2019-q2/code/run.R")
+source("analysis/run.R")
 ```
 
 ## File Organization

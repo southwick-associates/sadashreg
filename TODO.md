@@ -10,7 +10,7 @@
     + FL: data artifact in 2015, suggest an approach and see what they think
     + MA: see about getting updated data (full-year, mid-year)
     + GA: put a bit more pressure on about getting data
-    + IA: put a bit more pressure on about getting data
+    + (done) IA: put a bit more pressure on about getting data
     
 - begin writing up methodology doc, this can serve as a reference for communication
     + can use metric defs, etc. from existing state-supplied data documentation

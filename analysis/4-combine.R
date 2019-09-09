@@ -10,7 +10,7 @@ if (!exists("timeframe")) {
     yrs <- 2008:2018
 }
 
-source("analysis/reg-aggregate.R")
+source("analysis/R/reg-aggregate.R")
 indir <- file.path(dir, "out-rate")
 outfile <- file.path(dir, "dashboard.csv")
 outdir <- file.path(dir, "out-dashboard") # for checking individual states
@@ -93,17 +93,15 @@ filter(dashboard, state == region) %>% count(region, states_included)
 
 # Write to CSV -------------------------------------------------------
 
-# individual  files(for checking)
+# individual files (for checking)
 dir.create(outdir, showWarnings = FALSE)
 x <- split(dashboard, dashboard$state)
 
 for (i in names(x)) {
     write_csv(x[[i]], file.path(outdir, paste0(i, ".csv")))
 }
-# source("../dashboard-template/visualize/app-functions.R")
-# run_visual(outdir, pct_range = 0.2)
 
-# for tableau input
+# one file (for tableau input)
 dashboard %>%
     select(region, state, timeframe, group, metric, segment, year, category,
            value, aggregation, states_included) %>%

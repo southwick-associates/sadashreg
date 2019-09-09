@@ -1,5 +1,5 @@
 # temporary modification code to smooth out results
-# should be dropped by Sep 16, 2019
+# should not be dropped by Sep 16, 2019
 
 library(tidyverse)
 indir <- "2018-q4/out"

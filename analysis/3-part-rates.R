@@ -1,9 +1,9 @@
-# estimate participation rates & outputs to out-rate
+# estimate participation rates & output to out-rate folder
 
 library(tidyverse)
 library(salic)
 
-source("analysis/part-rate.R")
+source("analysis/R/part-rate.R")
 indir <- file.path(dir, "out")
 outdir <- file.path(dir, "out-rate")
 
@@ -17,18 +17,13 @@ pop_seg <- read_csv("analysis/pop/pop_seg.csv") %>%
 # load summary data
 get_state <- function(f) {
     st <- str_sub(f, end = 2)
-    x <- read_csv(file.path(indir, f)) %>%
+    read_csv(file.path(indir, f)) %>%
         # apply some standardization
         mutate_at(vars(group, segment, category, metric), "tolower") %>%
         mutate(
             state = st,
             category = ifelse(category == "non-resident", "nonresident", category)
         )
-    # TEMPORARY
-    # some cleanup from previous script
-    x$value_sum <- NULL
-    x$value_tot <- NULL
-    x
 }
 infiles <- list.files(indir)
 x <- sapply(infiles, get_state, simplify = FALSE)
