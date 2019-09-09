@@ -7,7 +7,7 @@ library(tidyverse)
 if (!exists("timeframe")) {
     dir <- "analysis/2019-q2"
     timeframe <- "mid-year"
-    yrs <- 2008:2019
+    yrs <- 2009:2019
 }
 
 source("analysis/R/reg-aggregate.R")
@@ -23,7 +23,9 @@ get_state <- function(f) {
     read_csv(file.path(indir, f))
 }
 infiles <- list.files(indir)
-x <- sapply(infiles, get_state, simplify = FALSE) %>% bind_rows()
+x <- sapply(infiles, get_state, simplify = FALSE) %>% 
+    bind_rows() %>%
+    filter(year %in% yrs)
 
 # check dimensions
 count(x, group)
@@ -36,6 +38,11 @@ count(x, year)
 dashboard <- left_join(x, region_relate, by = "state")
 count(dashboard, region, state)
 
+# check coverage
+count(dashboard, group, region, state, year) %>% 
+    spread(year, n, fill = 0) %>%
+    data.frame()
+
 # Get Regional Aggregations -------------------------------------------------
 
 regs <- c(unique(dashboard$region), "US")
@@ -43,7 +50,7 @@ regs <- c(unique(dashboard$region), "US")
 dashboard_reg <- bind_rows(
     agg_region_all(dashboard, regs, "participants", "sum"),
     agg_region_all(dashboard, regs, "recruits", "sum"),
-    agg_region_all(dashboard, regs, "churn", "mean"),
+    if (timeframe == "full-year") agg_region_all(dashboard, regs, "churn", "mean"),
     agg_region_all(dashboard, regs, "rate", "mean")
 )
 
@@ -66,7 +73,7 @@ dashboard <- dashboard %>% mutate(metric = case_when(
     TRUE ~ metric
 ))
 
-# check that rows are uniquely identified by dimensions
+# check that rows are uniquely identified by dimensions - should be TRUE
 nrow(dashboard) == nrow(
     distinct(dashboard,region, state, timeframe, group, metric, segment, year,  
              category, aggregation)

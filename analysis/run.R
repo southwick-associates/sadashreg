@@ -3,7 +3,7 @@
 # define timeframe-specific parameters
 dir <- "analysis/2019-q2"
 timeframe <- "mid-year"
-yrs <- 2008:2019
+yrs <- 2009:2019
 
 # produce summary results for timeframe
 # - varies by timeframe
