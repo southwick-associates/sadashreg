@@ -69,11 +69,15 @@ mid <- read_csv("analysis/2019-q2/out/FL.csv")
 
 # use correct churn rate (not renewal rate)
 full <- mutate(full, value = ifelse(metric == "churn", 1 - value, value))
+write_csv(full, "analysis/2018-q4/checks/FL/full-year-all.csv")
+write_csv(mid, "analysis/2018-q4/checks/FL/mid-year-all.csv")
 
-# exclude recent year results
+# excluding recent year results
 full <- filter(full, year <= 2016)
 mid <- filter(mid, year <= 2017)
-
-# write
 write_csv(full, "analysis/2018-q4/checks/FL/full-year.csv")
 write_csv(mid, "analysis/2018-q4/checks/FL/mid-year.csv")
+
+# explore
+source("../dashboard-template/visualize/app-functions.R")
+run_visual("analysis/2018-q4/checks/FL")
