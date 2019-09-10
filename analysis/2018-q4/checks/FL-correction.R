@@ -1,7 +1,8 @@
 # Workflow to smooth out FL hunting data artifact beginning in 2015
 
+# TODO: move this script into production: 1 for full-year and 1 for mid-year
+
 library(tidyverse)
-library(broom)
 
 # Notes -------------------------------------------------------------------
 
@@ -55,7 +56,8 @@ predict_lm <- function(
 
 full <- read_csv("analysis/2018-q4/out/FL.csv")
 mid <- read_csv("analysis/2019-q2/out/FL.csv")
-ignore_cats <- c("Nonresident", "18-24", "25-34", "35-44")
+ignore_cats <- c("Nonresident", "18-24", "25-34")
+cats <- setdiff(unique(full$category), ignore_cats)
 
 # use correct churn rate (not renewal rate)
 full <- mutate(full, value = ifelse(metric == "churn", 1 - value, value))
@@ -72,11 +74,20 @@ full <- full %>%
     bind_rows(new16)
 
 # adjust participants
-mod_lm <- est_lm(full)
-full <- predict_lm(full, mod_lm)
+mod_lm <- est_lm(full, cats = cats)
+full <- predict_lm(full, mod_lm, cats = cats)
 
 # adjust recruits
-# TODO - START HERE - use mod_lm for recruits
+full <- predict_lm(full, mod_lm, 2015:2018, "Recruits", cats = cats)
+adjust <- filter(full, year == 2014, metric %in% c("Recruits", "Participants"), 
+       !category %in% ignore_cats, group == "hunt") %>%
+    spread(metric, value) %>%
+    mutate(adjust = Recruits / Participants) %>%
+    select(-Recruits, -Participants, -year) %>%
+    mutate(metric = "Recruits")
+full <- left_join(full, adjust) %>%
+    mutate(value = ifelse(is.na(adjust) | year == 2014, value, value * adjust)) %>%
+    select(-adjust)
 
 # save & check
 outdir <- "analysis/2018-q4/checks/FL-corrected"

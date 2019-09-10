@@ -11,6 +11,7 @@ source(file.path(dir, "1-sa-states.R")) # this step requires the most time
 source(file.path(dir, "2-other-states.R"))
 
 # - remains the same across timeframes
+source("analysis/3a-adjustments.R") # should only be needed in Sep 2019
 source("analysis/3-part-rates.R")
 source("analysis/4-combine.R")
 
