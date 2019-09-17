@@ -1,18 +1,15 @@
-# functions for nat/reg aggregated metrics
+# functions/data for nat/reg aggregated metrics
 
-region_relate <- tibble::tribble(
-    ~state, ~region,
-    "FL", "Southeast",
-    "GA", "Southeast",
-    "IA", "Midwest",
-    "MO", "Midwest",
-    "NE", "Midwest",
-    "OR", "Northwest",
-    "SC", "Southeast",
-    "TN", "Southeast",
-    "VA", "Southeast",
-    "WI", "Midwest"
-)
+#' Relation table for states by region
+#' 
+#' @format A data frame with 10 rows and 2 variables:
+#' \describe{
+#'   \item{state}{2-character state abbreviation}
+#'   \item{region}{region to be used in dashboard}
+#' }
+#' @family sadashreg data
+"region_relate"
+
 
 # build regional aggregations for selected metric
 # this function is a wrapper for agg_region()

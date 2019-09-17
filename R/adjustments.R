@@ -1,24 +1,32 @@
 # functions to make adjustments to deal with data artifacts, etc.
-# written in Sep 2019 for smoothing FL results
 
-# estimate smoothing factor (using linear regression)
-# - df_all: summary results in data frame
-# - yrs: years that will be used for linear trend estimation
-# - met: metric to model
-# - grp: group to model
-# - cats: categories to model
-est_lm <- function(
-    df_all, yrs, met, grp, cats
-) {
+#' Estimate smoothing factor (using linear regression)
+#' 
+#' Developed in Sep 2019 to adjust for data artifact in FL hunting data
+#' 
+#' @param df_all summary results in data frame
+#' @param yrs years that will be used for linear trend estimation
+#' @param met selected metric (from df_all$metric)
+#' @param grp selected group (from df_all$group)
+#' @param cats selected category (from df_all$category)
+#' @family functions to adjust state results
+#' @export
+est_lm <- function(df_all, yrs, met, grp, cats) {
     df <- df_all %>%
         filter(metric == met, group == grp, year %in% yrs, category %in% cats)
     split(df, df$category) %>%
         lapply(function(x) lm(value ~ year, x))
 } 
 
-# apply smooothing based on linear model
-# - mod: linear model from est_lm()
-# - yrs: years to be estimated based on mod
+#' Apply smooothing based on linear model
+#' 
+#' Developed in Sep 2019 to adjust for data artifact in FL hunting data
+#' 
+#' @inheritParams est_lm
+#' @param mod linear model produced by \code{\link{est_lm}} 
+#' @param yrs years to be estimated using linear model
+#' @family functions to adjust state results
+#' @export
 predict_lm <- function(
     df_all, mod, yrs, met, grp, cats
 ) {

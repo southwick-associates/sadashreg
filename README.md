@@ -5,6 +5,7 @@ Southwick project: Prepare all summary data for the national/regional dashboard.
 
 ## Dependencies
 
+- Uses a package (sadashreg) in this repository to modularize the workflow with well-documented functions. The package can be installed by running `devtools::install()` from the R console.
 - Makes use of dashboard-template code for producing summaries and visualizing results (you'll need to refer to it's location on your computer)
 - The 1-sa-states.R scripts can only be run from the data server
 
@@ -26,6 +27,10 @@ source("analysis/run.R")
 
 ## File Organization
 
+### R
+
+Functions in sadashreg package.
+
 ### Analysis
 
 Includes code, data, output, etc.
@@ -37,7 +42,7 @@ Includes code, data, output, etc.
     + 2019-q2 (production)
     + etc.
     
-### Doc
+### Docs
 
 Part of preparing documentation for state-processed dashboards. Only should need to be updated infrequently (if ever).
 
