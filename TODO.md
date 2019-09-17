@@ -1,17 +1,33 @@
 
 # TODO - Coding
 
+## 2018 Q4
+
+- probably store functions in sadashreg package (at top-level of project)
+    + will add namespace, description, man
+    + this will make things a bit tighter (easier to check, namespaces, etc.)
+    + just use devtools::install() & then go from there
+- Apply FL smoothing modifications to workflow
+- Apply estimations to IA 
+- Adjustment for part. rate
+    + use resident-only for SA data, pegging totals to res for state-supplied
+- Drop all temporary modifications (e.g., MA, WI, etc.)
+    + these will be updated as data becomes available
+- Improve the "out" folder organization (currently out-dashboard, out-rate, & out)
+
+### Nat/Reg-level Results
+
+- fill in NE 2009/2014 using trend >> only for reg/nat estimation
+- weighted averages for churn
+- might need a slightly different way of calculating part rate
+
+## 2019 Q2
+
 - use updated 2018-q4 as template for 2019-q2
 - get mid-year results together for Ben (that include real data)
 
 # TODO - Other (fri am)
 
-- touch base with MA, FL, GA, IA about data requests/questions
-    + FL: data artifact in 2015, suggest an approach and see what they think
-    + MA: see about getting updated data (full-year, mid-year)
-    + GA: put a bit more pressure on about getting data
-    + (done) IA: put a bit more pressure on about getting data
-    
 - begin writing up methodology doc, this can serve as a reference for communication
     + can use metric defs, etc. from existing state-supplied data documentation
     + include specifics that relate to the nat/reg dashboard

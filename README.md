@@ -1,7 +1,7 @@
 
 # Produce national/regional dashboard
 
-Southwick work for preparing all summary data for the national/regional dashboard.
+Southwick project: Prepare all summary data for the national/regional dashboard.
 
 ## Dependencies
 

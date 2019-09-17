@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.Rprofile$
+^snapshot-library\.csv$
+^README\.md$
+^TODO\.md$
+^NEWS\.md$
+^docs$
+^analysis$
+^\.gitignore$
