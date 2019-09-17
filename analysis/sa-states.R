@@ -1,19 +1,13 @@
 # functions to produce dashboard summary data for Southwick dashboard states
+# - uses functions from dashboard-template:
+#   + (https://github.com/southwick-associates/dashboard-template)
 
-# TODO: 
-# - determine how dashboard-template code will (or won't) be used
-# - might be able to use sadash instead
+library(tidyverse)
+library(DBI)
+library(lubridate)
+library(salic)
 
-# TODO: global functions to deal with:
-# - build_history
-# - calc_metrics
-# - format_metrics >> probably just use sadash
-
-# library(DBI)
-# library(tidyverse)
-# library(lubridate)
-# library(salic)
-# source("E:/SA/Projects/R-Software/Templates/dashboard-template/code/functions.R")
+source("E:/SA/Projects/R-Software/Templates/dashboard-template/code/functions.R")
 
 # run a given permission (using functions from dashboard-template)
 run_group <- function(
@@ -61,7 +55,9 @@ run_state <- function(
     
     ### 2. produce summaries for each permission
     run_group2 <- function(grp, lic_types) {
-        if (!grp %in% groups) return(invisible())
+        if (!grp %in% groups) {
+            return(invisible())
+        }
         run_group(cust, lic, sale, yrs, timeframe, grp, lic_types)
     }
     out <- bind_rows(

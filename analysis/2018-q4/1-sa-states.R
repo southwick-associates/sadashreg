@@ -1,6 +1,6 @@
 # produce dashboard summary data for Southwick dashboard states
 
-source("analysis/R/sa-states.R")
+source("analysis/sa-states.R")
 outdir <- file.path(dir, "out")
 
 # these will be updated (if possible) prior to Sep 16th
