@@ -1,32 +1,38 @@
-# functions to produce dashboard summary data for Southwick dashboard states
-# - uses functions from dashboard-template:
-#   + (https://github.com/southwick-associates/dashboard-template)
+# functions for SA state dashboard summaries
 
-library(tidyverse)
-library(DBI)
-library(lubridate)
-library(salic)
-
-source("E:/SA/Projects/R-Software/Templates/dashboard-template/code/functions.R")
-
-# run a given permission (using functions from dashboard-template)
+#' Run dashboard summaries for a given permission-timeframe
+#' @inheritParams dashtemplate::build_history
+#' @inheritParams dashtemplate::format_metrics
+#' @family functions for SA state dashboard summaries
+#' @export
 run_group <- function(
-    cust, lic, sale, yrs = 2008:2018, timeframe = "full-year",
-    group = "hunt", lic_types = c("hunt", "combo")
+    cust, lic, sale, yrs, timeframe, group, lic_types
 ) {
     build_history(cust, lic, sale, yrs, timeframe, lic_types) %>%
         calc_metrics(scaleup_test = 30) %>% 
         format_metrics(timeframe, group)
 }
 
-# run 3 permissions for select state in select time period
+#' Run 3 permission summaries for select state in select time period
+#' 
+#' This basically wraps the entire dashtemplate workflow into 1 function. It
+#' optionally writes a csv output based on the outdir argument.
+#' 
+#' @inheritParams run_group
+#' @param st 2-character state abbreviation
+#' @param outdir location for output csv (named based on input state).
+#' @param output_csv if TRUE, will write a csv to outdir
+#' @param groups names of permissions to be summarized
+#' @param dir_production folder that holds production data
+#' @family functions for SA state dashboard summaries
+#' @export
 run_state <- function(
-    st, yrs, timeframe, outdir, groups = c("hunt", "fish", "all_sports"), 
-    output_csv = TRUE
+    st, yrs, timeframe, outdir, groups = c("all_sports", "hunt", "fish"), 
+    output_csv = TRUE, dir_production = "E:/SA/Data-production/Data-Dashboards"
 ) {
     ### 1. Preparation
     # pull data from sqlite
-    f <- file.path("E:/SA/Data-production/Data-Dashboards", st, "license.sqlite3")
+    f <- file.path(dir_production, st, "license.sqlite3")
     con <- dbConnect(RSQLite::SQLite(), f)
     lic <- tbl(con, "lic") %>% 
         select(lic_id, type, duration) %>%

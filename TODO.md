@@ -6,17 +6,13 @@
 - check everything to ensure dashtemplate dependency
 - get dashreg documented
 
-- probably store functions in sadashreg package (at top-level of project)
-    + will add namespace, description, man
-    + this will make things a bit tighter (easier to check, namespaces, etc.)
-    + just use devtools::install() & then go from there
 - Apply FL smoothing modifications to workflow
 - Apply estimations to IA 
 - Adjustment for part. rate
     + use resident-only for SA data, pegging totals to res for state-supplied
 - Drop all temporary modifications (e.g., MA, WI, etc.)
     + these will be updated as data becomes available
-- Improve the "out" folder organization (currently out-dashboard, out-rate, & out)
+- maybe improve the "out" folder organization (currently out-dashboard, out-rate, & out)
 
 ### Nat/Reg-level Results
 
@@ -29,12 +25,17 @@
 - use updated 2018-q4 as template for 2019-q2
 - get mid-year results together for Ben (that include real data)
 
-# TODO - Other (fri am)
+# TODO - Other
 
 - begin writing up methodology doc, this can serve as a reference for communication
     + can use metric defs, etc. from existing state-supplied data documentation
     + include specifics that relate to the nat/reg dashboard
     + also reference individual state methods docs
+    
+### Later
+
+- maybe exclude .csv files from git & move to public SA repo
+    + see about removing commit history prior to some point to avoid making any data available
 
 ## Methods Planning
 

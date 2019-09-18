@@ -10,7 +10,7 @@ You can install the package dependencies using the devtools package:
 ``` r
 # salic & dashtemplate
 devtools::install("E:/SA/Projects/R-Software/Southwick-packages/salic")
-devtools::install("E:/SA/Projects/R-Software/Templates/dashboard-template/")
+devtools::install("E:/SA/Projects/R-Software/Templates/dashboard-template")
 
 # dashreg (in this project directory)
 devtools::install()

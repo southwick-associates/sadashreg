@@ -10,7 +10,7 @@ source("analysis/R/part-rate.R")
 # Pull Pop Data -----------------------------------------------------------
 
 # by age-sex for each state
-pop_seg <- read_csv("../census-template/censusapi/pop-out.csv")
+pop_seg <- read_csv("E:/SA/Projects/R-Software/Templates/census-template/censusapi/pop-out.csv")
 pop_seg <- filter(pop_seg, state %in% state.name) # drop non-states
 
 # total pop by state

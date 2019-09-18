@@ -13,8 +13,12 @@ LazyData: true
 Depends:
     R (>= 3.5)
 Imports:
+    dashtemplate,
+    DBI,
     dplyr (>= 0.7.6),
+    lubridate,
     readxl,
+    RSQLite,
     salic (>= 2.0.0),
     stringr,
     tidyr
