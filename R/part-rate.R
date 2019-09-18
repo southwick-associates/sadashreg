@@ -1,11 +1,12 @@
 # functions for estimating participation rate
 
-# TODO: complete documentation for part-rate & reg-aggregate
-
-# aggregate population by segment (for joining with participant summary)
-# - pop_seg: input population data frame 
-# - seg: name of segment to be stored in output data frame
-# - var: name of input variable to summarize
+#' Aggregate population by segment (for joining with participant summary)
+#' 
+#' @param pop_seg input population data frame 
+#' @param seg name of segment to be stored in output data frame
+#' @param var name of input variable to summarize
+#' @family functions for estimating participation rate
+#' @export
 aggregate_pop <- function(pop_seg, seg = "gender", var = "sex") {
     # identify category value (consistent with tableau input)
     if (seg == "all") {
@@ -20,9 +21,12 @@ aggregate_pop <- function(pop_seg, seg = "gender", var = "sex") {
         ungroup()
 }
 
-# add participation rate to summary table for each state
-# - dashboard: tableau formatted dashboard data
-# - pop: poulation data prepared with aggregate_pop()
+#' Add participation rate to summary table for each state
+#' 
+#' @param dashboard tableau formatted dashboard data
+#' @param pop population data prepared with aggregate_pop()
+#' @family functions for estimating participation rate
+#' @export
 est_rate <- function(dashboard, pop) {
     rate <- filter(dashboard, metric == "participants", segment != "residency") %>%
         left_join(pop, by = c("state", "segment", "category", "year")) %>%

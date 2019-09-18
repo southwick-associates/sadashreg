@@ -1,4 +1,4 @@
-# functions/data for nat/reg aggregated metrics
+# functions for preparing regional & national metrics
 
 #' Relation table for states by region
 #' 
@@ -11,13 +11,18 @@
 "region_relate"
 
 
-# build regional aggregations for selected metric
-# this function is a wrapper for agg_region()
-# - df: input summary data in tableau input format
-# - regs: region to aggregate ("US", "Southeast", etc.)
-# - measure: metric to aggregate ("participants", etc.)
-# - func: function to use for aggregation ("sum" or "mean")
-# - grps: permission groups to aggregate over
+#' Build regional aggregations for selected metric
+#' 
+#' Basically a wrapper for \code{\link{agg_region}} that applies to multiple 
+#' regions and groups.
+#' 
+#' @param df input summary data in tableau input format
+#' @param regs regions over which to aggregate
+#' @param measure metric to aggregate ("participants", etc.)
+#' @param func function to use for aggregation ("sum" or "mean")
+#' @param grps permission groups to aggregate over
+#' @export
+#' @family functions for preparing regional & national metrics
 agg_region_all <- function(
     df, regs, measure, func, grps = c("all_sports", "hunt", "fish")
 ) {
@@ -33,7 +38,14 @@ agg_region_all <- function(
     sapply2(regs, function(reg) agg_region_grp(grps, reg)) %>% bind_rows()
 }
 
-# build regional averages for selected region, group, and metric
+#' Build regional averages for selected region, group, and metric.
+#' 
+#' To be called from \code{\link{agg_region_all}}
+#' @inheritParams agg_region_all
+#' @param reg region over which to aggregate
+#' @param grp group over which to aggregate
+#' @export
+#' @family functions for preparing regional & national metrics
 agg_region <- function(df, reg, grp, measure, func) {
     if (reg == "US") df$region <- "US"
     df <- filter(df, group == grp, metric == measure, region == reg)
@@ -52,8 +64,13 @@ agg_region <- function(df, reg, grp, measure, func) {
         )
 }
 
-# exclude states with missing years from aggregation
-# only to be called from agg_region()
+#' Exclude states with missing years from aggregation
+#' 
+#' To be called from \code{\link{agg_region}}
+#' 
+#' @inheritParams agg_region
+#' @export
+#' @family functions for preparing regional & national metrics
 drop_incomplete_states <- function(df, grp, reg, measure) {
     drop_states <- df %>%
         distinct(state, year) %>%
@@ -69,8 +86,13 @@ drop_incomplete_states <- function(df, grp, reg, measure) {
     df
 }
 
-# determine whether there are insufficient states to perform aggregation
-# only to be called from agg_region()
+#' Determine whether there are insufficient states to perform aggregation
+#' 
+#' To be called from \code{\link{agg_region}}
+#' 
+#' @inheritParams agg_region
+#' @export
+#' @family functions for preparing regional & national metrics
 too_few_states <- function(df, grp, reg, measure) {
     states <- unique(df$state)
     if (length(states) < 2) {

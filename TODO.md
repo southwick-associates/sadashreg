@@ -3,6 +3,9 @@
 
 ## 2018 Q4
 
+- check everything to ensure dashtemplate dependency
+- get dashreg documented
+
 - probably store functions in sadashreg package (at top-level of project)
     + will add namespace, description, man
     + this will make things a bit tighter (easier to check, namespaces, etc.)

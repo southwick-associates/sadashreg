@@ -1,4 +1,4 @@
-Package: sadashreg
+Package: dashreg
 Type: Package
 Title: Functions for Southwick national/regional dashboard project
 Version: 0.1
@@ -8,17 +8,12 @@ Authors@R: c(
     )
 Description: This package is to be used directly for the national/regional dashboard project.
 License: Intended for SA internal use only
-URL: https://github.com/southwick-associates/sadash
-BugReports: https://github.com/southwick-associates/sadash/issues
 Encoding: UTF-8
 LazyData: true
 Depends:
     R (>= 3.5)
 Imports:
-    DBI (>= 1.0.0),
     dplyr (>= 0.7.6),
-    lubridate,
-    RSQLite (>= 2.1.1),
     readxl,
     salic (>= 2.0.0),
     stringr,

@@ -3,10 +3,23 @@
 
 Southwick project: Prepare all summary data for the national/regional dashboard.
 
+## Installation
+
+You can install the package dependencies using the devtools package:
+
+``` r
+# salic & dashtemplate
+devtools::install("E:/SA/Projects/R-Software/Southwick-packages/salic")
+devtools::install("E:/SA/Projects/R-Software/Templates/dashboard-template/")
+
+# dashreg (in this project directory)
+devtools::install()
+```
+
 ## Dependencies
 
 - Uses a package (sadashreg) in this repository to modularize the workflow with well-documented functions. The package can be installed by running `devtools::install()` from the R console.
-- Makes use of dashboard-template code for producing summaries and visualizing results (you'll need to refer to it's location on your computer)
+- Makes use of [dashboard-template](https://github.com/southwick-associates/dashboard-template) code for producing summaries and visualizing results (you'll need to refer to it's location on your computer)
 - The 1-sa-states.R scripts can only be run from the data server
 
 ## Usage
@@ -25,11 +38,11 @@ template_directory <- "E:/SA/Projects/R-Software/Templates/dashboard-template" #
 source("analysis/run.R")
 ```
 
-## File Organization
+## File/Folder Organization
 
 ### R
 
-Functions in sadashreg package.
+Functions (package sadashreg) used in the analysis
 
 ### Analysis
 
