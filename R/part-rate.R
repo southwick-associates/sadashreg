@@ -28,7 +28,8 @@ aggregate_pop <- function(pop_seg, seg = "gender", var = "sex") {
 #' @family functions for estimating participation rate
 #' @export
 est_rate <- function(dashboard, pop) {
-    rate <- filter(dashboard, metric == "participants", segment != "residency") %>%
+    rate <- dashboard %>%
+        filter(metric == "residents") %>%
         left_join(pop, by = c("state", "segment", "category", "year")) %>%
         mutate(metric = "rate", value = value / pop) %>%
         arrange(group, segment, category, year) %>%

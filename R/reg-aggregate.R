@@ -41,6 +41,7 @@ agg_region_all <- function(
 #' Build regional averages for selected region, group, and metric.
 #' 
 #' To be called from \code{\link{agg_region_all}}
+#' 
 #' @inheritParams agg_region_all
 #' @param reg region over which to aggregate
 #' @param grp group over which to aggregate

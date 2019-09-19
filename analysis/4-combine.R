@@ -2,15 +2,12 @@
 # outputs as a single table (for tableau) & individual by state (for checking)
 
 library(tidyverse)
+library(salic)
+library(dashreg)
 
-# for development convenience
-if (!exists("timeframe")) {
-    dir <- "analysis/2019-q2"
-    timeframe <- "mid-year"
-    yrs <- 2009:2019
-}
+# needs to be adjusted for time periods
+source("analysis/2018-q4/params.R")
 
-source("analysis/R/reg-aggregate.R")
 indir <- file.path(dir, "out-rate")
 outfile <- file.path(dir, "dashboard.csv")
 outdir <- file.path(dir, "out-dashboard") # for checking individual states
@@ -27,7 +24,12 @@ x <- sapply(infiles, get_state, simplify = FALSE) %>%
     bind_rows() %>%
     filter(year %in% yrs)
 
+# drop 2009
+x <- filter(x, year >= 2010)
+x <- filter(x, !is.na(value)) # drops some missing rate estimates (this is okay)
+
 # check dimensions
+count(x, state)
 count(x, group)
 count(x, segment)
 count(x, category)
@@ -39,7 +41,8 @@ dashboard <- left_join(x, region_relate, by = "state")
 count(dashboard, region, state)
 
 # check coverage
-count(dashboard, group, region, state, year) %>% 
+group_by(dashboard_reg, metric) %>% summarise(min(value), mean(value), max(value))
+count(dashboard2, group, region, state, year) %>% 
     spread(year, n, fill = 0) %>%
     data.frame()
 
@@ -47,11 +50,28 @@ count(dashboard, group, region, state, year) %>%
 
 regs <- c(unique(dashboard$region), "US")
 
+# for regional: fill-in NE recruits in 2014 based on trend
+# - should probably modularize this
+df_ne <- filter(dashboard, state == "NE")
+df_ne <- df_ne %>% bind_rows(
+    filter(df_ne, metric == "recruits", year == 2015) %>% mutate(year = 2014),
+    filter(df_ne, metric == "churn", year == 2011) %>% mutate(year = 2010)
+)
+for (i in c("hunt", "fish", "all_sports")) {
+    mod <- est_lm(df_ne, 2015:2018, "recruits", i, unique(df_ne$category))
+    df_ne <- predict_lm(df_ne, mod, 2014, "recruits", i, unique(df_ne$category))
+    
+    mod <- est_lm(df_ne, 2011:2018, "churn", i, unique(df_ne$category))
+    df_ne <- predict_lm(df_ne, mod, 2010, "churn", i, unique(df_ne$category))
+}
+dashboard2 <- filter(dashboard, state != "NE") %>% bind_rows(df_ne)
+
+# get regional estimates
 dashboard_reg <- bind_rows(
-    agg_region_all(dashboard, regs, "participants", "sum"),
-    agg_region_all(dashboard, regs, "recruits", "sum"),
-    if (timeframe == "full-year") agg_region_all(dashboard, regs, "churn", "mean"),
-    agg_region_all(dashboard, regs, "rate", "mean")
+    agg_region_all(dashboard2, regs, "participants", "sum"),
+    agg_region_all(dashboard2, regs, "recruits", "sum"),
+    if (timeframe == "full-year") agg_region_all(dashboard2, regs, "churn", "mean"),
+    agg_region_all(dashboard2, regs, "rate", "mean")
 )
 
 # check

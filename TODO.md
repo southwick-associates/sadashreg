@@ -3,10 +3,6 @@
 
 ## 2018 Q4
 
-- Adjustment for part. rate
-    + use resident-only for SA data, pegging totals to res for state-supplied
-- apply to 2019 Q2
-
 ### Nat/Reg-level Results
 
 - fill in NE 2009/2014 using trend >> only for reg/nat estimation

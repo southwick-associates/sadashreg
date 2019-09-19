@@ -2,8 +2,10 @@
 
 library(tidyverse)
 library(salic)
+library(dashreg)
 
-source("analysis/R/part-rate.R")
+# needs to be adjusted for time periods
+source("analysis/2018-q4/params.R")
 indir <- file.path(dir, "out")
 outdir <- file.path(dir, "out-rate")
 
@@ -16,7 +18,7 @@ pop_seg <- read_csv("analysis/pop/pop_seg.csv") %>%
     filter(!agecat %in% c("0-17", "65+")) %>%
     mutate(sex = tolower(sex))
 
-# load summary data
+# load dashboard data for each state
 get_state <- function(f) {
     st <- str_sub(f, end = 2)
     read_csv(file.path(indir, f)) %>%
@@ -55,5 +57,6 @@ x <- lapply(x, function(dashboard) est_rate(dashboard, pop))
 
 dir.create(outdir, showWarnings = FALSE)
 for (i in names(x)) {
-    write_csv(x[[i]], file.path(outdir, i))
+    filter(x[[i]], metric != "residents") %>%
+        write_csv(file.path(outdir, i))
 }
