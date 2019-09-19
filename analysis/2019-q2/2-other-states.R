@@ -3,6 +3,9 @@
 
 library(tidyverse)
 library(readxl)
+library(dashreg)
+
+source("analysis/2019-Q2/params.R")
 outdir <- file.path(dir, "out")
 
 # FL ----------------------------------------------------------------------
@@ -12,7 +15,11 @@ f <- "analysis/2019-q2/data/FL/FL_dashboard_2019MidYear_Summary.csv.xlsx"
 x <- read_excel(f)
 names(x) <- tolower(names(x))
 
-x <- mutate(x, metric = ifelse(metric == "Pariticipants", "Participants", metric))
+# naming
+x <- x %>% mutate(
+    metric = ifelse(metric == "Pariticipants", "Participants", metric),
+    metric = tolower(metric)
+)
 count(x, metric)
 
 # add a segment variable
@@ -20,40 +27,25 @@ x <- x %>% mutate(segment = case_when(
     category %in% c("18-24", "25-34", "35-44", "45-54", "55-64") ~ "Age",
     category %in% c("Male", "Female") ~ "Gender",
     category %in% c("Resident", "Nonresident") ~ "Residency",
-    TRUE ~ "All"
-))
+    TRUE ~ "All") %>% tolower()
+)
 count(x, segment, category)
 
-# scale segments to total
-tot <- filter(x, segment == "All", metric != "churn") %>%
-    select(-category, -segment) %>%
-    rename(value_tot = value)
 
-# demonstrate need for scaling
-filter(x, segment != "All", metric != "churn") %>%
-    group_by(group, segment, year, metric) %>%
-    summarise(value_sum = sum(value)) %>%
-    ungroup() %>% 
-    left_join(tot) %>%
-    mutate(pctdiff = (value_sum - value_tot) / value_tot * 100) %>%
-    filter(abs(pctdiff) > 0) %>%
-    arrange(desc(pctdiff))
+# scale segments
+check_scale <- function(x) {
+    group_by(x, group, metric, year, segment) %>% 
+        filter(metric != "churn") %>% summarise(sum(value))
+}
+check_scale(x)
+x <- scale_segs(x)
+check_scale(x)
 
-# apply scaling
-x1 <- filter(x, segment != "All", metric != "churn") %>%
-    group_by(group, segment, year, metric) %>%
-    mutate(value_sum = sum(value)) %>%
-    ungroup() %>%
-    left_join(tot) %>%
-    mutate(value = value * value_tot / value_sum)
-x <- filter(x, segment == "All" | metric == "churn") %>%
-    bind_rows(x1) %>%
-    select(-value_sum, -value_tot)
+# hunt artifact smoothing
+source("analysis/adjust-fl.R")
 
-# check scaling > should return no rows
-group_by(x, group, year, metric, segment) %>%
-    summarise(value = sum(value)) %>%
-    filter(max(value) != value)
+# add residency
+x <- est_residents(x)
 
 count(x, group)
 count(x, segment)

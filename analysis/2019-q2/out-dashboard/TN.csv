@@ -1,5 +1,4 @@
 timeframe,group,category,year,metric,value,segment,state,region,aggregation,states_included
-mid-year,all_sports,all,2009,participants,473533,all,TN,Southeast,NONE,NA
 mid-year,all_sports,all,2010,participants,455511,all,TN,Southeast,NONE,NA
 mid-year,all_sports,all,2011,participants,435343,all,TN,Southeast,NONE,NA
 mid-year,all_sports,all,2012,participants,484894,all,TN,Southeast,NONE,NA
@@ -9,7 +8,6 @@ mid-year,all_sports,all,2015,participants,475420,all,TN,Southeast,NONE,NA
 mid-year,all_sports,all,2016,participants,459490,all,TN,Southeast,NONE,NA
 mid-year,all_sports,all,2017,participants,420629,all,TN,Southeast,NONE,NA
 mid-year,all_sports,all,2018,participants,404130,all,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2009,participants,383916,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,resident,2010,participants,368105,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,resident,2011,participants,351870,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,resident,2012,participants,391754,residency,TN,Southeast,NONE,NA
@@ -19,7 +17,6 @@ mid-year,all_sports,resident,2015,participants,381006,residency,TN,Southeast,NON
 mid-year,all_sports,resident,2016,participants,368330,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,resident,2017,participants,333119,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,resident,2018,participants,316586,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,nonresident,2009,participants,89617,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,nonresident,2010,participants,87406,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,nonresident,2011,participants,83473,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,nonresident,2012,participants,93140,residency,TN,Southeast,NONE,NA
@@ -29,7 +26,6 @@ mid-year,all_sports,nonresident,2015,participants,94414,residency,TN,Southeast,N
 mid-year,all_sports,nonresident,2016,participants,91160,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,nonresident,2017,participants,87510,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,nonresident,2018,participants,87544,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2009,participants,379188,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,male,2010,participants,365803,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,male,2011,participants,349008,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,male,2012,participants,380629,gender,TN,Southeast,NONE,NA
@@ -39,7 +35,6 @@ mid-year,all_sports,male,2015,participants,369896,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,male,2016,participants,358362,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,male,2017,participants,330306,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,male,2018,participants,320672,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2009,participants,94345,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,female,2010,participants,89708,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,female,2011,participants,86335,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,female,2012,participants,104265,gender,TN,Southeast,NONE,NA
@@ -49,7 +44,6 @@ mid-year,all_sports,female,2015,participants,105524,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,female,2016,participants,101128,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,female,2017,participants,90323,gender,TN,Southeast,NONE,NA
 mid-year,all_sports,female,2018,participants,83458,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2009,participants,56084,age,TN,Southeast,NONE,NA
 mid-year,all_sports,18-24,2010,participants,54209,age,TN,Southeast,NONE,NA
 mid-year,all_sports,18-24,2011,participants,53174,age,TN,Southeast,NONE,NA
 mid-year,all_sports,18-24,2012,participants,64121,age,TN,Southeast,NONE,NA
@@ -59,7 +53,6 @@ mid-year,all_sports,18-24,2015,participants,65428,age,TN,Southeast,NONE,NA
 mid-year,all_sports,18-24,2016,participants,62087,age,TN,Southeast,NONE,NA
 mid-year,all_sports,18-24,2017,participants,53786,age,TN,Southeast,NONE,NA
 mid-year,all_sports,18-24,2018,participants,50174,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2009,participants,93042,age,TN,Southeast,NONE,NA
 mid-year,all_sports,25-34,2010,participants,87799,age,TN,Southeast,NONE,NA
 mid-year,all_sports,25-34,2011,participants,85048,age,TN,Southeast,NONE,NA
 mid-year,all_sports,25-34,2012,participants,95446,age,TN,Southeast,NONE,NA
@@ -69,7 +62,6 @@ mid-year,all_sports,25-34,2015,participants,94536,age,TN,Southeast,NONE,NA
 mid-year,all_sports,25-34,2016,participants,91526,age,TN,Southeast,NONE,NA
 mid-year,all_sports,25-34,2017,participants,82371,age,TN,Southeast,NONE,NA
 mid-year,all_sports,25-34,2018,participants,78303,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2009,participants,113117,age,TN,Southeast,NONE,NA
 mid-year,all_sports,35-44,2010,participants,106945,age,TN,Southeast,NONE,NA
 mid-year,all_sports,35-44,2011,participants,100720,age,TN,Southeast,NONE,NA
 mid-year,all_sports,35-44,2012,participants,110347,age,TN,Southeast,NONE,NA
@@ -79,7 +71,6 @@ mid-year,all_sports,35-44,2015,participants,101728,age,TN,Southeast,NONE,NA
 mid-year,all_sports,35-44,2016,participants,97455,age,TN,Southeast,NONE,NA
 mid-year,all_sports,35-44,2017,participants,88458,age,TN,Southeast,NONE,NA
 mid-year,all_sports,35-44,2018,participants,83909,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2009,participants,118437,age,TN,Southeast,NONE,NA
 mid-year,all_sports,45-54,2010,participants,114194,age,TN,Southeast,NONE,NA
 mid-year,all_sports,45-54,2011,participants,108103,age,TN,Southeast,NONE,NA
 mid-year,all_sports,45-54,2012,participants,118324,age,TN,Southeast,NONE,NA
@@ -89,7 +80,6 @@ mid-year,all_sports,45-54,2015,participants,114511,age,TN,Southeast,NONE,NA
 mid-year,all_sports,45-54,2016,participants,111149,age,TN,Southeast,NONE,NA
 mid-year,all_sports,45-54,2017,participants,102806,age,TN,Southeast,NONE,NA
 mid-year,all_sports,45-54,2018,participants,98569,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2009,participants,92853,age,TN,Southeast,NONE,NA
 mid-year,all_sports,55-64,2010,participants,92363,age,TN,Southeast,NONE,NA
 mid-year,all_sports,55-64,2011,participants,88297,age,TN,Southeast,NONE,NA
 mid-year,all_sports,55-64,2012,participants,96656,age,TN,Southeast,NONE,NA
@@ -149,97 +139,87 @@ mid-year,all_sports,55-64,2015,participants - recruited,15485,age,TN,Southeast,N
 mid-year,all_sports,55-64,2016,participants - recruited,14942,age,TN,Southeast,NONE,NA
 mid-year,all_sports,55-64,2017,participants - recruited,14188,age,TN,Southeast,NONE,NA
 mid-year,all_sports,55-64,2018,participants - recruited,14084,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2009,participation rate,0.09383455271094826,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2010,participation rate,0.0899941654373266,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2011,participation rate,0.08716792116116327,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2012,participation rate,0.1037738787846304,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2013,participation rate,0.09984195977183824,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2014,participation rate,0.10495622166547544,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2015,participation rate,0.10295744898195235,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2016,participation rate,0.09777268571741746,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2017,participation rate,0.08513461707152196,age,TN,Southeast,NONE,NA
-mid-year,all_sports,18-24,2018,participation rate,0.07869928946689458,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2009,participation rate,0.11240042689832455,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2010,participation rate,0.10524407208532449,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2011,participation rate,0.10179688710380916,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2012,participation rate,0.11355735894733959,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2013,participation rate,0.10663811109901877,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2014,participation rate,0.11160296372269896,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2015,participation rate,0.10980681550936995,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2016,participation rate,0.10472588157997093,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2017,participation rate,0.09228131760245872,age,TN,Southeast,NONE,NA
-mid-year,all_sports,25-34,2018,participation rate,0.08693066386071444,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2009,participation rate,0.12822988606732708,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2010,participation rate,0.1202931820270431,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2011,participation rate,0.11459467337111696,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2012,participation rate,0.1267939883629555,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2013,participation rate,0.1180541205375823,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2014,participation rate,0.1222597758703107,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2015,participation rate,0.1189321425498647,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2016,participation rate,0.11424034886719049,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2017,participation rate,0.10372339930185802,age,TN,Southeast,NONE,NA
-mid-year,all_sports,35-44,2018,participation rate,0.09749970849536971,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2009,participation rate,0.12885049372886792,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2010,participation rate,0.12327105845819403,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2011,participation rate,0.11630270682472434,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2012,participation rate,0.1270080386706543,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2013,participation rate,0.11956406020207688,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2014,participation rate,0.12395783894285324,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2015,participation rate,0.12502666124452874,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2016,participation rate,0.12199456691434747,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2017,participation rate,0.11295906256019318,age,TN,Southeast,NONE,NA
-mid-year,all_sports,45-54,2018,participation rate,0.10732431239965992,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2009,participation rate,0.1237441964350201,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2010,participation rate,0.12213667166675689,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2011,participation rate,0.11334156502676862,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2012,participation rate,0.1209163159012032,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2013,participation rate,0.11234321007128506,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2014,participation rate,0.11510301355738636,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2015,participation rate,0.11732438338556164,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2016,participation rate,0.11366862276495403,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2017,participation rate,0.1073727773540448,age,TN,Southeast,NONE,NA
-mid-year,all_sports,55-64,2018,participation rate,0.10636649889997075,age,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2009,participation rate,0.11906342290375584,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2010,participation rate,0.1136439010755422,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2011,participation rate,0.10794678260004958,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2012,participation rate,0.11944157355475743,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2013,participation rate,0.11209867684295258,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2014,participation rate,0.11630542210442632,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2015,participation rate,0.11558067261985583,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2016,participation rate,0.11128609332784753,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2017,participation rate,0.1012249993901381,all,TN,Southeast,NONE,NA
-mid-year,all_sports,all,2018,participation rate,0.09637509265831873,all,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2009,participation rate,0.04663078719173325,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2010,participation rate,0.04399508722391267,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2011,participation rate,0.04206819060823103,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2012,participation rate,0.05045729605119826,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2013,participation rate,0.046628489609837544,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2014,participation rate,0.050640928990350456,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2015,participation rate,0.050380272273635514,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2016,participation rate,0.04809824026957932,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2017,participation rate,0.04270217713042562,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,female,2018,participation rate,0.0390998222689756,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2009,participation rate,0.19406575062179873,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2010,participation rate,0.18576364530853878,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2011,participation rate,0.1762063526709356,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2012,participation rate,0.1909566500506735,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2013,participation rate,0.18001193446953195,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2014,participation rate,0.18451566264973104,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2015,participation rate,0.18322863226630667,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2016,participation rate,0.1768485892172826,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2017,participation rate,0.1618987027993116,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,male,2018,participation rate,0.15575539309669162,gender,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2009,participation rate,0.11906342290375584,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2010,participation rate,0.1136439010755422,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2011,participation rate,0.10794678260004958,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2012,participation rate,0.11944157355475743,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2013,participation rate,0.11209867684295258,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2014,participation rate,0.11630542210442632,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2015,participation rate,0.11558067261985583,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2016,participation rate,0.11128609332784753,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2017,participation rate,0.1012249993901381,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,resident,2018,participation rate,0.09637509265831873,residency,TN,Southeast,NONE,NA
-mid-year,all_sports,nonresident,2009,participation rate,0,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2010,participation rate,0.07677120379427275,age,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2011,participation rate,0.0737027444880186,age,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2012,participation rate,0.08745224363322919,age,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2013,participation rate,0.08428950082290664,age,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2014,participation rate,0.0880715397943931,age,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2015,participation rate,0.08518836672505611,age,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2016,participation rate,0.0811163535249597,age,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2017,participation rate,0.06913527320213321,age,TN,Southeast,NONE,NA
+mid-year,all_sports,18-24,2018,participation rate,0.06284775242873863,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2010,participation rate,0.0865300724566717,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2011,participation rate,0.08315343501170903,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2012,participation rate,0.09248322803526128,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2013,participation rate,0.08688860115738549,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2014,participation rate,0.09032976793371335,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2015,participation rate,0.08809541460917168,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2016,participation rate,0.08478327084578267,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2017,participation rate,0.07375805935332914,age,TN,Southeast,NONE,NA
+mid-year,all_sports,25-34,2018,participation rate,0.06845388725402159,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2010,participation rate,0.09790601851416976,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2011,participation rate,0.09328338636839266,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2012,participation rate,0.10311670738379827,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2013,participation rate,0.09574753411235869,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2014,participation rate,0.09881955188542631,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2015,participation rate,0.09562926167828655,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2016,participation rate,0.09154232541928725,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2017,participation rate,0.08219731726989359,age,TN,Southeast,NONE,NA
+mid-year,all_sports,35-44,2018,participation rate,0.07611598165509884,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2010,participation rate,0.09812870227004232,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2011,participation rate,0.09300300448803567,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2012,participation rate,0.10194540813989884,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2013,participation rate,0.09614686052783543,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2014,participation rate,0.0996228106069683,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2015,participation rate,0.09972566115703092,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2016,participation rate,0.09706749956158905,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2017,participation rate,0.08877207109921297,age,TN,Southeast,NONE,NA
+mid-year,all_sports,45-54,2018,participation rate,0.08369356082452149,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2010,participation rate,0.09485252166621343,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2011,participation rate,0.08857629764439497,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2012,participation rate,0.09416250515108804,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2013,participation rate,0.08794551640098996,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2014,participation rate,0.0900702841108668,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2015,participation rate,0.09210632801117533,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2016,participation rate,0.08903578595465292,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2017,participation rate,0.08376265491695761,age,TN,Southeast,NONE,NA
+mid-year,all_sports,55-64,2018,participation rate,0.08274839859686911,age,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2010,participation rate,0.09183727331592971,all,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2011,participation rate,0.08724898388966733,all,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2012,participation rate,0.09649885172093373,all,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2013,participation rate,0.09068475470864246,all,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2014,participation rate,0.09380075046594075,all,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2015,participation rate,0.09262742365108913,all,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2016,participation rate,0.08920761443218803,all,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2017,participation rate,0.08016558670905576,all,TN,Southeast,NONE,NA
+mid-year,all_sports,all,2018,participation rate,0.07549799590311655,all,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2010,participation rate,0.037828477481710435,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2011,participation rate,0.03600171729992645,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2012,participation rate,0.04313925806255183,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2013,participation rate,0.03991238463990824,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2014,participation rate,0.04313267814470963,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2015,participation rate,0.04271179938349551,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2016,participation rate,0.041080980589398026,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2017,participation rate,0.03641620182927155,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,female,2018,participation rate,0.03309041130484813,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2010,participation rate,0.14776213874427174,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2011,participation rate,0.14034842452674448,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2012,participation rate,0.15181602775533223,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2013,participation rate,0.14335173481842142,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2014,participation rate,0.14643317382134505,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2015,participation rate,0.14441683166470606,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2016,participation rate,0.13914288016404677,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2017,participation rate,0.12552288664838454,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,male,2018,participation rate,0.11946418056174779,gender,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2010,participation rate,0.09183727331592971,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2011,participation rate,0.08724898388966733,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2012,participation rate,0.09649885172093373,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2013,participation rate,0.09068475470864246,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2014,participation rate,0.09380075046594075,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2015,participation rate,0.09262742365108913,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2016,participation rate,0.08920761443218803,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2017,participation rate,0.08016558670905576,residency,TN,Southeast,NONE,NA
+mid-year,all_sports,resident,2018,participation rate,0.07549799590311655,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,nonresident,2010,participation rate,0,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,nonresident,2011,participation rate,0,residency,TN,Southeast,NONE,NA
 mid-year,all_sports,nonresident,2012,participation rate,0,residency,TN,Southeast,NONE,NA

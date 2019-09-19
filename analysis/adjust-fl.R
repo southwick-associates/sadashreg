@@ -40,22 +40,36 @@ if (timeframe == "full-year") {
 }
 
 # adjust participants
-yrs_ref <- 2009:2014
-yrs_adjust <- setdiff(yrs, yrs_ref)
+yrs_ref <- 2010:2014
+yrs_adjust <- setdiff(yrs, c(2009, yrs_ref))
 
-mod_lm <- est_lm(df, yrs_ref, "participants", "hunt", cats)
-df <- predict_lm(df, mod_lm, yrs_adjust, "participants", "hunt", cats)
-
-# adjust recruits
-df <- predict_lm(df, mod_lm, yrs_adjust, "recruits", "hunt", cats)
+if (timeframe == "full-year") {
+    mod_lm <- est_lm(df, yrs_ref, "participants", "hunt", cats)
+    df <- predict_lm(df, mod_lm, yrs_adjust, "participants", "hunt", cats)
+    
+    # adjust recruits
+    df <- predict_lm(df, mod_lm, yrs_adjust, "recruits", "hunt", cats)
+    grps <- "hunt"
+    
+} else {
+    # being a bit repetitive for expediency
+    grps <- c("hunt", "fish", "all_sports")
+    for (i in grps) {
+        mod_lm <- est_lm(df, yrs_ref, "participants", i, cats)
+        df <- predict_lm(df, mod_lm, yrs_adjust, "participants", i, cats)
+        df <- predict_lm(df, mod_lm, yrs_adjust, "recruits", i, cats)
+    }
+    
+}
 
 # - additional adjustment needed since we are using a participant-based model
 adjust <- filter(df, year == 2014, metric %in% c("recruits", "participants"), 
-                 !category %in% ignore_cats, group == "hunt") %>%
+                 !category %in% ignore_cats, group %in% grps) %>%
     spread(metric, value) %>%
     mutate(adjust = recruits / participants) %>%
     select(-recruits, -participants, -year) %>%
     mutate(metric = "recruits")
+
 df <- left_join(df, adjust) %>%
     mutate(value = ifelse(is.na(adjust) | year == 2014, value, value * adjust)) %>%
     select(-adjust)

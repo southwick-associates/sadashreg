@@ -5,7 +5,7 @@ library(salic)
 library(dashreg)
 
 # needs to be adjusted for time periods
-source("analysis/2018-q4/params.R")
+source("analysis/2019-q2/params.R")
 indir <- file.path(dir, "out")
 outdir <- file.path(dir, "out-rate")
 

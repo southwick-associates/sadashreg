@@ -4,12 +4,6 @@
 # Notes:
 # - Using est_residents() to fill in the oversite that we didn't get resident-specific breakouts
 
-# TODO:
-# - look into additional standardization that might be useful here
-# - think about any adjustments needed
-#   + IA hunting
-
-
 library(tidyverse)
 library(readxl)
 library(dashreg)
