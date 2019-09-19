@@ -4,7 +4,9 @@
 \alias{run_group}
 \title{Run dashboard summaries for a given permission-timeframe}
 \usage{
-run_group(cust, lic, sale, yrs, timeframe, group, lic_types)
+run_group(cust, lic, sale, yrs, timeframe, group, lic_types,
+  tests = c(tot = 20, res = 35, sex = 35, agecat = 35),
+  scaleup_test = 30)
 }
 \arguments{
 \item{cust}{standardized license data frames}
@@ -21,11 +23,21 @@ run_group(cust, lic, sale, yrs, timeframe, group, lic_types)
 
 \item{lic_types}{license types (lic$type) included. This should correspond to
 a permission group (e.g., c("hunt", "combo") for "hunt" permission).}
+
+\item{tests}{test thresholds for salic::est_part(), salic::est_churn(), and
+salic::est_recruit()}
+
+\item{scaleup_test}{test_threshold for salic::scaleup_part()}
 }
 \description{
 Run dashboard summaries for a given permission-timeframe
 }
 \seealso{
+dashtemplate functions: 
+\code{\link[dashtemplate]{build_history}} 
+\code{\link[dashtemplate]{calc_metrics}}
+\code{\link[dashtemplate]{format_metrics}}
+
 Other functions for SA state dashboard summaries: \code{\link{run_state}}
 }
 \concept{functions for SA state dashboard summaries}

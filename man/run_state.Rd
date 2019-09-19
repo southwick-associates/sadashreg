@@ -6,7 +6,8 @@
 \usage{
 run_state(st, yrs, timeframe, outdir, groups = c("all_sports", "hunt",
   "fish"), output_csv = TRUE,
-  dir_production = "E:/SA/Data-production/Data-Dashboards")
+  db_license = file.path("E:/SA/Data-production/Data-Dashboards", st,
+  "license.sqlite3"), ...)
 }
 \arguments{
 \item{st}{2-character state abbreviation}
@@ -21,7 +22,9 @@ run_state(st, yrs, timeframe, outdir, groups = c("all_sports", "hunt",
 
 \item{output_csv}{if TRUE, will write a csv to outdir}
 
-\item{dir_production}{folder that holds production data}
+\item{db_license}{file path to production data}
+
+\item{...}{additional arguments passed to \code{\link{run_group}}}
 }
 \description{
 This basically wraps the entire dashtemplate workflow into 1 function. It

@@ -3,27 +3,25 @@
 
 ## 2018 Q4
 
-- check everything to ensure dashtemplate dependency
-- get dashreg documented
-
-- Apply FL smoothing modifications to workflow
-- Apply estimations to IA 
 - Adjustment for part. rate
     + use resident-only for SA data, pegging totals to res for state-supplied
-- Drop all temporary modifications (e.g., MA, WI, etc.)
-    + these will be updated as data becomes available
-- maybe improve the "out" folder organization (currently out-dashboard, out-rate, & out)
+- apply to 2019 Q2
 
 ### Nat/Reg-level Results
 
 - fill in NE 2009/2014 using trend >> only for reg/nat estimation
-- weighted averages for churn
+- weighted averages for churn and rates
 - might need a slightly different way of calculating part rate
 
-## 2019 Q2
+### 2019 q2
 
-- use updated 2018-q4 as template for 2019-q2
-- get mid-year results together for Ben (that include real data)
+- apply above to 2019 Q2 (mostly just copy/paste code)
+
+### Later
+
+- peg national/regional to counts of hunters/anglers. This is complicated by a couple of factors:
+    + only looking at 18-64 year-olds
+    + not obvious how nonresidents should be counted
 
 # TODO - Other
 
@@ -38,6 +36,9 @@
     + see about removing commit history prior to some point to avoid making any data available
 
 ## Methods Planning
+
+- drop 2009 since there is something up in FL for that year
+    + also means that churn shows up in default base year (that's good)
 
 - how will regions be defined? Are some states to be included in multiple regions? Does it even really make sense to attempt to scale up?
 - will mid-year will lack participants/recruits for nat/reg?

@@ -8,8 +8,10 @@ Southwick project: Prepare all summary data for the national/regional dashboard.
 You can install the package dependencies using the devtools package:
 
 ``` r
-# salic & dashtemplate
-devtools::install("E:/SA/Projects/R-Software/Southwick-packages/salic")
+# salic
+devtools::install_github("southwick-associates/salic")
+
+# dashtemplate - need to use server since package docs aren't included in repo
 devtools::install("E:/SA/Projects/R-Software/Templates/dashboard-template")
 
 # dashreg (in this project directory)

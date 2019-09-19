@@ -23,6 +23,7 @@ predict_lm(df_all, mod, yrs, met, grp, cats)
 Developed in Sep 2019 to adjust for data artifact in FL hunting data
 }
 \seealso{
-Other functions to adjust state results: \code{\link{est_lm}}
+Other functions to adjust state results: \code{\link{est_lm}},
+  \code{\link{est_residents}}, \code{\link{scale_segs}}
 }
 \concept{functions to adjust state results}

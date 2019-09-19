@@ -1,16 +1,19 @@
 # produce dashboard summary data for Southwick dashboard states
 
-source("analysis/R/sa-states.R")
+library(dashreg)
+source("analysis/2019-q2/params.R")
 outdir <- file.path(dir, "out")
 
-# these will be updated (if possible) prior to Sep 16th
-run_state("IA", 2008:2019, timeframe, outdir) # run with existing data, we just know it's wrong for hunting
-run_state("GA", 2010:2016, timeframe, outdir) # old data
-run_state("WI", 2008:2015, timeframe, outdir) # old data
+# these will be updated once new data become available
+run_state("IA", yrs, timeframe, outdir) # we know this is wrong for hunting
+run_state("GA", 2010:2016, timeframe, outdir)
+run_state("WI", 2009:2015, timeframe, outdir, 
+          db_license = "E:/SA/Data-production/Data-Dashboards/WI/2015-q4/license.sqlite3"
+)
+run_state("TN", 2009:2018, timeframe, outdir, groups = "all_sports")
 
 # these shouldn't need to change
 run_state("OR", yrs, timeframe, outdir)
 run_state("MO", yrs, timeframe, outdir)
-run_state("SC", 2009:2019, timeframe, outdir)
-run_state("TN", 2009:2019, timeframe, outdir, groups = "all_sports")
+run_state("SC", yrs, timeframe, outdir, scaleup_test = 35)
 run_state("VA", yrs, timeframe, outdir)
