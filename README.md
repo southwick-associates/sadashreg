@@ -20,9 +20,9 @@ devtools::install()
 
 ## Usage
 
-The workflow consists of R scripts and data stored in the "analysis" directory. Functions are stored in the "dashreg" package (run `?dashreg` from R for an overview.). 
+The workflow consists of R scripts and data stored in the "analysis" directory. Functions for this project have been documented and packaged into "dashreg", stored at the top-level in the standard locations (R/, DESCRIPTION, etc). 
 
-START HERE - New results need to be produced for each time-period (2018-q4, 2019-q2, etc.).
+START HERE - New results need to be produced for each time-period (2018-q4, 2019-q2, etc.). You can run `?dashreg` from R for an overview of the functions. 
 
 ``` r
 # must correctly point to dashboard-template code 
