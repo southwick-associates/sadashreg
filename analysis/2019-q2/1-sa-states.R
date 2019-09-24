@@ -18,6 +18,7 @@ run_state("TN", 2009:2018, timeframe, outdir, groups = "all_sports")
 run_state("OR", yrs, timeframe, outdir)
 run_state("MO", yrs, timeframe, outdir)
 run_state("SC", yrs, timeframe, outdir, scaleup_test = 35)
+run_state("WI", yrs, timeframe, outdir)
 run_state("VA", yrs, timeframe, outdir)
 
 

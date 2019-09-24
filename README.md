@@ -14,19 +14,15 @@ devtools::install_github("southwick-associates/salic")
 # dashtemplate - need to use server since package docs aren't included in repo
 devtools::install("E:/SA/Projects/R-Software/Templates/dashboard-template")
 
-# dashreg (in this project directory)
+# dashreg - in this project directory
 devtools::install()
 ```
 
-## Dependencies
-
-- Uses a package (sadashreg) in this repository to modularize the workflow with well-documented functions. The package can be installed by running `devtools::install()` from the R console.
-- Makes use of [dashboard-template](https://github.com/southwick-associates/dashboard-template) code for producing summaries and visualizing results (you'll need to refer to it's location on your computer)
-- The 1-sa-states.R scripts can only be run from the data server
-
 ## Usage
 
-New results need to be produced for each time-period (2018-q4, 2019-q2, etc.).
+The workflow consists of R scripts and data stored in the "analysis" directory. Functions are stored in the "dashreg" package (run `?dashreg` from R for an overview.). 
+
+START HERE - New results need to be produced for each time-period (2018-q4, 2019-q2, etc.).
 
 ``` r
 # must correctly point to dashboard-template code 

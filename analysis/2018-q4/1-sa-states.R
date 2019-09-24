@@ -9,15 +9,13 @@ outdir <- file.path(dir, "out")
 # these will be updated once new data become available
 run_state("IA", yrs, timeframe, outdir) # we know this is wrong for hunting
 run_state("GA", 2010:2016, timeframe, outdir)
-run_state("WI", 2009:2015, timeframe, outdir, 
-          db_license = "E:/SA/Data-production/Data-Dashboards/WI/2015-q4/license.sqlite3"
-)
 
 # these shouldn't need to change
 run_state("OR", yrs, timeframe, outdir)
 run_state("MO", yrs, timeframe, outdir)
 run_state("SC", yrs, timeframe, outdir)
 run_state("TN", yrs, timeframe, outdir, groups = "all_sports")
+run_state("WI", yrs, timeframe, outdir)
 run_state("VA", yrs, timeframe, outdir)
 
 

@@ -5,8 +5,7 @@ library(tidyverse)
 library(salic)
 library(dashreg)
 
-# needs to be adjusted for time periods
-source("analysis/2019-q2/params.R")
+# source("analysis/2019-q2/params.R") # needs to be adjusted for time periods
 
 indir <- file.path(dir, "out-rate")
 outfile <- file.path(dir, "dashboard.csv")
