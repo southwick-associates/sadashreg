@@ -7,5 +7,6 @@
 *.html
 *.docx
 *.xlsx
+snapshot-library.csv
 docs/
 README.html
