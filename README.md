@@ -30,7 +30,7 @@ Note that summary data files produced by the analysis are not tracked in git (i.
 
 ### R
 
-Functions (package sadashreg) used in the analysis
+Functions (package dashreg) used in the analysis
 
 ### Analysis
 

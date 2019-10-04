@@ -1,7 +1,5 @@
 # functions to make adjustments to deal with data artifacts, etc.
 
-# TODO: call scale_generic() from est_residents()
-
 # Segment Adjustments & Estimates -----------------------------------------
 
 #' Peg segment breakouts to total
