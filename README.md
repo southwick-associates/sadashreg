@@ -20,21 +20,11 @@ devtools::install()
 
 ## Usage
 
-The workflow consists of R scripts and data stored in the "analysis" directory. Functions for this project have been documented and packaged into "dashreg", stored at the top-level in the standard locations (R/, DESCRIPTION, etc). 
+The workflow consists of R scripts and data stored in the "analysis" directory. Functions for this project have been documented and packaged into "dashreg", stored at the top-level in the usual locations (R/, DESCRIPTION, etc). 
 
-START HERE - New results need to be produced for each time-period (2018-q4, 2019-q2, etc.). You can run `?dashreg` from R for an overview of the functions. 
+New results need to be produced for each time-period (2018-q4, 2019-q2, etc.). You can run `?dashreg` from R for an overview of the functions (not yet implemented). The `analysis/run.R` script is the entry point to running the full analysis for each time period. There is currently a fair amount of period-specific tweaking, but that will hopefully decrease as data received from states becomes more predictable.
 
-``` r
-# must correctly point to dashboard-template code 
-# - https://github.com/southwick-associates/dashboard-template
-# - https://github.com/southwick-associates/dashboard-template/tree/visualize
-
-# might store this stuff in a "params.R" or similar
-template_directory <- "E:/SA/Projects/R-Software/Templates/dashboard-template" # server
-# template_directory <- "" # Dan's laptop
-
-source("analysis/run.R")
-```
+Note that summary data files produced by the analysis are not tracked in git (i.e., not stored in this repo).
 
 ## File/Folder Organization
 
@@ -48,9 +38,8 @@ Includes code, data, output, etc.
 
 - pop: Preparation of population data (to be updated each year)
 - Dashboard production:
-    + _old (prototype work, not delivered)
-    + 2018-q4 (production)
-    + 2019-q2 (production)
+    + 2018-q4
+    + 2019-q2
     + etc.
     
 ### Docs

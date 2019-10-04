@@ -3,10 +3,14 @@
 .RData
 .Ruserdata
 *.Rproj
-*.csv
 *.html
 *.docx
-*.xlsx
 snapshot-library.csv
+analysis/dashboard.csv
+analysis/*/out/
+analysis/*/out-dashboard/
+analysis/*/out-rate/
+analysis/*/dashboard.csv
+analysis/pop/*.csv
 docs/
 README.html
