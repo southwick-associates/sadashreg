@@ -3,4 +3,9 @@
 .RData
 .Ruserdata
 *.Rproj
+*.csv
+*.html
+*.docx
+*.xlsx
+docs/
 README.html
