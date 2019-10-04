@@ -1,7 +1,7 @@
 
 # Produce national/regional dashboard
 
-Southwick project: Prepare all summary data for the national/regional dashboard.
+For Southwick internal use: Prepare all summary data for the national/regional dashboard.
 
 ## Installation
 

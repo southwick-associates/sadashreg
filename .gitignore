@@ -13,4 +13,3 @@ analysis/*/out-rate/
 analysis/*/dashboard.csv
 analysis/pop/*.csv
 docs/
-README.html
