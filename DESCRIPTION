@@ -1,6 +1,6 @@
 Package: dashreg
 Type: Package
-Title: Functions for Southwick national/regional dashboard project
+Title: Produce national/regional dashboards
 Version: 0.1
 Authors@R: c(
     person("Dan", "Kary", , "Rsoftware@SouthwickAssociates.com", role = c("aut", "cre")),

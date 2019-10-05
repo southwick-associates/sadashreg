@@ -1,6 +1,10 @@
 # functions for estimating participation rate
 
-#' Aggregate population by segment (for joining with participant summary)
+#' Aggregate population by segment
+#' 
+#' This is a convenience function to prepare the population data to match
+#' the dimension and naming convention needed for joining with participant
+#' summaries produced by \code{\link[salic]{est_part}}.
 #' 
 #' @param pop_seg input population data frame 
 #' @param seg name of segment to be stored in output data frame
@@ -22,6 +26,9 @@ aggregate_pop <- function(pop_seg, seg = "gender", var = "sex") {
 }
 
 #' Add participation rate to summary table for each state
+#' 
+#' This takes the ratio of the "residents" metric and the population value and
+#' combines the result with the input dashboard data frame.
 #' 
 #' @param dashboard tableau formatted dashboard data
 #' @param pop population data prepared with aggregate_pop()

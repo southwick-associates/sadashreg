@@ -27,8 +27,12 @@ run_state(st, yrs, timeframe, outdir, groups = c("all_sports", "hunt",
 \item{...}{additional arguments passed to \code{\link{run_group}}}
 }
 \description{
-This basically wraps the entire dashtemplate workflow into 1 function. It
-optionally writes a csv output based on the outdir argument.
+This basically wraps the entire dashtemplate workflow into 1 function by (1)
+loading sqlite data, (2) applying some minor recoding and data checks, and (3)
+Applying \code{\link{run_group}} across the provided groups. 
+It returns a summary dataset (formatted for Tableau) and optionally writes 
+a csv output based on the outdir argument. The state-level csv files will
+ultimately be combined into 1 national/regional file.
 }
 \seealso{
 Other functions for SA state dashboard summaries: \code{\link{run_group}}

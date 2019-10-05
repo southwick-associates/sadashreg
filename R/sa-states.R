@@ -2,6 +2,10 @@
 
 #' Run dashboard summaries for a given permission-timeframe
 #' 
+#' This is just a wrapper for 3 functions from package dashtemplate, which store
+#' the workflow for producing national/regional summary data from standardized
+#' license data.
+#' 
 #' @inheritParams dashtemplate::build_history
 #' @inheritParams dashtemplate::calc_metrics
 #' @inheritParams dashtemplate::format_metrics
@@ -23,8 +27,12 @@ run_group <- function(
 
 #' Run 3 permission summaries for select state in select time period
 #' 
-#' This basically wraps the entire dashtemplate workflow into 1 function. It
-#' optionally writes a csv output based on the outdir argument.
+#' This basically wraps the entire dashtemplate workflow into 1 function by (1)
+#' loading sqlite data, (2) applying some minor recoding and data checks, and (3)
+#' Applying \code{\link{run_group}} across the provided groups. 
+#' It returns a summary dataset (formatted for Tableau) and optionally writes 
+#' a csv output based on the outdir argument. The state-level csv files will
+#' ultimately be combined into 1 national/regional file.
 #' 
 #' @inheritParams run_group
 #' @param st 2-character state abbreviation

@@ -1,5 +1,5 @@
 
-# Produce national/regional dashboard
+# Produce national/regional dashboards
 
 For Southwick internal use: Prepare all summary data for the national/regional dashboard.
 
@@ -26,7 +26,7 @@ New results need to be produced for each time-period (2018-q4, 2019-q2, etc.). Y
 
 Note that summary data files produced by the analysis are not tracked in git (i.e., not stored in this repo).
 
-## File/Folder Organization
+## Folder Organization
 
 ### R
 

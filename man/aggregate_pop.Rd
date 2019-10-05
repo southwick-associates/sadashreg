@@ -2,7 +2,7 @@
 % Please edit documentation in R/part-rate.R
 \name{aggregate_pop}
 \alias{aggregate_pop}
-\title{Aggregate population by segment (for joining with participant summary)}
+\title{Aggregate population by segment}
 \usage{
 aggregate_pop(pop_seg, seg = "gender", var = "sex")
 }
@@ -14,7 +14,9 @@ aggregate_pop(pop_seg, seg = "gender", var = "sex")
 \item{var}{name of input variable to summarize}
 }
 \description{
-Aggregate population by segment (for joining with participant summary)
+This is a convenience function to prepare the population data to match
+the dimension and naming convention needed for joining with participant
+summaries produced by \code{\link[salic]{est_part}}.
 }
 \seealso{
 Other functions for estimating participation rate: \code{\link{est_rate}}

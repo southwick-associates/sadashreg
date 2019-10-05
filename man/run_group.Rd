@@ -30,7 +30,9 @@ salic::est_recruit()}
 \item{scaleup_test}{test_threshold for salic::scaleup_part()}
 }
 \description{
-Run dashboard summaries for a given permission-timeframe
+This is just a wrapper for 3 functions from package dashtemplate, which store
+the workflow for producing national/regional summary data from standardized
+license data.
 }
 \seealso{
 dashtemplate functions: 

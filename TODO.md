@@ -1,12 +1,5 @@
 
-## Tidying up
-
-- use ?dashreg documentation as an entry point (introduction) to the functions
-    + probably want to detail the workflow in the Usage section of README
-    + maybe organize sections according to files in R/
-- take a quick run look through code comments (& documentation generally) to get things ready for the next iteration.
-
-## Prepare Documentation
+## Prepare Documentation to Share
 
 - write up methodology doc, this can serve as a reference for communication
     + can use metric defs, etc. from existing state-supplied data documentation
@@ -21,7 +14,6 @@
     + only looking at 18-64 year-olds
     + not obvious how nonresidents should be counted
     + no clear way to include mid-year results
-- improve dashreg function documentation (e.g., better descriptions)
 
 ## Data Status Notes: 14 states (sep 2019)
 
