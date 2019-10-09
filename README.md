@@ -15,7 +15,7 @@ devtools::install_github("southwick-associates/salic")
 devtools::install("E:/SA/Projects/R-Software/Templates/dashboard-template")
 
 # dashreg
-devtools::install_github("southwick-associates/dashreg")
+devtools::install()
 ```
 
 ## Usage

@@ -2,14 +2,3 @@
 .Rhistory
 .RData
 .Ruserdata
-*.Rproj
-*.html
-*.docx
-snapshot-library.csv
-analysis/dashboard.csv
-analysis/*/out/
-analysis/*/out-dashboard/
-analysis/*/out-rate/
-analysis/*/dashboard.csv
-analysis/pop/*.csv
-docs/
