@@ -1,7 +1,7 @@
-Package: dashreg
+Package: sadashreg
 Type: Package
-Title: Produce national/regional dashboards
-Version: 0.1
+Title: Process summary data for national/regional dashboards
+Version: 0.1.0
 Authors@R: c(
     person("Dan", "Kary", , "Rsoftware@SouthwickAssociates.com", role = c("aut", "cre")),
     person("Southwick Associates", role = c("cph", "fnd"))
@@ -20,6 +20,9 @@ Imports:
     readxl,
     RSQLite,
     salic (>= 2.0.0),
+    stats,
     stringr,
     tidyr
-RoxygenNote: 6.1.0
+Remotes:
+    southwick-associates/salic
+RoxygenNote: 7.1.0

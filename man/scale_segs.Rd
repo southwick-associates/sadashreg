@@ -14,7 +14,9 @@ This is necessary when state-supplied segment breakouts weren't scaled to
 match totals.
 }
 \seealso{
-Other functions to adjust state results: \code{\link{est_lm}},
-  \code{\link{est_residents}}, \code{\link{predict_lm}}
+Other functions to adjust state results: 
+\code{\link{est_lm}()},
+\code{\link{est_residents}()},
+\code{\link{predict_lm}()}
 }
 \concept{functions to adjust state results}

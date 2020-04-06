@@ -21,8 +21,9 @@ agg_region(df, reg, grp, measure, func)
 To be called from \code{\link{agg_region_all}}
 }
 \seealso{
-Other functions for preparing regional & national metrics: \code{\link{agg_region_all}},
-  \code{\link{drop_incomplete_states}},
-  \code{\link{too_few_states}}
+Other functions for preparing regional & national metrics: 
+\code{\link{agg_region_all}()},
+\code{\link{drop_incomplete_states}()},
+\code{\link{too_few_states}()}
 }
 \concept{functions for preparing regional & national metrics}

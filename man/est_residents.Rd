@@ -19,7 +19,9 @@ distributions for overall match residents. This probably isn't too egregious
 since residents usually dominate the total numbers.
 }
 \seealso{
-Other functions to adjust state results: \code{\link{est_lm}},
-  \code{\link{predict_lm}}, \code{\link{scale_segs}}
+Other functions to adjust state results: 
+\code{\link{est_lm}()},
+\code{\link{predict_lm}()},
+\code{\link{scale_segs}()}
 }
 \concept{functions to adjust state results}

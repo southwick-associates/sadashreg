@@ -16,7 +16,8 @@ https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.htm
 https://www2.census.gov/programs-surveys/popest/tables/2000-2010/intercensal/state/
 }
 \seealso{
-Other functions for acs population estimates: \code{\link{extrapolate_yr_seg}},
-  \code{\link{extrapolate_yr}}
+Other functions for acs population estimates: 
+\code{\link{extrapolate_yr_seg}()},
+\code{\link{extrapolate_yr}()}
 }
 \concept{functions for acs population estimates}

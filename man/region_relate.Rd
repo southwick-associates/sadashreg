@@ -4,11 +4,13 @@
 \name{region_relate}
 \alias{region_relate}
 \title{Relation table for states by region}
-\format{A data frame with 10 rows and 2 variables:
+\format{
+A data frame with 10 rows and 2 variables:
 \describe{
   \item{state}{2-character state abbreviation}
   \item{region}{region to be used in dashboard}
-}}
+}
+}
 \usage{
 region_relate
 }
@@ -16,7 +18,8 @@ region_relate
 Relation table for states by region
 }
 \seealso{
-Other sadashreg data: \code{\link{age_map}}
+Other sadashreg data: 
+\code{\link{age_map}}
 }
 \concept{sadashreg data}
 \keyword{datasets}

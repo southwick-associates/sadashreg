@@ -4,10 +4,17 @@
 \alias{run_state}
 \title{Run 3 permission summaries for select state in select time period}
 \usage{
-run_state(st, yrs, timeframe, outdir, groups = c("all_sports", "hunt",
-  "fish"), output_csv = TRUE,
+run_state(
+  st,
+  yrs,
+  timeframe,
+  outdir,
+  groups = c("all_sports", "hunt", "fish"),
+  output_csv = TRUE,
   db_license = file.path("E:/SA/Data-production/Data-Dashboards", st,
-  "license.sqlite3"), ...)
+    "license.sqlite3"),
+  ...
+)
 }
 \arguments{
 \item{st}{2-character state abbreviation}
@@ -35,6 +42,7 @@ a csv output based on the outdir argument. The state-level csv files will
 ultimately be combined into 1 national/regional file.
 }
 \seealso{
-Other functions for SA state dashboard summaries: \code{\link{run_group}}
+Other functions for SA state dashboard summaries: 
+\code{\link{run_group}()}
 }
 \concept{functions for SA state dashboard summaries}

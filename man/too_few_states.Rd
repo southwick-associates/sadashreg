@@ -19,8 +19,9 @@ too_few_states(df, grp, reg, measure)
 To be called from \code{\link{agg_region}}
 }
 \seealso{
-Other functions for preparing regional & national metrics: \code{\link{agg_region_all}},
-  \code{\link{agg_region}},
-  \code{\link{drop_incomplete_states}}
+Other functions for preparing regional & national metrics: 
+\code{\link{agg_region_all}()},
+\code{\link{agg_region}()},
+\code{\link{drop_incomplete_states}()}
 }
 \concept{functions for preparing regional & national metrics}

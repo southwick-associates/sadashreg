@@ -16,6 +16,7 @@ This takes the ratio of the "residents" metric and the population value and
 combines the result with the input dashboard data frame.
 }
 \seealso{
-Other functions for estimating participation rate: \code{\link{aggregate_pop}}
+Other functions for estimating participation rate: 
+\code{\link{aggregate_pop}()}
 }
 \concept{functions for estimating participation rate}

@@ -14,7 +14,7 @@ if (getRversion() >= "2.15.1") {
     )
 }
 
-#' dashreg: Produce national/regional dashboards
+#' sadashreg: Produce national/regional dashboards
 #' 
 #' Overview of the core functions for each step in dashboard production
 #' 
@@ -57,5 +57,5 @@ if (getRversion() >= "2.15.1") {
 #' }
 #' 
 #' @docType package
-#' @name dashreg
+#' @name sadashreg
 NULL

@@ -15,7 +15,8 @@ extrapolate_yr(pop, yr)
 This function naively assumes percent change is the same as the previous year.
 }
 \seealso{
-Other functions for acs population estimates: \code{\link{extrapolate_yr_seg}},
-  \code{\link{get_pop}}
+Other functions for acs population estimates: 
+\code{\link{extrapolate_yr_seg}()},
+\code{\link{get_pop}()}
 }
 \concept{functions for acs population estimates}

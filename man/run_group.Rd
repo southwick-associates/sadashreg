@@ -4,9 +4,17 @@
 \alias{run_group}
 \title{Run dashboard summaries for a given permission-timeframe}
 \usage{
-run_group(cust, lic, sale, yrs, timeframe, group, lic_types,
+run_group(
+  cust,
+  lic,
+  sale,
+  yrs,
+  timeframe,
+  group,
+  lic_types,
   tests = c(tot = 20, res = 35, sex = 35, agecat = 35),
-  scaleup_test = 30)
+  scaleup_test = 30
+)
 }
 \arguments{
 \item{cust}{standardized license data frames}
@@ -40,6 +48,7 @@ dashtemplate functions:
 \code{\link[dashtemplate]{calc_metrics}}
 \code{\link[dashtemplate]{format_metrics}}
 
-Other functions for SA state dashboard summaries: \code{\link{run_state}}
+Other functions for SA state dashboard summaries: 
+\code{\link{run_state}()}
 }
 \concept{functions for SA state dashboard summaries}

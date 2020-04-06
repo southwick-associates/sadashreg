@@ -4,11 +4,13 @@
 \name{age_map}
 \alias{age_map}
 \title{Relation table for acs to dashboard age categories}
-\format{A data frame with 23 rows and 2 variables:
+\format{
+A data frame with 23 rows and 2 variables:
 \describe{
   \item{lic_age}{numeric code for dashboard age category}
   \item{acs_age}{category from census}
-}}
+}
+}
 \usage{
 age_map
 }
@@ -16,7 +18,8 @@ age_map
 Relation table for acs to dashboard age categories
 }
 \seealso{
-Other sadashreg data: \code{\link{region_relate}}
+Other sadashreg data: 
+\code{\link{region_relate}}
 }
 \concept{sadashreg data}
 \keyword{datasets}

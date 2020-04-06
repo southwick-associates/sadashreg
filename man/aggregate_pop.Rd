@@ -19,6 +19,7 @@ the dimension and naming convention needed for joining with participant
 summaries produced by \code{\link[salic]{est_part}}.
 }
 \seealso{
-Other functions for estimating participation rate: \code{\link{est_rate}}
+Other functions for estimating participation rate: 
+\code{\link{est_rate}()}
 }
 \concept{functions for estimating participation rate}

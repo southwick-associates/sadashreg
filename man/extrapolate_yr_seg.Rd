@@ -20,7 +20,8 @@ Uses most recent year distributions and pegs to reference state totals
 for the year estimated.
 }
 \seealso{
-Other functions for acs population estimates: \code{\link{extrapolate_yr}},
-  \code{\link{get_pop}}
+Other functions for acs population estimates: 
+\code{\link{extrapolate_yr}()},
+\code{\link{get_pop}()}
 }
 \concept{functions for acs population estimates}

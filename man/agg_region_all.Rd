@@ -4,8 +4,7 @@
 \alias{agg_region_all}
 \title{Build regional aggregations for selected metric}
 \usage{
-agg_region_all(df, regs, measure, func, grps = c("all_sports", "hunt",
-  "fish"))
+agg_region_all(df, regs, measure, func, grps = c("all_sports", "hunt", "fish"))
 }
 \arguments{
 \item{df}{input summary data in tableau input format}
@@ -23,8 +22,9 @@ Basically a wrapper for \code{\link{agg_region}} that applies to multiple
 regions and groups.
 }
 \seealso{
-Other functions for preparing regional & national metrics: \code{\link{agg_region}},
-  \code{\link{drop_incomplete_states}},
-  \code{\link{too_few_states}}
+Other functions for preparing regional & national metrics: 
+\code{\link{agg_region}()},
+\code{\link{drop_incomplete_states}()},
+\code{\link{too_few_states}()}
 }
 \concept{functions for preparing regional & national metrics}
