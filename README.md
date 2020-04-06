@@ -3,7 +3,11 @@
 
 An R package to process summary data for national/regional dashboards.
 
-## Installation
+### Documentation
+
+Background information about state-supplied summary data is provided in [salicprep >> License History & Summary Data](https://github.com/southwick-associates/salicprep/blob/master/github_vignettes/history-summary.md).
+
+### Installation
 
 From the R console:
 
@@ -12,7 +16,7 @@ install.packages("remotes")
 remotes::install_github("southwick-associates/sadashreg")
 ```
 
-## Usage
+### Usage
 
 Run `?sadashreg` from the R console for a function reference. A template workflow for processing a single state can be setup using [lictemplate](https://github.com/southwick-associates/lictemplate):
 
