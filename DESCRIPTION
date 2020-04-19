@@ -16,10 +16,12 @@ Imports:
     dashtemplate,
     DBI,
     dplyr (>= 0.7.6),
+    ggplot2,
     lubridate,
     readxl,
     RSQLite,
     salic (>= 2.0.0),
+    shiny,
     stats,
     stringr,
     tidyr
