@@ -1,7 +1,7 @@
 Package: sadashreg
 Type: Package
 Title: Process summary data for national/regional dashboards
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Dan", "Kary", , "Rsoftware@SouthwickAssociates.com", role = c("aut", "cre")),
     person("Southwick Associates", role = c("cph", "fnd"))
