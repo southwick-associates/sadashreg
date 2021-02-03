@@ -44,7 +44,7 @@ run_group <- function(
 #' @family functions for SA state dashboard summaries
 #' @export
 run_state <- function(
-    st, yrs, timeframe, outdir, groups = c("all_sports", "hunt", "fish"), 
+    st, yrs, timeframe, outdir, groups = c("all_sports", "hunt", "fish", "bow"), 
     output_csv = TRUE, 
     db_license = file.path("E:/SA/Data-production/Data-Dashboards", st, "license.sqlite3"),
     ...
@@ -90,7 +90,8 @@ run_state <- function(
     out <- bind_rows(
         run_group2("hunt", c("hunt", "trap", "combo"), ...),
         run_group2("fish", c("fish", "combo"), ...),
-        run_group2("all_sports", c("hunt", "trap", "fish", "combo"), ...)
+        run_group2("all_sports", c("hunt", "trap", "fish", "combo"), ...),
+        run_group2("bow", "bow" ...)
     ) %>%
         mutate(year = as.integer(year))
     if (output_csv) {
