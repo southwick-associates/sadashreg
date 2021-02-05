@@ -91,7 +91,7 @@ run_state <- function(
         run_group2("hunt", c("hunt", "trap", "combo"), ...),
         run_group2("fish", c("fish", "combo"), ...),
         run_group2("all_sports", c("hunt", "trap", "fish", "combo"), ...),
-        run_group2("bow", "bow" ...)
+        run_group2("bow", c("bow","bowcombo"), ...)
     ) %>%
         mutate(year = as.integer(year))
     if (output_csv) {
