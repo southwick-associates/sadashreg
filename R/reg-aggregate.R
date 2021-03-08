@@ -24,7 +24,7 @@
 #' @export
 #' @family functions for preparing regional & national metrics
 agg_region_all <- function(
-    df, regs, measure, func, grps = c("all_sports", "hunt", "fish")
+    df, regs, measure, func, grps = c("all_sports", "hunt", "fish", "bow")
 ) {
     missing_regs <- setdiff(regs, c(unique(df$region), "US"))
     if (length(missing_regs) > 0) {
