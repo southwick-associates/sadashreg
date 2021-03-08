@@ -88,9 +88,9 @@ run_state <- function(
         run_group(cust, lic, sale, yrs, timeframe, grp, lic_types, ...)
     }
     out <- bind_rows(
-        run_group2("hunt", c("hunt", "trap", "combo"), ...),
+        run_group2("hunt", c("hunt", "trap", "combo", "bow"), ...),
         run_group2("fish", c("fish", "combo"), ...),
-        run_group2("all_sports", c("hunt", "trap", "fish", "combo"), ...),
+        run_group2("all_sports", c("hunt", "trap", "fish", "combo", "bow"), ...),
         run_group2("bow", c("bow","bowcombo"), ...)
     ) %>%
         mutate(year = as.integer(year))
