@@ -46,7 +46,7 @@ run_group <- function(
 run_state <- function(
     st, yrs, timeframe, outdir, groups = c("all_sports", "hunt", "fish", "bow"), 
     output_csv = TRUE, 
-    db_license = file.path("E:/SA/Data-production/Data-Dashboards", st, "license.sqlite3"),
+    db_license = file.path("E:/OneDrive - Southwick Associates, Inc/Documents/SA/Data-production/Data-Dashboards", st, "license.sqlite3"),
     ...
 ) {
     ### 1. Preparation
